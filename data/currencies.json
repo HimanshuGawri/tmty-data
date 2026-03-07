@@ -1,0 +1,57 @@
+{
+  "_meta": {
+    "description": "Currency metadata for inflation calculator",
+    "fields": ["symbol", "name", "decimals", "future_rate_pct"],
+    "last_updated": "2025"
+  },
+  "currencies": {
+    "USD": { "symbol": "$",    "name": "US Dollars",           "decimals": 2, "future_rate": 3.0 },
+    "EUR": { "symbol": "€",    "name": "Euros",                "decimals": 2, "future_rate": 2.2 },
+    "GBP": { "symbol": "£",    "name": "British Pounds",       "decimals": 2, "future_rate": 2.5 },
+    "JPY": { "symbol": "¥",    "name": "Japanese Yen",         "decimals": 0, "future_rate": 1.5 },
+    "INR": { "symbol": "₹",    "name": "Indian Rupees",        "decimals": 2, "future_rate": 5.5 },
+    "CAD": { "symbol": "C$",   "name": "Canadian Dollars",     "decimals": 2, "future_rate": 2.5 },
+    "AUD": { "symbol": "A$",   "name": "Australian Dollars",   "decimals": 2, "future_rate": 3.0 },
+    "CHF": { "symbol": "Fr.",  "name": "Swiss Francs",         "decimals": 2, "future_rate": 1.2 },
+    "CNY": { "symbol": "¥",    "name": "Chinese Yuan",         "decimals": 2, "future_rate": 2.5 },
+    "MXN": { "symbol": "$",    "name": "Mexican Pesos",        "decimals": 2, "future_rate": 4.5 },
+    "BRL": { "symbol": "R$",   "name": "Brazilian Reais",      "decimals": 2, "future_rate": 5.0 },
+    "ZAR": { "symbol": "R",    "name": "S.A. Rand",            "decimals": 2, "future_rate": 5.5 },
+    "NGN": { "symbol": "₦",    "name": "Nigerian Naira",       "decimals": 0, "future_rate": 18.0 },
+    "KRW": { "symbol": "₩",    "name": "South Korean Won",     "decimals": 0, "future_rate": 2.5 },
+    "SEK": { "symbol": "kr",   "name": "Swedish Kronor",       "decimals": 2, "future_rate": 2.5 },
+    "AED": { "symbol": "AED",  "name": "UAE Dirhams",          "decimals": 2, "future_rate": 2.5 },
+    "PKR": { "symbol": "₨",    "name": "Pakistani Rupees",     "decimals": 0, "future_rate": 12.0 },
+    "BDT": { "symbol": "৳",    "name": "Bangladeshi Taka",     "decimals": 0, "future_rate": 7.0 },
+    "EGP": { "symbol": "E£",   "name": "Egyptian Pounds",      "decimals": 2, "future_rate": 15.0 },
+    "TRY": { "symbol": "₺",    "name": "Turkish Lira",         "decimals": 2, "future_rate": 40.0 }
+  },
+  "cpi_base_years": {
+    "USD": { "year": 1984, "label": "avg 1982-84" },
+    "EUR": { "year": 2015, "label": "2015" },
+    "GBP": { "year": 2015, "label": "2015" },
+    "JPY": { "year": 2020, "label": "2020" },
+    "INR": { "year": 2012, "label": "2012" },
+    "CAD": { "year": 2002, "label": "2002" },
+    "AUD": { "year": 2011, "label": "2011-12" },
+    "CHF": { "year": 2015, "label": "2015" },
+    "CNY": { "year": 2015, "label": "2015" },
+    "MXN": { "year": 2018, "label": "2018" },
+    "BRL": { "year": 2018, "label": "2018" },
+    "ZAR": { "year": 2016, "label": "2016" },
+    "NGN": { "year": 2009, "label": "2009" },
+    "KRW": { "year": 2020, "label": "2020" },
+    "SEK": { "year": 2017, "label": "2017" },
+    "AED": { "year": 2014, "label": "2014" },
+    "PKR": { "year": 2015, "label": "2015-16" },
+    "BDT": { "year": 2006, "label": "2005-06" },
+    "EGP": { "year": 2019, "label": "2019-20" },
+    "TRY": { "year": 2003, "label": "2003" }
+  },
+  "currency_depreciation_vs_usd": {
+    "USD": 0, "EUR": -0.3, "GBP": 0.8, "JPY": 0.5, "INR": 3.2,
+    "CAD": 0.6, "AUD": 1.0, "CHF": -0.8, "CNY": -0.5, "MXN": 3.5,
+    "BRL": 7.0, "ZAR": 5.5, "NGN": 12.0, "KRW": 1.0, "SEK": 0.5,
+    "AED": 0, "PKR": 9.5, "BDT": 2.5, "EGP": 10.0, "TRY": 25.0
+  }
+}
