@@ -6,55 +6,255 @@
     "last_updated": "2025"
   },
   "prices": [
-    { "year": 1976, "gold": 124.74, "silver": 4.43 },
-    { "year": 1977, "gold": 147.84, "silver": 4.35 },
-    { "year": 1978, "gold": 193.40, "silver": 4.63 },
-    { "year": 1979, "gold": 306.68, "silver": 5.42 },
-    { "year": 1980, "gold": 615.00, "silver": 11.07 },
-    { "year": 1981, "gold": 460.00, "silver": 20.98 },
-    { "year": 1982, "gold": 376.00, "silver": 10.49 },
-    { "year": 1983, "gold": 424.00, "silver": 7.92 },
-    { "year": 1984, "gold": 361.00, "silver": 11.43 },
-    { "year": 1985, "gold": 317.00, "silver": 8.14 },
-    { "year": 1986, "gold": 368.00, "silver": 6.13 },
-    { "year": 1987, "gold": 447.00, "silver": 7.01 },
-    { "year": 1988, "gold": 437.00, "silver": 6.53 },
-    { "year": 1989, "gold": 381.00, "silver": 5.50 },
-    { "year": 1990, "gold": 383.51, "silver": 4.83 },
-    { "year": 1991, "gold": 362.11, "silver": 4.06 },
-    { "year": 1992, "gold": 343.82, "silver": 3.95 },
-    { "year": 1993, "gold": 359.77, "silver": 4.30 },
-    { "year": 1994, "gold": 384.00, "silver": 5.29 },
-    { "year": 1995, "gold": 383.79, "silver": 5.20 },
-    { "year": 1996, "gold": 387.73, "silver": 5.19 },
-    { "year": 1997, "gold": 331.00, "silver": 4.89 },
-    { "year": 1998, "gold": 294.24, "silver": 5.54 },
-    { "year": 1999, "gold": 278.98, "silver": 5.22 },
-    { "year": 2000, "gold": 279.11, "silver": 4.95 },
-    { "year": 2001, "gold": 271.04, "silver": 4.37 },
-    { "year": 2002, "gold": 309.73, "silver": 4.61 },
-    { "year": 2003, "gold": 363.38, "silver": 4.88 },
-    { "year": 2004, "gold": 409.17, "silver": 6.67 },
-    { "year": 2005, "gold": 444.74, "silver": 7.31 },
-    { "year": 2006, "gold": 603.46, "silver": 11.55 },
-    { "year": 2007, "gold": 695.39, "silver": 13.38 },
-    { "year": 2008, "gold": 871.96, "silver": 14.99 },
-    { "year": 2009, "gold": 972.35, "silver": 14.67 },
-    { "year": 2010, "gold": 1224.53, "silver": 20.19 },
-    { "year": 2011, "gold": 1571.52, "silver": 35.12 },
-    { "year": 2012, "gold": 1668.98, "silver": 31.15 },
-    { "year": 2013, "gold": 1411.23, "silver": 23.79 },
-    { "year": 2014, "gold": 1266.40, "silver": 19.08 },
-    { "year": 2015, "gold": 1160.60, "silver": 15.68 },
-    { "year": 2016, "gold": 1251.92, "silver": 17.14 },
-    { "year": 2017, "gold": 1257.12, "silver": 17.05 },
-    { "year": 2018, "gold": 1268.49, "silver": 15.71 },
-    { "year": 2019, "gold": 1392.60, "silver": 16.21 },
-    { "year": 2020, "gold": 1769.64, "silver": 20.55 },
-    { "year": 2021, "gold": 1798.61, "silver": 25.14 },
-    { "year": 2022, "gold": 1800.03, "silver": 21.73 },
-    { "year": 2023, "gold": 1942.72, "silver": 23.35 },
-    { "year": 2024, "gold": 2394.86, "silver": 28.50 },
-    { "year": 2025, "gold": 2600.00, "silver": 30.00 }
+    {
+      "year": 1976,
+      "gold": 124.74,
+      "silver": 4.43
+    },
+    {
+      "year": 1977,
+      "gold": 147.84,
+      "silver": 4.35
+    },
+    {
+      "year": 1978,
+      "gold": 193.4,
+      "silver": 4.63
+    },
+    {
+      "year": 1979,
+      "gold": 306.68,
+      "silver": 5.42
+    },
+    {
+      "year": 1980,
+      "gold": 615.0,
+      "silver": 11.07
+    },
+    {
+      "year": 1981,
+      "gold": 460.0,
+      "silver": 20.98
+    },
+    {
+      "year": 1982,
+      "gold": 376.0,
+      "silver": 10.49
+    },
+    {
+      "year": 1983,
+      "gold": 424.0,
+      "silver": 7.92
+    },
+    {
+      "year": 1984,
+      "gold": 361.0,
+      "silver": 11.43
+    },
+    {
+      "year": 1985,
+      "gold": 317.0,
+      "silver": 8.14
+    },
+    {
+      "year": 1986,
+      "gold": 368.0,
+      "silver": 6.13
+    },
+    {
+      "year": 1987,
+      "gold": 447.0,
+      "silver": 7.01
+    },
+    {
+      "year": 1988,
+      "gold": 437.0,
+      "silver": 6.53
+    },
+    {
+      "year": 1989,
+      "gold": 381.0,
+      "silver": 5.5
+    },
+    {
+      "year": 1990,
+      "gold": 383.51,
+      "silver": 4.83
+    },
+    {
+      "year": 1991,
+      "gold": 362.11,
+      "silver": 4.06
+    },
+    {
+      "year": 1992,
+      "gold": 343.82,
+      "silver": 3.95
+    },
+    {
+      "year": 1993,
+      "gold": 359.77,
+      "silver": 4.3
+    },
+    {
+      "year": 1994,
+      "gold": 384.0,
+      "silver": 5.29
+    },
+    {
+      "year": 1995,
+      "gold": 383.79,
+      "silver": 5.2
+    },
+    {
+      "year": 1996,
+      "gold": 387.73,
+      "silver": 5.19
+    },
+    {
+      "year": 1997,
+      "gold": 331.0,
+      "silver": 4.89
+    },
+    {
+      "year": 1998,
+      "gold": 294.24,
+      "silver": 5.54
+    },
+    {
+      "year": 1999,
+      "gold": 278.98,
+      "silver": 5.22
+    },
+    {
+      "year": 2000,
+      "gold": 279.11,
+      "silver": 4.95
+    },
+    {
+      "year": 2001,
+      "gold": 271.04,
+      "silver": 4.37
+    },
+    {
+      "year": 2002,
+      "gold": 309.73,
+      "silver": 4.61
+    },
+    {
+      "year": 2003,
+      "gold": 363.38,
+      "silver": 4.88
+    },
+    {
+      "year": 2004,
+      "gold": 409.17,
+      "silver": 6.67
+    },
+    {
+      "year": 2005,
+      "gold": 444.74,
+      "silver": 7.31
+    },
+    {
+      "year": 2006,
+      "gold": 603.46,
+      "silver": 11.55
+    },
+    {
+      "year": 2007,
+      "gold": 695.39,
+      "silver": 13.38
+    },
+    {
+      "year": 2008,
+      "gold": 871.96,
+      "silver": 14.99
+    },
+    {
+      "year": 2009,
+      "gold": 972.35,
+      "silver": 14.67
+    },
+    {
+      "year": 2010,
+      "gold": 1224.53,
+      "silver": 20.19
+    },
+    {
+      "year": 2011,
+      "gold": 1571.52,
+      "silver": 35.12
+    },
+    {
+      "year": 2012,
+      "gold": 1668.98,
+      "silver": 31.15
+    },
+    {
+      "year": 2013,
+      "gold": 1411.23,
+      "silver": 23.79
+    },
+    {
+      "year": 2014,
+      "gold": 1266.4,
+      "silver": 19.08
+    },
+    {
+      "year": 2015,
+      "gold": 1160.6,
+      "silver": 15.68
+    },
+    {
+      "year": 2016,
+      "gold": 1251.92,
+      "silver": 17.14
+    },
+    {
+      "year": 2017,
+      "gold": 1257.12,
+      "silver": 17.05
+    },
+    {
+      "year": 2018,
+      "gold": 1268.49,
+      "silver": 15.71
+    },
+    {
+      "year": 2019,
+      "gold": 1392.6,
+      "silver": 16.21
+    },
+    {
+      "year": 2020,
+      "gold": 1769.64,
+      "silver": 20.55
+    },
+    {
+      "year": 2021,
+      "gold": 1798.61,
+      "silver": 25.14
+    },
+    {
+      "year": 2022,
+      "gold": 1800.03,
+      "silver": 21.73
+    },
+    {
+      "year": 2023,
+      "gold": 1942.72,
+      "silver": 23.35
+    },
+    {
+      "year": 2024,
+      "gold": 2394.86,
+      "silver": 28.5
+    },
+    {
+      "year": 2025,
+      "gold": 3250.0,
+      "silver": 40.21
+    }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Local gold/silver price premium multipliers over LBMA×FX spot price",
+    "description": "Local gold/silver price premium multipliers over LBMA\u00d7FX spot price",
     "includes": "import duty + local taxes (VAT/GST) + typical dealer spread",
     "structure": "Sparse change-points only. App uses most recent entry at or before requested year.",
     "note": "Same multiplier applies to both gold and silver unless noted otherwise",
@@ -30,10 +30,11 @@
     },
     "INR": {
       "1976": 1.08,
-      "1990": 1.10,
+      "1990": 1.1,
       "2000": 1.12,
       "2013": 1.185,
-      "2024": 1.09
+      "2024": 1.138,
+      "2025": 1.09
     },
     "CAD": {
       "1976": 1.02
@@ -46,7 +47,7 @@
       "1976": 1.02
     },
     "CNY": {
-      "1976": 1.20,
+      "1976": 1.2,
       "2003": 1.08,
       "2015": 1.05
     },
@@ -70,7 +71,7 @@
       "2023": 1.22
     },
     "KRW": {
-      "1976": 1.10,
+      "1976": 1.1,
       "1998": 1.04,
       "2010": 1.05
     },
@@ -82,25 +83,25 @@
     },
     "PKR": {
       "1976": 1.08,
-      "2000": 1.10,
+      "2000": 1.1,
       "2019": 1.15,
-      "2023": 1.20
+      "2023": 1.2
     },
     "BDT": {
-      "1991": 1.10,
+      "1991": 1.1,
       "2010": 1.12,
       "2020": 1.15
     },
     "EGP": {
       "1976": 1.08,
       "2016": 1.15,
-      "2022": 1.20
+      "2022": 1.2
     },
     "TRY": {
       "1976": 1.05,
       "2000": 1.04,
       "2018": 1.06,
-      "2021": 1.10
+      "2021": 1.1
     }
   }
 }
