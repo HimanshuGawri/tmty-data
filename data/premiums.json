@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "description": "Local gold/silver price premium multipliers over LBMA×FX spot price",
+    "includes": "import duty + local taxes (VAT/GST) + typical dealer spread",
+    "structure": "Sparse change-points only. App uses most recent entry at or before requested year.",
+    "note": "Same multiplier applies to both gold and silver unless noted otherwise",
+    "last_updated": "2025",
+    "sources": [
+      "World Gold Council country reports",
+      "IMF Working Papers on gold taxation",
+      "CBIC India import duty notifications",
+      "Country-specific customs tariff schedules"
+    ]
+  },
+  "premiums": {
+    "USD": {
+      "1976": 1.02
+    },
+    "EUR": {
+      "1999": 1.02
+    },
+    "GBP": {
+      "1976": 1.02
+    },
+    "JPY": {
+      "1976": 1.03,
+      "1989": 1.05,
+      "1997": 1.06,
+      "2019": 1.11
+    },
+    "INR": {
+      "1976": 1.08,
+      "1990": 1.10,
+      "2000": 1.12,
+      "2013": 1.185,
+      "2024": 1.09
+    },
+    "CAD": {
+      "1976": 1.02
+    },
+    "AUD": {
+      "1976": 1.02,
+      "2000": 1.12
+    },
+    "CHF": {
+      "1976": 1.02
+    },
+    "CNY": {
+      "1976": 1.20,
+      "2003": 1.08,
+      "2015": 1.05
+    },
+    "MXN": {
+      "1976": 1.05,
+      "1995": 1.04,
+      "2010": 1.03
+    },
+    "BRL": {
+      "1994": 1.05,
+      "2010": 1.04
+    },
+    "ZAR": {
+      "1976": 1.03,
+      "2000": 1.04
+    },
+    "NGN": {
+      "1976": 1.15,
+      "1999": 1.12,
+      "2016": 1.18,
+      "2023": 1.22
+    },
+    "KRW": {
+      "1976": 1.10,
+      "1998": 1.04,
+      "2010": 1.05
+    },
+    "SEK": {
+      "1976": 1.02
+    },
+    "AED": {
+      "1997": 1.03
+    },
+    "PKR": {
+      "1976": 1.08,
+      "2000": 1.10,
+      "2019": 1.15,
+      "2023": 1.20
+    },
+    "BDT": {
+      "1991": 1.10,
+      "2010": 1.12,
+      "2020": 1.15
+    },
+    "EGP": {
+      "1976": 1.08,
+      "2016": 1.15,
+      "2022": 1.20
+    },
+    "TRY": {
+      "1976": 1.05,
+      "2000": 1.04,
+      "2018": 1.06,
+      "2021": 1.10
+    }
+  }
+}
