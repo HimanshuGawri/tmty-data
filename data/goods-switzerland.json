@@ -1,0 +1,1808 @@
+{
+  "country": "CH",
+  "country_name": "Switzerland",
+  "currency_symbol": "CHF",
+  "currency_code": "CHF",
+  "items": [
+    {
+      "id": "ch_t1_001",
+      "name": "Espresso (cafe, standing, Zurich)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 2.8,
+        "2005": 3.0,
+        "2010": 3.2,
+        "2015": 3.5,
+        "2020": 3.8,
+        "2025": 4.5
+      },
+      "fact": "A Zurich espresso costs CHF 4.50, more than a full meal at a hawker centre in Singapore. Swiss cafe prices are the highest in Europe because a barista earns a minimum CHF 22 per hour by law."
+    },
+    {
+      "id": "ch_t1_002",
+      "name": "Bread Roll (Brötchen, bakery)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.6,
+        "2000": 0.7,
+        "2005": 0.8,
+        "2010": 0.9,
+        "2015": 1.0,
+        "2020": 1.1,
+        "2025": 1.4
+      },
+      "fact": "Swiss bread rolls come in over 200 regional varieties and are legally defined by the Swiss bread ordinance. The Butterzopf, a braided Sunday loaf, is so culturally important that supermarkets reserve special shelving for it every weekend."
+    },
+    {
+      "id": "ch_t1_003",
+      "name": "Newspaper (NZZ, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.5,
+        "2000": 1.8,
+        "2005": 2.0,
+        "2010": 2.4,
+        "2015": 2.8,
+        "2020": 3.2,
+        "2025": 4.5
+      },
+      "fact": "The Neue Zürcher Zeitung has been published since 1780 and is read by more CEOs per capita than any newspaper in the world. Its crossword is considered the hardest in German-speaking Europe."
+    },
+    {
+      "id": "ch_t1_004",
+      "name": "Toblerone (100g bar, Migros)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.8,
+        "1995": 2.0,
+        "2000": 2.2,
+        "2005": 2.5,
+        "2010": 2.8,
+        "2015": 3.0,
+        "2020": 3.2,
+        "2025": 4.2
+      },
+      "fact": "Toblerone was invented in Bern in 1908 and its triangular shape represents the Matterhorn. In 2016 Mondelez shrank the bar by widening the gaps between peaks, triggering a global outrage that forced it to restore the original shape in 2023."
+    },
+    {
+      "id": "ch_t1_005",
+      "name": "Mineral Water (Henniez, 500ml, supermarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.75,
+        "2000": 0.85,
+        "2005": 0.95,
+        "2010": 1.05,
+        "2015": 1.1,
+        "2020": 1.15,
+        "2025": 1.5
+      },
+      "fact": "Switzerland has 1,500 natural springs and is one of the world's top mineral water exporters. Swiss tap water is tested more rigorously than bottled water and is universally considered safe to drink anywhere in the country."
+    },
+    {
+      "id": "ch_t1_006",
+      "name": "Banana (single, Migros/Coop)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.3,
+        "2000": 0.35,
+        "2005": 0.38,
+        "2010": 0.4,
+        "2015": 0.42,
+        "2020": 0.44,
+        "2025": 0.55
+      },
+      "fact": "Migros and Coop together control 70% of Swiss grocery retail, one of the highest supermarket duopoly concentrations in the world. Both are cooperatives, not shareholder companies, which keeps profit extraction lower and prices more stable."
+    },
+    {
+      "id": "ch_t1_007",
+      "name": "Lindt Chocolate (100g, Excellence 70%, Migros)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.8,
+        "2000": 2.0,
+        "2005": 2.2,
+        "2010": 2.4,
+        "2015": 2.6,
+        "2020": 2.8,
+        "2025": 3.5
+      },
+      "fact": "Switzerland consumes 10.3kg of chocolate per person annually, the highest in the world. Lindt was founded in 1845 and its Zurich factory produces more chocolate per square metre than any other building in Europe."
+    },
+    {
+      "id": "ch_t1_008",
+      "name": "Pretzel (Brezel, bakery)",
+      "emoji": "🥨",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.0,
+        "2000": 1.2,
+        "2005": 1.4,
+        "2010": 1.6,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "Swiss pretzels are larger and saltier than German ones and are served as a snack at most outdoor festivals. Swiss bakeries close by 5pm and all day Sunday, a tradition protected by federal working hours legislation."
+    },
+    {
+      "id": "ch_t1_009",
+      "name": "Litre of Milk (whole, Migros house brand)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.35,
+        "2000": 1.45,
+        "2005": 1.55,
+        "2010": 1.65,
+        "2015": 1.65,
+        "2020": 1.69,
+        "2025": 1.99
+      },
+      "fact": "Swiss dairy farmers receive CHF 0.45 per litre from Migros, among the world's highest farm gate milk prices. The system is protected by import tariffs of up to 170% on foreign dairy, making Switzerland's milk one of the most politically defended foods in Europe."
+    },
+    {
+      "id": "ch_t1_010",
+      "name": "Can of Rivella (500ml, supermarket)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 0.9,
+        "2000": 1.0,
+        "2005": 1.1,
+        "2010": 1.2,
+        "2015": 1.3,
+        "2020": 1.4,
+        "2025": 1.8
+      },
+      "fact": "Rivella is made from milk whey and is Switzerland's best-selling soft drink despite being almost unknown outside the country. Every attempt to export it has failed because non-Swiss consumers find the slightly sour whey flavour unusual."
+    },
+    {
+      "id": "ch_t1_011",
+      "name": "Egg (single, Swiss free range, Coop)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.55,
+        "2000": 0.6,
+        "2005": 0.65,
+        "2010": 0.7,
+        "2015": 0.75,
+        "2020": 0.8,
+        "2025": 1.0
+      },
+      "fact": "Switzerland banned battery hen cages in 1992, 20 years before the EU. All Swiss eggs are free-range as a legal requirement, making them the most welfare-protected eggs sold in any major economy."
+    },
+    {
+      "id": "ch_t1_012",
+      "name": "Stamp (A-Post domestic letter)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.9,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 0.85,
+        "2020": 1.0,
+        "2025": 1.2
+      },
+      "fact": "Swiss Post cut stamp prices in 2015 as letter volumes fell, the only postal service in Europe to reduce stamp prices in the digital era. Swiss Post remains one of the world's most profitable state postal services."
+    },
+    {
+      "id": "ch_t1_013",
+      "name": "Raclette Cheese (100g, supermarket)",
+      "emoji": "🧀",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.8,
+        "2000": 2.0,
+        "2005": 2.2,
+        "2010": 2.5,
+        "2015": 2.7,
+        "2020": 2.9,
+        "2025": 3.8
+      },
+      "fact": "Switzerland produces 450 varieties of cheese protected by designation of origin laws. Raclette, made from raw milk in Valais, can legally only be called Raclette du Valais if it comes from that specific region."
+    },
+    {
+      "id": "ch_t1_014",
+      "name": "Beer (Feldschlösschen can, 500ml, supermarket)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.4,
+        "2000": 1.6,
+        "2005": 1.7,
+        "2010": 1.8,
+        "2015": 1.9,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "Feldschlösschen is Switzerland's largest brewery and has been based in Rheinfelden since 1876. Switzerland's beer market is dominated by two breweries despite having more craft beer labels per capita than Germany."
+    },
+    {
+      "id": "ch_t1_015",
+      "name": "Butter (250g, unsalted, Migros house brand)",
+      "emoji": "🧈",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.7,
+        "2000": 1.9,
+        "2005": 2.1,
+        "2010": 2.4,
+        "2015": 2.5,
+        "2020": 2.6,
+        "2025": 3.4
+      },
+      "fact": "Swiss butter is among the world's most expensive due to protected dairy subsidies. A 250g block in Switzerland costs three times the equivalent in Germany just across the border, a difference noticed by thousands of cross-border shoppers every week."
+    },
+    {
+      "id": "ch_t1_016",
+      "name": "Bag of Zweifel Chips (100g, paprika, Migros)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.4,
+        "2000": 1.6,
+        "2005": 1.8,
+        "2010": 2.0,
+        "2015": 2.2,
+        "2020": 2.4,
+        "2025": 3.2
+      },
+      "fact": "Zweifel chips are Switzerland's only major domestic crisp brand and paprika flavour is its best seller. Swiss consumers pay 60% more for Zweifel than for imported brands, demonstrating the premium Swiss shoppers place on local production."
+    },
+    {
+      "id": "ch_t1_017",
+      "name": "Chewing Gum (Trident, pack, supermarket)",
+      "emoji": "🍬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 0.9,
+        "2000": 1.0,
+        "2005": 1.1,
+        "2010": 1.2,
+        "2015": 1.3,
+        "2020": 1.4,
+        "2025": 1.8
+      },
+      "fact": "Switzerland is home to Jungly, the world's oldest chewing gum brand still in production, made since 1958. Swiss gum consumption fell 45% after 2010 as dental associations shifted from endorsing gum to endorsing electric toothbrushes."
+    },
+    {
+      "id": "ch_t1_018",
+      "name": "Apple (single, Swiss-grown, Coop)",
+      "emoji": "🍎",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.5,
+        "2000": 0.55,
+        "2005": 0.6,
+        "2010": 0.65,
+        "2015": 0.65,
+        "2020": 0.7,
+        "2025": 0.9
+      },
+      "fact": "Swiss-grown apples carry a 40% price premium over imported varieties due to protected designation laws. The Canton of Valais produces 70% of Switzerland's apples and lobbied successfully to require country-of-origin labelling at the point of sale since 1998."
+    },
+    {
+      "id": "ch_t1_019",
+      "name": "Loaf of Bread (rye, 500g, Migros)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.8,
+        "1995": 2.0,
+        "2000": 2.2,
+        "2005": 2.5,
+        "2010": 2.8,
+        "2015": 3.0,
+        "2020": 3.2,
+        "2025": 4.0
+      },
+      "fact": "Swiss rye bread qualifies for the Pro Montagna label if made with Alpine grain, commanding a 25% premium. Switzerland subsidises Alpine farming at CHF 3,000 per hectare per year specifically to maintain the appearance of the mountain landscape for tourism."
+    },
+    {
+      "id": "ch_t1_020",
+      "name": "Swiss Cross Pocket Knife (Victorinox, classic SD)",
+      "emoji": "🔪",
+      "category": "Home",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 12.0,
+        "2005": 13.0,
+        "2010": 14.0,
+        "2015": 15.0,
+        "2020": 16.0,
+        "2025": 19.0
+      },
+      "fact": "Victorinox has made Swiss Army Knives in Ibach, Schwyz since 1891 and sells 35,000 per day. Every Swiss Army recruit receives one on enlistment and the knife is the only privately-owned military equipment issued as standard across all NATO armies."
+    },
+    {
+      "id": "ch_t1_021",
+      "name": "Postcard (tourist shop, Lucerne / Interlaken)",
+      "emoji": "🏔️",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.0,
+        "2000": 1.2,
+        "2005": 1.4,
+        "2010": 1.6,
+        "2015": 1.8,
+        "2020": 1.9,
+        "2025": 2.5
+      },
+      "fact": "Switzerland receives 39 million tourists per year against a resident population of 8.7 million. Tourism contributes 3% of GDP and postcard shops in Lucerne and Interlaken operate on margins below 10% because rent is the most expensive commercial cost in the country."
+    },
+    {
+      "id": "ch_t1_022",
+      "name": "Emmentaler Cheese (100g, classic, Coop)",
+      "emoji": "🧀",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.4,
+        "2000": 1.6,
+        "2005": 1.8,
+        "2010": 2.0,
+        "2015": 2.2,
+        "2020": 2.4,
+        "2025": 3.2
+      },
+      "fact": "Emmentaler AOP requires a minimum 4-month ageing in its region of origin and its holes must measure 1 to 4 centimetres in diameter. The holes are formed by CO2 released by bacteria and Swiss researchers discovered in 2015 that smaller hay particles cause bigger holes."
+    },
+    {
+      "id": "ch_t1_023",
+      "name": "Soft Pretzel (Laugenbrezel, train station kiosk)",
+      "emoji": "🥨",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.2,
+        "2000": 1.4,
+        "2005": 1.6,
+        "2010": 1.8,
+        "2015": 2.0,
+        "2020": 2.2,
+        "2025": 3.0
+      },
+      "fact": "K kiosk, Switzerland's train station snack chain, is one of the country's most profitable retail formats because Swiss trains run on time and commuters buy the same snack at the same time every day with near-clockwork regularity."
+    },
+    {
+      "id": "ch_t1_024",
+      "name": "Coke (330ml can, vending machine)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.4,
+        "2000": 1.6,
+        "2005": 1.8,
+        "2010": 2.0,
+        "2015": 2.2,
+        "2020": 2.4,
+        "2025": 3.0
+      },
+      "fact": "Vending machine Coke in Switzerland costs CHF 3.00, about three times the price in Germany. Swiss vending machine operators pay more in electricity, restocking labour and machine rental than in any other European country."
+    },
+    {
+      "id": "ch_t1_025",
+      "name": "Pharmacy Essentials (Aspirin + paracetamol, combo pack)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 2.8,
+        "2000": 3.0,
+        "2005": 3.2,
+        "2010": 3.5,
+        "2015": 3.8,
+        "2020": 4.0,
+        "2025": 12.0
+      },
+      "fact": "Switzerland's pharmacy prices are among Europe's highest despite mandatory health insurance. Aspirin costs CHF 5 in Switzerland versus CHF 0.50 just across the German border, a price gap exploited by 300,000 Swiss cross-border shoppers monthly."
+    },
+    {
+      "id": "ch_t2_001",
+      "name": "Fondue (restaurant, per person, Zurich/Bern)",
+      "emoji": "🫕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 18.0,
+        "1995": 22.0,
+        "2000": 25.0,
+        "2005": 28.0,
+        "2010": 32.0,
+        "2015": 36.0,
+        "2020": 38.0,
+        "2025": 48.0
+      },
+      "fact": "Fondue was declared Switzerland's national dish by government decree in the 1930s partly as a propaganda tool to promote Swiss dairy. It was virtually unknown outside Switzerland until a Swiss tourism campaign at the 1964 New York World's Fair made it globally fashionable."
+    },
+    {
+      "id": "ch_t2_002",
+      "name": "Bratwurst with Rösti (restaurant lunch, standard)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 15.0,
+        "2000": 18.0,
+        "2005": 21.0,
+        "2010": 24.0,
+        "2015": 26.0,
+        "2020": 28.0,
+        "2025": 35.0
+      },
+      "fact": "St. Gallen bratwurst is legally required to contain no water and must be made from veal. The Rösti, a potato cake from Bern, is so culturally central that the linguistic divide between German and French Switzerland is called the Röstigraben, the Rösti ditch."
+    },
+    {
+      "id": "ch_t2_003",
+      "name": "Cinema Ticket (Pathé / Kitag, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 13.0,
+        "2000": 14.0,
+        "2005": 15.0,
+        "2010": 17.0,
+        "2015": 18.0,
+        "2020": 18.0,
+        "2025": 20.0
+      },
+      "fact": "Swiss cinema tickets have barely risen in 15 years despite CHF wage inflation because cinemas face intense competition from streaming. Switzerland has the most cinema screens per capita in Europe."
+    },
+    {
+      "id": "ch_t2_004",
+      "name": "Pint of Swiss Beer (restaurant, Zurich)",
+      "emoji": "🍻",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 4.5,
+        "1995": 5.0,
+        "2000": 5.5,
+        "2005": 6.0,
+        "2010": 6.5,
+        "2015": 7.0,
+        "2020": 7.5,
+        "2025": 11.0
+      },
+      "fact": "A Zurich restaurant beer at CHF 9 is among Europe's most expensive but still cheaper than Oslo. Swiss restaurants apply a standard 15% service charge automatically, making tipping culturally optional and practically redundant."
+    },
+    {
+      "id": "ch_t2_005",
+      "name": "Haircut (men's, standard salon, Zurich)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 18.0,
+        "1995": 22.0,
+        "2000": 26.0,
+        "2005": 30.0,
+        "2010": 35.0,
+        "2015": 38.0,
+        "2020": 40.0,
+        "2025": 50.0
+      },
+      "fact": "A Zurich haircut at CHF 50 is the most expensive in continental Europe. Barbers charge this because their own rent, insurance and pension contributions make anything less unprofitable. Geneva barbers charge CHF 60."
+    },
+    {
+      "id": "ch_t2_006",
+      "name": "Monthly Netflix (standard, Switzerland)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 14.9,
+        "2020": 18.9,
+        "2025": 24.9
+      },
+      "fact": "Netflix Switzerland is among the most expensive globally because Switzerland is not in the EU and Swiss content licensing is negotiated separately. Subscribers pay 40% more than German subscribers for an identical catalogue."
+    },
+    {
+      "id": "ch_t2_007",
+      "name": "Train Ticket (Zurich to Bern, 2nd class, one way)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 28.0,
+        "1995": 32.0,
+        "2000": 36.0,
+        "2005": 40.0,
+        "2010": 46.0,
+        "2015": 50.0,
+        "2020": 52.0,
+        "2025": 56.0
+      },
+      "fact": "The Zurich to Bern train takes 57 minutes and runs every 30 minutes, every day of the year. Swiss Federal Railways (SBB) has a 92.5% on-time rate, measured to the minute, making it the most punctual major railway in the world."
+    },
+    {
+      "id": "ch_t2_008",
+      "name": "McDonald's Menu (Big Mac meal, Switzerland)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4.9,
+        "1995": 5.5,
+        "2000": 6.0,
+        "2005": 6.5,
+        "2010": 6.8,
+        "2015": 7.5,
+        "2020": 7.8,
+        "2025": 12.9
+      },
+      "fact": "Switzerland consistently tops the Big Mac Index as the world's most overvalued currency. The CHF 9.90 Big Mac is twice the US price, reflecting wages rather than food costs since the beef and bun are largely imported."
+    },
+    {
+      "id": "ch_t2_009",
+      "name": "Gym Membership (annual, Holmes Place, Zurich)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 70.0,
+        "2000": 80.0,
+        "2005": 90.0,
+        "2010": 1140.0,
+        "2015": 1140.0,
+        "2020": 1080.0,
+        "2025": 1188.0
+      },
+      "fact": "Swiss gym memberships are among Europe's most expensive but include sauna, pool and towel service as standard. Switzerland has the highest per-capita gym membership rate in Europe because employers contribute to fitness costs as a health insurance incentive."
+    },
+    {
+      "id": "ch_t2_010",
+      "name": "Bottle of Fendant Wine (Valais, 750ml, Coop)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 9.0,
+        "2000": 10.0,
+        "2005": 11.0,
+        "2010": 12.0,
+        "2015": 13.0,
+        "2020": 13.5,
+        "2025": 16.0
+      },
+      "fact": "Swiss wine is so rarely exported that most people have never tasted it, yet 98% of all Swiss wine is consumed domestically. The Valais produces the best Chasselas in the world but almost none leaves the country."
+    },
+    {
+      "id": "ch_t2_011",
+      "name": "Monthly Public Transport Pass (Zurich city, zone 110)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 40.0,
+        "1995": 48.0,
+        "2000": 56.0,
+        "2005": 62.0,
+        "2010": 68.0,
+        "2015": 75.0,
+        "2020": 80.0,
+        "2025": 88.0
+      },
+      "fact": "Zurich's tram network is the most precisely timed in the world and timetable deviations are measured in seconds. The city's integrated ticketing system covers trams, buses, S-Bahn and lake boats under a single monthly pass."
+    },
+    {
+      "id": "ch_t2_012",
+      "name": "Raclette Dinner (restaurant, per person)",
+      "emoji": "🧀",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 24.0,
+        "2000": 28.0,
+        "2005": 32.0,
+        "2010": 36.0,
+        "2015": 40.0,
+        "2020": 42.0,
+        "2025": 52.0
+      },
+      "fact": "Traditional raclette is made by melting a half wheel of cheese under a grill and scraping the molten top onto potatoes. Valais raclette restaurants use a minimum of 200g of cheese per portion, giving Switzerland's most generous restaurant servings per franc spent."
+    },
+    {
+      "id": "ch_t2_013",
+      "name": "Pack of Marlboro (20, standard)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.2,
+        "1995": 4.0,
+        "2000": 4.8,
+        "2005": 5.6,
+        "2010": 6.4,
+        "2015": 7.2,
+        "2020": 8.2,
+        "2025": 11.0
+      },
+      "fact": "Switzerland was the last Western European country to ban indoor smoking in hospitality venues, completing the nationwide ban only in 2010. Philip Morris International is headquartered in Lausanne, making Switzerland the global epicentre of tobacco lobbying."
+    },
+    {
+      "id": "ch_t2_014",
+      "name": "Döner Kebab (street, Zurich HB area)",
+      "emoji": "🌮",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.0,
+        "2000": 6.0,
+        "2005": 7.0,
+        "2010": 8.0,
+        "2015": 9.0,
+        "2020": 10.0,
+        "2025": 13.0
+      },
+      "fact": "The Zurich döner kebab at CHF 13 is one of the world's most expensive street foods. Swiss minimum wages mean even the cheapest street food requires a price point that would be considered a sit-down meal price in most other countries."
+    },
+    {
+      "id": "ch_t2_015",
+      "name": "Monthly Spotify (Switzerland)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 12.95,
+        "2020": 12.95,
+        "2025": 14.95
+      },
+      "fact": "Switzerland's Spotify price is among the highest in the world because it is not subject to EU consumer protection rules on digital pricing. Swiss consumers pay 25% more than German subscribers for the same service."
+    },
+    {
+      "id": "ch_t2_016",
+      "name": "Litre of Petrol (unleaded 95, average)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.9,
+        "1995": 0.95,
+        "2000": 1.1,
+        "2005": 1.4,
+        "2010": 1.6,
+        "2015": 1.45,
+        "2020": 1.3,
+        "2025": 1.9
+      },
+      "fact": "Switzerland's petrol price is one of the lowest in Western Europe because fuel duty is comparatively modest. Swiss motorists drive an average 15,000km per year but face the highest car servicing costs in Europe due to mandatory annual inspections."
+    },
+    {
+      "id": "ch_t2_017",
+      "name": "Rösti (restaurant, as main with salad, Bern)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 14.0,
+        "1995": 17.0,
+        "2000": 19.0,
+        "2005": 22.0,
+        "2010": 24.0,
+        "2015": 26.0,
+        "2020": 28.0,
+        "2025": 34.0
+      },
+      "fact": "Rösti originated in Bern as a farmers' breakfast but became a national staple. The Swiss Rösti Index, tracking the cultural divide between German and French Switzerland, shows that nearly every major federal referendum divides along the exact lines of Rösti cuisine geography."
+    },
+    {
+      "id": "ch_t2_018",
+      "name": "Züri-Geschnetzeltes (restaurant, Zurich standard)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 22.0,
+        "1995": 26.0,
+        "2000": 30.0,
+        "2005": 34.0,
+        "2010": 38.0,
+        "2015": 42.0,
+        "2020": 44.0,
+        "2025": 55.0
+      },
+      "fact": "Züri Geschnetzeltes, sliced veal in cream sauce served with Rösti, is Zurich's signature dish and was first documented in 1947. It is now listed on the menu of more Zurich restaurants than fondue, making it the city's true culinary identity."
+    },
+    {
+      "id": "ch_t2_019",
+      "name": "Box of Läderach Chocolate (100g, mixed truffles)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 12.0,
+        "2005": 14.0,
+        "2010": 16.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Läderach makes chocolate in open workshops visible to customers and has no minimum order quantity. Its FrischSchoggi freshly made chocolate broke industry convention by refusing to use stabilisers, giving it a 6-week shelf life versus 18 months for competitors."
+    },
+    {
+      "id": "ch_t2_020",
+      "name": "Gruyère AOP Cheese (200g, cave-aged, Coop)",
+      "emoji": "🧀",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 2.8,
+        "2000": 3.0,
+        "2005": 3.3,
+        "2010": 3.6,
+        "2015": 3.8,
+        "2020": 4.0,
+        "2025": 12.0
+      },
+      "fact": "Gruyère AOP must be made in the district of Gruyères and aged for at least 5 months. A single wheel weighs 35kg and a master affineur rubs it with brine by hand twice a week during ageing, a tradition unchanged since the 12th century."
+    },
+    {
+      "id": "ch_t2_021",
+      "name": "Bottle of Appenzeller Beer (restaurant, 3-pack equiv.)",
+      "emoji": "🍾",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.0,
+        "2000": 4.5,
+        "2005": 5.0,
+        "2010": 5.5,
+        "2015": 6.0,
+        "2020": 6.5,
+        "2025": 11.0
+      },
+      "fact": "Appenzeller Bier is brewed in the canton of Appenzell Innerrhoden, Switzerland's last canton to give women the right to vote, doing so only in 1991 under a federal court order. The brewery and the voting system both operated unchanged for centuries."
+    },
+    {
+      "id": "ch_t2_022",
+      "name": "Taxi (3km city, Zurich, flagfall plus distance)",
+      "emoji": "🚕",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 14.0,
+        "2000": 16.0,
+        "2005": 18.0,
+        "2010": 22.0,
+        "2015": 24.0,
+        "2020": 25.0,
+        "2025": 30.0
+      },
+      "fact": "A Zurich taxi costs CHF 30 for 3km, making it the world's most expensive city taxi by per-kilometre rate. Uber operates in Switzerland but must use licensed taxi drivers under a 2022 Swiss court ruling that classified gig workers as employees."
+    },
+    {
+      "id": "ch_t2_023",
+      "name": "Supermarket Lunch (Migros M-Budget sandwich + drink)",
+      "emoji": "🥪",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4.5,
+        "1995": 5.5,
+        "2000": 6.0,
+        "2005": 6.5,
+        "2010": 7.0,
+        "2015": 7.5,
+        "2020": 7.8,
+        "2025": 10.0
+      },
+      "fact": "Migros M-Budget is Switzerland's cheapest grocery range and deliberately priced to be affordable on the minimum wage. Migros was founded with a social mission by Gottlieb Duttweiler, who began by selling groceries from a truck to avoid middlemen in 1925."
+    },
+    {
+      "id": "ch_t2_024",
+      "name": "Pack of Sugus Sweets (90g, Migros)",
+      "emoji": "🍭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.4,
+        "2000": 1.6,
+        "2005": 1.8,
+        "2010": 2.0,
+        "2015": 2.2,
+        "2020": 2.4,
+        "2025": 3.2
+      },
+      "fact": "Sugus chewy sweets were invented in Switzerland in 1931 and are still manufactured in Bern. They are sold almost exclusively in Switzerland and Germany and are one of the few confectionery brands that has never needed a rebrand or reformulation in 90 years."
+    },
+    {
+      "id": "ch_t2_025",
+      "name": "Farmer's Market Bouquet of Flowers (seasonal, medium)",
+      "emoji": "💐",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 12.0,
+        "2000": 14.0,
+        "2005": 16.0,
+        "2010": 18.0,
+        "2015": 20.0,
+        "2020": 22.0,
+        "2025": 28.0
+      },
+      "fact": "Switzerland has more flower shops per capita than any country in Europe and Swiss households spend more on fresh flowers per year than UK households spend on all gardening products combined. Farmers markets in Zurich and Basel attract lines at 7am every Saturday."
+    },
+    {
+      "id": "ch_t3_001",
+      "name": "Swiss Half Fare Card (annual, SBB)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 120.0,
+        "2000": 145.0,
+        "2005": 155.0,
+        "2010": 165.0,
+        "2015": 175.0,
+        "2020": 180.0,
+        "2025": 190.0
+      },
+      "fact": "The SBB Half Fare Card gives 50% off all public transport nationally for CHF 190 per year. Over 2.9 million Swiss people hold one, representing one in three residents, making it the world's highest penetration of any annual transport discount card."
+    },
+    {
+      "id": "ch_t3_002",
+      "name": "Annual Ski Pass (Verbier 4 Vallées, adult)",
+      "emoji": "⛷️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 600.0,
+        "1995": 750.0,
+        "2000": 850.0,
+        "2005": 950.0,
+        "2010": 1100.0,
+        "2015": 1200.0,
+        "2020": 1250.0,
+        "2025": 1600.0
+      },
+      "fact": "Verbier's 4 Vallées is Europe's largest interconnected ski area and a single day pass costs CHF 100. The annual pass still works out cheaper than 16 day passes, making it the preferred choice for the 40% of Swiss adults who ski regularly."
+    },
+    {
+      "id": "ch_t3_003",
+      "name": "Dentist Checkup and Clean (basic, Zurich)",
+      "emoji": "🦷",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 150.0,
+        "1995": 180.0,
+        "2000": 200.0,
+        "2005": 220.0,
+        "2010": 250.0,
+        "2015": 270.0,
+        "2020": 280.0,
+        "2025": 350.0
+      },
+      "fact": "Swiss dental care is not covered by mandatory basic health insurance and is the largest out-of-pocket healthcare cost for Swiss families. Swiss dentists earn an average CHF 250,000 annually, the highest dental salaries in the world."
+    },
+    {
+      "id": "ch_t3_004",
+      "name": "Day Ski Pass (Zermatt, adult, peak)",
+      "emoji": "🏔️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 55.0,
+        "1995": 65.0,
+        "2000": 75.0,
+        "2005": 82.0,
+        "2010": 90.0,
+        "2015": 94.0,
+        "2020": 98.0,
+        "2025": 115.0
+      },
+      "fact": "Zermatt is car-free and accessible only by electric train. The Matterhorn has become one of the world's most photographed mountains, appearing on the Toblerone packaging and in the logos of 127 companies globally."
+    },
+    {
+      "id": "ch_t3_005",
+      "name": "iPad (Apple base model, Swiss retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 599.0,
+        "2015": 499.0,
+        "2020": 499.0,
+        "2025": 549.0
+      },
+      "fact": "Apple Switzerland prices are set in CHF and tracked closely by economists because Switzerland's currency is a global safe haven. After the 2015 Swiss National Bank shock when it unpegged from the euro, Apple products briefly became 15% cheaper overnight."
+    },
+    {
+      "id": "ch_t3_006",
+      "name": "Jungfraujoch Train Return (Interlaken to Top of Europe)",
+      "emoji": "🏔️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 90.0,
+        "1995": 110.0,
+        "2000": 130.0,
+        "2005": 155.0,
+        "2010": 175.0,
+        "2015": 200.0,
+        "2020": 210.0,
+        "2025": 245.0
+      },
+      "fact": "The Jungfraujoch station at 3,454m is Europe's highest railway station and took 16 years to build through solid rock between 1896 and 1912. The original train fare in 1912 cost 40 francs, equivalent to two months of a worker's wage."
+    },
+    {
+      "id": "ch_t3_007",
+      "name": "Monthly Health Insurance (basic KVG, avg adult)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 90.0,
+        "1995": 150.0,
+        "2000": 200.0,
+        "2005": 260.0,
+        "2010": 320.0,
+        "2015": 380.0,
+        "2020": 420.0,
+        "2025": 530.0
+      },
+      "fact": "Mandatory Swiss health insurance costs CHF 530 per month per adult, the most expensive in the world. Every resident must buy it from competing private insurers that are legally required to accept all applicants and cannot profit from basic coverage."
+    },
+    {
+      "id": "ch_t3_008",
+      "name": "Rolex Servicing (Submariner, official, full service)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 280.0,
+        "2000": 380.0,
+        "2005": 480.0,
+        "2010": 580.0,
+        "2015": 680.0,
+        "2020": 780.0,
+        "2025": 1200.0
+      },
+      "fact": "Rolex official servicing now costs more than many non-Swiss watches. Rolex requires a complete disassembly, part replacement and 10-day water resistance test, done exclusively in Geneva, making it the most logistically complex watch service in the retail world."
+    },
+    {
+      "id": "ch_t3_009",
+      "name": "Annual Ski School (adults, group, one week, Verbier)",
+      "emoji": "🎿",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 250.0,
+        "1995": 320.0,
+        "2000": 380.0,
+        "2005": 430.0,
+        "2010": 480.0,
+        "2015": 500.0,
+        "2020": 480.0,
+        "2025": 600.0
+      },
+      "fact": "Swiss ski instructors must hold a federal diploma after a two-year training programme. The Swiss Ski School has a global reputation so strong that 'Swiss method' ski instruction is licensed to resorts in 60 countries."
+    },
+    {
+      "id": "ch_t3_010",
+      "name": "MacBook Air M2 (Swiss retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1399.0,
+        "2015": 1249.0,
+        "2020": 1349.0,
+        "2025": 1499.0
+      },
+      "fact": "Switzerland has no VAT on exported goods and tourists who spend more than CHF 300 receive a 7.7% VAT refund. Apple products bought in Switzerland and exported are among the most VAT-refunded consumer electronics in Europe."
+    },
+    {
+      "id": "ch_t3_011",
+      "name": "Annual Vignette (motorway tax sticker)",
+      "emoji": "🛣️",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 30.0,
+        "1995": 40.0,
+        "2000": 40.0,
+        "2005": 40.0,
+        "2010": 40.0,
+        "2015": 40.0,
+        "2020": 40.0,
+        "2025": 40.0
+      },
+      "fact": "Switzerland's motorway vignette has cost CHF 40 since 1995, one of Europe's longest price freezes on any government charge. In 2013 a referendum to raise it to CHF 100 was rejected by 60% of voters, showing the Swiss public's intense attachment to the CHF 40 price point."
+    },
+    {
+      "id": "ch_t3_012",
+      "name": "Luxury Hotel Night (4-star, Zurich, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 180.0,
+        "1995": 220.0,
+        "2000": 260.0,
+        "2005": 280.0,
+        "2010": 320.0,
+        "2015": 340.0,
+        "2020": 280.0,
+        "2025": 420.0
+      },
+      "fact": "Zurich is consistently ranked as the world's most liveable city and its hotels reflect this: a standard 4-star room costs more than a budget flight from London. Hotel occupancy in Zurich dropped only once in 30 years, during the 2020 COVID lockdown."
+    },
+    {
+      "id": "ch_t3_013",
+      "name": "Annual Car Insurance (comprehensive, Toyota Corolla)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 900.0,
+        "1995": 1000.0,
+        "2000": 1100.0,
+        "2005": 1150.0,
+        "2010": 1200.0,
+        "2015": 1250.0,
+        "2020": 1300.0,
+        "2025": 1500.0
+      },
+      "fact": "Swiss car insurance is Europe's most expensive in absolute terms but one of the cheapest as a percentage of income. Switzerland's accident rate is the lowest in Europe due to mandatory safety inspections and a road network where every single tunnel has emergency telephones every 150 metres."
+    },
+    {
+      "id": "ch_t3_014",
+      "name": "Ticket (Zurich to Geneva, 1st class, one way)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 96.0,
+        "2000": 108.0,
+        "2005": 120.0,
+        "2010": 138.0,
+        "2015": 148.0,
+        "2020": 152.0,
+        "2025": 166.0
+      },
+      "fact": "The Zurich to Geneva 1st class train takes 2h 42min with a trolley service, newspapers and guaranteed seat reservation. Switzerland's 1st class rail experience is considered by business travellers the most functional in Europe for working on the move."
+    },
+    {
+      "id": "ch_t3_015",
+      "name": "Swiss General Abonnement (GA Travelcard, annual, 2nd class)",
+      "emoji": "🗺️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 1200.0,
+        "2000": 1400.0,
+        "2005": 1500.0,
+        "2010": 1650.0,
+        "2015": 1700.0,
+        "2020": 1800.0,
+        "2025": 1995.0
+      },
+      "fact": "The GA Travelcard covers unlimited travel on all trains, trams, buses and boats in Switzerland for CHF 1,995 per year. It is the only transit pass in the world that covers an entire country's national rail, regional rail, mountain railways and ferries under one price."
+    },
+    {
+      "id": "ch_t3_016",
+      "name": "Omega Speedmaster (new entry, Swiss retail)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1100.0,
+        "2000": 1400.0,
+        "2005": 1800.0,
+        "2010": 2500.0,
+        "2015": 3200.0,
+        "2020": 4200.0,
+        "2025": 6800.0
+      },
+      "fact": "The Omega Speedmaster was the only watch certified by NASA for the 1969 Moon landing. It has been worn on every US crewed space mission since 1965, a connection Omega leverages so effectively it is taught in business school marketing courses globally."
+    },
+    {
+      "id": "ch_t3_017",
+      "name": "Annual University Fees (ETH Zurich, domestic, per semester x2)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 400.0,
+        "1995": 500.0,
+        "2000": 700.0,
+        "2005": 950.0,
+        "2010": 1100.0,
+        "2015": 1200.0,
+        "2020": 1300.0,
+        "2025": 1460.0
+      },
+      "fact": "ETH Zurich is ranked among the world's top 10 universities and charges only CHF 730 per semester for domestic students. Switzerland spends CHF 35,000 per student per year at ETH, making it among the world's most heavily state-subsidised elite universities."
+    },
+    {
+      "id": "ch_t3_018",
+      "name": "Annual Private School Fees (Swiss, boarding, per year)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 28000.0,
+        "2000": 35000.0,
+        "2005": 42000.0,
+        "2010": 52000.0,
+        "2015": 60000.0,
+        "2020": 65000.0,
+        "2025": 80000.0
+      },
+      "fact": "Swiss boarding schools charge up to CHF 120,000 per year and attract children from over 100 countries. Le Rosey in Rolle has the most expensive fees of any school in the world and has counted European royalty among its alumni since 1880."
+    },
+    {
+      "id": "ch_t3_019",
+      "name": "Geneva Watchmaking Tour (organised, half day)",
+      "emoji": "🏭",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 100.0,
+        "2000": 120.0,
+        "2005": 140.0,
+        "2010": 160.0,
+        "2015": 180.0,
+        "2020": 150.0,
+        "2025": 220.0
+      },
+      "fact": "The Vallée de Joux in canton Vaud produces more precision watch movements than anywhere on earth, supplying Patek Philippe, Jaeger-LeCoultre and IWC. Its population of 8,000 generates more patented inventions per capita than Silicon Valley."
+    },
+    {
+      "id": "ch_t3_020",
+      "name": "Dyson V15 (Swiss retail)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 649.0,
+        "2020": 749.0,
+        "2025": 849.0
+      },
+      "fact": "Dyson Switzerland prices are 20% above UK prices due to import duties and CHF strength. Swiss consumers accept the premium because the 3-year Swiss warranty is longer than the UK standard and legally stronger under Swiss consumer protection law."
+    },
+    {
+      "id": "ch_t3_021",
+      "name": "Nespresso Vertuo Next Machine (Swiss retail)",
+      "emoji": "☕",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 280.0,
+        "2005": 250.0,
+        "2010": 200.0,
+        "2015": 159.0,
+        "2020": 99.0,
+        "2025": 199.0
+      },
+      "fact": "Nespresso is headquartered in Lausanne and Switzerland has the highest Nespresso machine ownership per household in the world. George Clooney has been Nespresso's ambassador since 2006 in a contract considered the most effective luxury coffee marketing deal ever signed."
+    },
+    {
+      "id": "ch_t3_022",
+      "name": "Swiss Watch (Tissot T-Classic, entry, steel)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 280.0,
+        "2000": 350.0,
+        "2005": 420.0,
+        "2010": 500.0,
+        "2015": 550.0,
+        "2020": 580.0,
+        "2025": 695.0
+      },
+      "fact": "Tissot is the world's best-selling Swiss watch brand by volume and the official timekeeper of MotoGP, NBA and Tour de France simultaneously. At CHF 695 it represents the entry point to genuine Swiss mechanical watchmaking."
+    },
+    {
+      "id": "ch_t3_023",
+      "name": "Patek Philippe Annual Service (Calatrava, official)",
+      "emoji": "🔧",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 300.0,
+        "1995": 500.0,
+        "2000": 700.0,
+        "2005": 900.0,
+        "2010": 1100.0,
+        "2015": 1300.0,
+        "2020": 1500.0,
+        "2025": 2000.0
+      },
+      "fact": "Patek Philippe only services watches at its Geneva manufacture, meaning every watch worldwide must be shipped to Switzerland. Service takes 6 to 9 months and the wait time for a serviced watch now matches the waitlist for buying a new one."
+    },
+    {
+      "id": "ch_t3_024",
+      "name": "Annual Dog Registration and Liability Insurance (Zurich canton)",
+      "emoji": "🐶",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 120.0,
+        "2000": 140.0,
+        "2005": 160.0,
+        "2010": 180.0,
+        "2015": 200.0,
+        "2020": 220.0,
+        "2025": 250.0
+      },
+      "fact": "Dog ownership in Switzerland requires mandatory registration, microchipping, liability insurance and a competency test for owners in some cantons. Switzerland has among Europe's strictest animal welfare laws, with guinea pigs legally required to be kept in pairs because they are social animals."
+    },
+    {
+      "id": "ch_t3_025",
+      "name": "Annual TV and Radio Licence (Serafe, per household)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 462.0,
+        "1995": 542.0,
+        "2000": 598.0,
+        "2005": 638.0,
+        "2010": 670.0,
+        "2015": 462.0,
+        "2020": 365.0,
+        "2025": 335.0
+      },
+      "fact": "Switzerland's TV licence was reduced from CHF 462 to CHF 335 after a 2018 referendum rejected abolishing it entirely. The vote was the first public debate in the world about whether public broadcasting deserved mandatory household funding in a streaming era."
+    },
+    {
+      "id": "ch_t4_001",
+      "name": "Rolex Submariner (new retail, Geneva)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2500.0,
+        "1995": 3200.0,
+        "2000": 4200.0,
+        "2005": 5500.0,
+        "2010": 7200.0,
+        "2015": 8500.0,
+        "2020": 9200.0,
+        "2025": 10800.0
+      },
+      "fact": "Rolex is based in Geneva and produces over 1 million watches per year, yet waitlists average 3 to 5 years at authorised dealers. Rolex has never gone public or paid a dividend because it is a private foundation that reinvests all profits into research."
+    },
+    {
+      "id": "ch_t4_002",
+      "name": "Patek Philippe Aquanaut (ref 5167A, retail)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 4000.0,
+        "1995": 6000.0,
+        "2000": 9000.0,
+        "2005": 13000.0,
+        "2010": 18000.0,
+        "2015": 22000.0,
+        "2020": 26000.0,
+        "2025": 32000.0
+      },
+      "fact": "Patek Philippe makes fewer than 70,000 watches per year and has a multi-year waitlist. Its slogan says you never own a Patek Philippe, you merely look after it for the next generation, a line so effective it has been used unchanged in advertising for 30 years."
+    },
+    {
+      "id": "ch_t4_003",
+      "name": "Gold (troy ounce, CHF spot, Zurich exchange)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 650.0,
+        "1995": 620.0,
+        "2000": 550.0,
+        "2005": 700.0,
+        "2010": 1550.0,
+        "2015": 1250.0,
+        "2020": 1800.0,
+        "2025": 3000.0
+      },
+      "fact": "Switzerland refines 70% of the world's gold in the canton of Ticino and Geneva is home to the world's largest gold trading hub. The Swiss National Bank holds 1,040 tonnes of gold, the largest per-capita sovereign gold reserve in the world."
+    },
+    {
+      "id": "ch_t4_004",
+      "name": "New Toyota Corolla (base, drive away, Switzerland)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 22000.0,
+        "1995": 26000.0,
+        "2000": 28000.0,
+        "2005": 29000.0,
+        "2010": 28000.0,
+        "2015": 26000.0,
+        "2020": 29000.0,
+        "2025": 36000.0
+      },
+      "fact": "Switzerland has one of Europe's highest car ownership rates at 550 cars per 1,000 people despite exceptional public transport. This paradox is explained by the Swiss combination of high incomes, alpine geography making many rural areas difficult by transit, and a cultural attachment to personal mobility."
+    },
+    {
+      "id": "ch_t4_005",
+      "name": "Tesla Model 3 (standard range, Swiss retail)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 43990.0,
+        "2025": 42990.0
+      },
+      "fact": "Switzerland has the highest EV penetration of any non-Scandinavian country at 28% of new car sales in 2024. The federal government offers no EV subsidy, yet sales accelerated purely on economic grounds as total cost of ownership fell below petrol equivalents."
+    },
+    {
+      "id": "ch_t4_006",
+      "name": "Annual Health Insurance (basic KVG, adult, annual)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 1100.0,
+        "1995": 1800.0,
+        "2000": 2400.0,
+        "2005": 3100.0,
+        "2010": 3840.0,
+        "2015": 4560.0,
+        "2020": 5040.0,
+        "2025": 6360.0
+      },
+      "fact": "Swiss mandatory health insurance costs CHF 6,360 per adult per year before the deductible. Switzerland spends more on healthcare per capita than any country except the US, yet achieves better outcomes, the model most often cited in universal healthcare debates."
+    },
+    {
+      "id": "ch_t4_007",
+      "name": "Average Apartment Rent (1-bedroom, Zurich, monthly)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 1400.0,
+        "1995": 1600.0,
+        "2000": 1800.0,
+        "2005": 2000.0,
+        "2010": 2400.0,
+        "2015": 2800.0,
+        "2020": 3000.0,
+        "2025": 1900.0
+      },
+      "fact": "Zurich is among the world's most expensive cities to rent, with a 1-bedroom averaging CHF 1,900. Switzerland has the lowest homeownership rate in Western Europe at 36%, not because people cannot afford to buy but because rental protections are so strong."
+    },
+    {
+      "id": "ch_t4_008",
+      "name": "BMW 3 Series (320i base, Swiss MSRP)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 38000.0,
+        "1995": 42000.0,
+        "2000": 46000.0,
+        "2005": 46000.0,
+        "2010": 47000.0,
+        "2015": 49000.0,
+        "2020": 54000.0,
+        "2025": 68000.0
+      },
+      "fact": "BMW is Germany's national car but Switzerland is its highest-margin market in Europe. Swiss dealerships report average transaction prices 25% above German list price because Swiss buyers consistently choose the most heavily optioned versions."
+    },
+    {
+      "id": "ch_t4_009",
+      "name": "Davos World Economic Forum Attendance (annual membership equiv.)",
+      "emoji": "🌐",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 18000.0,
+        "2000": 30000.0,
+        "2005": 50000.0,
+        "2010": 60000.0,
+        "2015": 68000.0,
+        "2020": 72000.0,
+        "2025": 90000.0
+      },
+      "fact": "Davos WEF membership costs CHF 90,000 per year for the base Forum membership plus the badge to attend. A private chalet near the conference centre rents for CHF 150,000 per week during the forum, making Davos the most expensive regular gathering in world history."
+    },
+    {
+      "id": "ch_t4_010",
+      "name": "Kitchen Renovation (mid-range, Zurich, full refit)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 26000.0,
+        "2000": 32000.0,
+        "2005": 36000.0,
+        "2010": 42000.0,
+        "2015": 48000.0,
+        "2020": 52000.0,
+        "2025": 75000.0
+      },
+      "fact": "A Zurich kitchen renovation costs three times the equivalent in Germany, with Swiss labour alone costing CHF 90 per hour for a licensed tradesperson. Swiss building codes require permits for virtually every structural change, adding 4 to 8 weeks to any renovation timeline."
+    },
+    {
+      "id": "ch_t4_011",
+      "name": "Porsche 911 (base Carrera, Swiss MSRP)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 95000.0,
+        "1995": 108000.0,
+        "2000": 115000.0,
+        "2005": 115000.0,
+        "2010": 120000.0,
+        "2015": 128000.0,
+        "2020": 140000.0,
+        "2025": 170000.0
+      },
+      "fact": "Switzerland has more Porsches per capita than Germany despite having a tenth of the population. A Porsche 911 in Switzerland costs CHF 170,000 and includes mandatory winter tyre fitting as a dealer service, because Swiss law requires winter tyres from October to April."
+    },
+    {
+      "id": "ch_t4_012",
+      "name": "A. Lange and Söhne Saxonia (entry, German-Swiss, retail)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 6000.0,
+        "2000": 10000.0,
+        "2005": 15000.0,
+        "2010": 22000.0,
+        "2015": 26000.0,
+        "2020": 30000.0,
+        "2025": 38000.0
+      },
+      "fact": "A. Lange and Söhne was confiscated by East Germany in 1948, refounded in 1990 immediately after reunification, and within 5 years was competing with Patek Philippe as a finishing standard. Its revival is considered watchmaking's greatest comeback story."
+    },
+    {
+      "id": "ch_t4_013",
+      "name": "Average Swiss House Purchase Price (per sqm, Zurich canton)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 3500.0,
+        "1995": 3200.0,
+        "2000": 3800.0,
+        "2005": 5000.0,
+        "2010": 7500.0,
+        "2015": 9000.0,
+        "2020": 11000.0,
+        "2025": 14000.0
+      },
+      "fact": "Zurich canton property prices rose 4x since 1990, yet Switzerland's homeownership rate fell over the same period. Swiss mortgage law requires a 20% deposit, at least half in non-pension savings, a barrier that keeps most young Swiss permanently in rental housing."
+    },
+    {
+      "id": "ch_t4_014",
+      "name": "Chanel Classic Flap (medium, Swiss retail, Geneva)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1600.0,
+        "1995": 2500.0,
+        "2000": 3500.0,
+        "2005": 5000.0,
+        "2010": 6500.0,
+        "2015": 7800.0,
+        "2020": 9000.0,
+        "2025": 13500.0
+      },
+      "fact": "Chanel raised Classic Flap prices 70% between 2020 and 2022, the fastest single luxury price increase ever recorded. Geneva's Rue du Rhône is the world's most expensive luxury retail street by rent per square metre, surpassing Bond Street and Fifth Avenue."
+    },
+    {
+      "id": "ch_t4_015",
+      "name": "Annual Private Banking Minimum (Swiss private bank)",
+      "emoji": "🏦",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 200000.0,
+        "1995": 300000.0,
+        "2000": 500000.0,
+        "2005": 750000.0,
+        "2010": 1000000.0,
+        "2015": 1500000.0,
+        "2020": 2000000.0,
+        "2025": 3000000.0
+      },
+      "fact": "Switzerland manages CHF 7 trillion in private banking assets, more than a third of all private wealth managed globally. The minimum entry to a Swiss private bank rose to CHF 3 million after new anti-money-laundering rules made smaller accounts unprofitable to service."
+    },
+    {
+      "id": "ch_t4_016",
+      "name": "Verbier Luxury Chalet Rental (peak week, sleeps 10)",
+      "emoji": "🏔️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 15000.0,
+        "2000": 20000.0,
+        "2005": 30000.0,
+        "2010": 45000.0,
+        "2015": 60000.0,
+        "2020": 55000.0,
+        "2025": 90000.0
+      },
+      "fact": "Verbier chalets rent for up to CHF 250,000 per week at peak season for a top property. Verbier has the highest concentration of billionaires per square kilometre of any resort in Europe during Christmas and New Year week."
+    },
+    {
+      "id": "ch_t4_017",
+      "name": "Hermès Birkin 30 (Togo leather, Geneva retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 5000.0,
+        "2000": 7000.0,
+        "2005": 9000.0,
+        "2010": 12000.0,
+        "2015": 14000.0,
+        "2020": 16000.0,
+        "2025": 22000.0
+      },
+      "fact": "Geneva's Hermès boutique on Rue du Rhône reportedly receives allocation of fewer than 50 Birkin bags per year. Swiss buyers who successfully purchase one at retail face no additional tax on resale, making Geneva the world's most favourable jurisdiction for luxury resale profit."
+    },
+    {
+      "id": "ch_t4_018",
+      "name": "Richard Mille RM11 (entry titanium, retail, Geneva)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 60000.0,
+        "2010": 90000.0,
+        "2015": 130000.0,
+        "2020": 160000.0,
+        "2025": 200000.0
+      },
+      "fact": "Richard Mille launched in 2001 and reached CHF 200,000 for entry models within 20 years, faster than any other luxury watch brand in history. It is worn by Rafael Nadal during matches, making it the most abuse-tested timepiece in professional sport."
+    },
+    {
+      "id": "ch_t4_019",
+      "name": "Zurich Detached House (avg, Canton Zurich, purchase price)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000.0,
+        "1995": 450000.0,
+        "2000": 650000.0,
+        "2005": 900000.0,
+        "2010": 1400000.0,
+        "2015": 1800000.0,
+        "2020": 2200000.0,
+        "2025": 2800000.0
+      },
+      "fact": "A detached house in Zurich canton costs CHF 2.8 million on average. Switzerland has a unique land shortage created not by density but by law: 40% of national territory is protected from construction as farmland or forest under constitutional provisions."
+    },
+    {
+      "id": "ch_t4_020",
+      "name": "Business Class Flight (Zurich to New York, Swiss Air, return)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 6000.0,
+        "1995": 7000.0,
+        "2000": 8000.0,
+        "2005": 7500.0,
+        "2010": 8500.0,
+        "2015": 8000.0,
+        "2020": 6000.0,
+        "2025": 11000.0
+      },
+      "fact": "Swiss International Air Lines is consistently ranked in the world's top 5 airlines and is owned by Lufthansa but operated entirely separately with Swiss service standards. Its Zurich to New York route is the airline's most profitable single route."
+    },
+    {
+      "id": "ch_t4_021",
+      "name": "Full Wedding at Palace Hotel (total spend, avg, Zurich)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 25000.0,
+        "1995": 35000.0,
+        "2000": 45000.0,
+        "2005": 55000.0,
+        "2010": 70000.0,
+        "2015": 80000.0,
+        "2020": 70000.0,
+        "2025": 110000.0
+      },
+      "fact": "The average Swiss wedding costs CHF 30,000 and the average luxury hotel wedding exceeds CHF 110,000. Switzerland has the lowest marriage rate and highest average age at first marriage in Europe, with couples waiting until financial stability is assured before committing to the cost."
+    },
+    {
+      "id": "ch_t4_022",
+      "name": "Solar Panel System (10kW, fully installed, Swiss average)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 80000.0,
+        "2000": 60000.0,
+        "2005": 40000.0,
+        "2010": 30000.0,
+        "2015": 20000.0,
+        "2020": 18000.0,
+        "2025": 22000.0
+      },
+      "fact": "Swiss solar installation costs rose after 2020 as demand outstripped installers. Switzerland generates 6% of its electricity from solar but targets 45% by 2050 under a law passed by referendum in 2023, the world's only solar target set directly by public vote."
+    },
+    {
+      "id": "ch_t4_023",
+      "name": "Executive Health Check (half-day, Zurich private clinic)",
+      "emoji": "🩺",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 2000.0,
+        "2000": 2500.0,
+        "2005": 3000.0,
+        "2010": 3500.0,
+        "2015": 4000.0,
+        "2020": 4500.0,
+        "2025": 1500.0
+      },
+      "fact": "Zurich private clinics offering executive health checks attract medical tourists from the Middle East and Asia willing to pay CHF 6,000 for MRI, genetic testing and a full day with specialists. Swiss private medicine is considered the world standard against which all others are measured."
+    },
+    {
+      "id": "ch_t4_024",
+      "name": "Omega Speedmaster Professional Moonwatch (retail, Geneva)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 2200.0,
+        "2000": 3000.0,
+        "2005": 3800.0,
+        "2010": 5000.0,
+        "2015": 6200.0,
+        "2020": 7000.0,
+        "2025": 9000.0
+      },
+      "fact": "The Omega Speedmaster Professional has had its movement unchanged since 1968. It passed NASA certification by surviving 11 extreme tests including vacuum, humidity and magnetic field exposure. No other watch has passed NASA certification for spacewalks."
+    },
+    {
+      "id": "ch_t4_025",
+      "name": "Badrutt's Palace Hotel (winter, single room, per night off-peak)",
+      "emoji": "🏨",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 400.0,
+        "1995": 600.0,
+        "2000": 800.0,
+        "2005": 1000.0,
+        "2010": 1200.0,
+        "2015": 1400.0,
+        "2020": 1000.0,
+        "2025": 1800.0
+      },
+      "fact": "Badrutt's Palace in St. Moritz invented the concept of winter tourism in 1864 when its owner bet British summer guests he would pay their return fares if they were not warm enough in winter. He won and created the entire European ski holiday industry."
+    }
+  ]
+}

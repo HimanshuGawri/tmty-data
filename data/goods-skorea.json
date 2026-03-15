@@ -1,0 +1,1808 @@
+{
+  "country": "KR",
+  "country_name": "South Korea",
+  "currency_symbol": "₩",
+  "currency_code": "KRW",
+  "items": [
+    {
+      "id": "kr_t1_001",
+      "name": "Cafe Set (Americano + dessert, standard cafe)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 500,
+        "1995": 1000,
+        "2000": 1500,
+        "2005": 2000,
+        "2010": 3000,
+        "2015": 3500,
+        "2020": 4000,
+        "2025": 14000
+      },
+      "fact": "Seoul has over 17,000 cafes, more than the entire United States. Korean cafe culture evolved from a simple coffee stop to a multi-hour social venue, with average cafe visits lasting 90 minutes and spending per visit rising steadily as menu complexity increased."
+    },
+    {
+      "id": "kr_t1_002",
+      "name": "Kimbap (rice roll, convenience store, single)",
+      "emoji": "🍙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 1000,
+        "2005": 1500,
+        "2010": 2000,
+        "2015": 2500,
+        "2020": 3000,
+        "2025": 4000
+      },
+      "fact": "Kimbap is Korea's most-eaten portable meal and is sold in every convenience store. CU and GS25 convenience stores together outnumber McDonald's globally and their kimbap is considered the most affordable complete meal in any developed economy."
+    },
+    {
+      "id": "kr_t1_003",
+      "name": "Ramyeon (instant noodles, single pack, supermarket)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 350,
+        "2000": 550,
+        "2005": 750,
+        "2010": 900,
+        "2015": 1000,
+        "2020": 1200,
+        "2025": 1600
+      },
+      "fact": "Shin Ramyun is South Korea's best-selling product of any category and is exported to 107 countries. During the 1997 Asian financial crisis instant noodle consumption doubled in a single month as families cut food spending overnight."
+    },
+    {
+      "id": "kr_t1_004",
+      "name": "Soju (shot, pojangmacha tent bar)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 800,
+        "2005": 1000,
+        "2010": 1200,
+        "2015": 1500,
+        "2020": 1800,
+        "2025": 2500
+      },
+      "fact": "South Korea consumes more soju per capita than any other spirit in the world. The pojangmacha, an orange-tarp tent bar, is Korea's most democratic social space where a bottle of soju costs less than a glass of beer."
+    },
+    {
+      "id": "kr_t1_005",
+      "name": "Bus Fare (Seoul, single trip, T-money card)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 800,
+        "2010": 1050,
+        "2015": 1200,
+        "2020": 1200,
+        "2025": 1500
+      },
+      "fact": "Seoul's T-money card works across buses, subway, taxis and convenience stores, the most integrated urban payment system in the world. The Seoul Metropolitan Government subsidised bus fares for 20 consecutive years to keep the city moving at minimum cost to residents."
+    },
+    {
+      "id": "kr_t1_006",
+      "name": "Subway Fare (Seoul Metro, minimum)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 900,
+        "2010": 1050,
+        "2015": 1200,
+        "2020": 1350,
+        "2025": 1500
+      },
+      "fact": "Seoul Metro carries 7 million passengers daily and is consistently ranked the world's most reliable subway. South Korea built the entire Seoul metropolitan subway network within 30 years, a speed no other country has matched at that scale."
+    },
+    {
+      "id": "kr_t1_007",
+      "name": "Egg (single, large, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 120,
+        "2000": 150,
+        "2005": 180,
+        "2010": 200,
+        "2015": 250,
+        "2020": 350,
+        "2025": 450
+      },
+      "fact": "A 2017 avian flu outbreak killed 30 million South Korean hens and caused an egg shortage so severe that McDonald's temporarily removed eggs from its menu. The government airlifted eggs from the US for the first time since the Korean War."
+    },
+    {
+      "id": "kr_t1_008",
+      "name": "Makgeolli (rice wine, 750ml bottle, supermarket)",
+      "emoji": "🍶",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 1200,
+        "2005": 1500,
+        "2010": 1800,
+        "2015": 2000,
+        "2020": 2500,
+        "2025": 3500
+      },
+      "fact": "Makgeolli is Korea's oldest alcoholic drink and was a rice farmer's staple for 2,000 years. It experienced a global craft revival after 2010 when Korean restaurants worldwide started serving it premium-priced in ceramic bowls."
+    },
+    {
+      "id": "kr_t1_009",
+      "name": "Banana Milk (Binggrae, 240ml carton)",
+      "emoji": "🍌",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 700,
+        "2010": 900,
+        "2015": 1000,
+        "2020": 1200,
+        "2025": 1500
+      },
+      "fact": "Binggrae Banana Milk launched in 1974 and its barrel-shaped carton is unchanged. The South Korean government created it to increase children's milk consumption, and it became the defining taste of Korean childhood for 50 years."
+    },
+    {
+      "id": "kr_t1_010",
+      "name": "Newspaper (JoongAng Ilbo, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 700,
+        "2010": 800,
+        "2015": 1000,
+        "2020": 1200,
+        "2025": 1500
+      },
+      "fact": "South Korea has the world's highest newspaper readership rate among smartphone owners. The paradox is explained by subway culture: Koreans read both print and digital during their average 47-minute daily commute, the longest in any OECD country."
+    },
+    {
+      "id": "kr_t1_011",
+      "name": "Tteok (rice cake, single piece, market)",
+      "emoji": "🍡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 300,
+        "2005": 400,
+        "2010": 600,
+        "2015": 800,
+        "2020": 1000,
+        "2025": 1500
+      },
+      "fact": "Tteok rice cakes have been made in Korea for over 2,000 years and are given as gifts at every traditional holiday. Tteokguk soup with sliced tteok is eaten on Lunar New Year as Koreans symbolically age one year with each bowl consumed."
+    },
+    {
+      "id": "kr_t1_012",
+      "name": "Hotteok (sweet pancake, street vendor)",
+      "emoji": "🥞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 800,
+        "2010": 1000,
+        "2015": 1200,
+        "2020": 1500,
+        "2025": 2000
+      },
+      "fact": "Hotteok is a stuffed pancake filled with brown sugar, cinnamon and seeds, sold from winter street stalls. It was introduced by Chinese merchants in the 1800s and became so Korean that China's claim on its origin is considered culturally offensive."
+    },
+    {
+      "id": "kr_t1_013",
+      "name": "Tteokbokki (spicy rice cake, street stall, small portion)",
+      "emoji": "🌶️",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 1000,
+        "2005": 1500,
+        "2010": 2000,
+        "2015": 2500,
+        "2020": 3000,
+        "2025": 4000
+      },
+      "fact": "Tteokbokki is South Korea's most popular street food and is eaten by 9 million people daily. Its modern gochujang chilli sauce version was invented in 1953 by a Seoul food stall owner named Ma Bok-lim, who changed what was a royal court dish into a working-class street staple."
+    },
+    {
+      "id": "kr_t1_014",
+      "name": "Canned Coffee (Maxim Cafe, 175ml, convenience store)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 500,
+        "2000": 700,
+        "2005": 900,
+        "2010": 1000,
+        "2015": 1200,
+        "2020": 1500,
+        "2025": 2000
+      },
+      "fact": "Korea's convenience store canned coffee predated Starbucks Korea by 30 years. GS25 and CU sell more coffee units daily than any Starbucks market in Asia. Korean convenience stores are open 365 days and are a social infrastructure equivalent to the British pub."
+    },
+    {
+      "id": "kr_t1_015",
+      "name": "Gimbap (convenience store, triangle, single)",
+      "emoji": "🍘",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 800,
+        "2010": 1000,
+        "2015": 1200,
+        "2020": 1500,
+        "2025": 2000
+      },
+      "fact": "Triangle kimbap was invented by 7-Eleven Japan but is now more popular in Korea. CU sells 1.5 million triangle kimbap per day and has more flavour variants than any other country, including pizza, chicken and cream cheese varieties."
+    },
+    {
+      "id": "kr_t1_016",
+      "name": "Litre of Petrol (regular, SK Energy, national average)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 400,
+        "1995": 700,
+        "2000": 1200,
+        "2005": 1500,
+        "2010": 1800,
+        "2015": 1600,
+        "2020": 1400,
+        "2025": 1700
+      },
+      "fact": "South Korea has no oil and imports 100% of its crude, yet petrol taxes account for 55% of the pump price. The government uses fuel taxes as a primary environmental and fiscal tool, unlike Gulf states that keep prices artificially low."
+    },
+    {
+      "id": "kr_t1_017",
+      "name": "Banana (single, imported, supermarket)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 300,
+        "2000": 400,
+        "2005": 500,
+        "2010": 600,
+        "2015": 700,
+        "2020": 800,
+        "2025": 1000
+      },
+      "fact": "South Korea imports 98% of its fruit and banana prices are used as an index for tracking agricultural import costs. The country's food self-sufficiency rate of 45% is the lowest in the OECD, making it the most food-import-dependent large economy in the world."
+    },
+    {
+      "id": "kr_t1_018",
+      "name": "Bungeo-ppang (fish-shaped pastry, street vendor)",
+      "emoji": "🐟",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 300,
+        "2005": 500,
+        "2010": 700,
+        "2015": 1000,
+        "2020": 1200,
+        "2025": 1500
+      },
+      "fact": "Bungeo-ppang, a waffle iron fish cake filled with red bean paste, is sold only in winter from street carts. Its appearance each November signals the start of cold weather and Koreans track bungeo-ppang vendor locations the way Westerners track cherry blossoms."
+    },
+    {
+      "id": "kr_t1_019",
+      "name": "Stamp (domestic letter, Korea Post)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 150,
+        "2000": 190,
+        "2005": 220,
+        "2010": 270,
+        "2015": 300,
+        "2020": 380,
+        "2025": 430
+      },
+      "fact": "Korea Post holds the world's highest e-commerce parcel delivery efficiency rating, delivering 99.2% of packages on time. Its postal stamp price has risen slowly because the service is cross-subsidised by e-commerce logistics, the first national postal network to break even on delivery."
+    },
+    {
+      "id": "kr_t1_020",
+      "name": "Kimchi (600g, Jongga brand, supermarket)",
+      "emoji": "🥬",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 1200,
+        "2005": 1800,
+        "2010": 2500,
+        "2015": 3000,
+        "2020": 3500,
+        "2025": 15000
+      },
+      "fact": "Kimchi is UNESCO Intangible Cultural Heritage and South Korea produces 1.5 million tonnes annually. In 2010 a Chinese cabbage shortage caused the kimchi price crisis, and the government released strategic cabbage reserves, the only country to maintain a national vegetable stockpile."
+    },
+    {
+      "id": "kr_t1_021",
+      "name": "Soju (bottle, 360ml, Chamisul, convenience store)",
+      "emoji": "🍶",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 1000,
+        "2005": 1200,
+        "2010": 1300,
+        "2015": 1500,
+        "2020": 1700,
+        "2025": 2000
+      },
+      "fact": "Jinro Chamisul has been the world's best-selling spirit by volume every year since 1998. It outsells Johnny Walker, Jack Daniels and Bacardi combined worldwide, yet is virtually unknown outside Korea and Korean diaspora communities."
+    },
+    {
+      "id": "kr_t1_022",
+      "name": "Corn Dog (Korean style, convenience store)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 500,
+        "2000": 800,
+        "2005": 1000,
+        "2010": 1200,
+        "2015": 1500,
+        "2020": 2000,
+        "2025": 3000
+      },
+      "fact": "Korean corn dogs are coated in rice batter, rolled in sugar and sometimes stuffed with mozzarella, creating a food category unknown before Korean food culture spread globally. Korean corn dog shops opened in 15 countries between 2019 and 2023."
+    },
+    {
+      "id": "kr_t1_023",
+      "name": "Bottle of Water (500ml, Jeju Samdasoo, supermarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 700,
+        "2010": 800,
+        "2015": 900,
+        "2020": 1000,
+        "2025": 1200
+      },
+      "fact": "Jeju Samdasoo is drawn from a natural aquifer beneath Jeju Island that filters rainwater through volcanic rock for 18 years before reaching the tap. It is South Korea's best-selling bottled water and a point of regional pride for Jeju residents."
+    },
+    {
+      "id": "kr_t1_024",
+      "name": "Chocolate Bar (Pepero, single, 50g, supermarket)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 600,
+        "2005": 700,
+        "2010": 800,
+        "2015": 1000,
+        "2020": 1200,
+        "2025": 1500
+      },
+      "fact": "Pepero Day on November 11 was created by Lotte when school students started exchanging Pepero sticks to wish each other slimness. It became a commercial holiday bigger than Valentine's Day in Korea, generating ₽100 billion in annual Pepero sales."
+    },
+    {
+      "id": "kr_t1_025",
+      "name": "Iced Tea (Vitaminwater, 500ml, convenience store)",
+      "emoji": "🧃",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 500,
+        "2000": 700,
+        "2005": 900,
+        "2010": 1100,
+        "2015": 1300,
+        "2020": 1500,
+        "2025": 2000
+      },
+      "fact": "South Korea has the world's most developed functional beverage market with vitamin drinks, collagen waters and probiotic shots sold as convenience items. The category was created by Korean food companies in the 1990s and exported to Japan, China and Southeast Asia."
+    },
+    {
+      "id": "kr_t2_001",
+      "name": "Bibimbap (restaurant, standard bowl)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 3500,
+        "2000": 5000,
+        "2005": 6000,
+        "2010": 7000,
+        "2015": 8000,
+        "2020": 9000,
+        "2025": 12000
+      },
+      "fact": "Bibimbap was ranked the world's 40th most delicious food by CNN in 2011, triggering a global wave of Korean food restaurants. The dish of rice, vegetables and gochujang dates to Joseon Dynasty court cuisine but was eaten as a commoner's meal for 500 years."
+    },
+    {
+      "id": "kr_t2_002",
+      "name": "Samgyeopsal (pork belly BBQ, per 200g, restaurant)",
+      "emoji": "🥩",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3000,
+        "1995": 6000,
+        "2000": 8000,
+        "2005": 10000,
+        "2010": 12000,
+        "2015": 14000,
+        "2020": 16000,
+        "2025": 22000
+      },
+      "fact": "Samgyeopsal is Korea's most-eaten restaurant meal and the table grill it uses is found in Korean homes worldwide. March 3 is Samgyeopsal Day as the date 3/3 represents the three layers of pork belly fat, one of the few food holidays in the world based on a number pun."
+    },
+    {
+      "id": "kr_t2_003",
+      "name": "Cinema Ticket (CGV, standard 2D, Seoul)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 4000,
+        "2000": 6000,
+        "2005": 7000,
+        "2010": 9000,
+        "2015": 10000,
+        "2020": 11000,
+        "2025": 14000
+      },
+      "fact": "CGV is the world's largest cinema chain by number of screens and pioneered recliner seats, 4DX motion seats and Screenx 270-degree format. Bong Joon-ho's Parasite won the 2020 Best Picture Oscar, the first non-English film to do so, making Korean cinema the most internationally acclaimed in Asia."
+    },
+    {
+      "id": "kr_t2_004",
+      "name": "Haircut (men's, standard barber, barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 4000,
+        "2000": 6000,
+        "2005": 8000,
+        "2010": 10000,
+        "2015": 12000,
+        "2020": 14000,
+        "2025": 18000
+      },
+      "fact": "South Korean men spend more on grooming per capita than men in any other country. The K-beauty skincare market created a global industry and Korean men account for 20% of the world's male cosmetics purchases despite being 0.7% of the global male population."
+    },
+    {
+      "id": "kr_t2_005",
+      "name": "Monthly Netflix Subscription (standard, South Korea)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9500,
+        "2020": 12000,
+        "2025": 17000
+      },
+      "fact": "Netflix invested over USD 1.2 billion in Korean content between 2021 and 2023 and Squid Game became its most-watched series ever in 2021. South Korea is now the world's third-largest Netflix content producer behind the US and UK."
+    },
+    {
+      "id": "kr_t2_006",
+      "name": "Chimaek (fried chicken + beer combo, delivery)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5000,
+        "1995": 8000,
+        "2000": 12000,
+        "2005": 15000,
+        "2010": 18000,
+        "2015": 20000,
+        "2020": 22000,
+        "2025": 30000
+      },
+      "fact": "Chimaek, fried chicken with beer, became Korea's most-watched food during football matches after the 2002 World Cup. South Korea has 87,000 fried chicken restaurants, more than the entire global McDonald's chain, all competing for the title of crispiest batter."
+    },
+    {
+      "id": "kr_t2_007",
+      "name": "Delivery App (Baemin average order, incl. fees)",
+      "emoji": "🛵",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 15000,
+        "2020": 25000,
+        "2025": 35000
+      },
+      "fact": "Baemin app is South Korea's dominant food delivery platform and South Koreans order delivery more frequently than any nation. It was acquired by German company Delivery Hero for USD 4 billion in 2019, the largest Korean tech acquisition ever."
+    },
+    {
+      "id": "kr_t2_008",
+      "name": "Monthly Spotify Subscription (South Korea)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9900,
+        "2020": 10900,
+        "2025": 13900
+      },
+      "fact": "K-pop is the world's fastest-growing music genre by streaming volume and BTS became the first non-English act to top the US Billboard Hot 100 in 2020. Melon, Korea's domestic streaming platform, still has more Korean subscribers than Spotify."
+    },
+    {
+      "id": "kr_t2_009",
+      "name": "Norebang (karaoke room, 1 hour, 2-person, standard)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3000,
+        "1995": 6000,
+        "2000": 10000,
+        "2005": 12000,
+        "2010": 15000,
+        "2015": 18000,
+        "2020": 20000,
+        "2025": 25000
+      },
+      "fact": "Norebang, private karaoke rooms, are on every Korean high street. South Korea invented the private karaoke room concept in 1983, and the format was copied by Japan, China and Southeast Asia. There are 35,000 norebang establishments in South Korea."
+    },
+    {
+      "id": "kr_t2_010",
+      "name": "Cigarettes (Marlboro, 3-pack, Korea)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 700,
+        "1995": 1500,
+        "2000": 2000,
+        "2005": 2500,
+        "2010": 2500,
+        "2015": 4500,
+        "2020": 4500,
+        "2025": 16500
+      },
+      "fact": "South Korea doubled tobacco taxes in 2015 with a 80% overnight price hike. Smoking rates fell from 43% to 19% of adults between 1998 and 2024, one of the sharpest declines of any country. The government used the revenue to fund national health insurance."
+    },
+    {
+      "id": "kr_t2_011",
+      "name": "Annual Gym Membership (mid-range, Seoul)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 10000,
+        "2000": 20000,
+        "2005": 30000,
+        "2010": 50000,
+        "2015": 60000,
+        "2020": 70000,
+        "2025": 1200000
+      },
+      "fact": "South Korean men spend more on grooming per capita than men in any other country. K-beauty skincare created a global industry and Korean men account for 20% of world male cosmetics purchases. Gym memberships are now bundled with skincare consultation as a standard service."
+    },
+    {
+      "id": "kr_t2_012",
+      "name": "Tonkatsu (fried cutlet restaurant, standard)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3000,
+        "1995": 5000,
+        "2000": 7000,
+        "2005": 9000,
+        "2010": 11000,
+        "2015": 13000,
+        "2020": 14000,
+        "2025": 18000
+      },
+      "fact": "Korean tonkatsu was adapted from Japanese katsu via Japanese colonial-era influence and is distinct enough in batter and sauce that Korean chefs now teach the Korean version to Japanese culinary students. Food diplomacy through tonkatsu variation is a documented academic subject."
+    },
+    {
+      "id": "kr_t2_013",
+      "name": "Starbucks Latte + Cake Set (Seoul)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 4300,
+        "2005": 4800,
+        "2010": 5300,
+        "2015": 5800,
+        "2020": 6000,
+        "2025": 15000
+      },
+      "fact": "Starbucks Korea has the highest same-store revenue of any Starbucks franchise in the world and introduced the Starbucks Reserve concept later rolled out globally. The Starbucks on every Seoul corner contributed to Seoul having more cafes per km than any city on earth."
+    },
+    {
+      "id": "kr_t2_014",
+      "name": "Jjajangmyeon Set (black bean noodles + soup, restaurant)",
+      "emoji": "🍝",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 2500,
+        "2000": 3500,
+        "2005": 4500,
+        "2010": 5000,
+        "2015": 6000,
+        "2020": 7000,
+        "2025": 12000
+      },
+      "fact": "Jjajangmyeon was adapted from Chinese zhajiangmian in the 1880s by Korean-Chinese immigrants and is now considered a Korean national dish. April 14 is Black Day in Korea when single people eat jjajangmyeon to commiserate not receiving gifts on Valentine's Day."
+    },
+    {
+      "id": "kr_t2_015",
+      "name": "Taxi Fare (Seoul, 5km, KakaoTaxi, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 2500,
+        "2000": 4000,
+        "2005": 5500,
+        "2010": 7000,
+        "2015": 8500,
+        "2020": 10000,
+        "2025": 14000
+      },
+      "fact": "KakaoTaxi dominates South Korea's ride-hailing market and is part of Kakao Corp, which also runs Korea's dominant messaging app, payment system, bank and music platform. Kakao's market dominance in Korea is the most complete of any single tech company in any democracy."
+    },
+    {
+      "id": "kr_t2_016",
+      "name": "Monthly Home Internet (KT / SK Broadband, 1Gbps fibre)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 20000,
+        "2005": 30000,
+        "2010": 30000,
+        "2015": 28000,
+        "2020": 27000,
+        "2025": 30000
+      },
+      "fact": "South Korea has had the world's fastest average internet speed every year since 2002. It was the first country to achieve nationwide 1Gbps fibre coverage and launched 5G commercially in 2019, beating the US, China and Europe by 6 months."
+    },
+    {
+      "id": "kr_t2_017",
+      "name": "Monthly Mobile Plan (SKT, unlimited 5G)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 30000,
+        "2005": 40000,
+        "2010": 55000,
+        "2015": 60000,
+        "2020": 65000,
+        "2025": 70000
+      },
+      "fact": "South Korea launched 5G in April 2019 and within 2 years had the world's highest 5G penetration rate. SKT, KT and LG Uplus collectively invested USD 30 billion in network infrastructure between 2019 and 2024, the highest telecom capex per capita of any country."
+    },
+    {
+      "id": "kr_t2_018",
+      "name": "Pojangmacha Evening (street tent, drinks + snacks, per person)",
+      "emoji": "🏮",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5000,
+        "1995": 8000,
+        "2000": 12000,
+        "2005": 15000,
+        "2010": 18000,
+        "2015": 20000,
+        "2020": 22000,
+        "2025": 30000
+      },
+      "fact": "Seoul's pojangmacha street tents operate under a special municipal licence system and are considered cultural heritage. The orange tents glow at night along the Han River and around universities, providing affordable socialising in one of the world's most expensive cities."
+    },
+    {
+      "id": "kr_t2_019",
+      "name": "K-pop Album (BTS, physical, standard edition)",
+      "emoji": "💿",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 8000,
+        "2000": 10000,
+        "2005": 12000,
+        "2010": 13000,
+        "2015": 15000,
+        "2020": 18000,
+        "2025": 25000
+      },
+      "fact": "BTS's 2020 album Dynamite debuted at number one on the US Billboard Hot 100, the first Korean-language single to achieve this. K-pop physical album sales tripled globally between 2018 and 2023 despite streaming's dominance, because fans buy multiple copies for different photocards."
+    },
+    {
+      "id": "kr_t2_020",
+      "name": "Convenience Store Meal Deal (CU, lunch combo)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 3000,
+        "2000": 4500,
+        "2005": 5500,
+        "2010": 6500,
+        "2015": 7500,
+        "2020": 8500,
+        "2025": 11000
+      },
+      "fact": "Korean convenience stores offer hot food, seating areas, printers, ATMs and parcel collection, making them functional urban mini-centres. CU and GS25 have more locations per square kilometre in Seoul than any retail format in any city."
+    },
+    {
+      "id": "kr_t2_021",
+      "name": "PC Bang (gaming cafe, per hour)",
+      "emoji": "🖥️",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 1000,
+        "2005": 1200,
+        "2010": 1500,
+        "2015": 1500,
+        "2020": 2000,
+        "2025": 2500
+      },
+      "fact": "PC Bangs, gaming cafes with high-spec computers and instant noodles, were the infrastructure behind StarCraft's transformation into South Korea's first national eSport in the late 1990s. Korea is the birthplace of professional gaming culture and its PC bang network remains unmatched globally."
+    },
+    {
+      "id": "kr_t2_022",
+      "name": "Convenience Store Beer (Cass, 500ml can)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 1200,
+        "2005": 1400,
+        "2010": 1600,
+        "2015": 1800,
+        "2020": 2000,
+        "2025": 2800
+      },
+      "fact": "Convenience store drinking is a major social activity in Korea. Buying beer from CU or GS25 and sitting outside on plastic stools is the most popular low-cost social activity and the phrase 'convenience store beer' is a specific Korean lifestyle category."
+    },
+    {
+      "id": "kr_t2_023",
+      "name": "Subway + Bus Integration Pass (monthly, Seoul)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 10000,
+        "1995": 25000,
+        "2000": 40000,
+        "2005": 50000,
+        "2010": 55000,
+        "2015": 60000,
+        "2020": 65000,
+        "2025": 75000
+      },
+      "fact": "Seoul's integrated transit pass was the world's first to cover subway, bus and light rail with seamless transfer discounts under one card in 2004. Seoul was cited by every major transport consultancy as the model for city transit integration."
+    },
+    {
+      "id": "kr_t2_024",
+      "name": "Mukbang Streamer (top-tier meal cost, per show)",
+      "emoji": "🎥",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 50000,
+        "2020": 80000,
+        "2025": 100000
+      },
+      "fact": "Mukbang, eating broadcasts where streamers consume large amounts of food live, was invented in South Korea in 2010. Top mukbang streamers earn over ₽1 billion monthly from donations. The phenomenon has been studied by psychologists as a response to Korea's high rates of solitary eating."
+    },
+    {
+      "id": "kr_t2_025",
+      "name": "Galbi Tang (short rib soup, restaurant, standard)",
+      "emoji": "🍵",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4000,
+        "1995": 7000,
+        "2000": 10000,
+        "2005": 13000,
+        "2010": 15000,
+        "2015": 18000,
+        "2020": 20000,
+        "2025": 28000
+      },
+      "fact": "Galbi tang is served on ancestral memorial days and is one of Korea's most ritualistic foods. Korean food culture is inseparable from Confucian ancestor ceremonies, making restaurant versions of ceremonial food a direct commercial expression of religious practice."
+    },
+    {
+      "id": "kr_t3_001",
+      "name": "Samsung Galaxy S25 (base, Korean retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 600000,
+        "2010": 800000,
+        "2015": 850000,
+        "2020": 1100000,
+        "2025": 1350000
+      },
+      "fact": "Samsung accounts for 20% of South Korea's total exports and the Samsung family has been described as a quasi-state. Samsung's Galaxy flagship is cheaper in South Korea than anywhere else in the world as a deliberate home market pricing policy."
+    },
+    {
+      "id": "kr_t3_002",
+      "name": "KTX Train (Seoul to Busan, economy, one way)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 15000,
+        "1995": 20000,
+        "2000": 25000,
+        "2005": 43500,
+        "2010": 50000,
+        "2015": 55000,
+        "2020": 57000,
+        "2025": 63000
+      },
+      "fact": "The KTX Seoul to Busan route takes 2 hours 10 minutes at 305km/h and effectively replaced the domestic air route. After its 2004 launch the air route lost 80% of passengers within 3 years. South Korea built the line in 9 years after France took 16 for TGV."
+    },
+    {
+      "id": "kr_t3_003",
+      "name": "MacBook Air M2 (South Korea retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1400000,
+        "2015": 1300000,
+        "2020": 1500000,
+        "2025": 1750000
+      },
+      "fact": "Apple products are priced at a small premium in Korea compared to the US, reflecting Samsung's home advantage and import tariff structures. Apple opened its first Korea store in Garosu-gil, Seoul in 2018 to remarkable queues for a country where Samsung is a national brand."
+    },
+    {
+      "id": "kr_t3_004",
+      "name": "Cosmetic Surgery (rhinoplasty, standard, Seoul clinic)",
+      "emoji": "👃",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 500000,
+        "1995": 800000,
+        "2000": 1200000,
+        "2005": 1500000,
+        "2010": 2000000,
+        "2015": 2500000,
+        "2020": 3000000,
+        "2025": 4000000
+      },
+      "fact": "South Korea has the world's highest cosmetic surgery rate with 1 in 3 women in Seoul having had a procedure. The Gangnam district alone has 500 plastic surgery clinics and medical tourism for cosmetic surgery generates USD 900 million annually."
+    },
+    {
+      "id": "kr_t3_005",
+      "name": "Annual Gym + PT Package (premium, Gangnam)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 800000,
+        "2005": 1200000,
+        "2010": 1500000,
+        "2015": 2000000,
+        "2020": 2500000,
+        "2025": 3500000
+      },
+      "fact": "Premium fitness in Gangnam includes skin analysis, body composition scanning and diet planning beyond traditional gym services. PT sessions cost ₽100,000 per hour and are booked by professionals as career investments because Korean workplaces evaluate physical presentation."
+    },
+    {
+      "id": "kr_t3_006",
+      "name": "Monthly Apartment Rent (1-bedroom, Gangnam, jeonse deposit equiv.)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 300000,
+        "2000": 500000,
+        "2005": 700000,
+        "2010": 900000,
+        "2015": 1100000,
+        "2020": 1200000,
+        "2025": 1500000
+      },
+      "fact": "Korea's unique jeonse system requires renters to pay a large lump-sum deposit instead of monthly rent. The landlord invests the deposit and returns it when the tenant leaves. The system worked when interest rates were high but became a financial crisis as rates fell."
+    },
+    {
+      "id": "kr_t3_007",
+      "name": "Hagwon Tutoring (monthly, single subject, average Seoul)",
+      "emoji": "📚",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 50000,
+        "1995": 100000,
+        "2000": 200000,
+        "2005": 300000,
+        "2010": 400000,
+        "2015": 500000,
+        "2020": 600000,
+        "2025": 800000
+      },
+      "fact": "Hagwon after-school academies are attended by 83% of Korean children and the tutoring industry generates USD 21 billion annually. South Korea banned hagwons from operating after 10pm because children were studying until midnight, yet enforcement remains patchy."
+    },
+    {
+      "id": "kr_t3_008",
+      "name": "Annual Private Health Insurance (Samsung Fire, individual)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 200000,
+        "2000": 400000,
+        "2005": 600000,
+        "2010": 800000,
+        "2015": 1000000,
+        "2020": 1200000,
+        "2025": 1500000
+      },
+      "fact": "South Korea has universal health insurance (NHI) but 80% of Koreans also buy private supplemental insurance for non-covered treatments. The NHI covers hospital costs but not specialist care, dental, vision or traditional Korean medicine, making supplemental coverage essential."
+    },
+    {
+      "id": "kr_t3_009",
+      "name": "Annual Private School Fees (average, Seoul)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 1000000,
+        "2000": 2000000,
+        "2005": 3000000,
+        "2010": 4000000,
+        "2015": 5000000,
+        "2020": 6000000,
+        "2025": 10000000
+      },
+      "fact": "Korean education spending per child is the highest in the OECD when private tutoring is included. A Seoul child in a good private school with three hagwons and a private tutor costs ₽20 million annually, equivalent to a year's median household income."
+    },
+    {
+      "id": "kr_t3_010",
+      "name": "Hyundai Sonata (base, new, Korean domestic price)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 10000000,
+        "2000": 15000000,
+        "2005": 18000000,
+        "2010": 22000000,
+        "2015": 25000000,
+        "2020": 28000000,
+        "2025": 35000000
+      },
+      "fact": "Hyundai and Kia combined sell more cars than Volkswagen globally and their home-market prices are the world's most competitive relative to quality. Korea exports 70% of domestic car production and offers domestic buyers the same vehicles at prices that foreign dealers describe as subsidised."
+    },
+    {
+      "id": "kr_t3_011",
+      "name": "PlayStation 5 (disc edition, South Korea)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 628000,
+        "2025": 719000
+      },
+      "fact": "South Korea is the world's most gaming-obsessed society by hours per capita and is the birthplace of professional esports. League of Legends Champions Korea is the world's most-watched esports league and Korean players command the highest transfer fees in competitive gaming."
+    },
+    {
+      "id": "kr_t3_012",
+      "name": "K-pop Concert Ticket (BTS / BLACKPINK, floor, Seoul)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 80000,
+        "2015": 99000,
+        "2020": 110000,
+        "2025": 165000
+      },
+      "fact": "BTS's world tours generated USD 1 billion per year, making them the highest-earning live music act in history relative to their active years. A BTS Seoul concert contributes an estimated USD 56 million to the Korean economy per show."
+    },
+    {
+      "id": "kr_t3_013",
+      "name": "Hotel Night (Lotte Hotel Seoul, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 80000,
+        "1995": 150000,
+        "2000": 200000,
+        "2005": 250000,
+        "2010": 300000,
+        "2015": 350000,
+        "2020": 300000,
+        "2025": 400000
+      },
+      "fact": "Lotte Hotel Seoul in Jung-gu is Korea's most prestigious hotel address and a benchmark for formal business events. The Lotte Group, which runs the hotel alongside Lotte World and Lotte Mart, was built by a Korean-Japanese entrepreneur who became one of the founders of modern Korean capitalism."
+    },
+    {
+      "id": "kr_t3_014",
+      "name": "Annual University Fees (SKY university, domestic student)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 1500000,
+        "2000": 3000000,
+        "2005": 5000000,
+        "2010": 7000000,
+        "2015": 8000000,
+        "2020": 8000000,
+        "2025": 10000000
+      },
+      "fact": "SKY universities, Seoul National, Yonsei and Korea University, are the only path to top-tier employment in Korea. Admission to SKY is so culturally significant that parents move house to be in feeder school districts and Korean suicide rates among teenagers peak during exam season."
+    },
+    {
+      "id": "kr_t3_015",
+      "name": "Gold (10 grams, 24K, Korea Gold Exchange)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 120000,
+        "1995": 150000,
+        "2000": 140000,
+        "2005": 200000,
+        "2010": 500000,
+        "2015": 480000,
+        "2020": 800000,
+        "2025": 1200000
+      },
+      "fact": "In 1998 during the Asian financial crisis South Koreans donated 220 tonnes of personal gold jewellery to the government to pay off IMF debt, the largest voluntary gold collection in history. The event is still taught in schools as a symbol of national solidarity."
+    },
+    {
+      "id": "kr_t3_016",
+      "name": "Rooftop Bar Night Out (Seoul, food + drinks, per person)",
+      "emoji": "🍹",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50000,
+        "2005": 80000,
+        "2010": 120000,
+        "2015": 150000,
+        "2020": 130000,
+        "2025": 200000
+      },
+      "fact": "Seoul's Itaewon and Hongdae districts have the highest rooftop bar density in Asia. Seoul's nightlife economy is one of the most economically significant in any Asian city, generating KRW 15 trillion annually from entertainment districts alone."
+    },
+    {
+      "id": "kr_t3_017",
+      "name": "Korean Spa Day (jjimjilbang, premium 24h pass)",
+      "emoji": "♨️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5000,
+        "1995": 10000,
+        "2000": 15000,
+        "2005": 20000,
+        "2010": 25000,
+        "2015": 30000,
+        "2020": 35000,
+        "2025": 50000
+      },
+      "fact": "Jjimjilbang are 24-hour public bathhouses with sleeping areas, saunas and restaurants and are used by all income levels from homeless people to executives. Dragon Hill Spa in Seoul accommodates 5,000 people simultaneously and is the world's largest single-site wellness facility."
+    },
+    {
+      "id": "kr_t3_018",
+      "name": "Weekly Grocery Shop (standard family of 4, E-mart)",
+      "emoji": "🛒",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 30000,
+        "1995": 60000,
+        "2000": 100000,
+        "2005": 130000,
+        "2010": 160000,
+        "2015": 180000,
+        "2020": 200000,
+        "2025": 280000
+      },
+      "fact": "South Korea's food inflation was 6.8% in 2023, the highest in 20 years. E-Mart, owned by Shinsegae, is Korea's largest retailer and its weekly food prices are tracked by the government as the most reliable consumer inflation indicator."
+    },
+    {
+      "id": "kr_t3_019",
+      "name": "Hanok Guesthouse (1 night, Jeonju, authentic)",
+      "emoji": "🏯",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 30000,
+        "2000": 50000,
+        "2005": 70000,
+        "2010": 100000,
+        "2015": 130000,
+        "2020": 120000,
+        "2025": 160000
+      },
+      "fact": "Jeonju Hanok Village is South Korea's most-visited domestic tourism destination with 12 million visitors annually. A traditional Hanok stay fell in price from luxury to mainstream between 2010 and 2020 as rural areas invested in heritage tourism under government subsidy."
+    },
+    {
+      "id": "kr_t3_020",
+      "name": "Dental Implant (single, standard, Seoul private clinic)",
+      "emoji": "🦷",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 1000000,
+        "2005": 1500000,
+        "2010": 1200000,
+        "2015": 1000000,
+        "2020": 900000,
+        "2025": 800000
+      },
+      "fact": "South Korea is the world's largest dental implant producer and exports to 90 countries. Implant prices fell 50% between 2010 and 2025 as Korean manufacturers Osstem and Dentium achieved scale. Medical tourists travel from Japan and Southeast Asia to Korea for implants at half their home country price."
+    },
+    {
+      "id": "kr_t3_021",
+      "name": "Driving Licence (full course, Kangnam Driver School)",
+      "emoji": "🚗",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 200000,
+        "2000": 350000,
+        "2005": 500000,
+        "2010": 700000,
+        "2015": 900000,
+        "2020": 1000000,
+        "2025": 1300000
+      },
+      "fact": "South Korea simplified its driving test in 2011 after a government review found the pass rate was 50% lower than peer countries. The simplification was reversed in 2016 after accident rates rose, making Korean driving licence requirements the most debated regulatory topic after university entrance exams."
+    },
+    {
+      "id": "kr_t3_022",
+      "name": "Jeju Island Flight Return (Seoul, economy, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 50000,
+        "1995": 80000,
+        "2000": 100000,
+        "2005": 130000,
+        "2010": 100000,
+        "2015": 80000,
+        "2020": 70000,
+        "2025": 120000
+      },
+      "fact": "Seoul to Jeju is the world's second-busiest air route and was the world's busiest for 5 consecutive years before the COVID pandemic. Budget carriers Jeju Air and Jin Air cut the fare from ₽200,000 to ₽30,000 in flash sales, creating a generation of Koreans who treat Jeju like a weekend trip."
+    },
+    {
+      "id": "kr_t3_023",
+      "name": "Wedding Package (mid-range, wedding hall, full)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 2000000,
+        "1995": 5000000,
+        "2000": 8000000,
+        "2005": 12000000,
+        "2010": 15000000,
+        "2015": 18000000,
+        "2020": 16000000,
+        "2025": 22000000
+      },
+      "fact": "Korean weddings are held in dedicated wedding halls that host 8 to 10 ceremonies per day on weekends, one after the other in assembly-line fashion. The average wedding costs ₽50 million including the ceremony, hanbok, gifts and honeymoon, making it the most expensive life event of most Koreans."
+    },
+    {
+      "id": "kr_t3_024",
+      "name": "Annual Korean Language Course (Seoul National University, foreign)",
+      "emoji": "🗣️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 1000000,
+        "2005": 2000000,
+        "2010": 3000000,
+        "2015": 4000000,
+        "2020": 5000000,
+        "2025": 6000000
+      },
+      "fact": "Korean language learning surged globally after BTS and Squid Game. The TOPIK Korean proficiency test application numbers grew 300% between 2018 and 2023. Korea ranks 13th globally in soft power partly because of voluntary language adoption driven by pop culture."
+    },
+    {
+      "id": "kr_t3_025",
+      "name": "Luxury Department Store Purchase (Lotte, Chanel-level gift)",
+      "emoji": "🛍️",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 300000,
+        "2000": 500000,
+        "2005": 700000,
+        "2010": 900000,
+        "2015": 1200000,
+        "2020": 1500000,
+        "2025": 2000000
+      },
+      "fact": "South Korea has the highest luxury goods spending per capita of any country that is not a city-state. Lotte and Shinsegae department stores generate more luxury revenue per square metre than Harrods or Galeries Lafayette, driven by Korean gift-giving culture and the concept of nunchi, or social awareness."
+    },
+    {
+      "id": "kr_t4_001",
+      "name": "Samsung Galaxy Fold 6 (flagship foldable, Korea retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 2398000,
+        "2025": 2398000
+      },
+      "fact": "Samsung's foldable phones are designed and priced from Korea outward, with domestic prices the cheapest globally. The Galaxy Fold created the foldable phone category in 2019 and Samsung sold 10 million foldables in 2023, an entire market it invented and continues to dominate."
+    },
+    {
+      "id": "kr_t4_002",
+      "name": "Gold (troy ounce, KRW, Korea Exchange)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 470000,
+        "1995": 600000,
+        "2000": 580000,
+        "2005": 900000,
+        "2010": 2300000,
+        "2015": 2100000,
+        "2020": 3600000,
+        "2025": 5600000
+      },
+      "fact": "The Korea Gold Exchange operates the world's most transparent over-the-counter gold market, setting domestic prices to the gram for retail consumers. South Korean grandmothers who donated gold in 1998 watched the same gold's value rise 10x by 2025."
+    },
+    {
+      "id": "kr_t4_003",
+      "name": "KIA EV6 (base, new, Korean domestic price)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 52000000,
+        "2025": 52000000
+      },
+      "fact": "Korea offers the most generous EV subsidies in the OECD, up to KRW 9 million per vehicle, making domestic EV prices the lowest among developed car-making nations. The Hyundai Ioniq 5 and Kia EV6 were rated the world's best electric cars in their launch years."
+    },
+    {
+      "id": "kr_t4_004",
+      "name": "Hyundai Palisade (premium SUV, new, Korea)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 38000000,
+        "2025": 48000000
+      },
+      "fact": "Hyundai's domestic prices are 30% lower than its export prices in the US and Europe, a deliberate home-market advantage that other Korean conglomerates call competitive patriotism. Korean car workers earn 40% above the national average wage, making auto manufacturing Korea's highest-paying sector."
+    },
+    {
+      "id": "kr_t4_005",
+      "name": "Gangnam Apartment (25-pyeong, 83sqm, purchase price)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 70000000,
+        "1995": 200000000,
+        "2000": 300000000,
+        "2005": 700000000,
+        "2010": 800000000,
+        "2015": 800000000,
+        "2020": 1500000000,
+        "2025": 1800000000
+      },
+      "fact": "Gangnam apartment prices tripled between 2017 and 2021 despite 28 separate government cooling measures. The phrase Gangnam Style by Psy satirised Gangnam's aspirational culture and the music video became the first YouTube video to reach 1 billion views."
+    },
+    {
+      "id": "kr_t4_006",
+      "name": "Rolex Submariner (new retail, South Korea)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 800000,
+        "1995": 1500000,
+        "2000": 2500000,
+        "2005": 4000000,
+        "2010": 7000000,
+        "2015": 8500000,
+        "2020": 11000000,
+        "2025": 16000000
+      },
+      "fact": "South Korea's luxury watch market grew faster than any country in Asia between 2020 and 2024. The Rolex Submariner waitlist at Korean ADs exceeds 4 years and grey market dealers in Gangnam openly price it at 50% above retail."
+    },
+    {
+      "id": "kr_t4_007",
+      "name": "Annual Private School Fees (top international, Seoul)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 10000000,
+        "2000": 20000000,
+        "2005": 30000000,
+        "2010": 35000000,
+        "2015": 40000000,
+        "2020": 45000000,
+        "2025": 55000000
+      },
+      "fact": "Seoul Foreign School and Korea International School charge ₽55 million annually and have waiting lists from birth. Korean parents queue overnight to register newborns at premium schools, making birth registration and school enrollment a simultaneous activity."
+    },
+    {
+      "id": "kr_t4_008",
+      "name": "Hermès Birkin 30 (South Korea retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2000000,
+        "1995": 4000000,
+        "2000": 7000000,
+        "2005": 12000000,
+        "2010": 18000000,
+        "2015": 22000000,
+        "2020": 27000000,
+        "2025": 40000000
+      },
+      "fact": "South Korea has the world's second-highest luxury handbag spending per capita after Singapore. Korean department stores introduced appointment-only luxury buying experiences in 2022 after violent altercations broke out in queues for newly released Hermès, Chanel and Dior items."
+    },
+    {
+      "id": "kr_t4_009",
+      "name": "Seoul Apartment (large, Hannam-dong, purchase price)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 100000000,
+        "1995": 300000000,
+        "2000": 500000000,
+        "2005": 1000000000,
+        "2010": 1500000000,
+        "2015": 1800000000,
+        "2020": 3000000000,
+        "2025": 4000000000
+      },
+      "fact": "Hannam-dong is Seoul's most expensive residential address and its penthouse apartments exceed USD 30 million. South Korea has the world's lowest birth rate at 0.72, which economists attribute partly to housing unaffordability making young people delay or abandon family formation."
+    },
+    {
+      "id": "kr_t4_010",
+      "name": "Samsung OLED TV 77-inch (QLED flagship, Korea retail)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 10000000,
+        "2015": 8000000,
+        "2020": 6000000,
+        "2025": 5000000
+      },
+      "fact": "Samsung and LG together produce 65% of the world's OLED panels and Korean TV prices have fallen 50% in 10 years even as screen size and quality improved. Korea exports more display technology value than any country and its two display giants have a global duopoly similar to Boeing-Airbus in aviation."
+    },
+    {
+      "id": "kr_t4_011",
+      "name": "Full Luxury Wedding (5-star hotel, Seoul, total)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000000,
+        "1995": 30000000,
+        "2000": 60000000,
+        "2005": 100000000,
+        "2010": 130000000,
+        "2015": 150000000,
+        "2020": 130000000,
+        "2025": 200000000
+      },
+      "fact": "A luxury Seoul hotel wedding at the Shilla or Park Hyatt costs ₽200 million. Korean weddings typically require the groom's family to provide the apartment and the bride's family to furnish it, a custom that makes Korean marriage one of the most capital-intensive family transitions in the world."
+    },
+    {
+      "id": "kr_t4_012",
+      "name": "Hyundai IONIQ 6 (long range, premium, Korea retail)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 54000000
+      },
+      "fact": "The Hyundai Ioniq 6 won World Car of the Year in 2023, the first Korean car to win the award. Korea's EV technology was considered inferior to Tesla's as recently as 2020, and achieved parity or superiority in most metrics within 3 years, the fastest quality catch-up in automotive history."
+    },
+    {
+      "id": "kr_t4_013",
+      "name": "Cosmetic Surgery Total (full face package, Gangnam clinic)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 2000000,
+        "2000": 5000000,
+        "2005": 8000000,
+        "2010": 12000000,
+        "2015": 15000000,
+        "2020": 18000000,
+        "2025": 25000000
+      },
+      "fact": "Korea's Gangnam district medical tourism clinic corridor is the densest concentration of cosmetic surgery facilities in the world. Chinese and Southeast Asian patients fill 40% of surgical slots, and Korea earns USD 900 million annually from medical beauty tourism."
+    },
+    {
+      "id": "kr_t4_014",
+      "name": "HYBE Entertainment Annual Revenue (BTS management co.)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 120000000000,
+        "2020": 796000000000,
+        "2025": 2100000000000
+      },
+      "fact": "HYBE listed on the Korean stock exchange in 2020 and within a year its market cap exceeded the entire US country music industry's combined valuation. BTS's contribution to Korean GDP is estimated at USD 3.6 billion annually through tourism, merchandise and content exports."
+    },
+    {
+      "id": "kr_t4_015",
+      "name": "Chanel Classic Flap (medium, Seoul retail)",
+      "emoji": "👝",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 1500000,
+        "2000": 3000000,
+        "2005": 5000000,
+        "2010": 8000000,
+        "2015": 10000000,
+        "2020": 11000000,
+        "2025": 18000000
+      },
+      "fact": "Chanel raised its Korean prices 18 times between 2020 and 2022, triggering open fires and department store brawls. The Chanel price riot at Lotte Department Store in 2021 became a global news story and led to a Korean government investigation into luxury price gouging."
+    },
+    {
+      "id": "kr_t4_016",
+      "name": "Porsche Taycan (base, new, Korean retail)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 120000000,
+        "2025": 135000000
+      },
+      "fact": "South Korea is Porsche's 8th-largest market globally and its fastest-growing. Korean car buyers pay a luxury import tax making Porsches more expensive than in Germany, yet Porsche Centre Korea reports the highest customer satisfaction scores of any global market."
+    },
+    {
+      "id": "kr_t4_017",
+      "name": "Samsung Semiconductor Fab (single wafer processing cost, estimated)",
+      "emoji": "💾",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 5000000000,
+        "2025": 8000000000
+      },
+      "fact": "Samsung's semiconductor division is the world's largest memory chip maker and its fab investment in Pyeongtaek is the single largest private construction project in history at USD 300 billion. South Korea's semiconductor industry generates more export value per capita than Saudi oil."
+    },
+    {
+      "id": "kr_t4_018",
+      "name": "Jeju Island Second Home (villa purchase, sea view)",
+      "emoji": "🌊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 50000000,
+        "1995": 100000000,
+        "2000": 200000000,
+        "2005": 500000000,
+        "2010": 700000000,
+        "2015": 900000000,
+        "2020": 1200000000,
+        "2025": 2000000000
+      },
+      "fact": "Jeju Island property prices doubled between 2020 and 2023 as post-COVID remote working drove mainland Koreans to relocate. Chinese investors purchased 60% of Jeju villas between 2012 and 2015 before Korea imposed restrictions on foreign property purchases."
+    },
+    {
+      "id": "kr_t4_019",
+      "name": "Louis Vuitton Neverfull MM (Seoul, Shinsegae retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 200000,
+        "1995": 600000,
+        "2000": 1200000,
+        "2005": 2000000,
+        "2010": 3500000,
+        "2015": 4500000,
+        "2020": 5500000,
+        "2025": 7500000
+      },
+      "fact": "Shinsegae Gangnam is the world's largest single-floor luxury shopping space by revenue. Korean luxury consumers are the most brand-research-intensive shoppers globally, averaging 8 separate information sources before a purchase, a behaviour documented by McKinsey in 2023."
+    },
+    {
+      "id": "kr_t4_020",
+      "name": "K-drama Production Budget (top Netflix original, per episode)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 2000000000,
+        "2020": 10000000000,
+        "2025": 20000000000
+      },
+      "fact": "Squid Game season 2 had a per-episode budget of USD 14 million, comparable to top-tier US drama production. K-drama production budgets rose 10x in 10 years after Netflix and Disney+ bidding wars raised industry standards and Korean crew wages to Hollywood levels."
+    },
+    {
+      "id": "kr_t4_021",
+      "name": "Apartment Jeonse Deposit (2-bedroom, Mapo, Seoul)",
+      "emoji": "🏢",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 30000000,
+        "1995": 80000000,
+        "2000": 150000000,
+        "2005": 250000000,
+        "2010": 350000000,
+        "2015": 450000000,
+        "2020": 600000000,
+        "2025": 500000000
+      },
+      "fact": "Korea's jeonse system collapsed partially in 2023 when rising interest rates made it unprofitable for landlords. Thousands of tenants lost deposits when landlords couldn't repay them, the worst rental crisis in Korean history and the first jeonse systemic failure since the 1997 IMF crisis."
+    },
+    {
+      "id": "kr_t4_022",
+      "name": "Samsung 85-inch MicroLED TV (flagship, Korea price)",
+      "emoji": "🖥️",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 170000000,
+        "2025": 80000000
+      },
+      "fact": "Samsung's MicroLED technology was too expensive for mass consumers when launched in 2020 at ₽170 million, yet by 2025 prices had halved. The technology eliminates organic compounds that degrade in OLED, making MicroLED the first display technology with theoretically unlimited lifespan."
+    },
+    {
+      "id": "kr_t4_023",
+      "name": "Seoul Hannam-dong Luxury Villa (detached, purchase)",
+      "emoji": "🏰",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000000,
+        "1995": 2000000000,
+        "2000": 4000000000,
+        "2005": 8000000000,
+        "2010": 12000000000,
+        "2015": 15000000000,
+        "2020": 20000000000,
+        "2025": 30000000000
+      },
+      "fact": "A Hannam-dong detached house costs more than the most expensive addresses in Paris or London per square metre in purchasing power terms. Korea's land scarcity, with 50 million people on a peninsula the size of Portugal, drives residential prices to extremes that persistently defy government intervention."
+    },
+    {
+      "id": "kr_t4_024",
+      "name": "Annual Hagwon Total (full schedule, multiple subjects, Seoul)",
+      "emoji": "📖",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1000000,
+        "1995": 5000000,
+        "2000": 10000000,
+        "2005": 15000000,
+        "2010": 20000000,
+        "2015": 25000000,
+        "2020": 28000000,
+        "2025": 35000000
+      },
+      "fact": "A Seoul child attending three daily hagwons, as 40% of Korean students do, costs ₽35 million per year, close to median household income. The government's attempt to ban hagwons after 10pm was the most contested policy since conscription, showing Korea's unique social contract around education."
+    },
+    {
+      "id": "kr_t4_025",
+      "name": "BTS Concert Full Tour (total economic value, Korea)",
+      "emoji": "🎶",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 100000000000,
+        "2020": 500000000000,
+        "2025": 1500000000000
+      },
+      "fact": "BTS's economic impact on South Korea was assessed at USD 3.6 billion annually by the Hyundai Research Institute. Every BTS member serves the mandatory Korean military service, creating unprecedented national debate about cultural assets and civic obligations."
+    }
+  ]
+}

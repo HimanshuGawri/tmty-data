@@ -1,0 +1,1808 @@
+{
+  "country": "SA",
+  "country_name": "Saudi Arabia",
+  "currency_symbol": "﷼",
+  "currency_code": "SAR",
+  "items": [
+    {
+      "id": "sa_t1_001",
+      "name": "Arabic Coffee (qahwa, cafe, small cup)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 3.0,
+        "2025": 5.0
+      },
+      "fact": "Arabic qahwa is brewed with cardamom and saffron and is served without sugar as a sign of hospitality. Refusing a second cup is done by tilting the cup, a custom so ingrained it is taught to diplomats before visiting the Kingdom."
+    },
+    {
+      "id": "sa_t1_002",
+      "name": "Litre of Petrol (regular, 91 octane)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.16,
+        "1995": 0.16,
+        "2000": 0.16,
+        "2005": 0.16,
+        "2010": 0.16,
+        "2015": 0.16,
+        "2020": 0.67,
+        "2025": 0.75
+      },
+      "fact": "Saudi petrol cost 16 halalas per litre for 25 years, one of the world's most sustained price freezes. The 2016 subsidy reform as part of Vision 2030 quadrupled the price overnight, triggering the only significant consumer price protest in recent Saudi history."
+    },
+    {
+      "id": "sa_t1_003",
+      "name": "Falafel Wrap (street, standard)",
+      "emoji": "🧆",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 6.0
+      },
+      "fact": "Falafel shops in Riyadh and Jeddah are run almost entirely by Egyptian and Yemeni migrants. Foreign workers make up 38% of Saudi Arabia's population and supply virtually all labour in food service, construction and domestic work."
+    },
+    {
+      "id": "sa_t1_004",
+      "name": "Shawarma (chicken, street stall, single)",
+      "emoji": "🌯",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 4.0,
+        "2020": 5.0,
+        "2025": 8.0
+      },
+      "fact": "Saudi Arabia consumes more chicken per capita than almost any country. Shawarma stalls open until 3am are the primary late-night food option in every Saudi city, operating in a country where restaurants were required to have separate family sections until 2019."
+    },
+    {
+      "id": "sa_t1_005",
+      "name": "Bottle of Water (500ml, Al Ain brand, supermarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 0.75,
+        "2005": 0.75,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.0,
+        "2025": 1.5
+      },
+      "fact": "Saudi Arabia has no permanent rivers and produces most of its drinking water through desalination, running the world's largest network of desalination plants. The country spends more per capita on water production than any other nation."
+    },
+    {
+      "id": "sa_t1_006",
+      "name": "Flatbread (khubz, standard round, bakery)",
+      "emoji": "🫓",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.1,
+        "2000": 0.1,
+        "2005": 0.1,
+        "2010": 0.25,
+        "2015": 0.5,
+        "2020": 0.5,
+        "2025": 1.0
+      },
+      "fact": "Saudi flatbread was subsidised at 10 halalas for decades, unchanged since the 1970s. The subsidy made bread essentially free for 40 years before Vision 2030 reforms restructured food subsidies into direct cash transfers for lower-income households."
+    },
+    {
+      "id": "sa_t1_007",
+      "name": "Can of Pepsi (330ml, supermarket)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "Saudi Arabia is one of the world's highest per-capita soft drink consumers because alcohol is prohibited and the climate demands constant hydration. Pepsi historically outsells Coca-Cola in Saudi Arabia, the reverse of most global markets."
+    },
+    {
+      "id": "sa_t1_008",
+      "name": "Egg (single, large, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.25,
+        "2000": 0.3,
+        "2005": 0.35,
+        "2010": 0.4,
+        "2015": 0.45,
+        "2020": 0.5,
+        "2025": 0.75
+      },
+      "fact": "Saudi Arabia is self-sufficient in egg production despite the climate, using indoor industrial farms with temperature control. The country banned egg imports from several countries at various times for religious compliance reasons, making domestic production a national security priority."
+    },
+    {
+      "id": "sa_t1_009",
+      "name": "SIM Card (prepaid, basic, Zain/STC)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5.0,
+        "2005": 5.0,
+        "2010": 5.0,
+        "2015": 5.0,
+        "2020": 5.0,
+        "2025": 5.0
+      },
+      "fact": "Saudi Arabia has the Middle East's highest smartphone penetration at 97% of the adult population. The country leapfrogged fixed-line infrastructure entirely, going directly from no telecom to mobile as the primary communication method in under 20 years."
+    },
+    {
+      "id": "sa_t1_010",
+      "name": "Dates (Medjool, 200g, supermarket)",
+      "emoji": "🟤",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 9.0,
+        "2020": 10.0,
+        "2025": 9.0
+      },
+      "fact": "Saudi Arabia produces 17% of the world's dates and has 23 million date palms. During Ramadan, date consumption triples as breaking the fast with dates is a prophetic tradition followed by over a billion Muslims worldwide."
+    },
+    {
+      "id": "sa_t1_011",
+      "name": "Bus Fare (city, Riyadh Metro minimum)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 4.0,
+        "2025": 4.0
+      },
+      "fact": "Riyadh Metro opened in 2021 after 9 years of construction at a cost of SAR 56 billion, making it the most expensive metro per kilometre ever built. Before it opened, Riyadh had virtually no public transport, making car ownership the only option for 7 million residents."
+    },
+    {
+      "id": "sa_t1_012",
+      "name": "Packet of Chips (Tafaiel brand, local, 30g)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.5,
+        "2025": 2.0
+      },
+      "fact": "Saudi snack food consumption is among the highest in the Arab world, driven by a young population and a culture of indoor socialising in a hot climate. Local brands compete directly with Lay's and produce flavours including za'atar, lemon and mix grill."
+    },
+    {
+      "id": "sa_t1_013",
+      "name": "Cup of Karak Tea (milk tea, Filipino-style, cafe)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 2.5,
+        "2020": 3.0,
+        "2025": 5.0
+      },
+      "fact": "Karak chai is a spiced milk tea introduced to Saudi Arabia by South Asian workers and is now the kingdom's most-ordered hot drink by volume. The name comes from the Indian city of Kharak and its popularity reflects Saudi Arabia's deep cultural imprint from its migrant workforce."
+    },
+    {
+      "id": "sa_t1_014",
+      "name": "Hummus (small tub, supermarket, 200g)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 5.5
+      },
+      "fact": "Hummus is served at virtually every Saudi meal as a mezze staple and is considered a dietary basic alongside bread. Saudi Arabia imports most of its chickpeas from Australia and Canada, making the price sensitive to global grain markets."
+    },
+    {
+      "id": "sa_t1_015",
+      "name": "Loaf of Bread (sliced white, supermarket)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 5.5
+      },
+      "fact": "Saudi Arabia imports over 3 million tonnes of wheat annually, entirely from abroad, as domestic wheat production was phased out in 2016 to conserve groundwater. The country shifted from being a wheat exporter in the 1990s to a near-total importer within 30 years."
+    },
+    {
+      "id": "sa_t1_016",
+      "name": "Bag of Rice (basmati, 1kg, Tamimi Market)",
+      "emoji": "🍚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 8.0
+      },
+      "fact": "Saudi Arabia is the world's largest importer of basmati rice per capita. Kabsa, the national dish of slow-cooked rice with meat and spices, is prepared at every family gathering and its recipe varies between every household in the kingdom."
+    },
+    {
+      "id": "sa_t1_017",
+      "name": "Tin of Tomato Paste (standard, 400g, Panda supermarket)",
+      "emoji": "🍅",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.25,
+        "2000": 1.5,
+        "2005": 1.75,
+        "2010": 2.0,
+        "2015": 2.5,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Saudi Arabia has invested heavily in greenhouse technology to grow tomatoes domestically since 2010. Saudi tomatoes are now exported to neighbouring GCC countries, a reversal from full import dependence that was part of the kingdom's food security strategy."
+    },
+    {
+      "id": "sa_t1_018",
+      "name": "Newspaper (Arab News or Okaz, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 3.0
+      },
+      "fact": "Saudi newspapers are licensed by the government and must adhere to editorial guidelines set by the Ministry of Media. Arab News, founded in 1975, is the kingdom's primary English-language newspaper and is read by the expatriate professional community."
+    },
+    {
+      "id": "sa_t1_019",
+      "name": "Packet of Biscuits (LU / local brand, 100g)",
+      "emoji": "🍪",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.25,
+        "2000": 1.5,
+        "2005": 1.75,
+        "2010": 2.0,
+        "2015": 2.5,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Saudi Arabia's biscuit and confectionery market is dominated by imported brands despite high import duties. The country's young population, with 60% under 30, drives the highest per-capita biscuit consumption in the Arab world."
+    },
+    {
+      "id": "sa_t1_020",
+      "name": "Box of Mabrouk Chocolates (local brand, 100g)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 3.0,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 9.0
+      },
+      "fact": "Chocolate gifting is integral to Saudi Arabian hospitality culture and is mandatory at weddings, Eid celebrations and business meetings. Saudi Arabia imports over SAR 2 billion worth of chocolate annually, making it the Middle East's largest chocolate market."
+    },
+    {
+      "id": "sa_t1_021",
+      "name": "Camel Milk (litre, organic, specialty shop)",
+      "emoji": "🐪",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 9.0,
+        "2020": 9.0,
+        "2025": 18.0
+      },
+      "fact": "Premium camel milk from organically farmed camels is now sold in specialty health stores at double the supermarket price. Saudi Arabia exports camel milk to the EU and US where it commands a superfood premium."
+    },
+    {
+      "id": "sa_t1_022",
+      "name": "Tube of Tahini (sesame paste, 400g, Al Rabih)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.5,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 8.0
+      },
+      "fact": "Tahini is used as a condiment, dessert base and mezze dip and is consumed daily by most Saudi households. Saudi sesame is imported from Sudan and Ethiopia and the price correlates almost directly with rainfall in the Horn of Africa."
+    },
+    {
+      "id": "sa_t1_023",
+      "name": "Red Bull (4-pack, 250ml cans, hypermarket)",
+      "emoji": "🐂",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 3.0,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 18.0
+      },
+      "fact": "Energy drinks dominate Saudi Arabia's premium beverage sector. Saudi Arabia is the world's second-largest per-capita energy drink market after the UAE, driven by long working hours and a religious prohibition on alcohol."
+    },
+    {
+      "id": "sa_t1_024",
+      "name": "Prayer Beads (misbaha, simple plastic, souvenir)",
+      "emoji": "📿",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.0,
+        "2020": 3.0,
+        "2025": 5.0
+      },
+      "fact": "Prayer beads are used by over a billion Muslims worldwide and Saudi Arabia is the world's primary producer and exporter of quality misbaha. Amber beads from the Baltic are considered the most prestigious and can cost SAR 50,000 for a single strand."
+    },
+    {
+      "id": "sa_t1_025",
+      "name": "Stamp (domestic letter, Saudi Post)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "Saudi Arabia has no residential street addresses in the Western sense. The Wasel digital address system launched in 2017 assigns a unique code to every building, replacing a decade-long system where deliveries relied on landmark descriptions and landmarks that did not officially exist."
+    },
+    {
+      "id": "sa_t2_001",
+      "name": "McDonald's Big Mac Meal (Saudi Arabia)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 7.0,
+        "1995": 9.0,
+        "2000": 11.0,
+        "2005": 13.0,
+        "2010": 16.0,
+        "2015": 20.0,
+        "2020": 23.0,
+        "2025": 30.0
+      },
+      "fact": "McDonald's opened its first Saudi Arabia restaurant in Riyadh in 1993 and now has over 300 locations. The restaurants employ only men in customer-facing roles at many locations, a policy slowly changing under Vision 2030 social reforms."
+    },
+    {
+      "id": "sa_t2_002",
+      "name": "Kabsa Meal (restaurant, full portion, traditional)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 12.0,
+        "2000": 15.0,
+        "2005": 18.0,
+        "2010": 22.0,
+        "2015": 28.0,
+        "2020": 32.0,
+        "2025": 45.0
+      },
+      "fact": "Kabsa is Saudi Arabia's national dish and the entire restaurant category built around it generates SAR 4 billion annually. A traditional kabsa for ten people on a floor cloth requires a whole lamb, 5kg of rice and a cooking time of 4 hours."
+    },
+    {
+      "id": "sa_t2_003",
+      "name": "Cinema Ticket (VOX / AMC, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 45.0,
+        "2025": 55.0
+      },
+      "fact": "Saudi Arabia banned cinemas for 35 years until 2018 when the first licensed screening was held in Riyadh. The kingdom now has over 600 screens and is the fastest-growing cinema market in the world, with AMC and VOX racing to open new multiplexes."
+    },
+    {
+      "id": "sa_t2_004",
+      "name": "Haircut (men's, standard barber)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 8.0,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 15.0,
+        "2015": 20.0,
+        "2020": 25.0,
+        "2025": 35.0
+      },
+      "fact": "Saudi men's barbershops are the primary male social space in the kingdom. Barbers are nearly all from South Asia or the Arab world and a full service including hair, beard trim and face shave takes 45 minutes."
+    },
+    {
+      "id": "sa_t2_005",
+      "name": "Monthly Netflix Subscription (Saudi Arabia)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 38.0,
+        "2025": 55.0
+      },
+      "fact": "Netflix launched in Saudi Arabia in 2016 and immediately removed content ordered by the government, including a Patriot Act episode criticising Saudi policy on the Khashoggi killing. Saudi Arabia is now Netflix's fastest-growing Middle East market."
+    },
+    {
+      "id": "sa_t2_006",
+      "name": "Gym Membership (monthly, standard, Riyadh)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 20.0,
+        "2005": 30.0,
+        "2010": 60.0,
+        "2015": 80.0,
+        "2020": 100.0,
+        "2025": 80.0
+      },
+      "fact": "Women were banned from public gyms in Saudi Arabia until 2018 under Vision 2030 social reforms. Mixed-gender fitness facilities launched in 2019 and gym membership among Saudi women grew 400% in the following five years."
+    },
+    {
+      "id": "sa_t2_007",
+      "name": "Starbucks Latte (grande, Saudi Arabia)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 12.0,
+        "2005": 16.0,
+        "2010": 18.0,
+        "2015": 20.0,
+        "2020": 22.0,
+        "2025": 27.0
+      },
+      "fact": "Starbucks opened its first Saudi Arabia store in 2000 and now has over 400 locations. During the 2018 women's driving legalisation, a Starbucks in Riyadh went viral after removing its sign that read 'women not admitted' from its door for the first time in its history."
+    },
+    {
+      "id": "sa_t2_008",
+      "name": "Uber / Careem Ride (5km, Riyadh, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 22.0
+      },
+      "fact": "Careem, founded in Dubai in 2012, became the Middle East's first tech unicorn and was bought by Uber for $3.1 billion in 2019. Saudi Arabia was Careem's largest market and the platform was critical infrastructure for women before they were allowed to drive."
+    },
+    {
+      "id": "sa_t2_009",
+      "name": "Sushi Platter (Japengo or local chain, standard set)",
+      "emoji": "🍣",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 30.0,
+        "2005": 40.0,
+        "2010": 55.0,
+        "2015": 65.0,
+        "2020": 70.0,
+        "2025": 85.0
+      },
+      "fact": "Sushi is among the most popular restaurant categories in Saudi Arabia's major cities. The kingdom has more Japanese restaurants per capita than most European countries, driven by a wealthy urban class that travelled extensively before domestic entertainment was widely available."
+    },
+    {
+      "id": "sa_t2_010",
+      "name": "Pack of 20 Cigarettes (Marlboro Saudi)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 5.0,
+        "2000": 7.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Saudi Arabia introduced a 100% excise tax on tobacco in 2017 as part of Vision 2030 health reforms. Cigarette prices more than doubled overnight, yet Saudi Arabia still has a smoking rate of 21% of adult men."
+    },
+    {
+      "id": "sa_t2_011",
+      "name": "Monthly Mobile Plan (STC, unlimited data)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50.0,
+        "2005": 60.0,
+        "2010": 70.0,
+        "2015": 80.0,
+        "2020": 70.0,
+        "2025": 65.0
+      },
+      "fact": "Saudi Arabia has the Arab world's most competitive mobile market. STC, Mobily and Zain compete aggressively and prices fell 40% between 2015 and 2025. Saudi users average 14GB of mobile data per month, the highest in the Arab world."
+    },
+    {
+      "id": "sa_t2_012",
+      "name": "Al Baik Bucket (fried chicken, 6 pieces)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 14.0,
+        "2000": 16.0,
+        "2005": 18.0,
+        "2010": 20.0,
+        "2015": 22.0,
+        "2020": 24.0,
+        "2025": 27.0
+      },
+      "fact": "Al Baik is Saudi Arabia's most-loved fast food chain and beats KFC and McDonald's combined in brand loyalty surveys. It operates only in Saudi Arabia and has queues at its 200 outlets despite starting as a small Jeddah restaurant in 1974."
+    },
+    {
+      "id": "sa_t2_013",
+      "name": "Monthly Spotify Subscription (Saudi Arabia)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 19.99,
+        "2025": 20.99
+      },
+      "fact": "Spotify launched in Saudi Arabia in 2018, the same year cinemas reopened. Arabic music streaming exploded and Saudi Arabia is now Spotify's fastest-growing market globally by new subscriber additions."
+    },
+    {
+      "id": "sa_t2_014",
+      "name": "Barbican Non-Alcoholic Beer (330ml, single, supermarket)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 8.0,
+        "2025": 9.0
+      },
+      "fact": "Barbican non-alcoholic malt drink is the closest legal equivalent to beer in Saudi Arabia and is the kingdom's best-selling premium cold beverage. It was created specifically for the Gulf market and is now exported to over 50 countries."
+    },
+    {
+      "id": "sa_t2_015",
+      "name": "Book (Arabic bestseller, standard paperback)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 12.0,
+        "2000": 15.0,
+        "2005": 18.0,
+        "2010": 22.0,
+        "2015": 25.0,
+        "2020": 28.0,
+        "2025": 35.0
+      },
+      "fact": "Saudi Arabia hosted the Riyadh International Book Fair for the first time in 1979 and it is now the Arab world's largest book event. Reading rates among Saudis surged 60% after smartphones spread literacy-enabling technology to previously underserved rural areas."
+    },
+    {
+      "id": "sa_t2_016",
+      "name": "Mutabbaq (stuffed pancake, street, standard)",
+      "emoji": "🥞",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Mutabbaq, a folded stuffed pancake filled with egg, meat or banana and honey for dessert, is Jeddah's most popular street food. The Yemeni version in Al Balad, Jeddah's UNESCO heritage district, uses a recipe unchanged for over 200 years."
+    },
+    {
+      "id": "sa_t2_017",
+      "name": "Lahmacun (Turkish flatbread pizza, Turkish restaurant)",
+      "emoji": "🍕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.0,
+        "2000": 6.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 14.0,
+        "2025": 20.0
+      },
+      "fact": "Turkish cuisine is the most popular non-Saudi cuisine in the kingdom and Turkish restaurants outnumber Italian restaurants 5 to 1. Saudi-Turkish cultural ties strengthened significantly during the 2010s as Turkish soap operas became the most watched foreign content on Saudi TV."
+    },
+    {
+      "id": "sa_t2_018",
+      "name": "Harees (wheat and meat porridge, Ramadan restaurant)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 7.0,
+        "2000": 9.0,
+        "2005": 12.0,
+        "2010": 15.0,
+        "2015": 18.0,
+        "2020": 22.0,
+        "2025": 30.0
+      },
+      "fact": "Harees is a slow-cooked wheat and meat porridge eaten almost exclusively during Ramadan and Eid in Saudi Arabia. Restaurants that specialise in Ramadan dishes operate at full capacity only during the holy month and otherwise remain closed."
+    },
+    {
+      "id": "sa_t2_019",
+      "name": "Soft Drink (Vimto cordial, 710ml bottle, supermarket)",
+      "emoji": "🟣",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.0,
+        "2000": 7.0,
+        "2005": 8.0,
+        "2010": 9.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 16.0
+      },
+      "fact": "Vimto, the British blackcurrant cordial, sells more in Saudi Arabia during Ramadan than in the UK for the entire year. It became the traditional Ramadan iftar drink in the Gulf in the 1920s when British traders introduced it and it has never been displaced."
+    },
+    {
+      "id": "sa_t2_020",
+      "name": "Kung Fu Tea / Bubble Tea (Riyadh mall, standard)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 15.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 25.0
+      },
+      "fact": "Mall culture is the cornerstone of Saudi social life, particularly for young women who had few other public spaces before Vision 2030. Saudi Arabia's malls average 40% higher foot traffic per square metre than malls in the US, driven by climate, culture and limited alternatives."
+    },
+    {
+      "id": "sa_t2_021",
+      "name": "Camel Burger (speciality restaurant, Riyadh)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 20.0,
+        "2010": 28.0,
+        "2015": 35.0,
+        "2020": 40.0,
+        "2025": 55.0
+      },
+      "fact": "Camel meat restaurants emerged as a premium dining category in Saudi Arabia after 2010. Saudi camel meat is leaner than beef and considered a delicacy. A camel sells for SAR 10,000 to SAR 500,000 depending on bloodline, making camel burgers the most expensive protein-per-kilo in the kingdom."
+    },
+    {
+      "id": "sa_t2_022",
+      "name": "Oud Incense (small portion, souk, Riyadh)",
+      "emoji": "🪵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 15.0,
+        "2000": 20.0,
+        "2005": 25.0,
+        "2010": 30.0,
+        "2015": 35.0,
+        "2020": 40.0,
+        "2025": 50.0
+      },
+      "fact": "Oud wood incense is burned at every Saudi social occasion as a mark of hospitality. Saudi Arabia imports most oud from Cambodia and Indonesia and is the world's largest consumer of oud products, spending over SAR 10 billion annually on incense, perfume and oud chips."
+    },
+    {
+      "id": "sa_t2_023",
+      "name": "Box of Dates (Sukkari premium, 500g, gift box)",
+      "emoji": "🟤",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 15.0,
+        "1995": 20.0,
+        "2000": 25.0,
+        "2005": 30.0,
+        "2010": 40.0,
+        "2015": 50.0,
+        "2020": 55.0,
+        "2025": 65.0
+      },
+      "fact": "Sukkari dates from Al Qassim are Saudi Arabia's most prized variety and are given as the most meaningful gift a Saudi can offer. Premium date boxes are used in diplomacy and it is customary for heads of state visiting Riyadh to receive a kilogram of Sukkari as a formal gift."
+    },
+    {
+      "id": "sa_t2_024",
+      "name": "Saudi Coffee Set (dallah and cups, souvenir quality)",
+      "emoji": "🫖",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 25.0,
+        "2000": 30.0,
+        "2005": 35.0,
+        "2010": 40.0,
+        "2015": 45.0,
+        "2020": 50.0,
+        "2025": 65.0
+      },
+      "fact": "The dallah coffee pot is the official symbol on the Saudi riyal note and appears in the national emblem of several Gulf states. A silver dallah made by a master craftsman in the Riyadh souk can cost SAR 5,000 and is considered a heirloom wedding gift."
+    },
+    {
+      "id": "sa_t2_025",
+      "name": "Litre of Petrol (premium, 95 octane)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.2,
+        "2000": 0.2,
+        "2005": 0.2,
+        "2010": 0.2,
+        "2015": 0.45,
+        "2020": 1.1,
+        "2025": 1.29
+      },
+      "fact": "Even after Vision 2030 subsidy reforms, Saudi premium petrol at SAR 1.29 per litre is among the cheapest in the world. Saudi Aramco, the world's most profitable company, effectively subsidises domestic fuel as a social contract with its citizens."
+    },
+    {
+      "id": "sa_t3_001",
+      "name": "Round Trip Domestic Flight (Riyadh to Jeddah, economy)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 250.0,
+        "2000": 280.0,
+        "2005": 300.0,
+        "2010": 350.0,
+        "2015": 400.0,
+        "2020": 350.0,
+        "2025": 500.0
+      },
+      "fact": "Riyadh to Jeddah is the Arab world's busiest domestic route. Saudi has no intercity rail alternative for this route and the Haramain High Speed Railway from Jeddah to Mecca and Medina does not serve Riyadh, keeping aviation dominant."
+    },
+    {
+      "id": "sa_t3_002",
+      "name": "iPhone 16 (standard, 128GB, Saudi Arabia)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1800.0,
+        "2015": 2400.0,
+        "2020": 3200.0,
+        "2025": 3799.0
+      },
+      "fact": "Saudi Arabia is Apple's largest market in the Middle East. iPhones are cheaper in Saudi Arabia than in the UK or Australia because there is no import duty on electronics and VAT is only 15%, below European equivalents."
+    },
+    {
+      "id": "sa_t3_003",
+      "name": "Traditional Thobe (white, tailored, Riyadh)",
+      "emoji": "👘",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 120.0,
+        "2000": 150.0,
+        "2005": 200.0,
+        "2010": 250.0,
+        "2015": 320.0,
+        "2020": 380.0,
+        "2025": 500.0
+      },
+      "fact": "A custom thobe from a Riyadh tailor costs SAR 500 and is worn by Saudi men daily for all occasions. The thobe market generates SAR 8 billion annually and fashion houses including Valentino and Gucci have launched thobe collections targeting the Saudi market."
+    },
+    {
+      "id": "sa_t3_004",
+      "name": "Annual Gym Membership (elite club, Riyadh)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 300.0,
+        "2005": 500.0,
+        "2010": 800.0,
+        "2015": 1200.0,
+        "2020": 1800.0,
+        "2025": 3000.0
+      },
+      "fact": "Elite gyms in Riyadh charge SAR 3,000 annually and attract Saudi nationals who see fitness as both health and social activity. The Saudi Sports Authority reported 40% growth in gym registrations between 2018 and 2023 after the social reforms opening sports to women."
+    },
+    {
+      "id": "sa_t3_005",
+      "name": "Hotel Night (5-star, Riyadh, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 280.0,
+        "2000": 350.0,
+        "2005": 450.0,
+        "2010": 600.0,
+        "2015": 700.0,
+        "2020": 600.0,
+        "2025": 900.0
+      },
+      "fact": "Riyadh now has 15 of the world's top 100 hotels by revenue per room. The city's hotel occupancy rate reached 72% in 2024, up from 48% in 2019, as domestic tourism, conferences and the Formula 1 street race drew visitors from across the Arab world."
+    },
+    {
+      "id": "sa_t3_006",
+      "name": "Monthly Home Internet (fibre, STC, 500Mbps)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 300.0,
+        "2015": 250.0,
+        "2020": 200.0,
+        "2025": 200.0
+      },
+      "fact": "Saudi Arabia has 98% fibre broadband coverage in urban areas, among the highest in the world. The rollout was government-funded as part of Vision 2030's digital economy push, making Saudi Arabia's internet infrastructure comparable to South Korea."
+    },
+    {
+      "id": "sa_t3_007",
+      "name": "Oud Perfume (pure, 3ml, Ahmed Al Maghribi)",
+      "emoji": "🌹",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 150.0,
+        "2000": 200.0,
+        "2005": 250.0,
+        "2010": 350.0,
+        "2015": 450.0,
+        "2020": 550.0,
+        "2025": 700.0
+      },
+      "fact": "Saudi Arabia is the world's largest consumer of perfume per capita. Pure oud oil can cost SAR 50,000 per millilitre for the finest Cambodian agarwood. Perfume is an essential social tool in the kingdom, with gifting high-end scents a standard part of business culture."
+    },
+    {
+      "id": "sa_t3_008",
+      "name": "Annual Car Insurance (comprehensive, Toyota Camry)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 800.0,
+        "1995": 900.0,
+        "2000": 1000.0,
+        "2005": 1100.0,
+        "2010": 1200.0,
+        "2015": 1500.0,
+        "2020": 1800.0,
+        "2025": 2500.0
+      },
+      "fact": "Saudi Arabia has one of the world's highest road accident rates, with 17 deaths per 100,000 people versus 4 in Germany. Car insurance premiums rose 66% in two years after Vision 2030 mandated compulsory coverage for all vehicles in 2016."
+    },
+    {
+      "id": "sa_t3_009",
+      "name": "Umrah Package (economy, 5 nights, Mecca hotel)",
+      "emoji": "🕌",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1000.0,
+        "2000": 1200.0,
+        "2005": 1400.0,
+        "2010": 1800.0,
+        "2015": 2000.0,
+        "2020": 1500.0,
+        "2025": 3000.0
+      },
+      "fact": "Umrah, the lesser pilgrimage, was opened to year-round visitors and Saudi Arabia targets 30 million Umrah pilgrims annually by 2030. Mecca hotel prices triple during Ramadan and the first 10 days of Dhul Hijjah, making religious tourism the kingdom's fastest-growing revenue source."
+    },
+    {
+      "id": "sa_t3_010",
+      "name": "Xbox Series S (Saudi retail)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1199.0,
+        "2025": 1099.0
+      },
+      "fact": "Saudi Arabia is the Arab world's largest gaming market, spending SAR 6 billion annually. The Saudi Public Investment Fund owns stakes in Nintendo, Activision Blizzard and Electronic Arts, making the kingdom one of the largest sovereign investors in the global gaming industry."
+    },
+    {
+      "id": "sa_t3_011",
+      "name": "Ramadan Iftar Buffet (5-star hotel, per person)",
+      "emoji": "🌙",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 120.0,
+        "2000": 160.0,
+        "2005": 200.0,
+        "2010": 280.0,
+        "2015": 350.0,
+        "2020": 300.0,
+        "2025": 500.0
+      },
+      "fact": "Ramadan iftar buffets at five-star hotels are Saudi Arabia's highest-grossing single food service event, with tables booked months in advance. A hotel like the Ritz-Carlton Riyadh serves 1,500 guests simultaneously at a single iftar sitting during peak Ramadan."
+    },
+    {
+      "id": "sa_t3_012",
+      "name": "Arabic Calligraphy (framed piece, souk, Jeddah)",
+      "emoji": "🎨",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 150.0,
+        "2000": 200.0,
+        "2005": 250.0,
+        "2010": 350.0,
+        "2015": 450.0,
+        "2020": 500.0,
+        "2025": 700.0
+      },
+      "fact": "Arabic calligraphy is a UNESCO Intangible Cultural Heritage and Saudi artists command premiums that rival Western abstract painters at Sotheby's. The Art Dubai fair regularly records multi-million SAR sales of contemporary Saudi calligraphy art."
+    },
+    {
+      "id": "sa_t3_013",
+      "name": "PlayStation 5 (disc edition, Saudi retail)",
+      "emoji": "🕹️",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1999.0,
+        "2025": 1899.0
+      },
+      "fact": "Saudi Arabia is among the top 10 PlayStation markets globally. The PIF-backed Savvy Games Group invested SAR 50 billion in gaming companies in 2022, making Saudi Arabia the world's most aggressive sovereign investor in the games industry."
+    },
+    {
+      "id": "sa_t3_014",
+      "name": "Traditional Majlis Seating Set (floor cushions, lounge)",
+      "emoji": "🛋️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 900.0,
+        "2005": 1200.0,
+        "2010": 1500.0,
+        "2015": 1800.0,
+        "2020": 2000.0,
+        "2025": 2500.0
+      },
+      "fact": "The majlis, a formal reception room for guests, is the most culturally significant room in a Saudi home. Families spend more on majlis furnishings than any other room, and the quality of the majlis seating is a social signal of family status read immediately by visitors."
+    },
+    {
+      "id": "sa_t3_015",
+      "name": "Annual Private School Fees (average, Riyadh, SAR/year)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 7000.0,
+        "2000": 10000.0,
+        "2005": 15000.0,
+        "2010": 20000.0,
+        "2015": 25000.0,
+        "2020": 28000.0,
+        "2025": 35000.0
+      },
+      "fact": "Private school fees in Saudi Arabia are capped by government regulation at different levels per grade. Public schools are free for Saudi nationals and staffed almost entirely by Egyptian and Jordanian teachers, while elite private schools draw the children of senior government officials and business families."
+    },
+    {
+      "id": "sa_t3_016",
+      "name": "MacBook Air M2 (Saudi retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 4000.0,
+        "2015": 4200.0,
+        "2020": 4400.0,
+        "2025": 4699.0
+      },
+      "fact": "Saudi Arabia has no import duty on electronics, making it one of the cheapest places to buy Apple products in the Arab world. Saudis regularly purchase laptops and phones for relatives in countries with higher duties, a grey market that generates SAR 2 billion annually."
+    },
+    {
+      "id": "sa_t3_017",
+      "name": "Monthly Apartment Rent (2-bedroom, Riyadh, Al Malaz)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 1500.0,
+        "2000": 2000.0,
+        "2005": 3000.0,
+        "2010": 4000.0,
+        "2015": 4500.0,
+        "2020": 3000.0,
+        "2025": 4500.0
+      },
+      "fact": "Riyadh apartment rents fell 30% between 2015 and 2020 as a government decree allowed women to head households and rent independently, immediately doubling the supply of tenants and forcing landlords to compete. Rents recovered fully by 2024 as population growth resumed."
+    },
+    {
+      "id": "sa_t3_018",
+      "name": "Rolex-Grade Saudi Watch (imitation, souk Jeddah)",
+      "emoji": "⌚",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 300.0,
+        "2000": 400.0,
+        "2005": 500.0,
+        "2010": 600.0,
+        "2015": 700.0,
+        "2020": 800.0,
+        "2025": 1000.0
+      },
+      "fact": "Old Jeddah souk has sold high-quality replica watches since the 1970s and customs tolerance for personal-use imports is widely known. Saudi Arabia imported SAR 3 billion in genuine luxury watches in 2023 as rising incomes shifted buyers from replicas to originals."
+    },
+    {
+      "id": "sa_t3_019",
+      "name": "Formula 1 Jeddah GP Ticket (general grandstand, 3-day)",
+      "emoji": "🏎️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 1500.0
+      },
+      "fact": "The Saudi Arabian Grand Prix launched in 2021 in Jeddah on a street circuit along the corniche. Saudi Arabia paid F1 a reported SAR 1.5 billion over 10 years, and the race is part of a wider strategy to host 100 major international sporting events per year by 2030."
+    },
+    {
+      "id": "sa_t3_020",
+      "name": "Premium Camel (racing quality, auction, young)",
+      "emoji": "🐪",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 8000.0,
+        "2000": 10000.0,
+        "2005": 20000.0,
+        "2010": 30000.0,
+        "2015": 50000.0,
+        "2020": 60000.0,
+        "2025": 80000.0
+      },
+      "fact": "The Saudi Camel Festival offers SAR 66 million in prizes and racing camels now have GPS speed trackers and robot jockeys. A top-bloodline camel sold for SAR 18 million at auction in 2021, making it worth more per kilogram than gold."
+    },
+    {
+      "id": "sa_t3_021",
+      "name": "Wedding Mahr (bride gift, gold, standard amount)",
+      "emoji": "💍",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 8000.0,
+        "2000": 10000.0,
+        "2005": 15000.0,
+        "2010": 20000.0,
+        "2015": 25000.0,
+        "2020": 25000.0,
+        "2025": 30000.0
+      },
+      "fact": "The mahr is a mandatory Islamic marriage gift from groom to bride and is a legally binding component of the marriage contract. Saudi Arabia set a maximum mahr of SAR 50,000 in 2021 to encourage marriage among young people struggling with rising costs."
+    },
+    {
+      "id": "sa_t3_022",
+      "name": "Annual Health Insurance (private, comprehensive, expat)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 1000.0,
+        "2005": 2000.0,
+        "2010": 3000.0,
+        "2015": 4000.0,
+        "2020": 5000.0,
+        "2025": 7000.0
+      },
+      "fact": "Saudi Arabia mandates private health insurance for all foreign workers, paid by the employer. This makes Saudi Arabia one of the few countries where the private health insurance market exists almost entirely to serve a non-citizen workforce of 12 million people."
+    },
+    {
+      "id": "sa_t3_023",
+      "name": "Gold Bangle (22K, 10g, Riyadh Gold Souk)",
+      "emoji": "💛",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 650.0,
+        "2000": 700.0,
+        "2005": 1000.0,
+        "2010": 1800.0,
+        "2015": 2000.0,
+        "2020": 3200.0,
+        "2025": 5500.0
+      },
+      "fact": "Saudi Arabia is the Arab world's largest gold jewellery market with annual sales of SAR 15 billion. Gold bangles are the primary store of wealth for Saudi women and are worn daily, unlike in most cultures where gold jewellery is saved for occasions."
+    },
+    {
+      "id": "sa_t3_024",
+      "name": "LIV Golf Ticket (premium, Jeddah event, 1 day)",
+      "emoji": "⛳",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 500.0
+      },
+      "fact": "LIV Golf was launched with SAR 7.5 billion in Saudi PIF funding in 2021 and created professional golf's biggest commercial rupture since the Tour's founding. Players were offered guaranteed contracts worth SAR 150 million, more than most athletes earn in a career."
+    },
+    {
+      "id": "sa_t3_025",
+      "name": "Toyota Land Cruiser Service (full, dealer, 100,000km)",
+      "emoji": "🔧",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 1500.0,
+        "2010": 2000.0,
+        "2015": 2500.0,
+        "2020": 3000.0,
+        "2025": 3500.0
+      },
+      "fact": "The Toyota Land Cruiser is Saudi Arabia's most popular vehicle and is considered an essential desert survival tool. Saudi military units operate entire fleets of Land Cruisers and mechanics who specialise in Land Cruiser desert repair earn among the highest wages in the trades sector."
+    },
+    {
+      "id": "sa_t4_001",
+      "name": "Toyota Land Cruiser 300 (new, base, Saudi retail)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 70000.0,
+        "2000": 90000.0,
+        "2005": 120000.0,
+        "2010": 150000.0,
+        "2015": 180000.0,
+        "2020": 220000.0,
+        "2025": 280000.0
+      },
+      "fact": "The Toyota Land Cruiser has a 12-month waiting list in Saudi Arabia and is the only vehicle where Saudi dealers have ever had official government allocation requests. Its resale value exceeds purchase price in some years because demand chronically exceeds supply."
+    },
+    {
+      "id": "sa_t4_002",
+      "name": "Gold (troy ounce, SAR, Riyadh spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 1500.0,
+        "2000": 1050.0,
+        "2005": 1700.0,
+        "2010": 4700.0,
+        "2015": 4700.0,
+        "2020": 7200.0,
+        "2025": 11500.0
+      },
+      "fact": "Saudi Arabia pegs the riyal to the US dollar at 3.75, unchanged since 1986. This peg means gold prices in SAR move in perfect lockstep with the dollar price, giving Saudi gold investors zero currency risk but full exposure to US monetary policy."
+    },
+    {
+      "id": "sa_t4_003",
+      "name": "iPhone 16 Pro Max (256GB, Saudi retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 3800.0,
+        "2020": 4699.0,
+        "2025": 10999.0
+      },
+      "fact": "Saudi Arabia has no Apple import duty and 15% VAT, making it one of the cheapest places to buy iPhones in the Arab world. Saudi nationals regularly carry two phones, one for work and personal use and one for family, a custom that makes Saudi Arabia Apple's highest multi-device market."
+    },
+    {
+      "id": "sa_t4_004",
+      "name": "Annual Private School Fees (elite international, Riyadh)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 20000.0,
+        "2000": 30000.0,
+        "2005": 45000.0,
+        "2010": 60000.0,
+        "2015": 75000.0,
+        "2020": 90000.0,
+        "2025": 110000.0
+      },
+      "fact": "The American International School of Riyadh charges SAR 110,000 per year and has a 3-year waiting list. Saudi parents who want their children educated in English compete with the families of 120,000 diplomatic and corporate expats for the same limited seats."
+    },
+    {
+      "id": "sa_t4_005",
+      "name": "Luxury Villa Rental (Riyadh, monthly, 5-bedroom)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 25000.0,
+        "2010": 35000.0,
+        "2015": 40000.0,
+        "2020": 30000.0,
+        "2025": 50000.0
+      },
+      "fact": "Riyadh villa rents for senior executives and diplomats are paid annually in advance as a single cheque, a tradition from a pre-banking era that persists as a cultural norm. The advance payment system means landlords receive a year's rent before the tenant moves in."
+    },
+    {
+      "id": "sa_t4_006",
+      "name": "Rolex Submariner (new retail, Saudi Arabia)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 11000.0,
+        "2000": 14000.0,
+        "2005": 18000.0,
+        "2010": 24000.0,
+        "2015": 28000.0,
+        "2020": 32000.0,
+        "2025": 40000.0
+      },
+      "fact": "Saudi Arabia is the largest luxury watch market in the Middle East by volume. Rolex authorised dealers in Riyadh and Jeddah report waitlists of 18 to 36 months. Watches are the primary luxury gift at graduation, marriage and promotion in Saudi business culture."
+    },
+    {
+      "id": "sa_t4_007",
+      "name": "Mercedes-Benz S-Class (S500, new, Saudi retail)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 120000.0,
+        "1995": 160000.0,
+        "2000": 200000.0,
+        "2005": 250000.0,
+        "2010": 320000.0,
+        "2015": 400000.0,
+        "2020": 480000.0,
+        "2025": 600000.0
+      },
+      "fact": "Saudi Arabia is the world's highest per-capita market for Mercedes S-Class and Toyota Land Cruiser simultaneously. The fleet-buying habits of royal family members create single purchase orders worth hundreds of millions that distort the national sales statistics."
+    },
+    {
+      "id": "sa_t4_008",
+      "name": "Haj Package (economy, official Saudi quota, 10 days)",
+      "emoji": "🕋",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 7000.0,
+        "2000": 9000.0,
+        "2005": 12000.0,
+        "2010": 15000.0,
+        "2015": 18000.0,
+        "2020": 0,
+        "2025": 25000.0
+      },
+      "fact": "Haj is the world's largest annual human gathering with 2.5 million pilgrims. Saudi Arabia caps foreign pilgrim numbers and the waiting time in many Muslim-majority countries now exceeds 40 years, making a Haj invitation the most sought-after religious document in the world."
+    },
+    {
+      "id": "sa_t4_009",
+      "name": "Formula 1 Jeddah GP VIP Suite (per person, race day)",
+      "emoji": "🏁",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 15000.0
+      },
+      "fact": "The Jeddah Corniche Circuit is F1's fastest street circuit, with average lap speeds of 252km/h. Saudi Arabia's F1 hosting contract ensures no qualifying session can be blocked by prayer times, a schedule concession that required specific Saudi government approval."
+    },
+    {
+      "id": "sa_t4_010",
+      "name": "NEOM Land (development zone, early stage, per sqm)",
+      "emoji": "🌆",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 2000.0,
+        "2025": 9000.0
+      },
+      "fact": "NEOM, the SAR 2 trillion futuristic city being built in northwest Saudi Arabia, is the world's most expensive single construction project. The Line, its most ambitious component, is a 170km mirrored linear city that has no cars, no roads and no carbon emissions by design."
+    },
+    {
+      "id": "sa_t4_011",
+      "name": "Full Traditional Wedding (Saudi, men's and women's parties)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 30000.0,
+        "1995": 50000.0,
+        "2000": 80000.0,
+        "2005": 120000.0,
+        "2010": 150000.0,
+        "2015": 200000.0,
+        "2020": 180000.0,
+        "2025": 300000.0
+      },
+      "fact": "Saudi weddings are held as separate celebrations for men and women and both events are expected to be equally lavish. The average cost of SAR 300,000 is close to the annual salary of a government employee, and debt from weddings is Saudi Arabia's most common personal finance problem."
+    },
+    {
+      "id": "sa_t4_012",
+      "name": "Luxury Oud Perfume (Amouage Gold, 100ml)",
+      "emoji": "🌹",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1200.0,
+        "2000": 1600.0,
+        "2005": 2200.0,
+        "2010": 3000.0,
+        "2015": 4000.0,
+        "2020": 5500.0,
+        "2025": 8000.0
+      },
+      "fact": "Amouage was founded by the Omani royal family but its market is primarily Saudi Arabia. Its Gold pour Homme was once called the world's most expensive perfume at launch and it established Arabian luxury perfumery as a serious alternative to French haute parfumerie."
+    },
+    {
+      "id": "sa_t4_013",
+      "name": "Aramco Employee Housing (annual value, senior staff)",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 30000.0,
+        "1995": 40000.0,
+        "2000": 50000.0,
+        "2005": 70000.0,
+        "2010": 90000.0,
+        "2015": 110000.0,
+        "2020": 120000.0,
+        "2025": 150000.0
+      },
+      "fact": "Saudi Aramco provides free housing, schooling and healthcare to its employees in dedicated compounds in Dhahran. The Aramco compound is effectively a small American suburb in the Eastern Province, with its own golf course, bowling alley and cinema that predates the national cinema reopening by 50 years."
+    },
+    {
+      "id": "sa_t4_014",
+      "name": "Mecca Hotel Room (Abraj Al-Bait Towers, per night, Haj season)",
+      "emoji": "🕌",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 2000.0,
+        "2010": 5000.0,
+        "2015": 8000.0,
+        "2020": 4000.0,
+        "2025": 12000.0
+      },
+      "fact": "The Abraj Al-Bait Towers adjacent to the Masjid al-Haram are the world's most expensive hotel rooms by religious demand premium. During Haj season the clock tower suites with a Kaaba view command SAR 50,000 per night, the highest room rate of any hotel in the Arab world."
+    },
+    {
+      "id": "sa_t4_015",
+      "name": "Private Flight Charter (Riyadh to Dubai, light jet)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 20000.0,
+        "2000": 25000.0,
+        "2005": 35000.0,
+        "2010": 45000.0,
+        "2015": 55000.0,
+        "2020": 50000.0,
+        "2025": 70000.0
+      },
+      "fact": "Saudi Arabia has the Arab world's largest private aviation fleet with over 800 registered private aircraft. The Riyadh to Dubai corridor is the most flown private jet route in the Middle East, serviced by a dedicated private terminal at King Khalid International that processes 200 private departures daily."
+    },
+    {
+      "id": "sa_t4_016",
+      "name": "Annual Royal Court Gift Budget (senior official, estimated)",
+      "emoji": "🎁",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 150000.0,
+        "2000": 200000.0,
+        "2005": 300000.0,
+        "2010": 400000.0,
+        "2015": 500000.0,
+        "2020": 450000.0,
+        "2025": 600000.0
+      },
+      "fact": "Gift-giving in Saudi Arabia is a formal obligation at every level of government. Foreign heads of state receive gifts that include gold-inlaid swords, camels and Quran manuscripts. The estimated annual royal gift budget exceeds the GDP of some small nations."
+    },
+    {
+      "id": "sa_t4_017",
+      "name": "Rolls-Royce Phantom (new, Saudi retail)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 250000.0,
+        "1995": 350000.0,
+        "2000": 500000.0,
+        "2005": 700000.0,
+        "2010": 900000.0,
+        "2015": 1200000.0,
+        "2020": 1500000.0,
+        "2025": 2000000.0
+      },
+      "fact": "Saudi Arabia is Rolls-Royce's largest market in the Middle East and its third-largest globally. Rolls-Royce Phantoms customised with Arabic calligraphy inlay and gold trim for the Saudi market command a 40% bespoke premium above the standard vehicle price."
+    },
+    {
+      "id": "sa_t4_018",
+      "name": "Falconry Bird (Saker falcon, mid-grade, Saudi auction)",
+      "emoji": "🦅",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 30000.0,
+        "2000": 50000.0,
+        "2005": 80000.0,
+        "2010": 120000.0,
+        "2015": 150000.0,
+        "2020": 180000.0,
+        "2025": 250000.0
+      },
+      "fact": "Falconry is a UNESCO Intangible Cultural Heritage practice in Saudi Arabia and a falcon passport allows Saudi falconers to travel to 33 countries with their birds. Rare white Gyrfalcons sell for over SAR 1 million at the Riyadh falcon souk, making them among the world's most expensive birds."
+    },
+    {
+      "id": "sa_t4_019",
+      "name": "Luxury Desert Camp (Al Fula Heritage, 2 nights, per person)",
+      "emoji": "🌙",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 2000.0,
+        "2015": 3000.0,
+        "2020": 3500.0,
+        "2025": 8000.0
+      },
+      "fact": "Saudi Arabia launched domestic tourism as a Vision 2030 priority and luxury desert experiences grew from nothing to a SAR 5 billion industry in 10 years. Hegra, Saudi Arabia's first UNESCO World Heritage Site, received its first tourist visa in 2019 after 2,000 years of restricted access."
+    },
+    {
+      "id": "sa_t4_020",
+      "name": "Premier League Football Player (Saudi Pro League, annual fee equiv.)",
+      "emoji": "⚽",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 200000000.0
+      },
+      "fact": "The Saudi Pro League signed Cristiano Ronaldo for SAR 750 million per year in 2023, making him the world's highest-paid athlete by salary. The league subsequently signed Neymar, Benzema and Firmino, spending SAR 5 billion in a single transfer window."
+    },
+    {
+      "id": "sa_t4_021",
+      "name": "Saudi Aramco IPO Share Value (1000 shares at peak 2022)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 35200.0,
+        "2025": 32500.0
+      },
+      "fact": "Saudi Aramco's IPO in 2019 raised SAR 90 billion and briefly made it the world's most valuable company at SAR 7.5 trillion. At peak in 2022 every barrel of oil produced for less than SAR 10 was sold for SAR 380, the largest unit profit margin of any product in industrial history."
+    },
+    {
+      "id": "sa_t4_022",
+      "name": "Hermes Birkin Bag (30cm, Togo, Saudi retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 25000.0,
+        "2010": 38000.0,
+        "2015": 48000.0,
+        "2020": 58000.0,
+        "2025": 82000.0
+      },
+      "fact": "Saudi Arabia is one of Hermes' fastest-growing markets as rising female independence under Vision 2030 created a luxury spending segment almost overnight. Saudi women spent SAR 120 billion on luxury goods in 2023, a figure that did not meaningfully exist in 2017."
+    },
+    {
+      "id": "sa_t4_023",
+      "name": "Neom Suite (The Line concept hotel, projected, per night)",
+      "emoji": "🌃",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 15000.0
+      },
+      "fact": "NEOM's hospitality concept envisions hotel rooms inside The Line's mirrored walls with views of either the desert or a 500-metre-high indoor park. The project has no completion date and has spent SAR 300 billion so far, making it history's most expensive city construction project per resident capacity."
+    },
+    {
+      "id": "sa_t4_024",
+      "name": "Al Faisaliah Tower Penthouse (Riyadh, annual rent)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 100000.0,
+        "2005": 150000.0,
+        "2010": 250000.0,
+        "2015": 350000.0,
+        "2020": 300000.0,
+        "2025": 500000.0
+      },
+      "fact": "The Al Faisaliah Tower was Saudi Arabia's first skyscraper, completed in 2000, and its Globe restaurant at the top was the first restaurant visible from orbit. Riyadh has since built 11 taller buildings and plans a 600-metre tower for 2030."
+    },
+    {
+      "id": "sa_t4_025",
+      "name": "Amaala Luxury Resort Package (opening 2026, projected, 5 nights)",
+      "emoji": "🏖️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 50000.0
+      },
+      "fact": "Amaala is a luxury wellness resort being built on 4,155 square kilometres of Red Sea coastline targeting ultra-high-net-worth visitors. At SAR 50,000 for 5 nights it will be the world's most expensive resort at opening, competing with Maldives private islands and French Polynesia."
+    }
+  ]
+}

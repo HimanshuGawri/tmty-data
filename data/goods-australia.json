@@ -1,0 +1,1808 @@
+{
+  "country": "AU",
+  "country_name": "Australia",
+  "currency_symbol": "A$",
+  "currency_code": "AUD",
+  "items": [
+    {
+      "id": "au_t1_001",
+      "name": "Flat White (cafe)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.8,
+        "2000": 2.2,
+        "2005": 2.8,
+        "2010": 3.2,
+        "2015": 3.8,
+        "2020": 4.2,
+        "2025": 5.5
+      },
+      "fact": "Australia invented the flat white and still argues with New Zealand about it. At $5.50 it remains cheaper than a London equivalent despite Australia having some of the world's highest barista wages."
+    },
+    {
+      "id": "au_t1_002",
+      "name": "Vegemite (200g jar)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.6,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.2,
+        "2015": 3.8,
+        "2020": 4.2,
+        "2025": 5.5
+      },
+      "fact": "Vegemite was invented in Melbourne in 1922 when a chemist was asked to create a spread from leftover brewer's yeast. It is eaten by 9 in 10 Australian households and is the most exported Australian food product."
+    },
+    {
+      "id": "au_t1_003",
+      "name": "Tim Tam (packet of 9)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.6,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 3.8,
+        "2025": 5.0
+      },
+      "fact": "Tim Tams launched in 1964 and the packet quietly shrank from 11 to 9 biscuits between 2009 and 2013. The Tim Tam Slam, drinking coffee through one as a straw, is considered a rite of passage."
+    },
+    {
+      "id": "au_t1_004",
+      "name": "Meat Pie (petrol station / bakery)",
+      "emoji": "🥧",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.8,
+        "2000": 2.2,
+        "2005": 2.8,
+        "2010": 3.5,
+        "2015": 4.0,
+        "2020": 4.5,
+        "2025": 6.0
+      },
+      "fact": "The Australian meat pie is unofficially the national food and is eaten at every AFL match. Bob Hawke called it a defining product of Australian culture, which is a bigger compliment than it sounds from an Australian PM."
+    },
+    {
+      "id": "au_t1_005",
+      "name": "Bottle of Water (600ml, convenience store)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.8,
+        "2000": 1.5,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 4.0
+      },
+      "fact": "Australia has the world's cleanest tap water by independent testing yet spends $700 million per year on bottled water. During the 2009 drought, some councils ran ads comparing bottled water prices to petrol per litre."
+    },
+    {
+      "id": "au_t1_006",
+      "name": "Newspaper (The Age / SMH, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "The Sydney Morning Herald is Australia's oldest newspaper, founded in 1831. Print circulation fell 80% between 2010 and 2025 yet the cover price rose 2.5x, a pattern common to every major Australian masthead."
+    },
+    {
+      "id": "au_t1_007",
+      "name": "Chiko Roll (fish and chip shop)",
+      "emoji": "🌯",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.2,
+        "2000": 1.6,
+        "2005": 2.0,
+        "2010": 2.8,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 5.5
+      },
+      "fact": "The Chiko Roll was invented for AFL crowds in 1951 because its thick pastry could survive being juggled by a spectator without falling apart. It contains cabbage, barley, carrot, beef and a minimal amount of chicken."
+    },
+    {
+      "id": "au_t1_008",
+      "name": "Can of VB Beer (375ml, bottle shop)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.2,
+        "2000": 1.5,
+        "2005": 1.8,
+        "2010": 2.2,
+        "2015": 2.8,
+        "2020": 3.2,
+        "2025": 4.5
+      },
+      "fact": "Victoria Bitter is Australia's best-selling beer despite not being particularly popular in Victoria. Australia has among the world's highest alcohol excise taxes, meaning nearly half the retail price of a beer goes directly to the government."
+    },
+    {
+      "id": "au_t1_009",
+      "name": "Milo (400g tin)",
+      "emoji": "🥛",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 2.2,
+        "1995": 2.8,
+        "2000": 3.2,
+        "2005": 3.8,
+        "2010": 4.5,
+        "2015": 5.0,
+        "2020": 5.5,
+        "2025": 7.0
+      },
+      "fact": "Milo was invented in Sydney in 1934 and is now sold in 40 countries. In Australia it is consumed primarily by being poured dry on top of cold milk rather than stirred in, a texture divide that genuinely splits the country."
+    },
+    {
+      "id": "au_t1_010",
+      "name": "Sausage Sizzle (Bunnings, single)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.5,
+        "2020": 2.5,
+        "2025": 3.5
+      },
+      "fact": "The Bunnings sausage sizzle is run by local community groups and has raised over $100 million for charities since 1994. When Bunnings opened in New Zealand in 2017 the sausage sizzle was included immediately as a cultural non-negotiable."
+    },
+    {
+      "id": "au_t1_011",
+      "name": "Lamington (single, bakery)",
+      "emoji": "🎂",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.9,
+        "2000": 1.2,
+        "2005": 1.6,
+        "2010": 2.2,
+        "2015": 2.8,
+        "2020": 3.2,
+        "2025": 4.5
+      },
+      "fact": "The lamington is named after a Queensland governor and is considered Australia's national cake. Every January 21 is National Lamington Day and school fundraisers selling lamingtons have collectively raised billions since the 1950s."
+    },
+    {
+      "id": "au_t1_012",
+      "name": "Iced Coffee (Oak, 600ml, supermarket)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.3,
+        "2000": 1.6,
+        "2005": 1.9,
+        "2010": 2.4,
+        "2015": 2.8,
+        "2020": 3.2,
+        "2025": 4.5
+      },
+      "fact": "Oak and Masters iced coffee are outsold only by milk in the refrigerated dairy section at Australian supermarkets. South Australians drink more iced coffee per capita than any other state, a fact they bring up frequently."
+    },
+    {
+      "id": "au_t1_013",
+      "name": "Loaf of Bread (Tip Top, standard white, 680g)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.5,
+        "2000": 1.8,
+        "2005": 2.2,
+        "2010": 2.8,
+        "2015": 3.0,
+        "2020": 3.2,
+        "2025": 4.5
+      },
+      "fact": "Tip Top and Wonder White dominate Australian bread but both are owned by the same company, George Weston Foods. Woolworths and Coles sell homebrand loaves at $1.10, the most aggressively priced staple in Australian supermarkets."
+    },
+    {
+      "id": "au_t1_014",
+      "name": "Litre of Milk (full cream, supermarket homebrand)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.9,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.2,
+        "2025": 2.2
+      },
+      "fact": "Woolworths and Coles sold milk at $1 per litre for nearly 20 years, a price so low that Australian dairy farmers went bankrupt at record rates. The chains finally raised the price in 2022 after sustained public pressure."
+    },
+    {
+      "id": "au_t1_015",
+      "name": "Anzac Biscuit (single, bakery)",
+      "emoji": "🍪",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.5,
+        "2000": 0.7,
+        "2005": 0.9,
+        "2010": 1.2,
+        "2015": 1.6,
+        "2020": 2.0,
+        "2025": 3.0
+      },
+      "fact": "Anzac biscuits were sent to soldiers in WWI because oats, golden syrup and coconut survive long sea voyages without spoiling. By law they cannot be called Anzac biscuits if they contain cream or are soft."
+    },
+    {
+      "id": "au_t1_016",
+      "name": "Egg (single, free range, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.25,
+        "2000": 0.3,
+        "2005": 0.4,
+        "2010": 0.55,
+        "2015": 0.65,
+        "2020": 0.7,
+        "2025": 1.0
+      },
+      "fact": "Free-range eggs crossed $1 each in Australia in 2023 after avian flu and cost-of-living pressures coincided. Australia changed its free-range definition in 2018, allowing up to 10,000 hens per hectare, which sparked a major consumer backlash."
+    },
+    {
+      "id": "au_t1_017",
+      "name": "Litre of Petrol (unleaded, national average)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.58,
+        "1995": 0.68,
+        "2000": 0.85,
+        "2005": 1.1,
+        "2010": 1.25,
+        "2015": 1.2,
+        "2020": 1.05,
+        "2025": 1.85
+      },
+      "fact": "Australia tied its petrol price to Singapore refinery benchmarks in 1998 and has never set a price cap. The 7-day price cycle in Sydney and Melbourne, where prices spike then fall, is unique in the world."
+    },
+    {
+      "id": "au_t1_018",
+      "name": "Stamp (standard letter, Australia Post)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.43,
+        "1995": 0.45,
+        "2000": 0.45,
+        "2005": 0.5,
+        "2010": 0.55,
+        "2015": 0.7,
+        "2020": 1.1,
+        "2025": 1.5
+      },
+      "fact": "Australia Post held its stamp price at 45 cents for 12 years before a series of hikes. Stamp revenue now funds less than 10% of postal operations as letter volumes collapsed, subsidised by parcel delivery profits."
+    },
+    {
+      "id": "au_t1_019",
+      "name": "Paddle Pop Ice Cream (single, corner store)",
+      "emoji": "🍦",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.8,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 3.5
+      },
+      "fact": "The Streets Paddle Pop has been Australia's best-selling ice cream bar since 1953. The Lion on the wrapper has remained virtually unchanged and the rainbow flavour has been discontinued and reinstated four times in response to public demand."
+    },
+    {
+      "id": "au_t1_020",
+      "name": "Shapes Biscuits (Arnott's, standard box)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.6,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 2.8,
+        "2015": 3.0,
+        "2020": 3.3,
+        "2025": 4.5
+      },
+      "fact": "Arnott's Shapes caused a national crisis in 2016 when the recipe was changed and Aussies said the new flavours tasted wrong. Arnott's reversed the recipe change within 6 months, the fastest corporate backflip in Australian food history."
+    },
+    {
+      "id": "au_t1_021",
+      "name": "Banana (single, Cavendish, supermarket)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.35,
+        "2000": 0.4,
+        "2005": 0.55,
+        "2010": 0.7,
+        "2015": 0.55,
+        "2020": 0.6,
+        "2025": 0.8
+      },
+      "fact": "Cyclone Larry devastated 90% of Australia's banana crop in 2006, pushing prices from $3 to $14 per kilo. Australia bans banana imports to protect biosecurity, meaning one cyclone can price bananas out of reach."
+    },
+    {
+      "id": "au_t1_022",
+      "name": "Barbecue Chicken (whole, Woolworths / Coles deli)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.5,
+        "2000": 4.5,
+        "2005": 5.0,
+        "2010": 5.5,
+        "2015": 6.0,
+        "2020": 6.5,
+        "2025": 18.0
+      },
+      "fact": "The $10 barbecue chook is one of Australia's most price-watched consumer goods. Coles and Woolworths use it as a loyalty-building loss leader, and polling shows Australians track its price as a cost-of-living indicator."
+    },
+    {
+      "id": "au_t1_023",
+      "name": "Sunscreen (Cancer Council, 50ml, SPF50+)",
+      "emoji": "🧴",
+      "category": "Health",
+      "tier": 1,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.2,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 9.5
+      },
+      "fact": "Australia has the highest skin cancer rate in the world and Slip, Slop, Slap launched in 1981 as one of the world's first major sun safety campaigns. The Cancer Council's sunscreen is sold at close to cost to maximise public use."
+    },
+    {
+      "id": "au_t1_024",
+      "name": "Icy Pole (Calippo or Zooper Dooper, single)",
+      "emoji": "🧊",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.5,
+        "2000": 0.7,
+        "2005": 0.9,
+        "2010": 1.2,
+        "2015": 1.5,
+        "2020": 1.8,
+        "2025": 2.5
+      },
+      "fact": "Zooper Doopers are sold in bags of 24 and are the defining summer food of Australian school holidays. A $2 Zooper Dooper from the corner shop is considered one of the last genuine cheap treats in Australian retail."
+    },
+    {
+      "id": "au_t1_025",
+      "name": "Packet of Chips (Smith's, 45g, servo)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 2.8
+      },
+      "fact": "Smith's Chips introduced the separate flavour sachet in 1954 so the chip stayed crisp and the salt was added fresh. It was one of the most-copied food packaging innovations of the 20th century."
+    },
+    {
+      "id": "au_t2_001",
+      "name": "Cinema Ticket (Event Cinemas, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 7.0,
+        "1995": 9.0,
+        "2000": 11.0,
+        "2005": 13.0,
+        "2010": 15.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 24.0
+      },
+      "fact": "Australian cinema ticket prices are among the world's highest, driven by high labour costs. The $24 standard ticket is 65% more expensive than the US equivalent, yet Australians still go to the cinema more per capita than Americans."
+    },
+    {
+      "id": "au_t2_002",
+      "name": "Avocado Toast (cafe, standard)",
+      "emoji": "🥑",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 4.0,
+        "2000": 6.0,
+        "2005": 8.0,
+        "2010": 12.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 24.0
+      },
+      "fact": "A Sydney demographer in 2017 told millennials they could afford a house if they stopped buying $22 avocado toast. The comment sparked a global cultural debate about housing affordability and generational economics."
+    },
+    {
+      "id": "au_t2_003",
+      "name": "Chicken Parma (pub, standard)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 6.0,
+        "1995": 8.0,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 16.0,
+        "2015": 20.0,
+        "2020": 22.0,
+        "2025": 28.0
+      },
+      "fact": "The chicken parma is Australia's most ordered pub meal. Victorians call it a parma, everyone else calls it a parmi, and this is considered a significant cultural division. Some pubs charge up to $45 for a premium version."
+    },
+    {
+      "id": "au_t2_004",
+      "name": "Pint of Beer (pub, tap lager)",
+      "emoji": "🍻",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.2,
+        "1995": 2.8,
+        "2000": 3.5,
+        "2005": 4.5,
+        "2010": 5.5,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 12.0
+      },
+      "fact": "A pub pint crossed $12 in Australian cities in 2023 and prompted genuine political debate. Treasury Wine Estates lobbied against alcohol tax increases while health groups demanded higher taxes, making beer one of Australia's most contested consumer goods."
+    },
+    {
+      "id": "au_t2_005",
+      "name": "Haircut (men's, barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 12.0,
+        "2000": 15.0,
+        "2005": 18.0,
+        "2010": 22.0,
+        "2015": 28.0,
+        "2020": 30.0,
+        "2025": 40.0
+      },
+      "fact": "Australian haircut prices are the highest in the OECD due to the minimum wage of $23.23 per hour. A Sydney barber must charge $35 minimum just to cover a 30-minute slot at legal wages, before overheads."
+    },
+    {
+      "id": "au_t2_006",
+      "name": "Bunch of Roses (12 stems, florist)",
+      "emoji": "🌹",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 12.0,
+        "2005": 15.0,
+        "2010": 18.0,
+        "2015": 25.0,
+        "2020": 28.0,
+        "2025": 40.0
+      },
+      "fact": "Australia imports over 80% of its roses from Kenya and Colombia, where labour costs make blooms cheaper to grow and fly across the world than to grow locally. Australian cut flower farming nearly vanished after import deregulation in 2001."
+    },
+    {
+      "id": "au_t2_007",
+      "name": "Monthly Netflix Subscription (standard, AU)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 11.99,
+        "2020": 15.99,
+        "2025": 22.99
+      },
+      "fact": "Netflix Australia launched in 2015 with a fraction of the US library due to local licensing deals. Australians were among the world's highest per-capita VPN users before Netflix launched, specifically to access the US catalogue."
+    },
+    {
+      "id": "au_t2_008",
+      "name": "Gym Membership (monthly, Fitness First / Anytime)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 28.0,
+        "2000": 35.0,
+        "2005": 45.0,
+        "2010": 55.0,
+        "2015": 50.0,
+        "2020": 45.0,
+        "2025": 60.0
+      },
+      "fact": "Anytime Fitness entered Australia in 2008 and disrupted traditional gyms with 24/7 access and no contracts. It became Australia's largest gym chain within 7 years, ending the era of lock-in annual memberships."
+    },
+    {
+      "id": "au_t2_009",
+      "name": "Bunnings BBQ (Weber Q, entry gas model)",
+      "emoji": "🔥",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 80.0,
+        "2000": 99.0,
+        "2005": 120.0,
+        "2010": 149.0,
+        "2015": 179.0,
+        "2020": 199.0,
+        "2025": 259.0
+      },
+      "fact": "Australia has more barbecues per household than any country in the world. The Weber Q became the definitive Australian balcony BBQ after its 2001 launch and has never been significantly discounted."
+    },
+    {
+      "id": "au_t2_010",
+      "name": "AFL Grand Final Ticket (general admission)",
+      "emoji": "🏉",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 20.0,
+        "2000": 30.0,
+        "2005": 45.0,
+        "2010": 60.0,
+        "2015": 75.0,
+        "2020": 80.0,
+        "2025": 99.0
+      },
+      "fact": "The AFL Grand Final is the highest-attended annual club sporting event in the Southern Hemisphere. In 2021 a COVID-affected final was played in Perth and the resulting travel frenzy pushed airfare and hotel prices to record highs."
+    },
+    {
+      "id": "au_t2_011",
+      "name": "Taxi / Uber (5km, city, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 12.0,
+        "2005": 14.0,
+        "2010": 16.0,
+        "2015": 14.0,
+        "2020": 16.0,
+        "2025": 22.0
+      },
+      "fact": "Uber launched in Australia in 2012 and was immediately declared illegal in most states. Taxis lobbied aggressively, governments hesitated, and Uber grew to 3 million users before receiving any legal recognition."
+    },
+    {
+      "id": "au_t2_012",
+      "name": "Full Melbourne Brunch (2 courses, coffee, inner city)",
+      "emoji": "🥑",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 28.0,
+        "2015": 38.0,
+        "2020": 42.0,
+        "2025": 110.0
+      },
+      "fact": "The full Melbourne brunch experience including coffee, smashed avo and eggs now costs $55 and is a genuine budgeting concern for under-30s. The suburb of Fitzroy has more brunch cafes per block than anywhere on earth."
+    },
+    {
+      "id": "au_t2_013",
+      "name": "Slab of Beer (24 cans of VB, bottle shop)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 18.0,
+        "1995": 22.0,
+        "2000": 28.0,
+        "2005": 35.0,
+        "2010": 45.0,
+        "2015": 52.0,
+        "2020": 58.0,
+        "2025": 65.0
+      },
+      "fact": "The slab is the fundamental unit of Australian beer purchasing and the price is tracked as closely as petrol. A $65 slab means a can costs $2.70, below the minimum cost of a bar-bought beer, making home drinking the economical choice."
+    },
+    {
+      "id": "au_t2_014",
+      "name": "Monthly Spotify Subscription (Australia)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 11.99,
+        "2020": 11.99,
+        "2025": 13.99
+      },
+      "fact": "Spotify launched in Australia in 2012 and within 3 years had more subscribers than any record label. Australia generates more music streaming revenue per capita than any country outside Scandinavia."
+    },
+    {
+      "id": "au_t2_015",
+      "name": "Fish and Chips (standard serve, fish and chip shop)",
+      "emoji": "🐟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 5.0,
+        "2000": 7.0,
+        "2005": 9.0,
+        "2010": 12.0,
+        "2015": 14.0,
+        "2020": 16.0,
+        "2025": 22.0
+      },
+      "fact": "Australian fish and chip shops predominantly use shark, sold under the name flake, without advertising the species. When choice magazine revealed this in 2013, the outcry focused more on mislabelling than conservation."
+    },
+    {
+      "id": "au_t2_016",
+      "name": "Domino's Large Pizza (value range, delivery)",
+      "emoji": "🍕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 8.0,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 16.0,
+        "2015": 20.0,
+        "2020": 22.0,
+        "2025": 28.0
+      },
+      "fact": "Domino's Australia consistently ranks among Domino's highest-performing markets globally. It was one of the first Domino's franchises to introduce GPS delivery tracking in 2012, years before the US rollout."
+    },
+    {
+      "id": "au_t2_017",
+      "name": "Sydney to Melbourne Bus (FlixBus / Firefly, advance)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 30.0,
+        "1995": 35.0,
+        "2000": 40.0,
+        "2005": 45.0,
+        "2010": 50.0,
+        "2015": 40.0,
+        "2020": 35.0,
+        "2025": 45.0
+      },
+      "fact": "The overnight Sydney to Melbourne bus takes 12 hours and is the budget transport alternative to flying. Greyhound Australia collapsed in 2020 and FlixBus entered in 2023, cutting fares on the route by 30%."
+    },
+    {
+      "id": "au_t2_018",
+      "name": "Pack of 25 Cigarettes (Winfield Blue)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 5.0,
+        "2000": 7.0,
+        "2005": 9.0,
+        "2010": 14.0,
+        "2015": 21.0,
+        "2020": 30.0,
+        "2025": 55.0
+      },
+      "fact": "Australia has the world's most expensive cigarettes at $55 per pack following annual 12.5% tobacco tax increases since 2010. Smoking rates fell from 24% to 11% of adults in that period, one of the steepest declines recorded."
+    },
+    {
+      "id": "au_t2_019",
+      "name": "Public Transport Day Pass (Melbourne, full network)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 5.0,
+        "2000": 7.0,
+        "2005": 9.0,
+        "2010": 12.0,
+        "2015": 14.0,
+        "2020": 15.0,
+        "2025": 22.0
+      },
+      "fact": "Melbourne has the largest tram network in the world. The free tram zone introduced in 2015 covering the CBD cost $70 million per year and was politically framed as a transport equity measure rather than a tourist attraction."
+    },
+    {
+      "id": "au_t2_020",
+      "name": "Surfboard Wax (single bar, surf shop)",
+      "emoji": "🏄",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.5,
+        "2010": 4.0,
+        "2015": 4.5,
+        "2020": 5.0,
+        "2025": 6.0
+      },
+      "fact": "Australia produces more professional surfers than any country and surfing was declared part of the national culture in the 1978 Australian Film Commission's definition of national identity. Surfboard wax is one of the most price-stable consumer products in the country."
+    },
+    {
+      "id": "au_t2_021",
+      "name": "Panadol (20 tablets, standard, pharmacy)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.2,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 7.0,
+        "2020": 7.5,
+        "2025": 10.0
+      },
+      "fact": "Panadol is Australia's most trusted OTC medicine brand by consumer survey every year since 1985. Generic paracetamol costs $2 for 20 tablets at Woolworths, making Panadol's premium entirely brand-driven."
+    },
+    {
+      "id": "au_t2_022",
+      "name": "Woolworths Meal Deal (weekly special, roast chook plus salad)",
+      "emoji": "🐔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 7.0,
+        "2000": 9.0,
+        "2005": 11.0,
+        "2010": 13.0,
+        "2015": 15.0,
+        "2020": 16.0,
+        "2025": 22.0
+      },
+      "fact": "Woolworths and Coles control 67% of Australian grocery sales, one of the highest supermarket duopoly concentrations in the world. A 2024 Parliamentary inquiry found evidence of price gouging that exceeded CPI by 30%."
+    },
+    {
+      "id": "au_t2_023",
+      "name": "Bottle of Jacob's Creek Shiraz (750ml, Dan Murphy's)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.5,
+        "2000": 8.0,
+        "2005": 9.0,
+        "2010": 10.0,
+        "2015": 11.0,
+        "2020": 12.0,
+        "2025": 14.0
+      },
+      "fact": "Jacob's Creek was Australia's most exported wine for 20 consecutive years. China's tariffs of 218% on Australian wine in 2020 wiped $1 billion from Australian wine exports in one year, forcing a complete pivot to UK and US markets."
+    },
+    {
+      "id": "au_t2_024",
+      "name": "Speedo Swimwear (standard, department store)",
+      "emoji": "🩲",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 18.0,
+        "1995": 22.0,
+        "2000": 25.0,
+        "2005": 28.0,
+        "2010": 32.0,
+        "2015": 36.0,
+        "2020": 40.0,
+        "2025": 50.0
+      },
+      "fact": "Speedo was founded in Sydney in 1928 and its brief swimwear was worn by every Australian Olympic gold medallist in swimming until 2012. The brand is now owned by a British company that manufactures in Asia, but Australian swimmers still call any brief swimsuit a Speedo."
+    },
+    {
+      "id": "au_t2_025",
+      "name": "Crossword Puzzle Book (newsagent, standard)",
+      "emoji": "📖",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 9.0,
+        "2025": 12.0
+      },
+      "fact": "Australia has more newsagencies per capita than any OECD country. The newsagency model survived the digital era by diversifying into Tattslotto, greeting cards and parcels rather than news."
+    },
+    {
+      "id": "au_t3_001",
+      "name": "Surfboard (mid-range shortboard, local shaper)",
+      "emoji": "🏄",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 300.0,
+        "1995": 400.0,
+        "2000": 500.0,
+        "2005": 600.0,
+        "2010": 700.0,
+        "2015": 750.0,
+        "2020": 800.0,
+        "2025": 1000.0
+      },
+      "fact": "A custom Australian shortboard costs $1,000 and takes 6 weeks. The Gold Coast is the world's surfboard manufacturing capital, producing boards for over 40 countries from a strip of factories in Burleigh Heads."
+    },
+    {
+      "id": "au_t3_002",
+      "name": "UGG Boots (original, Australian made, pair)",
+      "emoji": "🥿",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 40.0,
+        "1995": 60.0,
+        "2000": 80.0,
+        "2005": 110.0,
+        "2010": 160.0,
+        "2015": 200.0,
+        "2020": 230.0,
+        "2025": 300.0
+      },
+      "fact": "UGG boots were worn by surfers to warm feet after surfing and had no fashion status until Oprah put them on her Favourite Things list in 2000. The US company Deckers trademarked the name UGG, meaning Australian manufacturers legally cannot call their product UGG boots."
+    },
+    {
+      "id": "au_t3_003",
+      "name": "Annual Gym Membership (Fitness First, 12 months)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 250.0,
+        "1995": 400.0,
+        "2000": 600.0,
+        "2005": 750.0,
+        "2010": 900.0,
+        "2015": 800.0,
+        "2020": 700.0,
+        "2025": 900.0
+      },
+      "fact": "Fitness First had 100,000 Australian members at its peak before budget gyms collapsed the full-price membership model. A 12-month Fitness First membership now costs the same as 15 months at Anytime Fitness."
+    },
+    {
+      "id": "au_t3_004",
+      "name": "Sydney to Melbourne Economy Flight (avg, one way)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 350.0,
+        "1995": 320.0,
+        "2000": 250.0,
+        "2005": 180.0,
+        "2010": 160.0,
+        "2015": 140.0,
+        "2020": 110.0,
+        "2025": 220.0
+      },
+      "fact": "Sydney to Melbourne is the world's third busiest air route. Virgin Australia's entry in 2000 halved Qantas fares within two years. Post-COVID capacity cuts pushed fares back above 2005 levels for the first time in 20 years."
+    },
+    {
+      "id": "au_t3_005",
+      "name": "Annual Car Registration (NSW, standard sedan)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 180.0,
+        "1995": 260.0,
+        "2000": 320.0,
+        "2005": 400.0,
+        "2010": 480.0,
+        "2015": 560.0,
+        "2020": 640.0,
+        "2025": 800.0
+      },
+      "fact": "NSW car registration includes compulsory third-party insurance, making it the world's most comprehensive mandatory vehicle cover. The cost has risen 4x since 1990 while the number of registered vehicles has doubled."
+    },
+    {
+      "id": "au_t3_006",
+      "name": "Opal Card Monthly Cap (Sydney all-zones, train)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 100.0,
+        "2000": 130.0,
+        "2005": 160.0,
+        "2010": 200.0,
+        "2015": 150.0,
+        "2020": 175.0,
+        "2025": 210.0
+      },
+      "fact": "The Opal card's weekly cap system means heavy commuters never pay more than $50 per week regardless of trips. Its 2014 launch reduced average commuter costs by 25% and triggered a 30% increase in off-peak travel."
+    },
+    {
+      "id": "au_t3_007",
+      "name": "Dyson V12 Cordless Vacuum (AU retail)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 300.0,
+        "2010": 400.0,
+        "2015": 600.0,
+        "2020": 800.0,
+        "2025": 1099.0
+      },
+      "fact": "Dyson vacuums are Australia's best-selling premium appliance by revenue. Australian consumers spend more on vacuum cleaners per household than any other country, partly because of the high incidence of hard floors in newer builds."
+    },
+    {
+      "id": "au_t3_008",
+      "name": "iPad (Apple base model, AU retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 549.0,
+        "2015": 469.0,
+        "2020": 479.0,
+        "2025": 599.0
+      },
+      "fact": "Apple launched the iPad in Australia on the same day as the US in 2010, a first for Australia that signalled the country's growing importance as a launch market. Prices are typically 15% higher than the US after GST."
+    },
+    {
+      "id": "au_t3_009",
+      "name": "Annual NRL / AFL Club Membership (standard)",
+      "emoji": "🏟️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 80.0,
+        "2000": 110.0,
+        "2005": 140.0,
+        "2010": 180.0,
+        "2015": 220.0,
+        "2020": 200.0,
+        "2025": 280.0
+      },
+      "fact": "AFL clubs collectively have 1.1 million financial members, a ratio of fan-to-population higher than any other football code in the world. During COVID lockdowns, members paid full fees to support clubs despite no games being played."
+    },
+    {
+      "id": "au_t3_010",
+      "name": "Hot Water System (Rheem, gas storage, installed)",
+      "emoji": "🚿",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 400.0,
+        "1995": 500.0,
+        "2000": 600.0,
+        "2005": 800.0,
+        "2010": 1000.0,
+        "2015": 1200.0,
+        "2020": 1400.0,
+        "2025": 1900.0
+      },
+      "fact": "Rheem has made hot water systems in Sydney since 1939 and remains Australia's most trusted brand. Government rebates for heat pump replacements have made switching away from gas financially appealing for the first time."
+    },
+    {
+      "id": "au_t3_011",
+      "name": "Weber Family Q BBQ (gas, full size)",
+      "emoji": "🔥",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 150.0,
+        "1995": 200.0,
+        "2000": 280.0,
+        "2005": 350.0,
+        "2010": 450.0,
+        "2015": 550.0,
+        "2020": 599.0,
+        "2025": 749.0
+      },
+      "fact": "Weber accounts for 60% of Australian premium BBQ sales. Australia Day and ANZAC Day BBQ traditions are so embedded that hardware stores report their highest single-day sales of the year on those dates."
+    },
+    {
+      "id": "au_t3_012",
+      "name": "Kindle E-Reader (base, Amazon AU)",
+      "emoji": "📖",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 139.0,
+        "2015": 89.0,
+        "2020": 119.0,
+        "2025": 149.0
+      },
+      "fact": "Amazon launched the Kindle in Australia in 2012, four years after the US, partly due to publisher licensing disputes. Australian ebook prices are among the highest in the world due to GST applied to digital goods from 2017."
+    },
+    {
+      "id": "au_t3_013",
+      "name": "Day Spa Treatment (60 min massage, mid-range)",
+      "emoji": "🧖",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 35.0,
+        "1995": 55.0,
+        "2000": 75.0,
+        "2005": 95.0,
+        "2010": 120.0,
+        "2015": 140.0,
+        "2020": 130.0,
+        "2025": 180.0
+      },
+      "fact": "Massage therapy prices are directly linked to Australia's minimum wage and have risen every time the Fair Work Commission increased it. Australia's annual minimum wage reviews make it one of the world's most regularly adjusted wage floors."
+    },
+    {
+      "id": "au_t3_014",
+      "name": "Concert Ticket (major artist, floor standing, avg)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 45.0,
+        "2000": 65.0,
+        "2005": 85.0,
+        "2010": 110.0,
+        "2015": 140.0,
+        "2020": 120.0,
+        "2025": 250.0
+      },
+      "fact": "Concert ticket prices rose 80% in Australia between 2022 and 2025 as promoters raised prices after COVID cancelled tours for two years. Taylor Swift's Eras Tour in 2024 contributed an estimated $370 million to the Australian economy."
+    },
+    {
+      "id": "au_t3_015",
+      "name": "Prescription Medication (PBS, standard co-payment)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 12.0,
+        "2000": 19.6,
+        "2005": 28.6,
+        "2010": 34.2,
+        "2015": 37.7,
+        "2020": 41.3,
+        "2025": 31.6
+      },
+      "fact": "Australia's PBS reduced the standard co-payment from $42.50 to $31.60 in 2023, the first reduction since the scheme began in 1948. The government called it the biggest medicines reform in 20 years."
+    },
+    {
+      "id": "au_t3_016",
+      "name": "Annual Home Insurance (standard house, national avg)",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300.0,
+        "1995": 400.0,
+        "2000": 550.0,
+        "2005": 700.0,
+        "2010": 900.0,
+        "2015": 1100.0,
+        "2020": 1400.0,
+        "2025": 2200.0
+      },
+      "fact": "Australian home insurance premiums rose 50% in three years as bushfire and flood risk repricing hit. Some Queensland and Northern NSW coastal properties now pay over $10,000 annually or are uninsurable."
+    },
+    {
+      "id": "au_t3_017",
+      "name": "Bicycle (entry Trek / Giant hybrid, adult)",
+      "emoji": "🚲",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 280.0,
+        "2000": 350.0,
+        "2005": 420.0,
+        "2010": 500.0,
+        "2015": 550.0,
+        "2020": 750.0,
+        "2025": 950.0
+      },
+      "fact": "Bicycle prices surged 40% during COVID as supply chains broke and demand soared. Australia was the first country to make bicycle helmets compulsory in 1990, a law still considered controversial by cycling advocates who say it reduced ridership."
+    },
+    {
+      "id": "au_t3_018",
+      "name": "Costco Membership (annual, AU)",
+      "emoji": "🛒",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 60.0,
+        "2015": 60.0,
+        "2020": 65.0,
+        "2025": 65.0
+      },
+      "fact": "Costco opened its first Australian store in Melbourne in 2009 and caused a traffic jam stretching 3 kilometres. The $65 annual fee has barely moved in 15 years and the $1.50 hot dog combo remains unchanged."
+    },
+    {
+      "id": "au_t3_019",
+      "name": "Overnight Greyhound Bus (Melbourne to Sydney, one way)",
+      "emoji": "🚍",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 55.0,
+        "1995": 65.0,
+        "2000": 70.0,
+        "2005": 75.0,
+        "2010": 80.0,
+        "2015": 75.0,
+        "2020": 65.0,
+        "2025": 100.0
+      },
+      "fact": "Greyhound Australia had operated routes since 1936 before collapsing in 2020. FlixBus entered the market in 2023 and restored the route at sharply lower prices, then gradually raised them as competition thinned."
+    },
+    {
+      "id": "au_t3_020",
+      "name": "Akubra Hat (Cattleman style, standard)",
+      "emoji": "🤠",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 110.0,
+        "2000": 140.0,
+        "2005": 165.0,
+        "2010": 200.0,
+        "2015": 230.0,
+        "2020": 250.0,
+        "2025": 320.0
+      },
+      "fact": "Akubra hats have been made in Kempsey, NSW since 1912 from wild rabbit fur felt. They have been worn by every Australian prime minister since Bob Menzies and are the only hat approved for wear with the Australian Army uniform."
+    },
+    {
+      "id": "au_t3_021",
+      "name": "Root Canal Treatment (private dentist, standard tooth)",
+      "emoji": "🦷",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 250.0,
+        "1995": 400.0,
+        "2000": 600.0,
+        "2005": 800.0,
+        "2010": 1100.0,
+        "2015": 1300.0,
+        "2020": 1500.0,
+        "2025": 1950.0
+      },
+      "fact": "Dental care is not covered by Medicare, making Australia an outlier among OECD nations. A $2,000 root canal is the primary reason Australians travel to Bali and Thailand for dental tourism, which grew 40% between 2019 and 2024."
+    },
+    {
+      "id": "au_t3_022",
+      "name": "All-Inclusive Resort Night (Whitsundays, standard room)",
+      "emoji": "🏝️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 120.0,
+        "1995": 160.0,
+        "2000": 200.0,
+        "2005": 240.0,
+        "2010": 280.0,
+        "2015": 320.0,
+        "2020": 280.0,
+        "2025": 450.0
+      },
+      "fact": "The Whitsundays receive 800,000 visitors annually despite being one of the most expensive domestic destinations in Australia. Cyclone Debbie wiped out 60% of Whitsundays tourism infrastructure in 2017 and rebuilding costs pushed accommodation prices up permanently."
+    },
+    {
+      "id": "au_t3_023",
+      "name": "AirPods (Apple 2nd gen, AU retail)",
+      "emoji": "🎧",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 249.0,
+        "2025": 219.0
+      },
+      "fact": "AirPods launched in Australia on the same day as the US and sold out nationally within 4 hours. Australia has the world's third-highest AirPods ownership rate per capita, behind only Singapore and Norway."
+    },
+    {
+      "id": "au_t3_024",
+      "name": "Tasting Menu (hatted restaurant, per person, Sydney)",
+      "emoji": "🍽️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 90.0,
+        "2000": 120.0,
+        "2005": 150.0,
+        "2010": 180.0,
+        "2015": 200.0,
+        "2020": 180.0,
+        "2025": 280.0
+      },
+      "fact": "The Good Food Guide hat rating is the Australian equivalent of a Michelin star, yet is widely considered more democratic. Quay in Sydney is the only Australian restaurant to appear in the World's 50 Best list for 10 consecutive years."
+    },
+    {
+      "id": "au_t3_025",
+      "name": "Solar Panel System (6.6kW, installed, national avg)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 25000.0,
+        "2010": 12000.0,
+        "2015": 6000.0,
+        "2020": 4500.0,
+        "2025": 3500.0
+      },
+      "fact": "Australia has the highest rooftop solar penetration in the world at 35% of homes. Prices fell 85% from 2010 to 2025, making Australian solar one of the cheapest in the world after Chinese panel manufacturing scaled up."
+    },
+    {
+      "id": "au_t4_001",
+      "name": "iPhone 16 Pro (128GB, AU retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 999.0,
+        "2015": 1199.0,
+        "2020": 1699.0,
+        "2025": 2099.0
+      },
+      "fact": "iPhone prices in Australia are typically 15-20% higher than the US after GST and currency conversion. Apple's Bondi Junction store in Sydney is the highest-revenue Apple Store per square metre outside the US."
+    },
+    {
+      "id": "au_t4_002",
+      "name": "Toyota HiLux (base 4x4, new, drive away)",
+      "emoji": "🛻",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 22000.0,
+        "1995": 30000.0,
+        "2000": 38000.0,
+        "2005": 42000.0,
+        "2010": 49000.0,
+        "2015": 56000.0,
+        "2020": 63000.0,
+        "2025": 72000.0
+      },
+      "fact": "The Toyota HiLux has been Australia's best-selling vehicle for 8 consecutive years. It is bought primarily by tradies who deduct it as a business expense and by suburban families who take it to Bunnings on weekends."
+    },
+    {
+      "id": "au_t4_003",
+      "name": "MacBook Air M2 (AU retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1399.0,
+        "2015": 1299.0,
+        "2020": 1599.0,
+        "2025": 2099.0
+      },
+      "fact": "MacBook prices in Australia have risen faster than in the US largely due to GST and the weaker Australian dollar since 2013. The MacBook Air is the most popular laptop at every Australian university bookshop."
+    },
+    {
+      "id": "au_t4_004",
+      "name": "Toyota Corolla (base, new, drive away)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 18000.0,
+        "1995": 22000.0,
+        "2000": 25000.0,
+        "2005": 28000.0,
+        "2010": 30000.0,
+        "2015": 33000.0,
+        "2020": 36000.0,
+        "2025": 45000.0
+      },
+      "fact": "Australia stopped manufacturing cars in 2017 when Toyota, Holden and Ford all closed local plants within 18 months of each other. The decision ended 70 years of local production and made Australia one of the few developed nations that no longer makes its own cars."
+    },
+    {
+      "id": "au_t4_005",
+      "name": "Annual Private Health Insurance (hospital cover, single)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 400.0,
+        "1995": 600.0,
+        "2000": 900.0,
+        "2005": 1300.0,
+        "2010": 1700.0,
+        "2015": 2100.0,
+        "2020": 2500.0,
+        "2025": 3200.0
+      },
+      "fact": "Australia's Medicare Levy Surcharge forces high earners to pay a 1.5% tax penalty unless they hold private health insurance, effectively mandating it for anyone earning over $93,000. Insurers raised premiums by an average 3.03% every April for 20 consecutive years."
+    },
+    {
+      "id": "au_t4_006",
+      "name": "Gold (troy ounce, AUD spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 500.0,
+        "2000": 450.0,
+        "2005": 580.0,
+        "2010": 1400.0,
+        "2015": 1650.0,
+        "2020": 2700.0,
+        "2025": 5000.0
+      },
+      "fact": "Australia is the world's second-largest gold producer after China. The Perth Mint produces gold coins sold in 120 countries and is one of the world's only mints still operating on its original 1899 site."
+    },
+    {
+      "id": "au_t4_007",
+      "name": "Annual University Fees (domestic undergrad, standard)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1800.0,
+        "1995": 2500.0,
+        "2000": 3500.0,
+        "2005": 5000.0,
+        "2010": 6000.0,
+        "2015": 7500.0,
+        "2020": 9000.0,
+        "2025": 10500.0
+      },
+      "fact": "Australia introduced the HECS deferred payment system in 1989, the world's first income-contingent student loan scheme. The model was copied by the UK and New Zealand. Indexation tied to CPI added 7.1% to all HECS debts overnight in 2023."
+    },
+    {
+      "id": "au_t4_008",
+      "name": "Tesla Model 3 (standard range, AU price)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 66000.0,
+        "2025": 57900.0
+      },
+      "fact": "Tesla cut the Model 3 Australian price 6 times between 2022 and 2024. Australia has no EV purchase subsidy at the federal level, unlike the US and Europe, making EVs comparatively more expensive to adopt."
+    },
+    {
+      "id": "au_t4_009",
+      "name": "Rolex Submariner (new retail, AU)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3500.0,
+        "1995": 4500.0,
+        "2000": 5500.0,
+        "2005": 7500.0,
+        "2010": 9000.0,
+        "2015": 12000.0,
+        "2020": 15000.0,
+        "2025": 18900.0
+      },
+      "fact": "Rolex Australia allocates fewer watches than the combined waitlist, meaning the retail price is a floor, not a ceiling. Grey market Submariner prices in Sydney regularly exceed $25,000."
+    },
+    {
+      "id": "au_t4_010",
+      "name": "Median Sydney House Price",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 190000.0,
+        "1995": 210000.0,
+        "2000": 320000.0,
+        "2005": 500000.0,
+        "2010": 600000.0,
+        "2015": 780000.0,
+        "2020": 1100000.0,
+        "2025": 1450000.0
+      },
+      "fact": "Sydney's median house price crossed $1 million in 2021 and $1.4 million by 2025, the second most expensive housing market in the world relative to incomes after Hong Kong. A household needs to earn over $200,000 to qualify for a standard mortgage."
+    },
+    {
+      "id": "au_t4_011",
+      "name": "Kitchen Renovation (mid-range, full refit, national avg)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 25000.0,
+        "2010": 32000.0,
+        "2015": 40000.0,
+        "2020": 50000.0,
+        "2025": 75000.0
+      },
+      "fact": "Australian kitchen renovation costs surged 50% between 2020 and 2025. A tradie labour shortage saw electricians and plumbers billing $180 per hour, more than most lawyers charge in regional cities."
+    },
+    {
+      "id": "au_t4_012",
+      "name": "Annual Private School Fees (Year 7-12, GPS/APS school)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 8000.0,
+        "2000": 12000.0,
+        "2005": 16000.0,
+        "2010": 20000.0,
+        "2015": 25000.0,
+        "2020": 30000.0,
+        "2025": 42000.0
+      },
+      "fact": "Australia has one of the world's highest private school enrolment rates at 36% of students. Government funding for private schools rose every year since 2000 while fees simultaneously doubled, making Australia's school funding model the subject of a 2023 Senate inquiry."
+    },
+    {
+      "id": "au_t4_013",
+      "name": "Lexus RX (base, new, drive away)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 55000.0,
+        "2000": 65000.0,
+        "2005": 68000.0,
+        "2010": 72000.0,
+        "2015": 79000.0,
+        "2020": 85000.0,
+        "2025": 105000.0
+      },
+      "fact": "The Lexus RX is the best-selling luxury SUV in Australia. Lexus is so dominant in the under-$120,000 luxury segment that it outsells BMW, Mercedes and Audi combined in several Australian states."
+    },
+    {
+      "id": "au_t4_014",
+      "name": "Sydney to London Business Class Return (Qantas)",
+      "emoji": "🛫",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 9000.0,
+        "2000": 10000.0,
+        "2005": 9000.0,
+        "2010": 10000.0,
+        "2015": 9500.0,
+        "2020": 7000.0,
+        "2025": 14000.0
+      },
+      "fact": "The Qantas Sydney to London route, at 17,800km, was the world's longest commercial flight. Qantas launched non-stop Sydney to London Project Sunrise flights in 2025, cutting the journey from 23 hours with a stop to 19.5 hours direct."
+    },
+    {
+      "id": "au_t4_015",
+      "name": "Median Melbourne Unit Price",
+      "emoji": "🏢",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 90000.0,
+        "1995": 110000.0,
+        "2000": 175000.0,
+        "2005": 280000.0,
+        "2010": 380000.0,
+        "2015": 480000.0,
+        "2020": 580000.0,
+        "2025": 620000.0
+      },
+      "fact": "Melbourne units are the most purchased property type by first-home buyers in Australia. Unit prices barely rose between 2020 and 2025 as an oversupply of apartments coincided with rising interest rates, giving first-home buyers their first real opportunity in a decade."
+    },
+    {
+      "id": "au_t4_016",
+      "name": "HECS Debt (average graduate, total on completion)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 8000.0,
+        "2000": 15000.0,
+        "2005": 22000.0,
+        "2010": 30000.0,
+        "2015": 38000.0,
+        "2020": 45000.0,
+        "2025": 55000.0
+      },
+      "fact": "Average HECS debt on graduation hit $26,500 by 2025. A 2023 indexation of 7.1% added over $1,800 to the average debt overnight, the largest single-year increase since the scheme began and sparked a campaign to cap HECS indexation at wage growth."
+    },
+    {
+      "id": "au_t4_017",
+      "name": "Penfolds Grange (single bottle, current vintage, retail)",
+      "emoji": "🍷",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 100.0,
+        "2000": 200.0,
+        "2005": 500.0,
+        "2010": 700.0,
+        "2015": 850.0,
+        "2020": 1000.0,
+        "2025": 1200.0
+      },
+      "fact": "Penfolds Grange was classified as a Heritage Icon of South Australia in 2010. The 1951 vintage sold at auction for $160,000 in 2022, making it one of the most valuable bottles of wine ever produced in the Southern Hemisphere."
+    },
+    {
+      "id": "au_t4_018",
+      "name": "Annual Pet Insurance (dog, comprehensive)",
+      "emoji": "🐶",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 200.0,
+        "2000": 350.0,
+        "2005": 500.0,
+        "2010": 700.0,
+        "2015": 900.0,
+        "2020": 1200.0,
+        "2025": 2000.0
+      },
+      "fact": "Australia has the world's highest pet insurance uptake at 26% of pet owners. The pet industry grew 30% during COVID as Australians adopted animals at record rates, pushing vet costs up 40% between 2020 and 2025."
+    },
+    {
+      "id": "au_t4_019",
+      "name": "Holden Commodore (used, avg resale 2025)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 22000.0,
+        "1995": 28000.0,
+        "2000": 34000.0,
+        "2005": 38000.0,
+        "2010": 44000.0,
+        "2015": 46000.0,
+        "2020": 0,
+        "2025": 999.0
+      },
+      "fact": "Holden ended Australian production in 2017 after 69 years. Used Commodores are now collectible and prices stabilised around $10,000-$20,000 for clean examples, a rare case of a discontinued car holding value."
+    },
+    {
+      "id": "au_t4_020",
+      "name": "Louis Vuitton Neverfull MM (AU retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1100.0,
+        "2000": 1500.0,
+        "2005": 2000.0,
+        "2010": 2800.0,
+        "2015": 3200.0,
+        "2020": 3600.0,
+        "2025": 5000.0
+      },
+      "fact": "Australia's luxury goods market grew 60% between 2020 and 2025 despite rising cost-of-living pressures. Louis Vuitton's Sydney flagship in Castlereagh Street is the brand's highest-revenue store per square metre in the Asia-Pacific region."
+    },
+    {
+      "id": "au_t4_021",
+      "name": "BYD Atto 3 EV (base, drive away, AU)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 44990.0
+      },
+      "fact": "BYD launched in Australia in 2022 and within 18 months was the third best-selling EV brand. Chinese tariffs on Australian exports in 2020 had no effect on BYD's ability to sell cars into Australia, reflecting the asymmetry of the trade relationship."
+    },
+    {
+      "id": "au_t4_022",
+      "name": "Annual International School Fees (Sydney, Year 9-12)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 24000.0,
+        "2010": 30000.0,
+        "2015": 38000.0,
+        "2020": 45000.0,
+        "2025": 58000.0
+      },
+      "fact": "International student fees in Australian schools are now the primary revenue source for many private schools. Schools in Sydney and Melbourne recruit actively in China, India and Southeast Asia, with some schools having 40% international enrolments."
+    },
+    {
+      "id": "au_t4_023",
+      "name": "Great Barrier Reef Liveaboard Trip (3 nights, per person)",
+      "emoji": "🤿",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 900.0,
+        "2005": 1100.0,
+        "2010": 1400.0,
+        "2015": 1700.0,
+        "2020": 1500.0,
+        "2025": 2400.0
+      },
+      "fact": "The Great Barrier Reef generates $6 billion annually in tourism. Mass bleaching events in 2016, 2017, 2020 and 2022 bleached 50% of coral, yet visitor numbers hit record highs as tourists rush to see it before further decline."
+    },
+    {
+      "id": "au_t4_024",
+      "name": "Uluru Tour Package (4 nights, fly-drive, per person)",
+      "emoji": "🪨",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 600.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 1300.0,
+        "2010": 1600.0,
+        "2015": 1900.0,
+        "2020": 1800.0,
+        "2025": 2800.0
+      },
+      "fact": "Uluru climbing was permanently banned in 2019 at the request of the Anangu traditional owners. Tourist numbers actually increased 40% in the months after the ban as visitors rushed to see the landmark in its protected state."
+    },
+    {
+      "id": "au_t4_025",
+      "name": "Full Wedding (average total spend, Australia)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 12000.0,
+        "1995": 17000.0,
+        "2000": 22000.0,
+        "2005": 28000.0,
+        "2010": 35000.0,
+        "2015": 42000.0,
+        "2020": 38000.0,
+        "2025": 52000.0
+      },
+      "fact": "The average Australian wedding costs $52,000, one of the highest in the world. Venue hire alone averages $15,000 and photography another $5,000. Despite the cost, the wedding industry grew 25% between 2021 and 2025 as couples splurged after COVID postponements."
+    }
+  ]
+}

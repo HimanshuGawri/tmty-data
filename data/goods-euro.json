@@ -1,0 +1,1808 @@
+{
+  "country": "EU",
+  "country_name": "Europe",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "items": [
+    {
+      "id": "eu_t1_001",
+      "name": "Espresso (cafe, Italy/Spain)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.45,
+        "2000": 0.65,
+        "2005": 0.8,
+        "2010": 0.9,
+        "2015": 1.0,
+        "2020": 1.1,
+        "2025": 1.5
+      },
+      "fact": "A standing espresso at an Italian bar cost the equivalent of 30 cents in 1990 and remains one of Europe's most price-resistant products. Italian coffee culture is so price-sensitive that bar owners have been prosecuted for charging over €2 for a standing espresso."
+    },
+    {
+      "id": "eu_t1_002",
+      "name": "Baguette (standard, Paris boulangerie)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.55,
+        "2000": 0.65,
+        "2005": 0.75,
+        "2010": 0.87,
+        "2015": 0.9,
+        "2020": 0.93,
+        "2025": 1.2
+      },
+      "fact": "The Paris baguette was regulated by French law from 1986 at a fixed price per gram until deregulation in 1986. The 'baguette de tradition' is now UNESCO-protected intangible heritage and still costs under €1.20 at most neighbourhood boulangeries."
+    },
+    {
+      "id": "eu_t1_003",
+      "name": "Croissant (plain, French cafe)",
+      "emoji": "🥐",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.35,
+        "1995": 0.5,
+        "2000": 0.65,
+        "2005": 0.8,
+        "2010": 0.95,
+        "2015": 1.1,
+        "2020": 1.2,
+        "2025": 1.6
+      },
+      "fact": "The croissant was invented in Vienna and brought to Paris in the 1830s. A plain croissant at a French boulangerie remains under €1.60, though artisan versions in tourist-heavy arrondissements now reach €3, triggering a government inquiry into bakery pricing."
+    },
+    {
+      "id": "eu_t1_004",
+      "name": "Metro Single Ticket (Paris, Zone 1)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.3,
+        "2010": 1.6,
+        "2015": 1.8,
+        "2020": 1.9,
+        "2025": 2.15
+      },
+      "fact": "Paris abolished its historic carnets of 10 tickets in 2021 in favour of contactless payment. The single fare crossed €2 for the first time during the 2024 Olympics, a decision framed as temporary that has since remained permanent."
+    },
+    {
+      "id": "eu_t1_005",
+      "name": "Can of Kronenbourg 1664 (330ml, supermarket)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.52,
+        "2000": 0.6,
+        "2005": 0.7,
+        "2010": 0.8,
+        "2015": 0.9,
+        "2020": 0.99,
+        "2025": 1.3
+      },
+      "fact": "Kronenbourg 1664 is named after the year Louis XIV's court baker founded a brewery in Strasbourg. France has among the lowest supermarket beer prices in the EU because alcohol taxation is lower than in Germany, the Netherlands or Scandinavia."
+    },
+    {
+      "id": "eu_t1_006",
+      "name": "Döner Kebab (street, Berlin)",
+      "emoji": "🌮",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 2.5,
+        "2010": 2.5,
+        "2015": 2.5,
+        "2020": 3.0,
+        "2025": 5.5
+      },
+      "fact": "Berlin's döner kebab held its price at €2.50 for nearly 20 years, becoming a beloved symbol of affordable city life. When it crossed €5 during the 2022 inflation crisis, it made front-page news and Chancellor Scholz was publicly asked about it."
+    },
+    {
+      "id": "eu_t1_007",
+      "name": "Litre of Petrol (unleaded, EU average)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.55,
+        "1995": 0.7,
+        "2000": 0.88,
+        "2005": 1.1,
+        "2010": 1.3,
+        "2015": 1.2,
+        "2020": 1.1,
+        "2025": 1.65
+      },
+      "fact": "European petrol prices are two to three times higher than the US because EU governments use fuel taxes to fund public transport and reduce emissions. During the 2022 energy crisis, petrol briefly hit €2.20 per litre across most of Western Europe."
+    },
+    {
+      "id": "eu_t1_008",
+      "name": "Gelato (single scoop, Rome/Florence)",
+      "emoji": "🍦",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 2.8
+      },
+      "fact": "A single gelato scoop cost the equivalent of 50 cents in 1990 and has risen nearly 6x by 2025. Florence's mayor attempted to ban tourist-trap gelato shops in 2017 after undercover inspectors found industrial soft-serve being sold as artisan gelato."
+    },
+    {
+      "id": "eu_t1_009",
+      "name": "Supermarket Brie (200g, French, standard)",
+      "emoji": "🧀",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.9,
+        "1995": 1.1,
+        "2000": 1.3,
+        "2005": 1.5,
+        "2010": 1.7,
+        "2015": 1.8,
+        "2020": 1.9,
+        "2025": 2.6
+      },
+      "fact": "France produces over 1,200 varieties of cheese and supermarket brie has been one of Europe's most price-stable dairy products. Charles de Gaulle once said no country that makes 246 varieties of cheese can be governed, and that was before France added another 1,000 varieties."
+    },
+    {
+      "id": "eu_t1_010",
+      "name": "Bratwurst (street stall, Germany)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.2,
+        "2000": 1.5,
+        "2005": 1.8,
+        "2010": 2.0,
+        "2015": 2.2,
+        "2020": 2.5,
+        "2025": 3.5
+      },
+      "fact": "The Nuremberg Bratwurst holds a Protected Geographical Indication under EU law, meaning authentic versions must be made within city limits. Street stall bratwursts were Germany's first fast food and remain cheaper than a McDonald's hamburger in every German city."
+    },
+    {
+      "id": "eu_t1_011",
+      "name": "Glass of House Wine (carafe, bistro)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.3,
+        "2010": 1.6,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 2.8
+      },
+      "fact": "A small carafe of house wine at a Paris bistro cost 60 cents in 1990. France now drinks less wine per capita than it did in 1980, yet French wine exports hit a record €13 billion in 2022 as the world's appetite for premium bottles surged."
+    },
+    {
+      "id": "eu_t1_012",
+      "name": "Newspaper (Le Monde or El Pais, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.65,
+        "2000": 0.85,
+        "2005": 1.1,
+        "2010": 1.5,
+        "2015": 1.8,
+        "2020": 2.2,
+        "2025": 3.0
+      },
+      "fact": "Le Monde was founded in 1944 on the day Paris was liberated and sells roughly 300,000 print copies daily, down from 600,000 in 1995. Its cover price rose 6x since 1990 while readership halved, a pattern repeated across every major European daily."
+    },
+    {
+      "id": "eu_t1_013",
+      "name": "Bottle of Water (500ml, supermarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.3,
+        "2000": 0.35,
+        "2005": 0.38,
+        "2010": 0.4,
+        "2015": 0.42,
+        "2020": 0.44,
+        "2025": 0.55
+      },
+      "fact": "Bottled water in European supermarkets is one of the continent's most price-stable products, barely doubling in 35 years. Evian, Perrier and San Pellegrino charge a 300-500% premium over own-brand water despite identical regulatory safety standards."
+    },
+    {
+      "id": "eu_t1_014",
+      "name": "Pain au Chocolat (boulangerie, Paris)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.45,
+        "1995": 0.6,
+        "2000": 0.75,
+        "2005": 0.9,
+        "2010": 1.05,
+        "2015": 1.2,
+        "2020": 1.3,
+        "2025": 1.75
+      },
+      "fact": "Whether to say pain au chocolat or chocolatine divides France more viscerally than most political debates. The dispute prompted a parliamentary resolution in 2018 where southern deputies tried to legally mandate the name 'chocolatine', which northern deputies defeated."
+    },
+    {
+      "id": "eu_t1_015",
+      "name": "Litre of Milk (UHT, supermarket, France)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.45,
+        "1995": 0.52,
+        "2000": 0.58,
+        "2005": 0.65,
+        "2010": 0.72,
+        "2015": 0.75,
+        "2020": 0.79,
+        "2025": 1.05
+      },
+      "fact": "UHT milk dominates French households unlike the UK or US because it needs no refrigeration until opened. French dairy farmers blockaded roads in 2016 when supermarket milk prices fell below production cost, one of the most visible agricultural protests in European history."
+    },
+    {
+      "id": "eu_t1_016",
+      "name": "Stamp (standard letter, France/Germany)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.35,
+        "1995": 0.44,
+        "2000": 0.46,
+        "2005": 0.53,
+        "2010": 0.58,
+        "2015": 0.68,
+        "2020": 0.97,
+        "2025": 1.39
+      },
+      "fact": "The French stamp crossed €1 for the first time in 2019. La Poste has been running collectible stamp series since 1849, and France is the world's largest market for philately, with stamps considered a legitimate alternative investment class."
+    },
+    {
+      "id": "eu_t1_017",
+      "name": "Portion of Churros (street stall, Spain)",
+      "emoji": "🍩",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.65,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 1.2,
+        "2015": 1.4,
+        "2020": 1.6,
+        "2025": 2.2
+      },
+      "fact": "Churros with thick hot chocolate is Spain's traditional late-night and early-morning snack, eaten after nightclubs close at 6am. Spanish churrería chains have resisted price increases more successfully than any other Spanish street food over the past three decades."
+    },
+    {
+      "id": "eu_t1_018",
+      "name": "Litre of Beer (Oktoberfest stein, Munich)",
+      "emoji": "🍻",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.8,
+        "1995": 6.6,
+        "2000": 7.0,
+        "2005": 7.5,
+        "2010": 8.3,
+        "2015": 9.2,
+        "2020": 10.8,
+        "2025": 15.3
+      },
+      "fact": "The Oktoberfest Mass crossed €15 for the first time in 2024. Beer prices at Oktoberfest have risen faster than German inflation for 40 consecutive years, making the litre stein one of the most tracked luxury inflation benchmarks in Europe."
+    },
+    {
+      "id": "eu_t1_019",
+      "name": "Postcard (tourist shop, major European city)",
+      "emoji": "🗼",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.4,
+        "2000": 0.5,
+        "2005": 0.6,
+        "2010": 0.7,
+        "2015": 0.8,
+        "2020": 0.9,
+        "2025": 1.2
+      },
+      "fact": "European postcards have barely inflated because the market is sustained almost entirely by tourists who treat them as low-cost souvenirs. The Eiffel Tower souvenir shop is the highest-grossing per square metre retail space in France, yet its postcards remain under €1.50."
+    },
+    {
+      "id": "eu_t1_020",
+      "name": "Cigarette (single, tabac, France)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.15,
+        "2000": 0.2,
+        "2005": 0.3,
+        "2010": 0.45,
+        "2015": 0.55,
+        "2020": 0.65,
+        "2025": 0.9
+      },
+      "fact": "Individual cigarettes can be legally bought in France at tabac shops unlike in the UK. The pack price crossed €12 in France in 2023 after a government campaign to reach €13 per pack, one of the highest in the EU and double the price in nearby Spain."
+    },
+    {
+      "id": "eu_t1_021",
+      "name": "Pretzel (Brezel, Munich bakery)",
+      "emoji": "🥨",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.55,
+        "2000": 0.65,
+        "2005": 0.75,
+        "2010": 0.9,
+        "2015": 1.05,
+        "2020": 1.2,
+        "2025": 1.7
+      },
+      "fact": "The Bavarian pretzel is legally protected by a 2014 EU geographical indication and must be made using specific lye-dipping methods to carry the Bavarian name. A Munich station pretzel at €1.70 is still half the price of one sold in a US airport."
+    },
+    {
+      "id": "eu_t1_022",
+      "name": "Bottle of Peroni Beer (330ml, supermarket, Italy)",
+      "emoji": "🍾",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.55,
+        "2000": 0.65,
+        "2005": 0.75,
+        "2010": 0.85,
+        "2015": 0.95,
+        "2020": 1.05,
+        "2025": 1.4
+      },
+      "fact": "Peroni is exported at a significant premium as a premium European brand while sold cheaply in Italian supermarkets. Asahi bought Peroni from AB InBev in 2016 for €2.55 billion, meaning each bottle sold in Italy recouped less than a euro of that investment."
+    },
+    {
+      "id": "eu_t1_023",
+      "name": "Pain Bagnat (Nice street market, single)",
+      "emoji": "🥙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.3,
+        "2000": 1.6,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 5.0
+      },
+      "fact": "The pain bagnat is a Niçoise tuna sandwich that holds EU protected status and must contain specific local ingredients including anchovies, olives and hard-boiled eggs. It is the most tightly legally defined sandwich in European food law."
+    },
+    {
+      "id": "eu_t1_024",
+      "name": "Supermarket Pasta (500g, De Cecco or similar)",
+      "emoji": "🍝",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.55,
+        "1995": 0.65,
+        "2000": 0.75,
+        "2005": 0.85,
+        "2010": 0.99,
+        "2015": 1.09,
+        "2020": 1.19,
+        "2025": 2.2
+      },
+      "fact": "Italian pasta prices nearly doubled between 2021 and 2023 due to durum wheat shortages caused by drought in Canada, the world's largest producer. Italy's pasta consumption fell 10% as consumers switched to rice for the first time in recorded history."
+    },
+    {
+      "id": "eu_t1_025",
+      "name": "Coin-op Locker (train station, 1 hour)",
+      "emoji": "🔐",
+      "category": "Experience",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 2.5,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Station lockers became scarce across Europe after 1990s security threats required removal of coin-operated versions. Most European stations now use staffed luggage storage instead, effectively turning a self-service convenience into a staffed service charging 4 to 8 times more."
+    },
+    {
+      "id": "eu_t2_001",
+      "name": "Cinema Ticket (standard 2D, Paris/Berlin/Rome)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 4.5,
+        "1995": 5.5,
+        "2000": 6.5,
+        "2005": 8.0,
+        "2010": 9.5,
+        "2015": 10.5,
+        "2020": 11.0,
+        "2025": 14.0
+      },
+      "fact": "France is the only EU country where cinema admissions have grown since 2010, reaching 215 million tickets per year. France subsidises its film industry through a ticket tax called the 'taxe spéciale additionnelle' and produces more films per capita than any other country."
+    },
+    {
+      "id": "eu_t2_002",
+      "name": "Paperback Novel (standard trade, Gallimard/Suhrkamp)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.5,
+        "2000": 8.0,
+        "2005": 9.5,
+        "2010": 10.5,
+        "2015": 11.5,
+        "2020": 12.0,
+        "2025": 14.5
+      },
+      "fact": "Germany has a fixed book price law called 'Buchpreisbindung' that prevents discounting and has been upheld against Amazon. France has a similar law. Both systems keep bookshops alive by removing price competition, a model the UK and US rejected with devastating consequences for independent booksellers."
+    },
+    {
+      "id": "eu_t2_003",
+      "name": "Pint of Lager (restaurant, Europe average)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.9,
+        "2000": 2.3,
+        "2005": 2.8,
+        "2010": 3.2,
+        "2015": 3.6,
+        "2020": 4.0,
+        "2025": 11.0
+      },
+      "fact": "Restaurant beer prices vary enormously across the EU: a half-litre in Prague costs €1.50 while the same drink in Oslo costs €10. The cheapest restaurant beer in the EU is in Romania and Bulgaria where it can still be found for under €1."
+    },
+    {
+      "id": "eu_t2_004",
+      "name": "Monthly Gym Membership (mid-range, major city)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 25.0,
+        "2000": 30.0,
+        "2005": 35.0,
+        "2010": 38.0,
+        "2015": 35.0,
+        "2020": 32.0,
+        "2025": 45.0
+      },
+      "fact": "McFit launched in Germany in 1997 offering €15 monthly memberships with no contract, triggering a European budget gym revolution. It now operates across 9 European countries and drove traditional gym prices down by up to 40% in Germany."
+    },
+    {
+      "id": "eu_t2_005",
+      "name": "Basic Cotton T-Shirt (H&M, Europe)",
+      "emoji": "👕",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 8.0,
+        "2000": 7.0,
+        "2005": 6.0,
+        "2010": 6.99,
+        "2015": 7.99,
+        "2020": 9.99,
+        "2025": 14.99
+      },
+      "fact": "H&M is founded in Sweden and has been Europe's dominant fast fashion retailer since the 1990s. Its T-shirt prices actually fell in the early 2000s as manufacturing shifted to Bangladesh, creating a decade of 'fast fashion deflation' that permanently changed European consumer expectations."
+    },
+    {
+      "id": "eu_t2_006",
+      "name": "Sourdough Rye Loaf (1kg, artisan German bakery)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.8,
+        "2000": 2.0,
+        "2005": 2.2,
+        "2010": 2.6,
+        "2015": 2.8,
+        "2020": 3.0,
+        "2025": 11.5
+      },
+      "fact": "Germany has over 3,200 officially registered bread varieties, more than any other country. German bread culture received UNESCO Intangible Cultural Heritage status in 2014, and a neighbourhood Bäckerei selling artisan sourdough rye closed at the rate of three per day between 2010 and 2025."
+    },
+    {
+      "id": "eu_t2_007",
+      "name": "Crepe Suzette (restaurant, Paris)",
+      "emoji": "🧇",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.5,
+        "2025": 11.0
+      },
+      "fact": "Crepe Suzette was invented in 1895 when a young waiter accidentally set a crepe alight while serving the Prince of Wales. The prince enjoyed the resulting caramelised buttery sauce so much he asked it be named after his female companion, creating France's most theatrical dessert."
+    },
+    {
+      "id": "eu_t2_008",
+      "name": "Monthly Netflix Subscription (standard, EU)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 7.99,
+        "2015": 9.99,
+        "2020": 13.99,
+        "2025": 17.99
+      },
+      "fact": "Netflix launched in most EU countries in 2014 and was immediately subject to a French rule requiring it to invest 25% of its French revenue into French film production. Netflix fought the rule for years, then quietly became one of France's largest film funders."
+    },
+    {
+      "id": "eu_t2_009",
+      "name": "Currywurst mit Pommes Lunch (Berlin imbiss)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.2,
+        "2010": 3.5,
+        "2015": 3.8,
+        "2020": 5.0,
+        "2025": 11.0
+      },
+      "fact": "Currywurst was invented in 1949 by Herta Heuwer in Berlin who mixed ketchup with curry powder to feed construction workers. Berlin has a dedicated Currywurst Museum and Volkswagen serves it in its factory canteens, making it the only fast food with its own corporate cafeteria tradition."
+    },
+    {
+      "id": "eu_t2_010",
+      "name": "Supermarket Bottle of Red Wine (entry, French AOC)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.0,
+        "2000": 3.5,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 11.0
+      },
+      "fact": "A basic French AOC wine costs €7.50 in a supermarket in 2025, having barely tripled in 35 years. EU wine lakes of the 1980s required governments to buy and destroy hundreds of millions of litres of surplus, a policy that ended only after export markets to China and the US expanded dramatically."
+    },
+    {
+      "id": "eu_t2_011",
+      "name": "Monthly Spotify Subscription (individual, EU)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 9.99,
+        "2015": 9.99,
+        "2020": 9.99,
+        "2025": 11.99
+      },
+      "fact": "Spotify was founded in Stockholm in 2006 and launched in Europe before the US. Its home market Sweden has higher music streaming revenue per capita than any other country, and European artists receive proportionally more Spotify royalties than their US counterparts."
+    },
+    {
+      "id": "eu_t2_012",
+      "name": "Lunch Menu (plat du jour plus drink, Paris bistro)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 6.0,
+        "1995": 7.5,
+        "2000": 9.0,
+        "2005": 11.0,
+        "2010": 13.0,
+        "2015": 14.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "The Paris bistro plat du jour was legally protected at a fixed price from 1939 until 1987 as an anti-inflationary measure. Its deregulation allowed prices to drift upward, but the €20 set lunch remains one of the best value meals in any major European capital."
+    },
+    {
+      "id": "eu_t2_013",
+      "name": "6-Day Alpine Ski Pass (Chamonix/Verbier area)",
+      "emoji": "⛷️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 90.0,
+        "1995": 120.0,
+        "2000": 160.0,
+        "2005": 200.0,
+        "2010": 250.0,
+        "2015": 300.0,
+        "2020": 330.0,
+        "2025": 420.0
+      },
+      "fact": "Alpine ski pass prices have risen 4x since 1990 while snowfall declined 30% at low-altitude resorts due to climate change. Over 40 small ski stations in the French and Swiss Alps permanently closed since 2010, with climate scientists predicting 70% of Alpine resorts will be snow-unreliable by 2050."
+    },
+    {
+      "id": "eu_t2_014",
+      "name": "Museum Admission (Louvre, adult standard)",
+      "emoji": "🏛️",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.0,
+        "2000": 7.5,
+        "2005": 8.5,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 22.0
+      },
+      "fact": "The Louvre charges €22 for entry but receives nine million visitors per year, making it the world's most visited museum. Under-18s from EU countries get in free, a policy that has made European children the most museum-visited young people in the world."
+    },
+    {
+      "id": "eu_t2_015",
+      "name": "Pack of 20 Cigarettes (Marlboro, France)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.2,
+        "2000": 2.8,
+        "2005": 5.0,
+        "2010": 6.2,
+        "2015": 7.0,
+        "2020": 10.0,
+        "2025": 12.5
+      },
+      "fact": "France tripled cigarette prices between 2002 and 2005 as part of an anti-smoking campaign under Health Minister Mattei. Smoking rates fell from 30% to 24% of adults as a result, one of the most successful single public health interventions in EU history."
+    },
+    {
+      "id": "eu_t2_016",
+      "name": "Eurostar London to Paris (advance, standard)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 39.0,
+        "2000": 45.0,
+        "2005": 49.0,
+        "2010": 55.0,
+        "2015": 39.0,
+        "2020": 35.0,
+        "2025": 49.0
+      },
+      "fact": "Eurostar opened in 1994 and at launch positioned itself as a luxury service. Budget competition from airlines forced it to offer £29 advance fares by 2010. Post-Brexit customs checks added 30 minutes to check-in times in 2023, making flights competitive again for the first time since 1994."
+    },
+    {
+      "id": "eu_t2_017",
+      "name": "FlixBus Ticket (intercity, 200km, advance)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9.99,
+        "2020": 9.99,
+        "2025": 14.99
+      },
+      "fact": "FlixBus launched in Germany in 2013 after bus deregulation and within 3 years had made intercity bus the cheapest transport option across most of continental Europe. It now operates in 40 countries and is run almost entirely by partner franchise operators."
+    },
+    {
+      "id": "eu_t2_018",
+      "name": "Schnitzel (restaurant, Vienna)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 7.0,
+        "1995": 8.5,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 14.0,
+        "2015": 16.0,
+        "2020": 18.0,
+        "2025": 24.0
+      },
+      "fact": "A Wiener Schnitzel must by Austrian law be made from veal, while a Schnitzel Wiener Art can use pork. Vienna's Figlmüller restaurant serves schnitzels larger than the plate and has had a continuous waiting list since 1905, meaning its price of €28 is considered remarkable value."
+    },
+    {
+      "id": "eu_t2_019",
+      "name": "Tube of Sunscreen SPF50 (50ml, Nivea/Garnier)",
+      "emoji": "🧴",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.0,
+        "2000": 6.0,
+        "2005": 7.0,
+        "2010": 8.0,
+        "2015": 9.0,
+        "2020": 10.0,
+        "2025": 14.0
+      },
+      "fact": "Sunscreen is classified as a cosmetic in the EU, not a drug, allowing faster innovation than in the US where the FDA classifies it as medicine. European consumers have access to UV filters banned in the US since the 1970s, making EU sunscreens broadly considered more effective."
+    },
+    {
+      "id": "eu_t2_020",
+      "name": "Supermarket Olive Oil (1L, extra virgin, Italian)",
+      "emoji": "🫒",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.0,
+        "2000": 4.5,
+        "2005": 5.0,
+        "2010": 5.5,
+        "2015": 5.8,
+        "2020": 6.0,
+        "2025": 12.0
+      },
+      "fact": "Italian olive oil prices nearly doubled between 2022 and 2024 after successive droughts destroyed 60% of Puglia's olive harvest. Italy produces 10% of the world's olive oil but thieves began stealing trees overnight from farms as the price peaked, in a phenomenon called the 'olive oil crisis.'"
+    },
+    {
+      "id": "eu_t2_021",
+      "name": "Paella (restaurant, Valencia, per person)",
+      "emoji": "🥘",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.0,
+        "2000": 7.5,
+        "2005": 9.0,
+        "2010": 10.5,
+        "2015": 12.0,
+        "2020": 14.0,
+        "2025": 20.0
+      },
+      "fact": "Valencia's regional government maintains that authentic paella must use only rabbit, chicken and green beans as protein and has sued restaurants for serving seafood paella under the protected name. The paella authenticity debate is taken more seriously in Spain than most political disputes."
+    },
+    {
+      "id": "eu_t2_022",
+      "name": "Pizza Margherita (restaurant, Naples)",
+      "emoji": "🍕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.5,
+        "2000": 5.5,
+        "2005": 6.5,
+        "2010": 7.0,
+        "2015": 7.5,
+        "2020": 8.0,
+        "2025": 11.0
+      },
+      "fact": "Neapolitan pizza holds EU TSG protected status, specifying exact ingredients, dough hydration and maximum baking time of 60-90 seconds in a wood-fired oven. There are 3,000 registered authentic Neapolitan pizzerias globally, each inspected annually by the AVPN association."
+    },
+    {
+      "id": "eu_t2_023",
+      "name": "Perrier plus Coffee (Paris cafe, set)",
+      "emoji": "🫧",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.2,
+        "2000": 1.4,
+        "2005": 1.6,
+        "2010": 2.5,
+        "2015": 3.5,
+        "2020": 5.0,
+        "2025": 11.5
+      },
+      "fact": "Perrier was contaminated with benzene in 1990 requiring a global recall of 280 million bottles. Nestlé bought the brand during the crisis for a fraction of its value. The cafe tradition of sparkling water served alongside coffee remains one of France's most distinctive dining customs."
+    },
+    {
+      "id": "eu_t2_024",
+      "name": "Return TGV Train (Paris to Lyon, advance)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 30.0,
+        "1995": 40.0,
+        "2000": 50.0,
+        "2005": 55.0,
+        "2010": 49.0,
+        "2015": 45.0,
+        "2020": 39.0,
+        "2025": 55.0
+      },
+      "fact": "The TGV Paris to Lyon journey takes exactly 2 hours compared to 5 by car. The TGV network is so fast that short-haul flights on routes where it operates have been banned under the 2023 French law on air travel, the first such prohibition in EU history."
+    },
+    {
+      "id": "eu_t2_025",
+      "name": "Antibiotics Prescription Course (amoxicillin, pharmacy)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.0,
+        "2000": 6.5,
+        "2005": 7.0,
+        "2010": 7.5,
+        "2015": 8.0,
+        "2020": 8.5,
+        "2025": 12.0
+      },
+      "fact": "Antibiotics are fully reimbursed by social security in France and Germany for insured patients, making the out-of-pocket cost near zero. France has the EU's highest antibiotic consumption per capita partly because doctors prescribe them more readily than their northern European colleagues."
+    },
+    {
+      "id": "eu_t3_001",
+      "name": "Nike Air Max 97 (standard colourway, Europe)",
+      "emoji": "👟",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 90.0,
+        "2000": 100.0,
+        "2005": 110.0,
+        "2010": 120.0,
+        "2015": 140.0,
+        "2020": 160.0,
+        "2025": 185.0
+      },
+      "fact": "The Nike Air Max 97 was designed in Milan, inspired by Japanese bullet trains, and became the first Air Max to have full-length air cushioning. It was the most counterfeited sneaker in Europe throughout the 2000s, with Italian customs seizing millions of fake pairs each year."
+    },
+    {
+      "id": "eu_t3_002",
+      "name": "Easyjet Flight (London to Barcelona, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 250.0,
+        "1995": 200.0,
+        "2000": 100.0,
+        "2005": 70.0,
+        "2010": 80.0,
+        "2015": 70.0,
+        "2020": 50.0,
+        "2025": 150.0
+      },
+      "fact": "EasyJet launched in 1995 and within 10 years had made Barcelona a British weekend destination rather than a holiday. The 2022 fuel spike and pilot shortages briefly pushed average fares above pre-deregulation levels for the first time in 25 years."
+    },
+    {
+      "id": "eu_t3_003",
+      "name": "Monthly Rail Pass (France, regional, Île-de-France)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 45.0,
+        "1995": 55.0,
+        "2000": 65.0,
+        "2005": 75.0,
+        "2010": 100.0,
+        "2015": 110.0,
+        "2020": 120.0,
+        "2025": 145.0
+      },
+      "fact": "The Paris Navigo monthly pass covers all zones including the airports for a flat €145. It is widely considered the best-value urban transport pass of any major world city, costing less than two days of equivalent travel in London."
+    },
+    {
+      "id": "eu_t3_004",
+      "name": "iPad (Apple base model, EU price)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 499.0,
+        "2015": 379.0,
+        "2020": 379.0,
+        "2025": 389.0
+      },
+      "fact": "Apple's EU iPad prices are typically 5 to 15% higher than US prices after VAT, a gap that the EU Digital Markets Act is attempting to close. The DMA forced Apple to allow third-party app stores in Europe in 2024, the first crack in Apple's 15-year walled garden."
+    },
+    {
+      "id": "eu_t3_005",
+      "name": "Kindle E-Reader (base model, EU)",
+      "emoji": "📖",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 139.0,
+        "2015": 79.0,
+        "2020": 89.99,
+        "2025": 109.99
+      },
+      "fact": "The EU imposed a 3% VAT rate on physical books but initially taxed ebooks at 20%, ruling they were software not books. The European Court of Justice reversed this in 2015 after France and Luxembourg defied the rule, making ebooks officially books under EU law."
+    },
+    {
+      "id": "eu_t3_006",
+      "name": "Levis 501 Jeans (standard, European retail)",
+      "emoji": "👖",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 55.0,
+        "1995": 65.0,
+        "2000": 75.0,
+        "2005": 80.0,
+        "2010": 90.0,
+        "2015": 95.0,
+        "2020": 100.0,
+        "2025": 120.0
+      },
+      "fact": "Levi's 501 jeans were so sought-after in East Germany and Soviet-bloc countries that tourists could sell a pair for 10 times the purchase price. They became a symbol of Western capitalism and were reportedly used as hard currency before the Berlin Wall fell."
+    },
+    {
+      "id": "eu_t3_007",
+      "name": "Monthly Car Insurance (comprehensive, EU average)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 60.0,
+        "2000": 75.0,
+        "2005": 85.0,
+        "2010": 90.0,
+        "2015": 85.0,
+        "2020": 80.0,
+        "2025": 120.0
+      },
+      "fact": "The EU mandated standardised minimum motor insurance cover across all member states in 2009, reducing cross-border disparities. French and German insurers now operate across the entire EU single market, meaning a German insurer can undercut a French rival in France."
+    },
+    {
+      "id": "eu_t3_008",
+      "name": "Glastonbury-equivalent Festival Ticket (Roskilde/Primavera)",
+      "emoji": "🎪",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 50.0,
+        "2000": 75.0,
+        "2005": 100.0,
+        "2010": 150.0,
+        "2015": 195.0,
+        "2020": 220.0,
+        "2025": 295.0
+      },
+      "fact": "Roskilde Festival in Denmark is Europe's largest non-profit music festival and donates all profits to humanitarian causes. It has raised over €50 million for charity since 1972, making it the most philanthropic music event in the world."
+    },
+    {
+      "id": "eu_t3_009",
+      "name": "Dyson V8 Cordless Vacuum (EU price)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 379.0,
+        "2020": 349.0,
+        "2025": 329.0
+      },
+      "fact": "Dyson's EU prices have actually fallen as cheaper competition from Chinese brands like Roborock entered the market. The EU's right-to-repair directive passed in 2024 legally requires Dyson to provide spare parts for 10 years after purchase, a rule Dyson actively lobbied against."
+    },
+    {
+      "id": "eu_t3_010",
+      "name": "Season Ticket (Bundesliga, average club, standing)",
+      "emoji": "⚽",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 100.0,
+        "2000": 120.0,
+        "2005": 150.0,
+        "2010": 160.0,
+        "2015": 165.0,
+        "2020": 175.0,
+        "2025": 220.0
+      },
+      "fact": "Bundesliga standing terraces are among the last in European top-flight football and keep average ticket prices at less than half of Premier League equivalents. The 50+1 ownership rule prevents any investor from owning more than 49% of a club, keeping ticket prices a fan-sensitive issue."
+    },
+    {
+      "id": "eu_t3_011",
+      "name": "Weekend Hotel (3-star, Paris, per night)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 75.0,
+        "2000": 95.0,
+        "2005": 115.0,
+        "2010": 130.0,
+        "2015": 145.0,
+        "2020": 120.0,
+        "2025": 220.0
+      },
+      "fact": "Paris hotel prices hit record highs during the 2024 Olympics, with basic 3-star rooms reaching €600 per night. Post-Olympics prices remained 25% above pre-2024 levels, with hotels retaining a permanent rerating after months of record occupancy."
+    },
+    {
+      "id": "eu_t3_012",
+      "name": "KitchenAid Professional 6.9L Stand Mixer (EU)",
+      "emoji": "🥣",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 450.0,
+        "1995": 550.0,
+        "2000": 650.0,
+        "2005": 750.0,
+        "2010": 900.0,
+        "2015": 999.0,
+        "2020": 1200.0,
+        "2025": 2200.0
+      },
+      "fact": "KitchenAid professional mixers are manufactured in Greenville, Ohio and exported to Europe at a premium. The EU right-to-repair directive passed in 2024 legally requires manufacturers to provide spare parts for 10 years after purchase, a rule KitchenAid actively lobbied to delay."
+    },
+    {
+      "id": "eu_t3_013",
+      "name": "Luxury Spa Day (mid-range, Alpine resort)",
+      "emoji": "🧖",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 70.0,
+        "2000": 90.0,
+        "2005": 110.0,
+        "2010": 130.0,
+        "2015": 150.0,
+        "2020": 150.0,
+        "2025": 220.0
+      },
+      "fact": "Alpine spa culture combines Austrian Kur tradition with Swiss luxury hospitality. The spa sector is one of Austria's largest service exports, attracting 2 million 'wellness tourists' annually who spend more per day than regular tourists."
+    },
+    {
+      "id": "eu_t3_014",
+      "name": "Vespa Primavera 125cc (base, Italy)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 1200.0,
+        "1995": 1600.0,
+        "2000": 2000.0,
+        "2005": 2500.0,
+        "2010": 2900.0,
+        "2015": 3200.0,
+        "2020": 3600.0,
+        "2025": 4800.0
+      },
+      "fact": "Vespa was designed in 1946 by an aeronautical engineer who shaped its body like an aircraft fuselage to hide the engine. It has been manufactured in Pontedera, Tuscany for 78 years without interruption and is Italy's most globally recognisable industrial product."
+    },
+    {
+      "id": "eu_t3_015",
+      "name": "Annual Museum Pass (Paris, Musée en Fête)",
+      "emoji": "🎨",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 40.0,
+        "1995": 50.0,
+        "2000": 60.0,
+        "2005": 70.0,
+        "2010": 80.0,
+        "2015": 90.0,
+        "2020": 90.0,
+        "2025": 120.0
+      },
+      "fact": "The Paris Museum Pass covers over 50 museums and monuments including the Louvre and Versailles. Visitors who use it at more than 6 sites break even on cost, and research shows passholders visit museums four times more often than those who pay individually."
+    },
+    {
+      "id": "eu_t3_016",
+      "name": "IKEA Billy Bookcase (standard, 80x202cm)",
+      "emoji": "📚",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 55.0,
+        "1995": 59.0,
+        "2000": 60.0,
+        "2005": 59.0,
+        "2010": 59.0,
+        "2015": 59.0,
+        "2020": 69.0,
+        "2025": 119.0
+      },
+      "fact": "The IKEA Billy bookcase has barely changed in price for 30 years, a feat achieved by constant redesigns to use less material per unit. One Billy bookcase is sold every 10 seconds somewhere in the world and it is estimated that 60 million exist globally."
+    },
+    {
+      "id": "eu_t3_017",
+      "name": "Nespresso Machine (entry, Essenza Mini)",
+      "emoji": "☕",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200.0,
+        "2005": 180.0,
+        "2010": 159.0,
+        "2015": 149.0,
+        "2020": 99.0,
+        "2025": 129.0
+      },
+      "fact": "Nespresso launched in Switzerland in 1986 and spent 15 years struggling before becoming the fastest-growing brand in Nestlé's history. Its patented capsule system was declared a monopoly abuse by Swiss courts in 2010, forcing Nestlé to allow compatible third-party pods."
+    },
+    {
+      "id": "eu_t3_018",
+      "name": "Paris Disneyland 1-Day Ticket (adult, peak)",
+      "emoji": "🏰",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 34.0,
+        "2000": 38.0,
+        "2005": 45.0,
+        "2010": 59.0,
+        "2015": 72.0,
+        "2020": 79.0,
+        "2025": 135.0
+      },
+      "fact": "Disneyland Paris opened in 1992 to massive protests from French intellectuals who called it a 'cultural Chernobyl.' It lost money for its first decade, was bailed out by the Saudi royal family, and eventually became Europe's most visited tourist attraction, drawing 10 million visitors annually."
+    },
+    {
+      "id": "eu_t3_019",
+      "name": "E-Scooter Monthly Rental Pass (Lime/Tier, major city)",
+      "emoji": "🛴",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 45.0,
+        "2025": 120.0
+      },
+      "fact": "E-scooter rental passes launched in European cities around 2019 and immediately became affordable urban transport. Paris became the first major European city to ban rental scooters in a public referendum in 2023 with 89% of voters approving the ban."
+    },
+    {
+      "id": "eu_t3_020",
+      "name": "German Car Registration Fee (new car, standard)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 80.0,
+        "2000": 90.0,
+        "2005": 100.0,
+        "2010": 100.0,
+        "2015": 100.0,
+        "2020": 105.0,
+        "2025": 115.0
+      },
+      "fact": "Germany's vehicle registration bureaucracy is so complex it requires a certified professional called a Zulassungsdienst. The process involves 6 separate administrative steps and takes an average 3 hours, yet the total government fee is under €120."
+    },
+    {
+      "id": "eu_t3_021",
+      "name": "Michelin-Star Tasting Menu (1-star, Paris, lunch)",
+      "emoji": "⭐",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 75.0,
+        "2000": 90.0,
+        "2005": 100.0,
+        "2010": 110.0,
+        "2015": 120.0,
+        "2020": 130.0,
+        "2025": 180.0
+      },
+      "fact": "Michelin began publishing its restaurant guide in 1900 to encourage driving and tyre purchases. A one-star lunch menu in Paris costs €180 in 2025, roughly the same as a flight from London. Three French chefs have voluntarily given back their stars to escape the pressure."
+    },
+    {
+      "id": "eu_t3_023",
+      "name": "Montblanc Meisterstück Fountain Pen Set (Limited Edition)",
+      "emoji": "🖊️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 300.0,
+        "1995": 500.0,
+        "2000": 800.0,
+        "2005": 1200.0,
+        "2010": 1800.0,
+        "2015": 2200.0,
+        "2020": 2800.0,
+        "2025": 4500.0
+      },
+      "fact": "Montblanc limited edition fountain pen sets are treated as collectible investments and resell at auction for 3 to 5 times retail price. The company has made limited editions honouring Dostoyevsky, Dante and Homer, making it the only pen brand with a literary canon collection."
+    },
+    {
+      "id": "eu_t3_024",
+      "name": "Car Ferry (Dover to Calais, standard car, return)",
+      "emoji": "⛴️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 75.0,
+        "2000": 90.0,
+        "2005": 95.0,
+        "2010": 100.0,
+        "2015": 120.0,
+        "2020": 140.0,
+        "2025": 200.0
+      },
+      "fact": "Dover to Calais is the busiest international sea route in the world. Post-Brexit passport checks more than doubled the processing time per car, reducing the ferry's passenger capacity by up to 20% per crossing and pushing prices to their highest levels since the Channel Tunnel opened."
+    },
+    {
+      "id": "eu_t3_025",
+      "name": "Airbnb Night (apartment, Paris, central, avg)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 80.0,
+        "2015": 100.0,
+        "2020": 110.0,
+        "2025": 180.0
+      },
+      "fact": "Paris has the most Airbnb listings of any city in the world with over 90,000 properties. The city passed laws restricting short-term rentals to 120 days per year in 2019 and in 2024 proposed a full ban in certain arrondissements, citing housing shortages for residents."
+    },
+    {
+      "id": "eu_t4_001",
+      "name": "iPhone 16 Pro Max (256GB, EU price)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 729.0,
+        "2015": 869.0,
+        "2020": 1229.0,
+        "2025": 2499.0
+      },
+      "fact": "Apple was fined €1.8 billion by the EU in 2024 for abusing its position in music streaming, and €13 billion in Ireland for illegal state aid. The EU has become the world's most aggressive regulator of American tech, collecting more fines from Silicon Valley than all other jurisdictions combined."
+    },
+    {
+      "id": "eu_t4_002",
+      "name": "Volkswagen Golf (base, 1.0 TSI, Germany)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 14500.0,
+        "1995": 18000.0,
+        "2000": 17000.0,
+        "2005": 16500.0,
+        "2010": 18500.0,
+        "2015": 20000.0,
+        "2020": 24000.0,
+        "2025": 31000.0
+      },
+      "fact": "VW's Dieselgate scandal in 2015 revealed the company had installed software to cheat EU emissions tests in 11 million cars. VW paid over €30 billion in fines and settlements globally, the largest corporate fine in automotive history, yet remained Europe's best-selling car brand."
+    },
+    {
+      "id": "eu_t4_003",
+      "name": "MacBook Pro 14-inch M3 (base, EU)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1299.0,
+        "2015": 1299.0,
+        "2020": 1299.0,
+        "2025": 2299.0
+      },
+      "fact": "The EU forced Apple to switch to USB-C on all devices sold in Europe from 2024, ending the proprietary Lightning connector after 11 years. Apple complied globally rather than make Europe-only devices, meaning the EU effectively set the standard for the entire world."
+    },
+    {
+      "id": "eu_t4_004",
+      "name": "Pétrus Wine (750ml, current vintage, EU merchant)",
+      "emoji": "🍾",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 30.0,
+        "1995": 45.0,
+        "2000": 60.0,
+        "2005": 90.0,
+        "2010": 150.0,
+        "2015": 300.0,
+        "2020": 500.0,
+        "2025": 3500.0
+      },
+      "fact": "The 1855 Bordeaux classification ranked the best wines of the Médoc and has been updated only once since, in 1973 for Mouton Rothschild. The classification is so politically entrenched that every attempt to update it in the intervening 170 years has been blocked by existing classed-growth estates."
+    },
+    {
+      "id": "eu_t4_005",
+      "name": "Annual University Fees (France, public grande école)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 200.0,
+        "1995": 300.0,
+        "2000": 400.0,
+        "2005": 500.0,
+        "2010": 600.0,
+        "2015": 1000.0,
+        "2020": 2500.0,
+        "2025": 3770.0
+      },
+      "fact": "French public universities charge EU students €2,770 per year while non-EU students pay €16,000. This is still cheaper than one week at Sciences Po for a full-fee payer. France raised fees in 2019 after a court ruled charging EU and French students the same rate was unconstitutional."
+    },
+    {
+      "id": "eu_t4_006",
+      "name": "Rolex Submariner (new retail, EU)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2200.0,
+        "1995": 2800.0,
+        "2000": 3500.0,
+        "2005": 4500.0,
+        "2010": 5900.0,
+        "2015": 7200.0,
+        "2020": 8500.0,
+        "2025": 10200.0
+      },
+      "fact": "Rolex is a Swiss non-profit foundation that reinvests all profits into charitable causes. Despite selling over 1 million watches per year at prices averaging €10,000, it has never paid a dividend. Its Geneva headquarters is estimated to hold a larger reserve than most European national museums."
+    },
+    {
+      "id": "eu_t4_007",
+      "name": "Paris 1-Bedroom Apartment (weekly rent, central)",
+      "emoji": "🏙️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 650.0,
+        "2000": 850.0,
+        "2005": 1100.0,
+        "2010": 1300.0,
+        "2015": 1500.0,
+        "2020": 400.0,
+        "2025": 525.0
+      },
+      "fact": "Paris has rent control laws called encadrement des loyers that legally cap rent increases to a government index. Landlords who breach the cap face fines up to €15,000, yet the city enforces the rules through only 18 rental inspectors for 2 million rental units."
+    },
+    {
+      "id": "eu_t4_008",
+      "name": "Gold (10 grams, 24K, EUR spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 58.0,
+        "2000": 54.0,
+        "2005": 74.0,
+        "2010": 198.0,
+        "2015": 204.0,
+        "2020": 320.0,
+        "2025": 560.0
+      },
+      "fact": "Gold crossed €500 per 10 grams for the first time in 2024 and hit €560 in 2025. European central banks have been net buyers of gold since 2010, reversing two decades of selling that included the controversial Swiss sale of 1,300 tonnes between 2000 and 2005."
+    },
+    {
+      "id": "eu_t4_009",
+      "name": "Tesla Model 3 (standard range, EU price)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 46990.0,
+        "2025": 42990.0
+      },
+      "fact": "The EU imposed 35% tariffs on Chinese-made electric vehicles in 2024 in response to subsidised Chinese competition. Tesla, which makes the Model 3 in Shanghai, was hit with additional tariffs that raised its EU price by €6,000, prompting Tesla to accelerate European production expansion."
+    },
+    {
+      "id": "eu_t4_010",
+      "name": "Porsche 911 (base Carrera, Germany MSRP)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 65000.0,
+        "1995": 72000.0,
+        "2000": 75000.0,
+        "2005": 78000.0,
+        "2010": 82000.0,
+        "2015": 88000.0,
+        "2020": 99000.0,
+        "2025": 125000.0
+      },
+      "fact": "The Porsche 911 has been in continuous production since 1963 with an almost unchanged silhouette. Porsche's IPO in 2022 was the largest in European stock exchange history, valuing the company at €75 billion despite making fewer than 300,000 cars per year."
+    },
+    {
+      "id": "eu_t4_011",
+      "name": "Average House Price (Germany, national average)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 130000.0,
+        "1995": 140000.0,
+        "2000": 145000.0,
+        "2005": 148000.0,
+        "2010": 155000.0,
+        "2015": 200000.0,
+        "2020": 310000.0,
+        "2025": 340000.0
+      },
+      "fact": "German house prices were virtually flat from 1990 to 2010, rising less than 20% in 20 years while UK and French prices tripled. Germany's renters-first culture, tenant protection laws and strict zoning kept prices stable before a decade of near-zero interest rates caused them to double."
+    },
+    {
+      "id": "eu_t4_012",
+      "name": "Hermes Birkin Bag (base, 30cm, Togo leather)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 3500.0,
+        "2000": 5000.0,
+        "2005": 6500.0,
+        "2010": 8000.0,
+        "2015": 9000.0,
+        "2020": 10500.0,
+        "2025": 13500.0
+      },
+      "fact": "The Hermès Birkin has a minimum 2-year waiting list at retail and resells for up to 300% of purchase price at auction. A study by Baghunter in 2016 found the Birkin outperformed both gold and the S&P 500 over the previous 35 years as an investment asset."
+    },
+    {
+      "id": "eu_t4_013",
+      "name": "Private School Fees (annual, international school, Paris)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 6000.0,
+        "1995": 9000.0,
+        "2000": 13000.0,
+        "2005": 17000.0,
+        "2010": 22000.0,
+        "2015": 27000.0,
+        "2020": 32000.0,
+        "2025": 42000.0
+      },
+      "fact": "International schools in Paris catering to expatriate diplomats and executives have raised fees 7x since 1990. The American School of Paris charges €42,000 per year, yet has a 3-year waiting list because its IB diploma is accepted by all Ivy League and Oxbridge universities."
+    },
+    {
+      "id": "eu_t4_014",
+      "name": "Louis Vuitton Neverfull MM (EU retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 400.0,
+        "1995": 600.0,
+        "2000": 900.0,
+        "2005": 1200.0,
+        "2010": 1800.0,
+        "2015": 2300.0,
+        "2020": 2700.0,
+        "2025": 3500.0
+      },
+      "fact": "LVMH, owner of Louis Vuitton, became Europe's most valuable company in 2023 with a market cap over €400 billion. The Neverfull has been the world's best-selling luxury bag every year since 2007, yet Vuitton deliberately limits production to maintain the perception of scarcity."
+    },
+    {
+      "id": "eu_t4_015",
+      "name": "BMW 3 Series (320i base, Germany MSRP)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 25000.0,
+        "1995": 29000.0,
+        "2000": 30000.0,
+        "2005": 29000.0,
+        "2010": 30500.0,
+        "2015": 34000.0,
+        "2020": 39000.0,
+        "2025": 48000.0
+      },
+      "fact": "The BMW 3 Series is the world's best-selling premium car and has been built in Munich since 1975. The base price nearly doubled since 1990 while the entry-level model gained over 400kg in weight due to safety and emission equipment, meaning buyers pay more for a physically larger car."
+    },
+    {
+      "id": "eu_t4_016",
+      "name": "Eurotunnel Le Shuttle Annual Pass (unlimited, family car)",
+      "emoji": "🚂",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 220.0,
+        "2000": 200.0,
+        "2005": 180.0,
+        "2010": 160.0,
+        "2015": 155.0,
+        "2020": 140.0,
+        "2025": 2800.0
+      },
+      "fact": "The Channel Tunnel opened in 1994 and was meant to end the ferry industry. Instead ferry operators survived by lowering prices and offering on-board entertainment. Post-Brexit passport checks added 45 minutes to the Le Shuttle boarding process, erasing its speed advantage over ferries."
+    },
+    {
+      "id": "eu_t4_017",
+      "name": "Chanel No. 5 (100ml EDP, EU retail)",
+      "emoji": "🌸",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 80.0,
+        "2000": 100.0,
+        "2005": 130.0,
+        "2010": 160.0,
+        "2015": 195.0,
+        "2020": 235.0,
+        "2025": 330.0
+      },
+      "fact": "Chanel No. 5 has been the world's best-selling perfume since 1921. It was the first to use synthetic aldehydes rather than natural ingredients, a chemical accident by perfumer Ernest Beaux that Coco Chanel decided to sell despite smelling unlike anything before it."
+    },
+    {
+      "id": "eu_t4_018",
+      "name": "Annual Private Health Insurance (comprehensive, France)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 900.0,
+        "2005": 1200.0,
+        "2010": 1500.0,
+        "2015": 1800.0,
+        "2020": 2200.0,
+        "2025": 3000.0
+      },
+      "fact": "France's mutuelle top-up private insurance covers costs not reimbursed by the state system and is held by 95% of employed French people. Employers are legally required to contribute at least 50% of the premium, making private healthcare supplementation effectively mandatory."
+    },
+    {
+      "id": "eu_t4_019",
+      "name": "Vespa GTS 300 SuperSport (Italy MSRP)",
+      "emoji": "🏍️",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 4900.0,
+        "2010": 5800.0,
+        "2015": 6500.0,
+        "2020": 7200.0,
+        "2025": 9200.0
+      },
+      "fact": "The Vespa GTS 300 is the most powerful scooter Piaggio has ever produced and became synonymous with a pan-European urban middle class lifestyle. It appears in more European insurance fraud claims than any other single vehicle model, because the theft value exceeds the purchase price on the grey market."
+    },
+    {
+      "id": "eu_t4_020",
+      "name": "Full Kitchen Renovation (mid-range, Germany)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 10000.0,
+        "2000": 12000.0,
+        "2005": 14000.0,
+        "2010": 16000.0,
+        "2015": 18000.0,
+        "2020": 22000.0,
+        "2025": 38000.0
+      },
+      "fact": "German kitchen renovation costs rose 70% in five years partly because German kitchens are taken by tenants when they move out, a legal custom that means every new tenant must install their own. This creates a rental-to-ownership kitchen trade industry unique to Germany."
+    },
+    {
+      "id": "eu_t4_021",
+      "name": "Cannes Film Festival VIP Pass (Marché du Film)",
+      "emoji": "🎬",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1200.0,
+        "2005": 1800.0,
+        "2010": 2500.0,
+        "2015": 3000.0,
+        "2020": 2000.0,
+        "2025": 4500.0
+      },
+      "fact": "The Cannes Film Festival Marché du Film is the world's largest film market with €3 billion in deals signed annually in 10 days. A VIP badge has no guaranteed film access and mainly signals to distributors that the holder is worth meeting, making it arguably the world's most expensive business card."
+    },
+    {
+      "id": "eu_t4_022",
+      "name": "Pétrus Wine (750ml, current vintage, merchant)",
+      "emoji": "🍷",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 200.0,
+        "1995": 500.0,
+        "2000": 1200.0,
+        "2005": 1800.0,
+        "2010": 2500.0,
+        "2015": 2800.0,
+        "2020": 3500.0,
+        "2025": 5000.0
+      },
+      "fact": "Pétrus is made on just 11.5 hectares in Pomerol and produces fewer than 30,000 bottles per year. It has no official classification within Bordeaux's 1855 system, meaning it achieved its €5,000 per bottle price entirely through reputation with no regulatory protection."
+    },
+    {
+      "id": "eu_t4_023",
+      "name": "Ferrari 296 GTB (base EU price)",
+      "emoji": "🚗",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 120000.0,
+        "2000": 140000.0,
+        "2005": 160000.0,
+        "2010": 180000.0,
+        "2015": 200000.0,
+        "2020": 240000.0,
+        "2025": 320000.0
+      },
+      "fact": "Ferrari deliberately makes fewer cars than it receives orders for every year to maintain exclusivity. Its Maranello factory has produced under 15,000 cars annually since 2020 yet Ferrari's stock market value exceeds Volkswagen's, which makes 9 million vehicles per year."
+    },
+    {
+      "id": "eu_t4_024",
+      "name": "Luxury Ski Chalet Rental (week, Courchevel 1850)",
+      "emoji": "🏔️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 5000.0,
+        "2000": 8000.0,
+        "2005": 12000.0,
+        "2010": 18000.0,
+        "2015": 25000.0,
+        "2020": 22000.0,
+        "2025": 45000.0
+      },
+      "fact": "Courchevel 1850 is the world's most expensive ski resort and has its own private airport accessible only by helicopter or light aircraft. Weekly chalet rentals at the top end reach €500,000, making it more expensive per night than any hotel suite in Paris."
+    },
+    {
+      "id": "eu_t4_025",
+      "name": "Average Paris Apartment Purchase Price (per sqm)",
+      "emoji": "🏗️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 1800.0,
+        "2000": 2500.0,
+        "2005": 5000.0,
+        "2010": 7500.0,
+        "2015": 8500.0,
+        "2020": 10500.0,
+        "2025": 9800.0
+      },
+      "fact": "Paris apartment prices fell 10% between 2022 and 2025 after rising 5x since 2000, the first sustained drop in 25 years. Rising interest rates ended the era of cheap mortgages and forced prices down, giving a generation of locked-out buyers their first glimpse of affordability."
+    },
+    {
+      "id": "eu_t1_026",
+      "name": "Schokoriegel (Ritter Sport, 100g, Germany)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.55,
+        "1995": 0.7,
+        "2000": 0.85,
+        "2005": 0.95,
+        "2010": 1.05,
+        "2015": 1.19,
+        "2020": 1.39,
+        "2025": 1.79
+      },
+      "fact": "Ritter Sport pioneered the square chocolate bar format in 1932 because it fits into a shirt pocket without breaking. It won a 12-year European trademark battle in 2019 to legally protect the square shape, the first time a geometric form was protected as intellectual property in food."
+    }
+  ]
+}

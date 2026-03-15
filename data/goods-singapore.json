@@ -1,0 +1,1808 @@
+{
+  "country": "SG",
+  "country_name": "Singapore",
+  "currency_symbol": "S$",
+  "currency_code": "SGD",
+  "items": [
+    {
+      "id": "sg_t1_001",
+      "name": "Kopi (black coffee, hawker centre)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.5,
+        "2000": 0.6,
+        "2005": 0.7,
+        "2010": 0.8,
+        "2015": 0.9,
+        "2020": 1.0,
+        "2025": 1.3
+      },
+      "fact": "Kopi is Singapore's traditional coffee made with Robusta beans roasted in butter and sugar. At S$1.30 it remains the city's cheapest hot drink, a price kept low by government-subsidised hawker centre rents."
+    },
+    {
+      "id": "sg_t1_002",
+      "name": "Char Kway Teow (hawker centre, standard plate)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 3.5,
+        "2015": 4.0,
+        "2020": 4.5,
+        "2025": 6.0
+      },
+      "fact": "Char Kway Teow stalls at Chinatown Complex have queues of 45 minutes and are cooked by elderly masters who refuse to train successors. Singapore fears losing its hawker traditions as fewer young people enter the trade."
+    },
+    {
+      "id": "sg_t1_003",
+      "name": "Chicken Rice (hawker, standard plate)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 3.5,
+        "2015": 4.0,
+        "2020": 4.5,
+        "2025": 5.5
+      },
+      "fact": "Hawker Chan's chicken rice earned a Michelin star in 2016 at S$3 a plate, the world's cheapest Michelin-starred meal. The chef later franchised globally and raised prices, which many Singaporeans considered a betrayal of hawker values."
+    },
+    {
+      "id": "sg_t1_004",
+      "name": "Teh Tarik (pulled tea, hawker)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.5,
+        "2000": 0.6,
+        "2005": 0.7,
+        "2010": 0.8,
+        "2015": 1.0,
+        "2020": 1.2,
+        "2025": 1.5
+      },
+      "fact": "Teh Tarik, meaning pulled tea, is made by pouring hot tea between two cups at height to create a frothy top. It is the unofficial national drink of Singapore and Malaysia and the pouring style is a competitive performance art."
+    },
+    {
+      "id": "sg_t1_005",
+      "name": "Roti Prata (hawker, plain, single)",
+      "emoji": "🫓",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.5,
+        "2000": 0.6,
+        "2005": 0.7,
+        "2010": 0.8,
+        "2015": 1.0,
+        "2020": 1.2,
+        "2025": 1.5
+      },
+      "fact": "Plain prata at S$1.50 is one of Singapore's last genuinely cheap foods, survived only because flour and gas are unsubsidised and hawkers operate on minimal margins. The coin prata, a thinner crispier version, costs S$0.20 more."
+    },
+    {
+      "id": "sg_t1_006",
+      "name": "Can of 100Plus (Isotonic, 325ml, convenience store)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 0.9,
+        "2005": 1.0,
+        "2010": 1.1,
+        "2015": 1.2,
+        "2020": 1.3,
+        "2025": 1.6
+      },
+      "fact": "100Plus is Singapore's best-selling isotonic drink and is considered a cultural export, sold across 17 Asian countries. It is served at every National Day Parade and is the official drink of Singapore's national sports teams."
+    },
+    {
+      "id": "sg_t1_007",
+      "name": "Nasi Lemak (hawker, standard packet)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.0,
+        "2000": 1.5,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 4.5
+      },
+      "fact": "Nasi Lemak is claimed by both Singapore and Malaysia as a national dish, a dispute as heated as the one over chicken rice. Singapore's hawker version uses coconut rice, fried chicken and sambal chilli that differs from every Malaysian regional style."
+    },
+    {
+      "id": "sg_t1_008",
+      "name": "Newspaper (Straits Times, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.8,
+        "2000": 0.9,
+        "2005": 1.0,
+        "2010": 1.1,
+        "2015": 1.2,
+        "2020": 1.3,
+        "2025": 1.5
+      },
+      "fact": "The Straits Times has been published since 1845 and is majority owned by Singapore Press Holdings, which is linked to the government. Media freedom rankings place Singapore 140th globally despite having one of the world's most educated readerships."
+    },
+    {
+      "id": "sg_t1_009",
+      "name": "MRT Single Journey (minimum fare)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.62,
+        "2000": 0.65,
+        "2005": 0.8,
+        "2010": 0.89,
+        "2015": 0.92,
+        "2020": 1.19,
+        "2025": 1.51
+      },
+      "fact": "Singapore's MRT is rated the world's most reliable metro system, with 99.98% on-time performance. It is also among the world's most expensive per kilometre, partly because the entire system runs in air-conditioned tunnels and stations."
+    },
+    {
+      "id": "sg_t1_010",
+      "name": "Satay (3 sticks, hawker, beef or chicken)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 3.0
+      },
+      "fact": "Lau Pa Sat's satay street, where stalls set up on the road outside the Victorian market every evening, is one of Singapore's most beloved dining rituals. Satay vendors must display a government food safety grade prominently by law."
+    },
+    {
+      "id": "sg_t1_011",
+      "name": "Bubble Tea (standard size, local chain)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 1.2,
+        "2000": 1.5,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 4.5
+      },
+      "fact": "Singapore has more bubble tea shops per square kilometre than Taiwan, where the drink was invented. LiHo and Gong Cha alone have over 150 outlets in a country smaller than New York City."
+    },
+    {
+      "id": "sg_t1_012",
+      "name": "Wonton Noodle Soup (hawker, standard bowl)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 5.0
+      },
+      "fact": "Singapore's wonton noodle hawkers are rapidly ageing with an average stallholder age of 60. The government offers grants to attract younger operators but few apply, as hawker work requires 14-hour days for margins under 30%."
+    },
+    {
+      "id": "sg_t1_013",
+      "name": "Pack of Tiger Beer (can, 320ml, supermarket)",
+      "emoji": "🐯",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.5,
+        "2000": 1.8,
+        "2005": 2.0,
+        "2010": 2.2,
+        "2015": 2.5,
+        "2020": 2.8,
+        "2025": 3.5
+      },
+      "fact": "Tiger Beer was brewed in Singapore since 1932 and is now owned by Heineken. It remains the most ordered beer at hawker centres despite Heineken and Carlsberg being the same price, because ordering Tiger is considered the patriotic choice."
+    },
+    {
+      "id": "sg_t1_014",
+      "name": "Laksa (hawker, standard bowl)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 3.5,
+        "2015": 4.5,
+        "2020": 5.0,
+        "2025": 7.0
+      },
+      "fact": "Katong laksa is Singapore's most debated dish, with multiple stalls claiming to be the original and having fought trademark disputes over the name. The coconut-based broth with thick noodles eaten by spoon is distinct from all Malaysian versions."
+    },
+    {
+      "id": "sg_t1_015",
+      "name": "Litre of Petrol (unleaded 95, full service)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 0.9,
+        "2000": 0.95,
+        "2005": 1.3,
+        "2010": 1.7,
+        "2015": 1.8,
+        "2020": 1.5,
+        "2025": 2.8
+      },
+      "fact": "Petrol in Singapore costs nearly double the global average because it includes road tax and fuel duty. Owning a car is deliberately made expensive by government policy, with petrol taxes being the most visible component after the COE system."
+    },
+    {
+      "id": "sg_t1_016",
+      "name": "Egg (single, grade A, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.15,
+        "1995": 0.18,
+        "2000": 0.2,
+        "2005": 0.22,
+        "2010": 0.25,
+        "2015": 0.28,
+        "2020": 0.3,
+        "2025": 0.45
+      },
+      "fact": "Singapore imports 70% of its eggs from Malaysia. When Malaysia imposed a brief egg export ban in 2023, Singapore's supermarkets rationed eggs for the first time since independence, exposing a critical food security vulnerability."
+    },
+    {
+      "id": "sg_t1_017",
+      "name": "Packet of Kopi Mix (3-in-1, Old Town, 30 sachets)",
+      "emoji": "📦",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 3.5,
+        "2015": 4.0,
+        "2020": 4.8,
+        "2025": 6.5
+      },
+      "fact": "3-in-1 coffee sachets are the most consumed coffee format in Southeast Asia. Old Town White Coffee from Malaysia dominates Singapore's instant coffee market, with a dedicated kopitiam chain that now has over 200 outlets regionally."
+    },
+    {
+      "id": "sg_t1_018",
+      "name": "Kueh Lapis (single slice, bakery)",
+      "emoji": "🎂",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.7,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 1.8,
+        "2020": 2.0,
+        "2025": 2.8
+      },
+      "fact": "Kueh Lapis requires each of its 18 layers to be baked individually and takes 3 hours to make one cake. It is given as a gift during Hari Raya and Chinese New Year and is considered one of Singapore's most labour-intensive traditional foods."
+    },
+    {
+      "id": "sg_t1_019",
+      "name": "Packet of Maggi Mee (instant noodles, single pack)",
+      "emoji": "🍝",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.25,
+        "2000": 0.3,
+        "2005": 0.35,
+        "2010": 0.4,
+        "2015": 0.45,
+        "2020": 0.5,
+        "2025": 0.7
+      },
+      "fact": "Maggi Mee goreng, fried instant noodles with egg and chilli, is Singapore's most ordered supper dish and is served at mamak stalls at 2am across the country. Singapore university students credit it as their primary budget food."
+    },
+    {
+      "id": "sg_t1_020",
+      "name": "Chewing Gum (pack, imported from Malaysia)",
+      "emoji": "🍬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "Singapore banned chewing gum sales in 1992 after gum repeatedly jammed MRT doors. The ban was partially lifted in 2004 under a US-Singapore FTA to allow therapeutic gum sold only at pharmacies with ID registration."
+    },
+    {
+      "id": "sg_t1_021",
+      "name": "Rojak (hawker, standard plate)",
+      "emoji": "🥗",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 5.5
+      },
+      "fact": "Rojak is a fruit and vegetable salad in prawn paste dressing and is used as a metaphor for Singapore's multicultural society. The word rojak means mixed in Malay and is used in everyday speech to describe anything hybrid or multicultural."
+    },
+    {
+      "id": "sg_t1_022",
+      "name": "Packet of Tiger Prawn Crackers (supermarket, 80g)",
+      "emoji": "🦐",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.0,
+        "2000": 1.2,
+        "2005": 1.5,
+        "2010": 1.8,
+        "2015": 2.0,
+        "2020": 2.2,
+        "2025": 3.0
+      },
+      "fact": "Singapore is the world's largest per-capita consumer of prawn crackers despite producing none. All prawn crackers are imported from Malaysia or Indonesia, making them one of the most internationally traded snacks in Southeast Asia."
+    },
+    {
+      "id": "sg_t1_023",
+      "name": "Bandung (rose syrup milk, hawker, glass)",
+      "emoji": "🌸",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.6,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 1.2,
+        "2015": 1.5,
+        "2020": 1.8,
+        "2025": 2.5
+      },
+      "fact": "Bandung is a pink rose syrup and evaporated milk drink that is uniquely popular in Singapore and Malaysia. It was originally served only at Malay wedding feasts before spreading to hawker centres and becoming a symbol of multicultural dining."
+    },
+    {
+      "id": "sg_t1_024",
+      "name": "Durian (Mao Shan Wang, 100g portion, stall)",
+      "emoji": "🟡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.0,
+        "2000": 3.0,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 9.0
+      },
+      "fact": "Durian is banned on Singapore's MRT by official signage and carries a S$500 fine. Despite this, Singapore spends S$200 million on durian annually and Mao Shan Wang, the premium variety, sells out at famous Geylang stalls within hours of arrival."
+    },
+    {
+      "id": "sg_t1_025",
+      "name": "Lottery Ticket (4D, Singapore Pools, single bet)",
+      "emoji": "🎰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.0,
+        "2025": 1.0
+      },
+      "fact": "Singapore Pools holds a legal monopoly on lotteries and its 4D game has had a S$1 minimum bet since launch in 1966. Singapore Pools donates S$100 million annually to community charities while controlling 95% of all legal gambling outside the two IRs."
+    },
+    {
+      "id": "sg_t2_001",
+      "name": "Chilli Crab (restaurant, per 100g, avg)",
+      "emoji": "🦀",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 5.0,
+        "2000": 7.0,
+        "2005": 10.0,
+        "2010": 15.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Chilli crab was created at East Coast seafood restaurants in the 1950s and is Singapore's most famous dish. A whole crab for two people costs S$80 to S$150 at tourist restaurants, making it the most expensive hawker-origin dish in the country."
+    },
+    {
+      "id": "sg_t2_002",
+      "name": "Hawker Centre Full Meal with Drink (3 dishes, per person)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 9.0,
+        "2025": 12.0
+      },
+      "fact": "UNESCO added Singapore's hawker culture to its Intangible Cultural Heritage list in 2020. The government subsidises hawker stall rents to keep meals affordable as a social policy, not just a culinary one."
+    },
+    {
+      "id": "sg_t2_003",
+      "name": "Starbucks Latte (grande, Singapore)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 4.5,
+        "2005": 5.2,
+        "2010": 5.8,
+        "2015": 6.8,
+        "2020": 7.5,
+        "2025": 10.5
+      },
+      "fact": "A Starbucks grande latte costs S$9.50 versus S$1.30 for a hawker kopi. Singapore has both the world's cheapest and most expensive coffee within a 500-metre radius, the clearest illustration of its two-tier economy."
+    },
+    {
+      "id": "sg_t2_004",
+      "name": "Cinema Ticket (Golden Village, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.5,
+        "2000": 7.0,
+        "2005": 8.5,
+        "2010": 10.0,
+        "2015": 11.5,
+        "2020": 13.0,
+        "2025": 16.0
+      },
+      "fact": "Singapore's Golden Village and Shaw Theatres were the first cinemas in Southeast Asia to introduce assigned seating and online booking in 1996. Singapore has more cinema screens per capita than any other Southeast Asian country."
+    },
+    {
+      "id": "sg_t2_005",
+      "name": "Plate of Bak Kut Teh (restaurant, pork ribs, standard)",
+      "emoji": "🍖",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.0,
+        "2000": 6.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 14.0,
+        "2025": 18.0
+      },
+      "fact": "Bak Kut Teh, pork ribs in herbal broth, is traditionally eaten for breakfast and credited with giving labourers the energy to work. Klang in Malaysia and Singapore each claim the original and the two versions have entirely different broth styles."
+    },
+    {
+      "id": "sg_t2_006",
+      "name": "Monthly Netflix (standard, Singapore)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 10.98,
+        "2020": 15.98,
+        "2025": 19.98
+      },
+      "fact": "Singapore was Netflix's launch market for Southeast Asia in 2016. Its English-proficient, high-income population made it the ideal test market for premium pricing strategies now applied across the region."
+    },
+    {
+      "id": "sg_t2_007",
+      "name": "Monthly EZ-Link Top-Up (avg commuter, transit)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 28.0,
+        "2000": 35.0,
+        "2005": 42.0,
+        "2010": 50.0,
+        "2015": 55.0,
+        "2020": 60.0,
+        "2025": 75.0
+      },
+      "fact": "Singapore's EZ-Link card works across MRT, buses, taxis and even fast food chains. Singapore was the first country in the world to implement nationwide contactless transit payments in 2002, 15 years before London's Oyster equivalent reached full coverage."
+    },
+    {
+      "id": "sg_t2_008",
+      "name": "Pint of Tiger Beer (Orchard Road bar)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 5.0,
+        "2000": 6.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 14.0,
+        "2025": 18.0
+      },
+      "fact": "Singapore has one of the world's highest alcohol taxes, with a pint of beer at an Orchard Road bar costing 14x more than a hawker centre can of the same beer. The tax is a health measure but also effectively prices casual drinking out of reach for lower-wage workers."
+    },
+    {
+      "id": "sg_t2_009",
+      "name": "Haircut (men's, heartland barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.0,
+        "2000": 7.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 13.0,
+        "2025": 16.0
+      },
+      "fact": "Heartland barbershops run by elderly Chinese uncles charge S$16 while mall salons charge S$60. Singapore tracks barbershop pricing as an indicator of neighbourhood gentrification: when heartland cuts cross S$20, the area has changed."
+    },
+    {
+      "id": "sg_t2_010",
+      "name": "Grab Ride (5km, standard, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 8.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Grab was founded in Singapore in 2012 as a taxi-hailing app. It is now Southeast Asia's most valuable startup at $14 billion and expanded into food delivery, groceries and financial services, all in a country smaller than London."
+    },
+    {
+      "id": "sg_t2_011",
+      "name": "Monthly Spotify (Singapore)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9.9,
+        "2020": 9.9,
+        "2025": 10.98
+      },
+      "fact": "Singapore is Southeast Asia's most valuable music streaming market despite being its smallest by population. Per-capita spending on music streaming is higher in Singapore than in Japan, making it a key launch market for global artists entering Asia."
+    },
+    {
+      "id": "sg_t2_012",
+      "name": "Pack of 20 Marlboro Cigarettes",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.5,
+        "2000": 6.0,
+        "2005": 8.5,
+        "2010": 11.0,
+        "2015": 13.0,
+        "2020": 14.0,
+        "2025": 17.0
+      },
+      "fact": "Singapore mandated plain tobacco packaging in 2018 and bans smoking in all air-conditioned spaces plus many open public areas. Smoking rates fell to 9.6% of adults in 2024, the lowest ever recorded in Singapore."
+    },
+    {
+      "id": "sg_t2_013",
+      "name": "Gym Membership (annual, Fitness First premium, Singapore)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 40.0,
+        "2000": 55.0,
+        "2005": 65.0,
+        "2010": 900.0,
+        "2015": 960.0,
+        "2020": 840.0,
+        "2025": 1080.0
+      },
+      "fact": "The government's ActiveSG gym charges S$30 per month versus S$90 for private gyms. Singapore subsidises exercise as a health policy, calculating that every dollar spent on preventive fitness saves S$3.80 in future healthcare costs."
+    },
+    {
+      "id": "sg_t2_014",
+      "name": "Cai Fan Full Meal with Drink (3 dishes, hawker)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 3.5,
+        "2015": 4.0,
+        "2020": 4.5,
+        "2025": 10.0
+      },
+      "fact": "Cai fan, economic rice with three dishes of your choice, is the most democratic meal in Singapore. The pricing of cai fan is tracked by academics as a measure of food inflation because it involves daily negotiation between hawker and customer."
+    },
+    {
+      "id": "sg_t2_015",
+      "name": "Mango Sticky Rice (Thai restaurant, dessert)",
+      "emoji": "🥭",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.5,
+        "2000": 5.5,
+        "2005": 7.0,
+        "2010": 9.0,
+        "2015": 11.0,
+        "2020": 12.0,
+        "2025": 16.0
+      },
+      "fact": "Thai restaurants are the most common foreign cuisine in Singapore, outnumbering Japanese, Korean and Western combined. Singapore imports 80% of its food and Thai food is the most affordable because supply chains via Malaysia are the shortest."
+    },
+    {
+      "id": "sg_t2_016",
+      "name": "Dim Sum Brunch (hotel, per person, weekend full service)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 10.0,
+        "1995": 15.0,
+        "2000": 18.0,
+        "2005": 22.0,
+        "2010": 28.0,
+        "2015": 35.0,
+        "2020": 38.0,
+        "2025": 200.0
+      },
+      "fact": "Weekend dim sum brunch at a hotel is Singapore's most popular family dining occasion. The price has risen steeply as hotel restaurants compete for the same pool of dim sum chefs who are trained in a craft taking 8 years to master."
+    },
+    {
+      "id": "sg_t2_017",
+      "name": "Monthly Phone Plan (SIM only, 30GB, avg carrier)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 50.0,
+        "2005": 55.0,
+        "2010": 50.0,
+        "2015": 30.0,
+        "2020": 20.0,
+        "2025": 18.0
+      },
+      "fact": "Singapore's mobile prices fell 64% in 10 years as MVNOs like Circles Life and giga! entered the market in 2016. At S$18 for unlimited data, Singapore has among the cheapest mobile data of any developed city globally."
+    },
+    {
+      "id": "sg_t2_018",
+      "name": "Rooftop Bar Cocktail (Marina Bay area)",
+      "emoji": "🍹",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 12.0,
+        "2005": 16.0,
+        "2010": 20.0,
+        "2015": 24.0,
+        "2020": 26.0,
+        "2025": 32.0
+      },
+      "fact": "Singapore has more rooftop bars per square kilometre than any city in Asia. The 1-Altitude bar at Level 63 was Asia's highest open-air bar until overtaken by a Bangkok competitor in 2015."
+    },
+    {
+      "id": "sg_t2_019",
+      "name": "Heineken 6-Pack (cans, supermarket)",
+      "emoji": "🍾",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.0,
+        "2000": 3.5,
+        "2005": 4.0,
+        "2010": 4.5,
+        "2015": 5.0,
+        "2020": 5.5,
+        "2025": 10.0
+      },
+      "fact": "Singapore's alcohol duty is applied per litre of pure alcohol content rather than per unit sold. A single bottle of spirits pays more duty in Singapore than a full month's worth in Germany, making Singapore one of the world's most expensive places to drink spirits."
+    },
+    {
+      "id": "sg_t2_020",
+      "name": "Annual NLB Library Membership (individual)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 6.5,
+        "2000": 10.5,
+        "2005": 10.5,
+        "2010": 10.5,
+        "2015": 10.5,
+        "2020": 10.5,
+        "2025": 10.5
+      },
+      "fact": "Singapore's National Library Board has held its membership fee at S$10.50 since 2004, one of the most stable prices in Singapore. Its libraries are open until 9pm daily and have waiting lists for e-books that exceed 3 months for new releases."
+    },
+    {
+      "id": "sg_t2_021",
+      "name": "NTUC FairPrice Weekly Grocery Essentials (basket)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 1.2,
+        "1995": 1.5,
+        "2000": 1.8,
+        "2005": 2.0,
+        "2010": 2.2,
+        "2015": 2.5,
+        "2020": 2.8,
+        "2025": 10.0
+      },
+      "fact": "NTUC FairPrice is Singapore's largest supermarket and is a cooperative owned by the labour union. Its mandate to keep consumer prices stable makes it a government-linked retailer that competes with private chains on social policy grounds."
+    },
+    {
+      "id": "sg_t2_022",
+      "name": "Murtabak (mutton, one piece, hawker)",
+      "emoji": "🥙",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 16.0
+      },
+      "fact": "Zam Zam at Arab Street has served murtabak since 1908 and is one of Singapore's oldest continuously operating restaurants. Its reputation has grown so strong that international media coverage has created 45-minute queues of overseas visitors."
+    },
+    {
+      "id": "sg_t2_023",
+      "name": "Taxi Ride (3km, standard, daytime)",
+      "emoji": "🚕",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.2,
+        "2000": 2.4,
+        "2005": 2.6,
+        "2010": 3.0,
+        "2015": 3.4,
+        "2020": 3.9,
+        "2025": 12.0
+      },
+      "fact": "Singapore taxis are among the most regulated in the world, with flag-down meters, mandatory booking surcharges and peak-hour premiums all set by the Land Transport Authority. Uber's entry caused the only period of real price competition in 30 years."
+    },
+    {
+      "id": "sg_t2_024",
+      "name": "A&W Meal Set (combo, outlet)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.0,
+        "2000": 3.5,
+        "2005": 4.0,
+        "2010": 4.5,
+        "2015": 4.8,
+        "2020": 5.5,
+        "2025": 12.0
+      },
+      "fact": "A&W closed all Singapore outlets in 2003 before returning in 2024 to massive queues. Singaporeans waited up to 4 hours for the reopening, proving that nostalgia is the most powerful marketing force in the city-state."
+    },
+    {
+      "id": "sg_t2_025",
+      "name": "Guardian Pharmacy Essential Kit (OTC medicines)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.5,
+        "2010": 4.0,
+        "2015": 4.5,
+        "2020": 5.0,
+        "2025": 12.0
+      },
+      "fact": "Guardian and Watsons are Singapore's two pharmacy chains and are owned by the same Hong Kong conglomerate, AS Watson. Their combined monopoly over OTC pharmacy retail has kept medicine prices consistently 30% above Malaysia's."
+    },
+    {
+      "id": "sg_t3_001",
+      "name": "iPad (Apple base model, Singapore)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 648.0,
+        "2015": 508.0,
+        "2020": 499.0,
+        "2025": 549.0
+      },
+      "fact": "Singapore has no GST exemption on electronics, making Apple products consistently 10% above UK prices. However Singapore is the fastest country in Asia for new Apple product releases, launching on the same day as the US since 2014."
+    },
+    {
+      "id": "sg_t3_002",
+      "name": "Economy Flight (Singapore to Bangkok, one way, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 300.0,
+        "1995": 350.0,
+        "2000": 280.0,
+        "2005": 150.0,
+        "2010": 120.0,
+        "2015": 100.0,
+        "2020": 80.0,
+        "2025": 180.0
+      },
+      "fact": "AirAsia launched from Singapore in 2004 and cut Bangkok fares from S$300 to S$29 on promotional sales. Post-COVID capacity cuts pushed fares back above pre-budget airline levels for the first time in 20 years."
+    },
+    {
+      "id": "sg_t3_003",
+      "name": "Gym Membership (annual, Fitness First premium)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 400.0,
+        "1995": 600.0,
+        "2000": 800.0,
+        "2005": 1000.0,
+        "2010": 1200.0,
+        "2015": 1200.0,
+        "2020": 1000.0,
+        "2025": 1200.0
+      },
+      "fact": "Fitness First entered Singapore in 1998 and for 15 years held a near monopoly on premium gym space in malls. Competition from boutique studios offering cycling and HIIT classes forced it to reduce annual memberships by 30% after 2015."
+    },
+    {
+      "id": "sg_t3_004",
+      "name": "Singapore Airlines Economy (SIN to KUL, one way)",
+      "emoji": "🛫",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 250.0,
+        "1995": 280.0,
+        "2000": 300.0,
+        "2005": 200.0,
+        "2010": 180.0,
+        "2015": 160.0,
+        "2020": 130.0,
+        "2025": 250.0
+      },
+      "fact": "Singapore Airlines is consistently rated the world's best airline and has won Skytrax's top award more than any other carrier. It operates from Changi Airport which has won best airport globally for 12 consecutive years."
+    },
+    {
+      "id": "sg_t3_005",
+      "name": "Resort World Sentosa Entry + Attractions (1 day)",
+      "emoji": "🎢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 68.0,
+        "2015": 82.0,
+        "2020": 88.0,
+        "2025": 118.0
+      },
+      "fact": "Resorts World Sentosa opened in 2010 and was Singapore's largest single investment at S$6.6 billion. The integrated resort model combining casino, hotel, theme park and convention centre became the template for every subsequent Asian gaming resort."
+    },
+    {
+      "id": "sg_t3_006",
+      "name": "Gardens by the Bay (Flower Dome + Cloud Forest entry)",
+      "emoji": "🌿",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 28.0,
+        "2020": 28.0,
+        "2025": 40.0
+      },
+      "fact": "Gardens by the Bay cost S$1 billion to build and was opened debt-free by the government in 2012. Its Supertrees use solar energy to power lights and ventilation, making them the most expensive garden ornaments ever built."
+    },
+    {
+      "id": "sg_t3_007",
+      "name": "Condo Gym + Pool (monthly maintenance fee share)",
+      "emoji": "🏊",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 120.0,
+        "2000": 180.0,
+        "2005": 220.0,
+        "2010": 280.0,
+        "2015": 350.0,
+        "2020": 380.0,
+        "2025": 450.0
+      },
+      "fact": "Singapore condominiums include pools and gyms as standard, making them the most amenity-dense residential developments in the world per square metre. Monthly condo maintenance fees fund security guards, landscaping and a management office, a cost invisible to HDB flat owners."
+    },
+    {
+      "id": "sg_t3_008",
+      "name": "Night Safari Admission (adult, Singapore Zoo)",
+      "emoji": "🦁",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 15.0,
+        "2000": 18.0,
+        "2005": 22.0,
+        "2010": 32.0,
+        "2015": 42.0,
+        "2020": 47.0,
+        "2025": 55.0
+      },
+      "fact": "Singapore Night Safari was the world's first nocturnal zoo when it opened in 1994. It receives 1.2 million visitors annually and has been the global template for every subsequent night zoo, including those in Taipei, Los Angeles and Chiang Mai."
+    },
+    {
+      "id": "sg_t3_009",
+      "name": "Annual Childcare (full day, subsidised, per month)",
+      "emoji": "👶",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 2400.0,
+        "1995": 3600.0,
+        "2000": 4800.0,
+        "2005": 6000.0,
+        "2010": 7200.0,
+        "2015": 9600.0,
+        "2020": 12000.0,
+        "2025": 1300.0
+      },
+      "fact": "Singapore's childcare costs are among Asia's highest and are frequently cited as the primary reason for the country's birth rate of 0.97, the lowest ever recorded for any country in peacetime."
+    },
+    {
+      "id": "sg_t3_010",
+      "name": "MacBook Air M2 (Singapore retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1698.0,
+        "2015": 1398.0,
+        "2020": 1449.0,
+        "2025": 1699.0
+      },
+      "fact": "Singapore's MacBook prices are among the lowest in Asia because its GST rate of 9% is below Japan's 10%, Australia's 15% and South Korea's 10%. Apple shoppers from Indonesia and Malaysia cross the border specifically to buy Apple products."
+    },
+    {
+      "id": "sg_t3_011",
+      "name": "Annual School Fees (international school, Year 7-12)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 16000.0,
+        "2005": 20000.0,
+        "2010": 25000.0,
+        "2015": 32000.0,
+        "2020": 38000.0,
+        "2025": 50000.0
+      },
+      "fact": "Singapore has 80 international schools serving 60,000 foreign children. The demand far exceeds supply and some schools have waiting lists of 18 months, making school placement a key factor in expatriate package negotiations."
+    },
+    {
+      "id": "sg_t3_012",
+      "name": "Annual Car Insurance (comprehensive, avg sedan)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1000.0,
+        "2000": 1200.0,
+        "2005": 1400.0,
+        "2010": 1600.0,
+        "2015": 1800.0,
+        "2020": 2000.0,
+        "2025": 1500.0
+      },
+      "fact": "Car insurance in Singapore includes a mandatory third-party coverage plus the premium itself. With average car prices above S$150,000 due to the COE system, even a minor accident claim can cost more than the car is worth in most other countries."
+    },
+    {
+      "id": "sg_t3_013",
+      "name": "Monthly HDB Resale Mortgage (avg 4-room, monthly payment)",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 1200.0,
+        "2010": 1500.0,
+        "2015": 1800.0,
+        "2020": 2000.0,
+        "2025": 1800.0
+      },
+      "fact": "80% of Singaporeans live in government-built HDB flats, the highest public housing rate of any wealthy democracy. HDB mortgages are paid through CPF savings rather than cash, making homeownership feel less expensive than it actually is."
+    },
+    {
+      "id": "sg_t3_014",
+      "name": "Omakase Dinner (local 1-star, per person, avg)",
+      "emoji": "🍣",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 80.0,
+        "2000": 100.0,
+        "2005": 130.0,
+        "2010": 160.0,
+        "2015": 200.0,
+        "2020": 220.0,
+        "2025": 280.0
+      },
+      "fact": "Singapore has 55 Michelin-starred restaurants, the most per capita of any city in Asia. It gained its first Michelin Guide in 2016 and included two hawker stalls, the only time in history a street food operation received a Michelin star."
+    },
+    {
+      "id": "sg_t3_015",
+      "name": "Sentosa Beach Club Day Pass (premium, with F&B credit)",
+      "emoji": "🏖️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 50.0,
+        "2005": 80.0,
+        "2010": 120.0,
+        "2015": 180.0,
+        "2020": 150.0,
+        "2025": 220.0
+      },
+      "fact": "Sentosa Island was a British military base until 1972 and is now a resort island earning S$2 billion annually. Singapore's beaches are entirely artificial, made from sand imported from Indonesia, a trade that Indonesia eventually restricted due to environmental damage."
+    },
+    {
+      "id": "sg_t3_016",
+      "name": "Monthly Condo Rent (1-bedroom, suburban, Bishan area)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 1200.0,
+        "1995": 2500.0,
+        "2000": 2000.0,
+        "2005": 2200.0,
+        "2010": 3000.0,
+        "2015": 3500.0,
+        "2020": 3200.0,
+        "2025": 1500.0
+      },
+      "fact": "Orchard Road condo rents hit record highs in 2022 and 2023 as Hong Kong professionals relocated during its political turmoil, adding 50,000 new high-income residents who competed for a fixed stock of premium units."
+    },
+    {
+      "id": "sg_t3_017",
+      "name": "Dyson V12 (Singapore retail)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 649.0,
+        "2020": 699.0,
+        "2025": 899.0
+      },
+      "fact": "Dyson's Singapore office is its Asia Pacific headquarters and the company employs 1,000 engineers in Singapore. Dyson moved its global headquarters from the UK to Singapore in 2019, then reversed the decision in 2023 after the electric car project was cancelled."
+    },
+    {
+      "id": "sg_t3_018",
+      "name": "Annual Private Health Insurance (individual, comprehensive)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 900.0,
+        "2005": 1100.0,
+        "2010": 1300.0,
+        "2015": 1500.0,
+        "2020": 1700.0,
+        "2025": 1800.0
+      },
+      "fact": "Singapore's MediShield Life provides basic hospitalisation coverage for all residents, but private Integrated Shield Plans covering private hospitals are held by 68% of the population. Premium hikes of 20-35% in 2023 caused a public outcry requiring a Ministerial statement."
+    },
+    {
+      "id": "sg_t3_019",
+      "name": "Annual University Fees (NUS/NTU, local undergrad, per term x2)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 2500.0,
+        "1995": 3500.0,
+        "2000": 5500.0,
+        "2005": 7000.0,
+        "2010": 8000.0,
+        "2015": 8900.0,
+        "2020": 9600.0,
+        "2025": 1175.0
+      },
+      "fact": "NUS and NTU are consistently ranked among Asia's top two universities. Tuition is subsidised for Singapore citizens who sign a 3-year employment bond to work in Singapore after graduation, a policy that keeps brain drain among the lowest in Asia."
+    },
+    {
+      "id": "sg_t3_020",
+      "name": "Wedding Banquet (per table 10, Chinese restaurant, avg)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 1200.0,
+        "2010": 1500.0,
+        "2015": 1800.0,
+        "2020": 1800.0,
+        "2025": 1500.0
+      },
+      "fact": "A 5-star hotel wedding banquet in Singapore costs S$2,500 per table of 10 and a typical wedding has 30 tables. Cash gifts from guests average S$150-250 per couple and self-fund most weddings, a tradition that makes Singapore's weddings more financially sustainable than Western equivalents."
+    },
+    {
+      "id": "sg_t3_021",
+      "name": "New Bicycle (Trek / Giant entry hybrid)",
+      "emoji": "🚲",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 280.0,
+        "2000": 350.0,
+        "2005": 400.0,
+        "2010": 450.0,
+        "2015": 500.0,
+        "2020": 700.0,
+        "2025": 900.0
+      },
+      "fact": "Singapore's Park Connector Network links every nature reserve and park in the country by cycling path. Since 2017 the cycling network expanded 40% after shared bike apps deposited 70,000 cycles on pavements, causing the government to mandate digital parking zones."
+    },
+    {
+      "id": "sg_t3_022",
+      "name": "Concert Ticket (major international artist, floor)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 80.0,
+        "2000": 100.0,
+        "2005": 130.0,
+        "2010": 160.0,
+        "2015": 180.0,
+        "2020": 150.0,
+        "2025": 250.0
+      },
+      "fact": "Singapore paid Taylor Swift an estimated S$3 million per show in grants to be the exclusive Southeast Asia Eras Tour stop. Neighbouring governments protested but Singapore argued it was legal cultural investment, the same way it subsidises F1 hosting."
+    },
+    {
+      "id": "sg_t3_023",
+      "name": "Singapore GP Formula 1 Ticket (grandstand, 3-day)",
+      "emoji": "🏎️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 250.0,
+        "2015": 300.0,
+        "2020": 280.0,
+        "2025": 388.0
+      },
+      "fact": "The Singapore Grand Prix is F1's only night race and was created by lighting 1,500 floodlights across the city centre circuit. The race generates S$150 million for Singapore annually and the hosting fee paid to F1 is the largest entertainment contract in the country's history."
+    },
+    {
+      "id": "sg_t3_024",
+      "name": "Premium Hotel Night (Marina Bay Sands, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 400.0,
+        "2015": 450.0,
+        "2020": 350.0,
+        "2025": 600.0
+      },
+      "fact": "Marina Bay Sands cost S$8 billion to build and features the world's largest infinity pool at 57 storeys. It broke even in its first full year of operation in 2011, the fastest return on investment for any building of its size ever constructed."
+    },
+    {
+      "id": "sg_t3_025",
+      "name": "COE (motorcycle, Cat D, quarterly avg)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 15000.0,
+        "2000": 5000.0,
+        "2005": 3500.0,
+        "2010": 4500.0,
+        "2015": 6000.0,
+        "2020": 7500.0,
+        "2025": 1200.0
+      },
+      "fact": "Singapore's Certificate of Entitlement (COE) is a government-issued quota licence required before you can own any vehicle. Without a COE, a motorcycle that costs S$8,000 in Malaysia cannot legally be registered in Singapore."
+    },
+    {
+      "id": "sg_t4_001",
+      "name": "COE (Certificate of Entitlement, Cat B car, quarterly avg)",
+      "emoji": "📜",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 30000.0,
+        "1995": 80000.0,
+        "2000": 20000.0,
+        "2005": 15000.0,
+        "2010": 60000.0,
+        "2015": 55000.0,
+        "2020": 50000.0,
+        "2025": 106000.0
+      },
+      "fact": "The COE for a large car hit S$106,000 in 2023, more than a Toyota Camry costs in the US. Singapore uses COEs to manage car ownership and the total number on roads has barely changed since 1990 despite the population rising 60%."
+    },
+    {
+      "id": "sg_t4_002",
+      "name": "Toyota Camry (new, on-road with COE)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 80000.0,
+        "1995": 150000.0,
+        "2000": 100000.0,
+        "2005": 90000.0,
+        "2010": 160000.0,
+        "2015": 155000.0,
+        "2020": 150000.0,
+        "2025": 220000.0
+      },
+      "fact": "A Toyota Camry costs S$220,000 in Singapore compared to S$42,000 in the US. The difference is entirely taxes, COE and import duties. Owning a car in Singapore costs an estimated S$2,000 per month in total cost of ownership."
+    },
+    {
+      "id": "sg_t4_003",
+      "name": "iPhone 16 Pro Max (256GB, Singapore)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1098.0,
+        "2015": 1358.0,
+        "2020": 1799.0,
+        "2025": 2199.0
+      },
+      "fact": "Singapore is one of only five countries where Apple launches new iPhones on the same day as the US. Orchard Road Apple Store queues on launch day are a tourist attraction photographed by visitors from Indonesia, Malaysia and Thailand."
+    },
+    {
+      "id": "sg_t4_004",
+      "name": "Annual Private School Fees (top tier, Singapore Expat)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 12000.0,
+        "1995": 18000.0,
+        "2000": 24000.0,
+        "2005": 30000.0,
+        "2010": 38000.0,
+        "2015": 45000.0,
+        "2020": 50000.0,
+        "2025": 62000.0
+      },
+      "fact": "Singapore's top international schools charge S$62,000 annually and are the primary reason multinationals include education allowances in expatriate packages. SAS and Tanglin Trust have alumni networks that span every Fortune 500 boardroom in Asia."
+    },
+    {
+      "id": "sg_t4_005",
+      "name": "Gold (troy ounce, SGD spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 650.0,
+        "1995": 670.0,
+        "2000": 560.0,
+        "2005": 850.0,
+        "2010": 1900.0,
+        "2015": 1850.0,
+        "2020": 2650.0,
+        "2025": 4900.0
+      },
+      "fact": "Singapore is Asia's second-largest gold trading hub after Hong Kong and operates a government-owned gold refinery at UOB. Singapore removed GST on investment-grade gold in 2012 specifically to attract gold trading from Switzerland."
+    },
+    {
+      "id": "sg_t4_006",
+      "name": "Rolex Submariner (new retail, Singapore)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 4500.0,
+        "1995": 5500.0,
+        "2000": 6500.0,
+        "2005": 8500.0,
+        "2010": 11000.0,
+        "2015": 13500.0,
+        "2020": 15000.0,
+        "2025": 19000.0
+      },
+      "fact": "Rolex Singapore waitlists at authorised dealers stretch 3 to 5 years for the Submariner. Singapore is Rolex's most important Asia-Pacific market because it has the highest proportion of ultra-high-net-worth individuals per capita of any country."
+    },
+    {
+      "id": "sg_t4_007",
+      "name": "HDB 4-Room Resale Flat (median price, Singapore)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 80000.0,
+        "1995": 200000.0,
+        "2000": 230000.0,
+        "2005": 240000.0,
+        "2010": 380000.0,
+        "2015": 400000.0,
+        "2020": 480000.0,
+        "2025": 680000.0
+      },
+      "fact": "A 4-room HDB flat is 90 square metres and comes with a 99-year lease. At S$680,000 median it is technically government-built public housing, yet costs more than a freehold house in most Australian cities."
+    },
+    {
+      "id": "sg_t4_008",
+      "name": "Condo Unit (new launch, 1-bedroom, OCR, per unit)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 150000.0,
+        "1995": 400000.0,
+        "2000": 350000.0,
+        "2005": 400000.0,
+        "2010": 700000.0,
+        "2015": 800000.0,
+        "2020": 900000.0,
+        "2025": 1400000.0
+      },
+      "fact": "Singapore imposed a 60% additional buyer's stamp duty on foreign purchases in 2023, the highest property cooling measure in the world. Foreign buyers can legally purchase condos but now pay 65% stamp duty on top of the purchase price."
+    },
+    {
+      "id": "sg_t4_009",
+      "name": "Private Hospital Birth (normal delivery, Mount Elizabeth)",
+      "emoji": "👶",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 4000.0,
+        "2000": 6000.0,
+        "2005": 8000.0,
+        "2010": 10000.0,
+        "2015": 13000.0,
+        "2020": 16000.0,
+        "2025": 22000.0
+      },
+      "fact": "Mount Elizabeth Hospital charges S$22,000 for a normal birth, fully covered by private insurance. Public hospital subsidised delivery costs S$2,000, the clearest illustration of Singapore's two-tier healthcare system operating in parallel."
+    },
+    {
+      "id": "sg_t4_010",
+      "name": "Hermes Birkin Bag (30cm, Togo, Singapore retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 8000.0,
+        "2000": 11000.0,
+        "2005": 14000.0,
+        "2010": 18000.0,
+        "2015": 22000.0,
+        "2020": 25000.0,
+        "2025": 34000.0
+      },
+      "fact": "Hermes Singapore on Liat Towers has a waitlist system that requires a purchase history of non-bag items before being offered a Birkin. Singapore is Hermes' fastest-growing market in the world, driven by wealth from Indonesia and mainland China shopping in Singapore to avoid import duties."
+    },
+    {
+      "id": "sg_t4_011",
+      "name": "Annual Expatriate Package Cost (mid-senior, ex-housing)",
+      "emoji": "💼",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 80000.0,
+        "1995": 100000.0,
+        "2000": 120000.0,
+        "2005": 130000.0,
+        "2010": 150000.0,
+        "2015": 160000.0,
+        "2020": 150000.0,
+        "2025": 200000.0
+      },
+      "fact": "Singapore is the world's third most expensive city for expatriate packages after Hong Kong and Zurich. A full expatriate package including housing, schooling and car allowance exceeds S$400,000 annually, more than most Singaporeans earn in a decade."
+    },
+    {
+      "id": "sg_t4_012",
+      "name": "Singapore Airlines Business Class (SIN to LHR, one way)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 6000.0,
+        "2000": 7000.0,
+        "2005": 7500.0,
+        "2010": 8000.0,
+        "2015": 8500.0,
+        "2020": 6000.0,
+        "2025": 12000.0
+      },
+      "fact": "Singapore Airlines' Suites class on the A380 is the only commercial flight product with a double bed for two passengers. The SIN to LHR route is the most profitable long-haul business class route of any airline globally."
+    },
+    {
+      "id": "sg_t4_013",
+      "name": "Kitchen Renovation (mid-range, HDB 4-room, full refit)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 18000.0,
+        "2000": 25000.0,
+        "2005": 30000.0,
+        "2010": 35000.0,
+        "2015": 40000.0,
+        "2020": 45000.0,
+        "2025": 60000.0
+      },
+      "fact": "Renovation costs in Singapore are among Asia's highest because all HDB renovation work requires licensed contractors under the HDB Renovation Works Regulatory Framework. Unlicensed work carries a S$10,000 fine and mandatory restoration to original condition."
+    },
+    {
+      "id": "sg_t4_014",
+      "name": "Porsche 911 (base Carrera, new, with COE, Singapore)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 250000.0,
+        "1995": 400000.0,
+        "2000": 350000.0,
+        "2005": 320000.0,
+        "2010": 450000.0,
+        "2015": 480000.0,
+        "2020": 500000.0,
+        "2025": 700000.0
+      },
+      "fact": "A Porsche 911 costs S$700,000 in Singapore compared to S$160,000 in Canada, with the S$540,000 difference representing COE, import duty and registration taxes. Singapore has more Porsche Cayennes per km of road than any country in the world."
+    },
+    {
+      "id": "sg_t4_015",
+      "name": "Full Wedding at 5-Star Hotel (total spend, avg)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 30000.0,
+        "1995": 50000.0,
+        "2000": 60000.0,
+        "2005": 70000.0,
+        "2010": 90000.0,
+        "2015": 100000.0,
+        "2020": 80000.0,
+        "2025": 130000.0
+      },
+      "fact": "The average Singapore 5-star hotel wedding costs S$130,000 for 300 guests but cash angpow gifts average S$90,000 received, making the net cost under S$40,000. This informal wedding financing system has allowed Singaporeans to afford increasingly expensive ceremonies."
+    },
+    {
+      "id": "sg_t4_016",
+      "name": "Tesla Model Y (standard, on-road with COE, Singapore)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 180000.0,
+        "2025": 220000.0
+      },
+      "fact": "A Tesla Model Y costs S$220,000 in Singapore due to COE, despite Singapore offering a road tax rebate for EVs. EV adoption remains at 5% of new car sales because the COE cost alone exceeds the US sticker price of the car."
+    },
+    {
+      "id": "sg_t4_017",
+      "name": "Louis Vuitton Neverfull MM (Singapore retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1200.0,
+        "2000": 1600.0,
+        "2005": 2200.0,
+        "2010": 2800.0,
+        "2015": 3400.0,
+        "2020": 3800.0,
+        "2025": 5200.0
+      },
+      "fact": "Louis Vuitton's Marina Bay Sands flagship is its highest-revenue store in Southeast Asia. Indonesian and Malaysian shoppers cross borders specifically to buy LV in Singapore, where the price is lower than Jakarta or KL due to lower import duties."
+    },
+    {
+      "id": "sg_t4_018",
+      "name": "Annual Country Club Membership (mainstream, transfer fee)",
+      "emoji": "⛳",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 120000.0,
+        "2000": 80000.0,
+        "2005": 60000.0,
+        "2010": 70000.0,
+        "2015": 80000.0,
+        "2020": 90000.0,
+        "2025": 120000.0
+      },
+      "fact": "Singapore country club memberships peaked at S$250,000 during the 1990s land-scarce bubble before crashing 70%. They recovered to S$120,000 as land scarcity returned, making a round of golf in Singapore among the world's most capital-intensive recreational activities."
+    },
+    {
+      "id": "sg_t4_019",
+      "name": "Good Class Bungalow (GCB, avg transaction price)",
+      "emoji": "🏰",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 2000000.0,
+        "1995": 8000000.0,
+        "2000": 5000000.0,
+        "2005": 6000000.0,
+        "2010": 12000000.0,
+        "2015": 18000000.0,
+        "2020": 22000000.0,
+        "2025": 35000000.0
+      },
+      "fact": "Good Class Bungalows are Singapore's ultra-luxury landed homes on plots above 1,400 sqm and only Singaporeans and PRs can buy them. There are only 2,800 GCBs in the entire country, making each one more scarce than a Hermès Birkin."
+    },
+    {
+      "id": "sg_t4_020",
+      "name": "Annual Marina Bay Sands Sands Rewards Platinum Spend (gaming)",
+      "emoji": "🎰",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 30000.0,
+        "2015": 35000.0,
+        "2020": 30000.0,
+        "2025": 40000.0
+      },
+      "fact": "Singapore charges its own citizens and PRs a S$150 daily casino levy to reduce gambling harm, while foreigners enter free. The levy has been in place since 2010 and was raised to S$150 in 2023, a policy unique in the world."
+    },
+    {
+      "id": "sg_t4_021",
+      "name": "Chanel Classic Flap Bag (medium, Singapore retail)",
+      "emoji": "👝",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2500.0,
+        "1995": 3500.0,
+        "2000": 4500.0,
+        "2005": 5500.0,
+        "2010": 8000.0,
+        "2015": 9000.0,
+        "2020": 10000.0,
+        "2025": 14000.0
+      },
+      "fact": "Chanel raised its Classic Flap price 70% between 2020 and 2022, the fastest price increase of any luxury handbag in history. Singapore Chanel shoppers queued overnight for the bag, with some buying to immediately resell at a 30% premium."
+    },
+    {
+      "id": "sg_t4_022",
+      "name": "Private Jet Charter (SIN to Tokyo, light jet, one way)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 40000.0,
+        "2010": 60000.0,
+        "2015": 80000.0,
+        "2020": 70000.0,
+        "2025": 110000.0
+      },
+      "fact": "Singapore is Asia's private aviation hub with over 500 registered private aircraft based at Seletar Airport. Ultra-high-net-worth individuals from across Asia use Singapore as a private aviation base because Changi is the most efficient hub for onward connections."
+    },
+    {
+      "id": "sg_t4_023",
+      "name": "Annual Private Banking Minimum (UBS / Julius Baer)",
+      "emoji": "💰",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500000.0,
+        "2000": 1000000.0,
+        "2005": 1000000.0,
+        "2010": 2000000.0,
+        "2015": 3000000.0,
+        "2020": 5000000.0,
+        "2025": 10000000.0
+      },
+      "fact": "Singapore is the world's second-largest private banking centre after Switzerland, managing US$5 trillion in assets. The minimum threshold for private banking in Singapore rose 10x since 2010 as the wealth of clients flowing in from China and Indonesia inflated the base."
+    },
+    {
+      "id": "sg_t4_024",
+      "name": "Sentosa Cove Bungalow (freehold, avg transaction)",
+      "emoji": "🌊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 4000000.0,
+        "2010": 12000000.0,
+        "2015": 8000000.0,
+        "2020": 10000000.0,
+        "2025": 18000000.0
+      },
+      "fact": "Sentosa Cove is the only place in Singapore where foreigners can buy landed property without government approval. Its average transaction price of S$18 million makes it Asia's most exclusive residential address open to non-citizens."
+    },
+    {
+      "id": "sg_t4_025",
+      "name": "Raffles Hotel Superior Room (one night)",
+      "emoji": "🏨",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 300.0,
+        "1995": 500.0,
+        "2000": 600.0,
+        "2005": 700.0,
+        "2010": 800.0,
+        "2015": 900.0,
+        "2020": 700.0,
+        "2025": 1400.0
+      },
+      "fact": "Raffles Hotel opened in 1887 and the Singapore Sling cocktail was invented in its Long Bar in 1915. After a S$400 million restoration in 2019 room rates doubled and its butler service, the only one in Singapore, became its highest-margin product."
+    }
+  ]
+}

@@ -1,0 +1,1808 @@
+{
+  "country": "CA",
+  "country_name": "Canada",
+  "currency_symbol": "C$",
+  "currency_code": "CAD",
+  "items": [
+    {
+      "id": "ca_t1_001",
+      "name": "Double Double (Tim Hortons, medium)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.75,
+        "1995": 0.99,
+        "2000": 1.19,
+        "2005": 1.39,
+        "2010": 1.55,
+        "2015": 1.69,
+        "2020": 1.89,
+        "2025": 2.29
+      },
+      "fact": "The Double Double is Canada's most ordered coffee, two creams and two sugars. Tim Hortons serves 8 in 10 cups of coffee consumed outside the home in Canada, making it a cultural institution more than a coffee chain."
+    },
+    {
+      "id": "ca_t1_002",
+      "name": "Timbits (box of 10, Tim Hortons)",
+      "emoji": "🍩",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.99,
+        "1995": 1.29,
+        "2000": 1.49,
+        "2005": 1.79,
+        "2010": 1.99,
+        "2015": 2.19,
+        "2020": 2.49,
+        "2025": 3.19
+      },
+      "fact": "Timbits were invented in 1976 when a Tim Hortons manager started frying the dough cut out of donut holes. Canada consumes over 1 billion Timbits per year, which is roughly 26 per Canadian."
+    },
+    {
+      "id": "ca_t1_003",
+      "name": "Litre of Milk (2%, grocery store)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.1,
+        "1995": 1.3,
+        "2000": 1.45,
+        "2005": 1.65,
+        "2010": 1.85,
+        "2015": 2.15,
+        "2020": 2.45,
+        "2025": 3.1
+      },
+      "fact": "Canada's milk prices are set by a supply management system that limits imports and guarantees farmer prices. The system is fiercely protected and has survived every free trade negotiation since NAFTA, including being excluded from CUSMA."
+    },
+    {
+      "id": "ca_t1_004",
+      "name": "Loaf of Bread (Wonder, standard white)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.29,
+        "1995": 1.49,
+        "2000": 1.69,
+        "2005": 1.89,
+        "2010": 2.29,
+        "2015": 2.69,
+        "2020": 2.99,
+        "2025": 4.29
+      },
+      "fact": "Loblaw, which controls 30% of Canadian grocery sales, was fined $500 million in 2024 for fixing bread prices for 14 years. The scandal implicated every major grocery chain and sparked calls to break up the grocery duopoly."
+    },
+    {
+      "id": "ca_t1_005",
+      "name": "Postage Stamp (standard letter, Canada Post)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.45,
+        "2000": 0.47,
+        "2005": 0.5,
+        "2010": 0.57,
+        "2015": 0.85,
+        "2020": 0.92,
+        "2025": 1.15
+      },
+      "fact": "Canada Post is one of the few postal services still required by law to deliver to every address in the country, including remote northern communities accessible only by float plane. This universal service obligation costs $250 million annually."
+    },
+    {
+      "id": "ca_t1_006",
+      "name": "Ketchup Chips (Lay's, standard bag)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.99,
+        "1995": 1.19,
+        "2000": 1.39,
+        "2005": 1.59,
+        "2010": 1.89,
+        "2015": 2.19,
+        "2020": 2.49,
+        "2025": 3.49
+      },
+      "fact": "Ketchup chips are so distinctly Canadian that Lay's sells them almost nowhere else in the world. When Lay's briefly discontinued them in the US, American Canadians organized cross-border snack smuggling operations."
+    },
+    {
+      "id": "ca_t1_007",
+      "name": "Can of Molson Canadian (473ml, beer store)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.1,
+        "1995": 1.3,
+        "2000": 1.5,
+        "2005": 1.75,
+        "2010": 2.1,
+        "2015": 2.5,
+        "2020": 2.9,
+        "2025": 3.8
+      },
+      "fact": "Ontario had a government monopoly on beer retail until 2015 when the Beer Store duopoly was partially broken. The government-run LCBO still controls wine and spirits and generates $2.5 billion annually for the provincial treasury."
+    },
+    {
+      "id": "ca_t1_008",
+      "name": "Bag of All Dressed Chips (Ruffles, standard)",
+      "emoji": "🧡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.99,
+        "1995": 1.19,
+        "2000": 1.39,
+        "2005": 1.59,
+        "2010": 1.89,
+        "2015": 2.19,
+        "2020": 2.49,
+        "2025": 3.49
+      },
+      "fact": "All Dressed chips combine barbecue, sour cream, ketchup and salt and vinegar flavours in one chip. Like ketchup chips, they are almost exclusively Canadian and have been called the most patriotic snack in the country."
+    },
+    {
+      "id": "ca_t1_009",
+      "name": "Poutine (basic, chip truck)",
+      "emoji": "🍟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 12.0
+      },
+      "fact": "Poutine was invented in Quebec in the late 1950s and was considered lowbrow until Montreal restaurants elevated it in the 1990s. It now appears on menus in 40 countries and generates $500 million annually in Canadian foodservice."
+    },
+    {
+      "id": "ca_t1_010",
+      "name": "Litre of Gas (regular unleaded, national avg)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.55,
+        "1995": 0.55,
+        "2000": 0.7,
+        "2005": 0.9,
+        "2010": 1.0,
+        "2015": 1.05,
+        "2020": 0.95,
+        "2025": 1.65
+      },
+      "fact": "Canada's carbon tax added 17 cents per litre in 2024, making it the largest single fuel price component after the base commodity. The policy became one of the most debated political issues in Canadian history."
+    },
+    {
+      "id": "ca_t1_011",
+      "name": "Maple Syrup (100ml, pure, grocery store)",
+      "emoji": "🍁",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.8,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.5,
+        "2015": 4.5,
+        "2020": 5.0,
+        "2025": 14.0
+      },
+      "fact": "Quebec produces 73% of the world's maple syrup and guards it in a strategic reserve called the Global Strategic Maple Syrup Reserve. In 2012, thieves stole $18 million worth of syrup from the reserve in what became known as the Great Maple Syrup Heist."
+    },
+    {
+      "id": "ca_t1_012",
+      "name": "Newspaper (Globe and Mail or Toronto Star, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.25,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "The Globe and Mail is Canada's national newspaper and has been published since 1844. Canadian newspapers receive over $595 million annually in government journalism subsidies, the most generous press support program of any democracy."
+    },
+    {
+      "id": "ca_t1_013",
+      "name": "Montreal Bagel (single, St-Viateur style)",
+      "emoji": "🥯",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.35,
+        "2000": 0.45,
+        "2005": 0.55,
+        "2010": 0.75,
+        "2015": 0.95,
+        "2020": 1.1,
+        "2025": 1.5
+      },
+      "fact": "Montreal bagels are baked in wood-fired ovens and boiled in honey water, making them denser and sweeter than New York bagels. The debate over which is superior is the most heated culinary argument in North America."
+    },
+    {
+      "id": "ca_t1_014",
+      "name": "Butter Tart (single, bakery)",
+      "emoji": "🥧",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.65,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 1.25,
+        "2015": 1.5,
+        "2020": 1.75,
+        "2025": 2.5
+      },
+      "fact": "The butter tart has been called Canada's only truly original baked good. The oldest known recipe appears in a 1900 Women's Institute cookbook from Barrie, Ontario, and the runny-versus-firm filling debate divides provinces."
+    },
+    {
+      "id": "ca_t1_015",
+      "name": "Nanaimo Bar (single, bakery)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 0.75,
+        "2000": 0.9,
+        "2005": 1.1,
+        "2010": 1.4,
+        "2015": 1.75,
+        "2020": 2.0,
+        "2025": 2.75
+      },
+      "fact": "The Nanaimo bar was named after Nanaimo, BC in the 1950s and requires no baking. In 1986 the city of Nanaimo ran a contest to find the definitive recipe and received over 100 entries before declaring an official version."
+    },
+    {
+      "id": "ca_t1_016",
+      "name": "Egg (single, large, grocery store)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.15,
+        "1995": 0.18,
+        "2000": 0.2,
+        "2005": 0.25,
+        "2010": 0.28,
+        "2015": 0.32,
+        "2020": 0.37,
+        "2025": 0.55
+      },
+      "fact": "Canadian egg prices are regulated by the Egg Farmers of Canada quota system, which limits production to manage prices. The system keeps prices stable but 50% higher than US equivalents, a constant irritant in cross-border shopping."
+    },
+    {
+      "id": "ca_t1_017",
+      "name": "Pack of Smarties (45g, candy)",
+      "emoji": "🟡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.49,
+        "1995": 0.59,
+        "2000": 0.69,
+        "2005": 0.79,
+        "2010": 0.99,
+        "2015": 1.19,
+        "2020": 1.39,
+        "2025": 1.99
+      },
+      "fact": "Canadian Smarties are chocolate candies in a sugar shell, completely different from American Smarties which are chalky tablets. The confusion has caused international confectionery disputes and customs declaration errors for decades."
+    },
+    {
+      "id": "ca_t1_018",
+      "name": "Loonie (1 dollar coin, face value reference)",
+      "emoji": "🪙",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.0,
+        "2025": 1.0
+      },
+      "fact": "Canada replaced its dollar bill with the Loonie coin in 1987 to save $175 million over 20 years. The common loon on the coin became a national symbol, and the coin's nickname 'Loonie' is now the most recognisable slang for a currency in the world."
+    },
+    {
+      "id": "ca_t1_019",
+      "name": "Bus Fare (city, single ride, average)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.25,
+        "2000": 1.5,
+        "2005": 1.75,
+        "2010": 2.25,
+        "2015": 2.75,
+        "2020": 3.0,
+        "2025": 3.5
+      },
+      "fact": "Ontario made transit free for youth under 18 in 2023, with the province funding the shortfall to municipalities. It was the largest single expansion of fare-free transit in Canadian history, covering 2 million young people."
+    },
+    {
+      "id": "ca_t1_020",
+      "name": "Can of Coca-Cola (355ml, grocery store)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.65,
+        "1995": 0.79,
+        "2000": 0.89,
+        "2005": 0.99,
+        "2010": 1.19,
+        "2015": 1.39,
+        "2020": 1.59,
+        "2025": 2.19
+      },
+      "fact": "Canada uses the smaller 355ml can rather than the US 330ml for historical reasons tied to the original Coca-Cola fountain serving size. It has resisted harmonisation with US sizing for over 50 years."
+    },
+    {
+      "id": "ca_t1_021",
+      "name": "Pack of Hockey Cards (Upper Deck, 5-card pack)",
+      "emoji": "🏒",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0.99,
+        "1995": 1.49,
+        "2000": 1.99,
+        "2005": 2.49,
+        "2010": 2.99,
+        "2015": 3.49,
+        "2020": 3.99,
+        "2025": 12.0
+      },
+      "fact": "Hockey cards are Canada's equivalent of baseball cards in the US. A 1979 Wayne Gretzky rookie card sold for $3.75 million US in 2021, the most valuable hockey card ever sold and more than most NHL team valuations from the same year."
+    },
+    {
+      "id": "ca_t1_022",
+      "name": "Bag of Hickory Sticks (Old Dutch, standard)",
+      "emoji": "🥢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.79,
+        "1995": 0.99,
+        "2000": 1.19,
+        "2005": 1.39,
+        "2010": 1.69,
+        "2015": 1.99,
+        "2020": 2.29,
+        "2025": 2.99
+      },
+      "fact": "Old Dutch Foods is a Winnipeg company that has dominated the prairie snack market since 1954. Hickory Sticks and Ringolos are sold almost exclusively in Canada and are so regionally specific that they are given as care packages to Canadians living abroad."
+    },
+    {
+      "id": "ca_t1_023",
+      "name": "Postcard (CN Tower or Niagara, tourist shop)",
+      "emoji": "🗼",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.35,
+        "1995": 0.5,
+        "2000": 0.65,
+        "2005": 0.85,
+        "2010": 1.0,
+        "2015": 1.25,
+        "2020": 1.5,
+        "2025": 2.0
+      },
+      "fact": "Niagara Falls is the most visited tourist destination in Canada with 13 million visitors per year. The falls themselves are free to view from the Canadian side, which is universally considered the better vantage point."
+    },
+    {
+      "id": "ca_t1_024",
+      "name": "Instant Coffee (Nescafe, per serving, from jar)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.08,
+        "1995": 0.1,
+        "2000": 0.12,
+        "2005": 0.14,
+        "2010": 0.16,
+        "2015": 0.18,
+        "2020": 0.2,
+        "2025": 0.3
+      },
+      "fact": "Canada is one of the few countries where Tim Hortons out-competes Starbucks on both price and volume. Starbucks has over 1,600 Canadian locations but serves fewer total cups daily than Tim Hortons' 4,000 drive-throughs."
+    },
+    {
+      "id": "ca_t1_025",
+      "name": "Roll Up The Rim Cup (Tim Hortons, collectible)",
+      "emoji": "🎰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.01,
+        "1995": 0.01,
+        "2000": 0.01,
+        "2005": 0.01,
+        "2010": 0.01,
+        "2015": 0.01,
+        "2020": 0.01,
+        "2025": 0.01
+      },
+      "fact": "Roll Up The Rim launched in 1986 and became Canada's most anticipated annual retail event, pausing workplaces and generating genuine social excitement over a 1-in-6 chance of winning a free coffee. Tim Hortons switched to a digital version in 2020, losing much of its cultural magic."
+    },
+    {
+      "id": "ca_t2_001",
+      "name": "Large Poutine (Harvey's or restaurant)",
+      "emoji": "🍟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.5,
+        "2000": 5.5,
+        "2005": 6.5,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 16.0
+      },
+      "fact": "Poutine at a sit-down restaurant now averages $16, a 4x rise since 1990. Upscale versions with foie gras and truffle shavings at Montreal restaurants reach $45, turning a working-class Quebec staple into a luxury item."
+    },
+    {
+      "id": "ca_t2_002",
+      "name": "Cinema Ticket (Cineplex, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.5,
+        "1995": 7.0,
+        "2000": 9.0,
+        "2005": 10.5,
+        "2010": 12.0,
+        "2015": 13.5,
+        "2020": 15.0,
+        "2025": 18.0
+      },
+      "fact": "Cineplex controls 75% of Canadian cinema screens, the most concentrated theatrical market of any major country. Its Scene+ loyalty program has 10 million members, covering one in four Canadians."
+    },
+    {
+      "id": "ca_t2_003",
+      "name": "Haircut (men's, Great Clips / barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 12.0,
+        "2005": 14.0,
+        "2010": 16.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Canadian barbershops briefly closed for months during COVID under the longest service industry shutdowns in the G7. When they reopened, many raised prices 20-30% to recover lost revenue, ending a decade of stable $18-$20 haircuts."
+    },
+    {
+      "id": "ca_t2_004",
+      "name": "Pint of Beer (pub, tap lager)",
+      "emoji": "🍻",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 3.0,
+        "2000": 3.75,
+        "2005": 4.5,
+        "2010": 5.5,
+        "2015": 6.5,
+        "2020": 7.5,
+        "2025": 10.0
+      },
+      "fact": "A Canadian pub pint crossed $10 in major cities in 2023. Alberta has the cheapest pub beer in Canada because it privatised alcohol retail in 1993, creating genuine price competition that other provinces have since partially replicated."
+    },
+    {
+      "id": "ca_t2_005",
+      "name": "McDonald's Big Mac (Canada)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.19,
+        "1995": 2.49,
+        "2000": 2.69,
+        "2005": 3.19,
+        "2010": 3.99,
+        "2015": 4.99,
+        "2020": 5.99,
+        "2025": 10.99
+      },
+      "fact": "Canada's Big Mac is significantly more expensive than the US version, reflecting higher minimum wages and supply-managed dairy costs in the bun and cheese. The Big Mac Index consistently places Canada 20-25% above the US in purchasing power terms."
+    },
+    {
+      "id": "ca_t2_006",
+      "name": "Monthly Netflix Subscription (standard, CA)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 10.99,
+        "2020": 16.99,
+        "2025": 22.99
+      },
+      "fact": "Netflix Canada launched in 2010 as the first non-US Netflix market. The CRTC required Netflix to contribute 5% of Canadian revenues to Canadian content creation starting in 2023, under a law called the Online Streaming Act."
+    },
+    {
+      "id": "ca_t2_007",
+      "name": "Bottle of Caesar (Motts Clamato, premix, 355ml)",
+      "emoji": "🍹",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 1.8,
+        "2000": 2.1,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 3.5,
+        "2020": 4.0,
+        "2025": 12.0
+      },
+      "fact": "The Caesar cocktail was invented in Calgary in 1969 and 350 million are consumed in Canada annually. It is made with Clamato, a tomato and clam juice blend that Canadians consider a normal beverage but that baffles every other nationality."
+    },
+    {
+      "id": "ca_t2_008",
+      "name": "Pack of 20 Cigarettes (du Maurier)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 5.5,
+        "2000": 6.5,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.5,
+        "2020": 15.0,
+        "2025": 18.0
+      },
+      "fact": "Canada was the first country in the world to require plain packaging on cigarettes in 2019. Smoking rates fell to 11% of adults by 2023, half the rate in 1990, with plain packaging credited as one of the most effective single interventions."
+    },
+    {
+      "id": "ca_t2_009",
+      "name": "Monthly Spotify Subscription (Canada)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9.99,
+        "2020": 9.99,
+        "2025": 11.99
+      },
+      "fact": "Canada is Spotify's fourth-largest market and produces a disproportionate share of global streaming content. Drake, The Weeknd and Justin Bieber together account for more Spotify streams than the entire music output of most countries."
+    },
+    {
+      "id": "ca_t2_010",
+      "name": "Dairy Queen Blizzard (medium)",
+      "emoji": "🍦",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.99,
+        "1995": 2.49,
+        "2000": 2.99,
+        "2005": 3.49,
+        "2010": 4.29,
+        "2015": 4.99,
+        "2020": 5.49,
+        "2025": 10.99
+      },
+      "fact": "Dairy Queen was founded in Illinois but has more locations per capita in Canada than any other country. The Blizzard was introduced in 1985 and instantly became the brand's top product globally, selling 150 million in its first year."
+    },
+    {
+      "id": "ca_t2_011",
+      "name": "CBC Radio Annual Cost (per household, licence equiv.)",
+      "emoji": "📻",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 15.0,
+        "1995": 18.0,
+        "2000": 20.0,
+        "2005": 22.0,
+        "2010": 25.0,
+        "2015": 28.0,
+        "2020": 32.0,
+        "2025": 38.0
+      },
+      "fact": "The CBC receives $1.4 billion in public funding annually, roughly $38 per Canadian household. Unlike the BBC, it runs advertising on its TV channels alongside public funding, a hybrid model that satisfies neither commercial nor public broadcasting advocates."
+    },
+    {
+      "id": "ca_t2_012",
+      "name": "Toronto Blue Jays General Admission Ticket",
+      "emoji": "⚾",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 6.0,
+        "1995": 9.0,
+        "2000": 12.0,
+        "2005": 15.0,
+        "2010": 18.0,
+        "2015": 22.0,
+        "2020": 25.0,
+        "2025": 32.0
+      },
+      "fact": "The Blue Jays won back-to-back World Series in 1992 and 1993 and are the only non-US team to have won it. The 1993 win drew 5 million viewers in Canada, representing 18% of the entire population watching a single broadcast."
+    },
+    {
+      "id": "ca_t2_013",
+      "name": "Subway Footlong (BMT, Canada)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.49,
+        "1995": 3.99,
+        "2000": 4.49,
+        "2005": 5.49,
+        "2010": 7.49,
+        "2015": 8.49,
+        "2020": 9.49,
+        "2025": 13.49
+      },
+      "fact": "Canada has more Subway locations per capita than any country in the world. Canadian Subway prices are consistently 15-20% higher than US equivalents, tracking with minimum wage differences between the two countries."
+    },
+    {
+      "id": "ca_t2_014",
+      "name": "TTC Single Fare (Toronto, adult)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 1.1,
+        "1995": 1.6,
+        "2000": 2.0,
+        "2005": 2.25,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.2,
+        "2025": 3.3
+      },
+      "fact": "Toronto's TTC is the third-busiest transit system in North America after New York and Mexico City. For decades it received the lowest per-rider government subsidy of any major transit system on the continent."
+    },
+    {
+      "id": "ca_t2_015",
+      "name": "Junior Chicken (McDonald's Canada)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.99,
+        "1995": 1.19,
+        "2000": 1.29,
+        "2005": 1.39,
+        "2010": 1.69,
+        "2015": 1.89,
+        "2020": 2.19,
+        "2025": 3.29
+      },
+      "fact": "The Junior Chicken is a Canadian McDonald's item not sold in the US and is one of Canada's most beloved fast food items. It held below $2 for over 25 years before inflation finally pushed it past that threshold in 2021."
+    },
+    {
+      "id": "ca_t2_016",
+      "name": "LCBO Bottle of Ontario VQA Wine (entry, 750ml)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.95,
+        "1995": 7.95,
+        "2000": 9.95,
+        "2005": 11.95,
+        "2010": 13.95,
+        "2015": 15.95,
+        "2020": 16.95,
+        "2025": 19.95
+      },
+      "fact": "Ontario's LCBO is the world's largest single purchaser of alcohol, buying for 660 stores. The Niagara wine region produces ice wine that sells for $200 a half bottle in Japan and South Korea, where it is considered Canada's most prestigious export."
+    },
+    {
+      "id": "ca_t2_017",
+      "name": "Gym Membership (monthly, GoodLife / Anytime)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 25.0,
+        "2000": 30.0,
+        "2005": 35.0,
+        "2010": 40.0,
+        "2015": 40.0,
+        "2020": 38.0,
+        "2025": 50.0
+      },
+      "fact": "GoodLife Fitness is Canada's largest gym chain with 400 locations and 1.6 million members. It is one of the few gym chains in the world that never went public, remaining family-owned through four decades of expansion."
+    },
+    {
+      "id": "ca_t2_018",
+      "name": "Monthly Presto / Compass Card Pass (transit, avg city)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 40.0,
+        "1995": 55.0,
+        "2000": 70.0,
+        "2005": 85.0,
+        "2010": 100.0,
+        "2015": 128.0,
+        "2020": 145.0,
+        "2025": 158.0
+      },
+      "fact": "Ontario's Presto card system took 15 years and $700 million to implement across multiple transit agencies, years behind schedule and over budget. It is now used by 4 million riders but remains incompatible with Quebec's transit system."
+    },
+    {
+      "id": "ca_t2_019",
+      "name": "Molson Canadian 24-Pack (beer store, slab)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 18.0,
+        "1995": 22.0,
+        "2000": 28.0,
+        "2005": 33.0,
+        "2010": 40.0,
+        "2015": 46.0,
+        "2020": 50.0,
+        "2025": 58.0
+      },
+      "fact": "Molson is the world's oldest brewery, founded in Montreal in 1786, and also once owned the Montreal Canadiens hockey team simultaneously. Selling beer and hockey in one corporate entity was considered so naturally Canadian it barely generated comment."
+    },
+    {
+      "id": "ca_t2_020",
+      "name": "Canadian Tire Money (earned on $20 purchase, equiv.)",
+      "emoji": "💵",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.1,
+        "2000": 0.1,
+        "2005": 0.1,
+        "2010": 0.1,
+        "2015": 0.1,
+        "2020": 0.1,
+        "2025": 0.1
+      },
+      "fact": "Canadian Tire Money launched in 1958 and is accepted in all 1,700 stores as genuine currency for purchases. Some Canadians have accumulated thousands of dollars in the paper scrip, and it has been used to pay for wedding catering and home deposits."
+    },
+    {
+      "id": "ca_t2_021",
+      "name": "Lobster Roll (Maritime, standard, seafood shack)",
+      "emoji": "🦞",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 7.0,
+        "2000": 9.0,
+        "2005": 12.0,
+        "2010": 16.0,
+        "2015": 20.0,
+        "2020": 24.0,
+        "2025": 32.0
+      },
+      "fact": "Nova Scotia and New Brunswick export more lobster than anywhere in the world. A 2021 dispute between the Mi'kmaq First Nation and non-Indigenous fishers over moderate livelihood fishing rights became Canada's most tense fisheries conflict in 50 years."
+    },
+    {
+      "id": "ca_t2_022",
+      "name": "Harvey's Original Burger (combo, medium)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 4.5,
+        "2000": 5.5,
+        "2005": 6.5,
+        "2010": 7.5,
+        "2015": 8.5,
+        "2020": 10.0,
+        "2025": 13.0
+      },
+      "fact": "Harvey's is Canada's only major homegrown burger chain and lets customers top their burger in front of them. Founded in Richmond Hill in 1959, it has resisted US buyout attempts four times and remains fiercely Canadian-owned."
+    },
+    {
+      "id": "ca_t2_023",
+      "name": "BeaverTail (cinnamon sugar, Ottawa)",
+      "emoji": "🦫",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 2.0,
+        "2000": 2.5,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.5,
+        "2020": 7.0,
+        "2025": 10.0
+      },
+      "fact": "BeaverTails launched at Ottawa's Byward Market in 1978 and became national news when Barack Obama visited and ordered one in 2009. The brand has 130 locations but still does its highest volume on the Rideau Canal during skating season."
+    },
+    {
+      "id": "ca_t2_024",
+      "name": "Paperback Novel (Chapters/Indigo, standard)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 6.99,
+        "1995": 8.99,
+        "2000": 10.99,
+        "2005": 12.99,
+        "2010": 14.99,
+        "2015": 16.99,
+        "2020": 18.99,
+        "2025": 22.99
+      },
+      "fact": "Chapters merged with Indigo in 2001 to create Canada's only national bookstore chain. It survived Amazon by pivoting to gifts, wellness products and home decor, becoming more of a lifestyle store that also sells books."
+    },
+    {
+      "id": "ca_t2_025",
+      "name": "Bottle of Kirkland Vodka (LCBO / SAQ, 1.75L)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 22.0,
+        "2010": 26.0,
+        "2015": 29.0,
+        "2020": 32.0,
+        "2025": 38.0
+      },
+      "fact": "Costco Canada's Kirkland Signature vodka is rumoured to be Grey Goose in disguise. The LCBO is required to carry it because Costco lobbied successfully for spirits access, making it the only private label sold in Ontario government stores."
+    },
+    {
+      "id": "ca_t3_001",
+      "name": "Ski Day Pass (Whistler Blackcomb, adult, window)",
+      "emoji": "⛷️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 38.0,
+        "1995": 50.0,
+        "2000": 62.0,
+        "2005": 75.0,
+        "2010": 89.0,
+        "2015": 105.0,
+        "2020": 130.0,
+        "2025": 299.0
+      },
+      "fact": "Whistler Blackcomb was bought by Vail Resorts in 2016 for $1.4 billion. The window day pass tripled in 10 years as Vail pushed the Epic Pass annual subscription model, making one-day skiing more expensive than a flight to the resort."
+    },
+    {
+      "id": "ca_t3_002",
+      "name": "Annual Hockey Equipment Set (youth, entry level)",
+      "emoji": "🏒",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 150.0,
+        "1995": 200.0,
+        "2000": 250.0,
+        "2005": 300.0,
+        "2010": 350.0,
+        "2015": 400.0,
+        "2020": 450.0,
+        "2025": 600.0
+      },
+      "fact": "Youth hockey in Canada costs an average $7,000 per year including equipment, ice time and travel for competitive players. The cost is directly correlated with declining registration: participation fell 15% between 2011 and 2023 as lower-income families exit the sport."
+    },
+    {
+      "id": "ca_t3_003",
+      "name": "Economy Flight (Toronto to Vancouver, one way, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 450.0,
+        "1995": 400.0,
+        "2000": 380.0,
+        "2005": 320.0,
+        "2010": 300.0,
+        "2015": 280.0,
+        "2020": 220.0,
+        "2025": 350.0
+      },
+      "fact": "Air Canada controls 50% of domestic flights and Canadians pay some of the highest domestic airfares in the G7. The 2022 Air Canada baggage fee class action, where passengers were awarded $76 each for being charged on flights where fees weren't disclosed, became a symbol of corporate nickel-and-diming."
+    },
+    {
+      "id": "ca_t3_004",
+      "name": "iPhone 16 (standard, 128GB, CA retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 699.0,
+        "2015": 899.0,
+        "2020": 1129.0,
+        "2025": 1299.0
+      },
+      "fact": "iPhones in Canada cost 20-25% more than in the US due to the weaker Canadian dollar. Cross-border phone smuggling into Canada is so common that Canada Border Services flag individual electronics returns as a declared risk category."
+    },
+    {
+      "id": "ca_t3_005",
+      "name": "Annual Car Insurance (Ontario, full coverage, avg)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 700.0,
+        "1995": 1000.0,
+        "2000": 1300.0,
+        "2005": 1500.0,
+        "2010": 1600.0,
+        "2015": 1700.0,
+        "2020": 1800.0,
+        "2025": 2500.0
+      },
+      "fact": "Ontario has the highest auto insurance rates in Canada, averaging $2,500 annually. A 2024 inquiry found drivers in Brampton pay $4,000 per year on average due to staged accident fraud that costs the industry $2 billion annually."
+    },
+    {
+      "id": "ca_t3_006",
+      "name": "Canucks / Leafs Hockey Ticket (lower bowl, avg)",
+      "emoji": "🏒",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 25.0,
+        "1995": 45.0,
+        "2000": 80.0,
+        "2005": 100.0,
+        "2010": 130.0,
+        "2015": 160.0,
+        "2020": 180.0,
+        "2025": 250.0
+      },
+      "fact": "Toronto Maple Leafs tickets are among the most expensive in the NHL despite the team's 57-year championship drought. Season tickets have a waitlist of over 10,000 people and transfer within families like inheritance."
+    },
+    {
+      "id": "ca_t3_007",
+      "name": "VIA Rail Toronto to Montreal (economy, one way, avg)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 90.0,
+        "2000": 100.0,
+        "2005": 115.0,
+        "2010": 130.0,
+        "2015": 145.0,
+        "2020": 130.0,
+        "2025": 175.0
+      },
+      "fact": "The VIA Rail Toronto to Montreal corridor runs at an average of 100km/h, slower than routes built in the 1960s due to deferred track investment. Canada has repeatedly cancelled high-speed rail plans and remains the only G7 country without one."
+    },
+    {
+      "id": "ca_t3_008",
+      "name": "Annual Costco Membership (Canada)",
+      "emoji": "🛒",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 35.0,
+        "2000": 45.0,
+        "2005": 50.0,
+        "2010": 55.0,
+        "2015": 60.0,
+        "2020": 65.0,
+        "2025": 65.0
+      },
+      "fact": "Costco Canada has held its membership fee at $65 since 2017, one of the most stable prices in Canadian retail. Its Kirkland hot dog plus drink combo remains $1.50, a price unchanged since 1985 that the CEO has refused to raise."
+    },
+    {
+      "id": "ca_t3_009",
+      "name": "MacBook Air M2 (CA retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1299.0,
+        "2015": 1199.0,
+        "2020": 1499.0,
+        "2025": 1599.0
+      },
+      "fact": "Apple Canada prices are consistently 15-20% above US equivalents due to the weaker Canadian dollar. Canadian students get a $150 education discount that partially closes the gap, making back-to-school the most significant Apple sales event in the calendar."
+    },
+    {
+      "id": "ca_t3_010",
+      "name": "Annual Cell Phone Plan (unlimited, major carrier)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 50.0,
+        "2005": 60.0,
+        "2010": 960.0,
+        "2015": 1080.0,
+        "2020": 1020.0,
+        "2025": 780.0
+      },
+      "fact": "Canada had the most expensive mobile plans in the G7 until 2022 when government pressure and new entrant Freedom Mobile forced Rogers, Bell and Telus to cut prices by 30%. Canada is still more expensive than the EU but prices fell faster than any comparable market."
+    },
+    {
+      "id": "ca_t3_011",
+      "name": "Kindle E-Reader (base, Amazon CA)",
+      "emoji": "📖",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 159.0,
+        "2015": 99.0,
+        "2020": 109.0,
+        "2025": 149.0
+      },
+      "fact": "Amazon launched its Canadian Kindle store in 2009 but Canadian ebook prices are often 30% higher than US prices due to exchange rates and publisher pricing. Chapters/Indigo launched its own competing Kobo e-reader in 2010, the only successful challenge to Kindle dominance globally."
+    },
+    {
+      "id": "ca_t3_012",
+      "name": "Rooftop Patio Night Out (food and drinks, per person)",
+      "emoji": "🍹",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 40.0,
+        "2000": 55.0,
+        "2005": 70.0,
+        "2010": 85.0,
+        "2015": 100.0,
+        "2020": 90.0,
+        "2025": 140.0
+      },
+      "fact": "Toronto's patio culture exploded after the city allowed year-round heated patios post-COVID. Restaurant food inflation of 8.9% in 2023 was the highest Canada had recorded since 1981, making a night out the fastest-rising household expense."
+    },
+    {
+      "id": "ca_t3_013",
+      "name": "Annual Ski Pass (Epic Pass, Whistler access)",
+      "emoji": "🎿",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 579.0,
+        "2015": 729.0,
+        "2020": 783.0,
+        "2025": 1009.0
+      },
+      "fact": "Vail's Epic Pass covers 40 resorts globally and made skiing a subscription product. Whistler locals protested as annual pass prices tripled under Vail ownership, pricing out the blue-collar and immigrant communities that historically staffed the mountain."
+    },
+    {
+      "id": "ca_t3_014",
+      "name": "Wedding Photography (full day, avg Canada)",
+      "emoji": "📸",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1200.0,
+        "2000": 1800.0,
+        "2005": 2200.0,
+        "2010": 2800.0,
+        "2015": 3200.0,
+        "2020": 3000.0,
+        "2025": 4500.0
+      },
+      "fact": "Wedding photography prices rose 50% between 2020 and 2025 as pent-up demand from postponed COVID weddings flooded the market. Canadian couples spent a collective $1.7 billion on weddings in 2023, the highest on record."
+    },
+    {
+      "id": "ca_t3_015",
+      "name": "Annual Vehicle Registration (Ontario, standard car)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 75.0,
+        "2000": 100.0,
+        "2005": 100.0,
+        "2010": 100.0,
+        "2015": 100.0,
+        "2020": 120.0,
+        "2025": 120.0
+      },
+      "fact": "Ontario froze car registration fees at $120 in 2020 as an election promise by Doug Ford. Toronto previously charged an additional $60 city tax on top, which Ford also cancelled, costing the city $48 million annually in lost revenue."
+    },
+    {
+      "id": "ca_t3_016",
+      "name": "Annual Home Internet (100Mbps unlimited, avg CA)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 20.0,
+        "2000": 40.0,
+        "2005": 55.0,
+        "2010": 780.0,
+        "2015": 840.0,
+        "2020": 840.0,
+        "2025": 900.0
+      },
+      "fact": "Canadian internet prices are the highest in the G7 per megabit and the CRTC has been ordering incumbents to offer wholesale access to competitors since 2015 with limited success. Rogers, Bell and Telus collectively control 90% of the market."
+    },
+    {
+      "id": "ca_t3_017",
+      "name": "Dyson V11 Cordless Vacuum (CA retail)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 350.0,
+        "2010": 450.0,
+        "2015": 600.0,
+        "2020": 750.0,
+        "2025": 999.0
+      },
+      "fact": "Dyson Canada prices track closely with Australian prices as both markets pay a 15-20% premium over the US. Canadian winters mean more boots tracking in salt and grit, making vacuum cleaners a more year-round household essential than in most countries."
+    },
+    {
+      "id": "ca_t3_018",
+      "name": "Annual YMCA Membership (family, major city)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 300.0,
+        "2000": 450.0,
+        "2005": 600.0,
+        "2010": 750.0,
+        "2015": 900.0,
+        "2020": 950.0,
+        "2025": 1200.0
+      },
+      "fact": "Canada's YMCAs offer sliding scale fees based on income, making them the most used community health facility by recent immigrants. The Y has operated in Canada since 1851 and serves 2 million Canadians annually."
+    },
+    {
+      "id": "ca_t3_019",
+      "name": "Camping Season (Ontario Parks, 4 visits, serviced sites)",
+      "emoji": "⛺",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 15.0,
+        "1995": 20.0,
+        "2000": 28.0,
+        "2005": 35.0,
+        "2010": 42.0,
+        "2015": 50.0,
+        "2020": 55.0,
+        "2025": 160.0
+      },
+      "fact": "Ontario's provincial parks require reservations up to 5 months in advance and sell out within minutes of the booking window opening. Canada's camping boom during COVID created a backlog of first-time campers that has permanently raised demand and prices."
+    },
+    {
+      "id": "ca_t3_020",
+      "name": "Canada Goose Parka (Expedition, base model)",
+      "emoji": "🧥",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 300.0,
+        "2000": 450.0,
+        "2005": 650.0,
+        "2010": 850.0,
+        "2015": 1000.0,
+        "2020": 1100.0,
+        "2025": 1395.0
+      },
+      "fact": "Canada Goose parkas are made in Canada and became a global status symbol after being worn by film crew on Arctic productions. In Chinese high schools and universities the jacket became a class marker in the 2010s, with students bullied for not owning one."
+    },
+    {
+      "id": "ca_t3_021",
+      "name": "Dentist Checkup and Clean (private, national avg)",
+      "emoji": "🦷",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 60.0,
+        "1995": 90.0,
+        "2000": 130.0,
+        "2005": 175.0,
+        "2010": 210.0,
+        "2015": 250.0,
+        "2020": 280.0,
+        "2025": 350.0
+      },
+      "fact": "Dental care was excluded from Medicare in 1968 for political reasons and has never been included. Canada launched a federal Dental Benefit for children under 12 in 2022 and expanded it to under 18s in 2023, the biggest expansion of public healthcare since Medicare itself."
+    },
+    {
+      "id": "ca_t3_022",
+      "name": "Banff National Park Annual Pass (adult)",
+      "emoji": "🏔️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 10.0,
+        "1995": 14.0,
+        "2000": 18.0,
+        "2005": 20.0,
+        "2010": 35.0,
+        "2015": 67.0,
+        "2020": 68.0,
+        "2025": 145.0
+      },
+      "fact": "Banff receives 4.5 million visitors per year and its town has a permanent resident limit of 10,000 to manage ecological impact. Park Pass prices more than doubled between 2015 and 2025 as Parks Canada sought to reduce overcrowding through pricing."
+    },
+    {
+      "id": "ca_t3_023",
+      "name": "Annual Prescription Costs (no insurance, avg Canadian)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 15.0,
+        "1995": 25.0,
+        "2000": 40.0,
+        "2005": 55.0,
+        "2010": 65.0,
+        "2015": 70.0,
+        "2020": 75.0,
+        "2025": 150.0
+      },
+      "fact": "Canada has no national pharmacare program, making it an outlier among wealthy nations with universal healthcare. Prescription drugs cost 30% more in Canada than in comparable countries because Canada lacks the negotiating power of a single national buyer."
+    },
+    {
+      "id": "ca_t3_024",
+      "name": "Uber Eats (quarterly spend avg, per user)",
+      "emoji": "🛵",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 25.0,
+        "2020": 45.0,
+        "2025": 240.0
+      },
+      "fact": "Uber Eats became Canada's top food delivery app in 2018. By 2024 the average Canadian Uber Eats order including delivery fees, tips and service charges reached $60, making it cheaper to go out for most meals."
+    },
+    {
+      "id": "ca_t3_025",
+      "name": "Concert Ticket (major touring artist, floor, avg)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 25.0,
+        "1995": 35.0,
+        "2000": 50.0,
+        "2005": 65.0,
+        "2010": 80.0,
+        "2015": 100.0,
+        "2020": 90.0,
+        "2025": 200.0
+      },
+      "fact": "Taylor Swift's Eras Tour generated an estimated $1.2 billion in economic activity for Canada's six tour cities in 2024. Ticketmaster's dynamic pricing for Canadian dates caused a parliamentary committee hearing on ticket resale monopolies."
+    },
+    {
+      "id": "ca_t4_001",
+      "name": "iPhone 16 Pro (256GB, CA retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 849.0,
+        "2015": 1099.0,
+        "2020": 1399.0,
+        "2025": 2199.0
+      },
+      "fact": "Apple Canada prices track the US dollar exchange rate so closely that iPhone price changes often happen mid-year when the CAD weakens. The 2015 dollar parity collapse added $200 to iPhone prices almost overnight."
+    },
+    {
+      "id": "ca_t4_002",
+      "name": "Toyota RAV4 (base, new, drive away)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 20000.0,
+        "2000": 24000.0,
+        "2005": 26000.0,
+        "2010": 27000.0,
+        "2015": 29000.0,
+        "2020": 33000.0,
+        "2025": 42000.0
+      },
+      "fact": "The Toyota RAV4 has been Canada's best-selling vehicle since 2019, overtaking the F-150 in Ontario. Canada assembles the RAV4 in Woodstock, Ontario, making it one of the few vehicles built domestically and bought domestically at scale."
+    },
+    {
+      "id": "ca_t4_003",
+      "name": "Tesla Model Y (standard range, CA price)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 69990.0,
+        "2025": 59990.0
+      },
+      "fact": "Canada offers a $5,000 federal iZEV rebate on EVs under $55,000 but the Model Y exceeds that threshold in most configurations. Provinces like BC and Quebec add further subsidies, making EVs significantly cheaper west of Ontario."
+    },
+    {
+      "id": "ca_t4_004",
+      "name": "Annual University Fees (Ontario, undergrad domestic)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1800.0,
+        "1995": 3000.0,
+        "2000": 4500.0,
+        "2005": 5000.0,
+        "2010": 5800.0,
+        "2015": 7000.0,
+        "2020": 7500.0,
+        "2025": 8000.0
+      },
+      "fact": "Ontario has the highest university tuition in Canada at $8,000 per year. Quebec subsidises tuition to $3,400 for residents and the difference has been one of the most persistent economic arguments for Quebec sovereignty from a student's perspective."
+    },
+    {
+      "id": "ca_t4_005",
+      "name": "Gold (troy ounce, CAD spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 450.0,
+        "1995": 490.0,
+        "2000": 400.0,
+        "2005": 600.0,
+        "2010": 1400.0,
+        "2015": 1500.0,
+        "2020": 2500.0,
+        "2025": 4800.0
+      },
+      "fact": "Canada is the world's fifth-largest gold producer and the Royal Canadian Mint makes gold coins sold globally. The Mint also produced the world's largest gold coin in 2007, a 100kg, 99.999% pure coin worth $1 million face value."
+    },
+    {
+      "id": "ca_t4_006",
+      "name": "Rolex Submariner (new retail, CA)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3500.0,
+        "1995": 4200.0,
+        "2000": 5000.0,
+        "2005": 6000.0,
+        "2010": 8000.0,
+        "2015": 11000.0,
+        "2020": 13500.0,
+        "2025": 17500.0
+      },
+      "fact": "Rolex Canada allocates fewer watches annually than its combined waitlists in Toronto and Vancouver. Grey market Submariners in Toronto sell for $22,000, reflecting a premium driven by the same cross-border exchange rate dynamics that affect every imported luxury good."
+    },
+    {
+      "id": "ca_t4_007",
+      "name": "Annual Private School Fees (Ontario, boarding)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 16000.0,
+        "2000": 22000.0,
+        "2005": 28000.0,
+        "2010": 34000.0,
+        "2015": 40000.0,
+        "2020": 45000.0,
+        "2025": 58000.0
+      },
+      "fact": "Upper Canada College, founded in 1829, is Canada's most prestigious private school at $58,000 per year for boarding. Its alumni include four Canadian prime ministers, multiple Supreme Court justices and the founders of both Blackberry and Shopify."
+    },
+    {
+      "id": "ca_t4_008",
+      "name": "Median Toronto House Price",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 255000.0,
+        "1995": 203000.0,
+        "2000": 243000.0,
+        "2005": 335000.0,
+        "2010": 431000.0,
+        "2015": 622000.0,
+        "2020": 930000.0,
+        "2025": 1050000.0
+      },
+      "fact": "Toronto house prices crossed $1 million in 2021 and peaked at $1.33 million in early 2022 before falling 20% as interest rates rose. The correction was the largest single-year drop since the 1989 crash but left prices still 4x higher than 2010."
+    },
+    {
+      "id": "ca_t4_009",
+      "name": "Annual Private Health Insurance (individual, comprehensive)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 1000.0,
+        "2005": 1400.0,
+        "2010": 1700.0,
+        "2015": 2000.0,
+        "2020": 2400.0,
+        "2025": 3200.0
+      },
+      "fact": "Canada's universal healthcare covers doctor and hospital visits but not dental, vision, prescription drugs or physiotherapy. Private supplemental insurance fills these gaps and is held by 27 million Canadians, primarily through employer benefits."
+    },
+    {
+      "id": "ca_t4_010",
+      "name": "Kitchen Renovation (mid-range, full refit, national avg)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 15000.0,
+        "2000": 20000.0,
+        "2005": 28000.0,
+        "2010": 35000.0,
+        "2015": 42000.0,
+        "2020": 55000.0,
+        "2025": 80000.0
+      },
+      "fact": "Canadian renovation costs surged during COVID as lumber prices rose 400% in 2021. The shortage was caused by US tariffs on Canadian softwood lumber combined with a renovation boom, a combination that cost the average Canadian homeowner $15,000 more than planned."
+    },
+    {
+      "id": "ca_t4_011",
+      "name": "Median Vancouver Detached House Price",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 350000.0,
+        "1995": 400000.0,
+        "2000": 350000.0,
+        "2005": 500000.0,
+        "2010": 800000.0,
+        "2015": 1300000.0,
+        "2020": 1600000.0,
+        "2025": 2000000.0
+      },
+      "fact": "Vancouver detached houses crossed $2 million median in 2025, the second most expensive housing market in the world after Hong Kong relative to incomes. BC introduced a foreign buyers tax in 2016 which briefly slowed prices before they resumed climbing."
+    },
+    {
+      "id": "ca_t4_012",
+      "name": "Louis Vuitton Neverfull MM (CA retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 700.0,
+        "1995": 1000.0,
+        "2000": 1400.0,
+        "2005": 1800.0,
+        "2010": 2400.0,
+        "2015": 2900.0,
+        "2020": 3300.0,
+        "2025": 4600.0
+      },
+      "fact": "Luxury goods prices in Canada are 15-25% above US prices due to exchange rates, yet Holt Renfrew in Toronto and Vancouver maintain waitlists for Louis Vuitton, Chanel and Hermès that regularly exceed 12 months."
+    },
+    {
+      "id": "ca_t4_013",
+      "name": "Annual International Student Fees (university, Ontario)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 22000.0,
+        "2010": 26000.0,
+        "2015": 30000.0,
+        "2020": 36000.0,
+        "2025": 45000.0
+      },
+      "fact": "Canada became the world's third-largest destination for international students in 2023. The federal government capped study permits in 2024 after international enrolment exploded from 300,000 to 900,000 in a decade, straining housing in university cities."
+    },
+    {
+      "id": "ca_t4_014",
+      "name": "Penfolds Grange equivalent (Inniskillin Icewine, 375ml)",
+      "emoji": "🍷",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 50.0,
+        "2000": 70.0,
+        "2005": 90.0,
+        "2010": 120.0,
+        "2015": 150.0,
+        "2020": 180.0,
+        "2025": 220.0
+      },
+      "fact": "Inniskillin's 1989 Vidal Icewine won Grand Prix d'Honneur at Vinexpo in 1991, putting Canadian wine on the world map. Icewine requires grapes left on the vine until temperatures reach minus 8 Celsius and can only be harvested at night."
+    },
+    {
+      "id": "ca_t4_015",
+      "name": "Average Canadian Wedding (total spend)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 15000.0,
+        "2000": 20000.0,
+        "2005": 25000.0,
+        "2010": 28000.0,
+        "2015": 31000.0,
+        "2020": 26000.0,
+        "2025": 40000.0
+      },
+      "fact": "The average Canadian wedding costs $40,000, with Toronto and Vancouver averaging $55,000. Wedding postponements from COVID created a 2021-2023 backlog that drove venue prices up 35% as demand exceeded capacity."
+    },
+    {
+      "id": "ca_t4_016",
+      "name": "Ford F-150 (base XL, new, drive away)",
+      "emoji": "🛻",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 16000.0,
+        "1995": 22000.0,
+        "2000": 28000.0,
+        "2005": 33000.0,
+        "2010": 38000.0,
+        "2015": 42000.0,
+        "2020": 48000.0,
+        "2025": 58000.0
+      },
+      "fact": "The F-150 is Canada's best-selling vehicle and has been for 58 consecutive years. Canada has the world's highest truck-to-car purchase ratio outside the US, reflecting a culture where pickup trucks are status symbols as much as work tools."
+    },
+    {
+      "id": "ca_t4_017",
+      "name": "Canucks / Leafs NHL Season Ticket (lower bowl)",
+      "emoji": "🏒",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 1200.0,
+        "1995": 2500.0,
+        "2000": 5000.0,
+        "2005": 7000.0,
+        "2010": 9000.0,
+        "2015": 11000.0,
+        "2020": 12000.0,
+        "2025": 18000.0
+      },
+      "fact": "Toronto Maple Leafs lower bowl season tickets at $18,000 are among the most expensive in North American sport. The Leafs are valued at $2.8 billion US despite not winning the Stanley Cup since 1967, proof that scarcity and suffering are powerful brand assets."
+    },
+    {
+      "id": "ca_t4_018",
+      "name": "Porsche 911 (base Carrera, CA MSRP)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 75000.0,
+        "1995": 88000.0,
+        "2000": 95000.0,
+        "2005": 98000.0,
+        "2010": 105000.0,
+        "2015": 115000.0,
+        "2020": 130000.0,
+        "2025": 160000.0
+      },
+      "fact": "Porsche Canada prices are 25-30% above US MSRP due to the weaker Canadian dollar and import duties. The Porsche Cayenne outsells the 911 in Canada by 5 to 1 because Canadian winters make a rear-engine sports car impractical for 5 months a year."
+    },
+    {
+      "id": "ca_t4_019",
+      "name": "Annual International School Fees (Vancouver, K-12)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 12000.0,
+        "2000": 16000.0,
+        "2005": 20000.0,
+        "2010": 25000.0,
+        "2015": 32000.0,
+        "2020": 38000.0,
+        "2025": 50000.0
+      },
+      "fact": "Vancouver international schools are filled primarily with children of Chinese and South Korean families, many of whom are enrolled as permanent residents while parents remain in Asia. This arrangement, called satellite families or astronaut families, is a defining feature of Vancouver's social geography."
+    },
+    {
+      "id": "ca_t4_020",
+      "name": "Great Bear Rainforest Eco-Tour (3 nights, per person)",
+      "emoji": "🐻",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1200.0,
+        "2005": 1800.0,
+        "2010": 2500.0,
+        "2015": 3500.0,
+        "2020": 3000.0,
+        "2025": 5000.0
+      },
+      "fact": "The Great Bear Rainforest protects the world's only population of white Spirit Bears. Access is limited to 24 licensed operators and a government permit system that allows fewer than 5,000 visitors annually, creating a price floor through scarcity."
+    },
+    {
+      "id": "ca_t4_021",
+      "name": "BYD Atto 3 EV (CA retail, with federal rebate)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 45000.0
+      },
+      "fact": "BYD launched in Canada in 2023 and immediately faced scrutiny over a federal review of Chinese EVs. Canada imposed 100% tariffs on Chinese EVs in 2024, the same rate as the US, effectively ending BYD's Canadian expansion plans at launch."
+    },
+    {
+      "id": "ca_t4_022",
+      "name": "Cottage / Muskoka Lake House (avg annual rental, peak week)",
+      "emoji": "🏕️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 800.0,
+        "1995": 1200.0,
+        "2000": 1800.0,
+        "2005": 2500.0,
+        "2010": 3500.0,
+        "2015": 5000.0,
+        "2020": 8000.0,
+        "2025": 12000.0
+      },
+      "fact": "Muskoka cottage rentals crossed $12,000 per peak week in 2024. COVID drove a cottage-buying frenzy that pushed purchase prices up 70% in two years, converting weekend retreats into million-dollar assets that few families can afford to rent let alone own."
+    },
+    {
+      "id": "ca_t4_023",
+      "name": "Annual Home Insurance (Ontario, avg detached house)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 600.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 1200.0,
+        "2010": 1400.0,
+        "2015": 1600.0,
+        "2020": 2000.0,
+        "2025": 1800.0
+      },
+      "fact": "Ontario home insurance rose 50% between 2019 and 2025 as flooding and storm damage claims hit record levels. The Insurance Bureau of Canada warned that 10% of Canadian homes may become uninsurable within 20 years due to climate-related risk."
+    },
+    {
+      "id": "ca_t4_024",
+      "name": "Churchill Northern Lights Tour (3 nights, fly-in, per person)",
+      "emoji": "🌌",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 1500.0,
+        "2000": 2000.0,
+        "2005": 2800.0,
+        "2010": 3500.0,
+        "2015": 4500.0,
+        "2020": 3500.0,
+        "2025": 6000.0
+      },
+      "fact": "Churchill, Manitoba is accessible only by air or rail and has the world's highest concentration of polar bears. The town of 900 people earns $35 million annually from eco-tourism and was the only community in Canada whose entire rail line washed out in 2017, cutting it off for months."
+    },
+    {
+      "id": "ca_t4_025",
+      "name": "Average Canadian Funeral (total cost)",
+      "emoji": "⚰️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 4000.0,
+        "1995": 5500.0,
+        "2000": 7000.0,
+        "2005": 8500.0,
+        "2010": 10000.0,
+        "2015": 11500.0,
+        "2020": 12500.0,
+        "2025": 16000.0
+      },
+      "fact": "Average Canadian funeral costs rose 4x since 1990 while inflation rose 2.5x. The funeral industry is the most consolidated service sector in Canada with two companies controlling 60% of locations, a market structure that independent funeral directors argue suppresses price competition."
+    }
+  ]
+}

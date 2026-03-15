@@ -1,0 +1,1808 @@
+{
+  "country": "RU",
+  "country_name": "Russia",
+  "currency_symbol": "₽",
+  "currency_code": "RUB",
+  "items": [
+    {
+      "id": "ru_t1_001",
+      "name": "Chyorny Khleb (rye bread loaf, supermarket)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 25.0,
+        "2015": 35.0,
+        "2020": 50.0,
+        "2025": 80.0
+      },
+      "fact": "Black rye bread is the most culturally significant food in Russia and was rationed during both World Wars. Its price is politically sensitive and the government caps it as a socially protected food."
+    },
+    {
+      "id": "ru_t1_002",
+      "name": "Litre of Petrol (AI-92, average Russia)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 1.5,
+        "2000": 7.0,
+        "2005": 15.0,
+        "2010": 24.0,
+        "2015": 35.0,
+        "2020": 45.0,
+        "2025": 60.0
+      },
+      "fact": "Russian petrol at ₽60 per litre is among the cheapest in Europe despite Russia's oil wealth going largely to exports. The government keeps domestic prices low through fuel subsidies that cost the treasury ₽2 trillion annually."
+    },
+    {
+      "id": "ru_t1_003",
+      "name": "Bukhanka (Soviet loaf, round white bread)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.15,
+        "1995": 2.5,
+        "2000": 5.0,
+        "2005": 10.0,
+        "2010": 18.0,
+        "2015": 28.0,
+        "2020": 40.0,
+        "2025": 65.0
+      },
+      "fact": "The bukhanka loaf has been baked to the same state recipe since 1933 and is still produced in government-approved ovens. It became a cultural symbol of Soviet-era simplicity and its unchanged shape is more recognisable to Russians than any commercial brand."
+    },
+    {
+      "id": "ru_t1_004",
+      "name": "Metro Fare (Moscow, single trip)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 1.0,
+        "2000": 5.0,
+        "2005": 13.0,
+        "2010": 26.0,
+        "2015": 50.0,
+        "2020": 57.0,
+        "2025": 70.0
+      },
+      "fact": "Moscow Metro is the world's busiest metro by daily ridership at 9 million passengers. Its stations are famous for their marble, mosaics and chandeliers, built as palaces of the proletariat. The deepest station is 84 metres underground."
+    },
+    {
+      "id": "ru_t1_005",
+      "name": "Egg (single, C1 category, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.8,
+        "2000": 2.0,
+        "2005": 3.5,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 8.0,
+        "2025": 15.0
+      },
+      "fact": "Eggs became a political crisis in Russia in late 2023 when prices rose 40% in two months. Putin personally addressed the nation about egg prices, the first time a Russian leader had spoken publicly about a single food product since Soviet bread rationing."
+    },
+    {
+      "id": "ru_t1_006",
+      "name": "Stakan Chaya (glass of tea, stolovaya canteen)",
+      "emoji": "🫖",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.5,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 18.0,
+        "2025": 30.0
+      },
+      "fact": "Russian tea culture centres on the podstakannik, a metal glass holder used since the 19th century. Train passengers are still served tea in podstakanniki on RZhD railways, the only rail network in the world still using this form of service."
+    },
+    {
+      "id": "ru_t1_007",
+      "name": "Kefir (500ml, Prostokvashino brand, supermarket)",
+      "emoji": "🥛",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 2.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 30.0,
+        "2015": 50.0,
+        "2020": 65.0,
+        "2025": 95.0
+      },
+      "fact": "Kefir is consumed daily by 60% of Russians and is considered both a food and a health drink. Russia produces 1.5 billion litres annually, more than any other country. Soviet nutritional guidelines recommended kefir for every age from infants to pensioners."
+    },
+    {
+      "id": "ru_t1_008",
+      "name": "Newspaper (Komsomolskaya Pravda, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.03,
+        "1995": 1.0,
+        "2000": 5.0,
+        "2005": 10.0,
+        "2010": 15.0,
+        "2015": 25.0,
+        "2020": 35.0,
+        "2025": 55.0
+      },
+      "fact": "Komsomolskaya Pravda was the world's highest-circulation newspaper during the Soviet era at 21 million copies daily. Print circulation collapsed after 1991 but it survived by pivoting to tabloid journalism and is still Russia's second most-read paper."
+    },
+    {
+      "id": "ru_t1_009",
+      "name": "Grechka (buckwheat, 3x900g pack, supermarket)",
+      "emoji": "🌾",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.2,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 35.0,
+        "2015": 50.0,
+        "2020": 90.0,
+        "2025": 350.0
+      },
+      "fact": "Buckwheat is Russia's most-hoarded food in times of crisis. When sanctions hit in 2014 and again in 2022, Russians panic-bought buckwheat so aggressively that supermarkets imposed purchase limits. It is the defining food of Russian emergency preparedness."
+    },
+    {
+      "id": "ru_t1_010",
+      "name": "Pirozhok (filled bun, piroshki, street vendor)",
+      "emoji": "🥐",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 1.5,
+        "2000": 5.0,
+        "2005": 10.0,
+        "2010": 18.0,
+        "2015": 30.0,
+        "2020": 50.0,
+        "2025": 80.0
+      },
+      "fact": "Piroshki have been sold on Russian streets since the 17th century. They can be fried or baked and filled with anything from cabbage and egg to jam. Soviet-era street vendors were technically illegal but tolerated, and piroshki ladies are now a cultural heritage figure."
+    },
+    {
+      "id": "ru_t1_011",
+      "name": "Kvass (0.5L bottle, Ochakovo, supermarket)",
+      "emoji": "🟤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 1.5,
+        "2000": 6.0,
+        "2005": 12.0,
+        "2010": 22.0,
+        "2015": 35.0,
+        "2020": 55.0,
+        "2025": 80.0
+      },
+      "fact": "Kvass is a fermented bread drink with less than 1.2% alcohol and has been Russia's everyday beverage since the 10th century. In Soviet times it was dispensed from yellow barrel trucks on street corners, a sight still nostalgically recreated at summer festivals."
+    },
+    {
+      "id": "ru_t1_012",
+      "name": "Match (box of 40, Berezka brand)",
+      "emoji": "🔥",
+      "category": "Home",
+      "tier": 1,
+      "prices": {
+        "1990": 0.02,
+        "1995": 0.5,
+        "2000": 1.5,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 8.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Russia is the world's largest producer of matches and Kaluga, home to Berezka, has manufactured them since 1848. In 1943 the German advance was halted partly because Soviet troops set forests alight using millions of matches, making them a documented military supply item."
+    },
+    {
+      "id": "ru_t1_013",
+      "name": "Mayonnaise (200g, Provansalsky brand)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 18.0,
+        "2010": 35.0,
+        "2015": 55.0,
+        "2020": 75.0,
+        "2025": 110.0
+      },
+      "fact": "Russia consumes more mayonnaise per capita than any country in the world, using it in soups, salads and as a cooking ingredient. Soviet chefs discovered that mayonnaise could substitute for butter, cream and oil simultaneously, making it the Swiss Army knife of Soviet cuisine."
+    },
+    {
+      "id": "ru_t1_014",
+      "name": "Milk (1L, whole, Domik v Derevne, supermarket)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 2.5,
+        "2000": 8.0,
+        "2005": 18.0,
+        "2010": 35.0,
+        "2015": 55.0,
+        "2020": 70.0,
+        "2025": 100.0
+      },
+      "fact": "Russia was self-sufficient in dairy before 1991. After Soviet collective farms collapsed, milk imports surged and only recovered after 2014 counter-sanctions forced domestic dairy investment. Russia is now self-sufficient again after 30 years of dependence."
+    },
+    {
+      "id": "ru_t1_015",
+      "name": "Litre of Vodka (Stolichnaya, supermarket)",
+      "emoji": "🍶",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 60.0,
+        "2005": 90.0,
+        "2010": 150.0,
+        "2015": 250.0,
+        "2020": 350.0,
+        "2025": 500.0
+      },
+      "fact": "Russia set a minimum vodka price in 2012 to combat cheap counterfeit spirits that were killing thousands. The minimum price rose from ₽89 to ₽299 by 2025, the most regulated consumer goods price in post-Soviet Russia."
+    },
+    {
+      "id": "ru_t1_016",
+      "name": "Smetana (sour cream, 3x200g, Prostokvashino)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.15,
+        "1995": 2.0,
+        "2000": 8.0,
+        "2005": 18.0,
+        "2010": 35.0,
+        "2015": 55.0,
+        "2020": 75.0,
+        "2025": 300.0
+      },
+      "fact": "Smetana is Russia's most versatile dairy product used on borscht, blini, pelmeni and as a dessert with sugar. Russian kitchens through six centuries always had smetana in the icebox, and its absence from a table is a social signal of poverty."
+    },
+    {
+      "id": "ru_t1_017",
+      "name": "Semechki (sunflower seeds, 200g, prorascheniye)",
+      "emoji": "🌻",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.8,
+        "2000": 4.0,
+        "2005": 8.0,
+        "2010": 15.0,
+        "2015": 22.0,
+        "2020": 35.0,
+        "2025": 60.0
+      },
+      "fact": "Russians crack sunflower seeds in public so compulsively that spitting shells on the ground was a separate traffic fine category in Soviet cities. Russia is the world's largest sunflower oil producer and semechki are the national snack by consumption volume."
+    },
+    {
+      "id": "ru_t1_018",
+      "name": "Stamp (domestic letter, Pochta Rossii)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.5,
+        "2000": 2.0,
+        "2005": 5.0,
+        "2010": 10.0,
+        "2015": 18.0,
+        "2020": 25.0,
+        "2025": 42.0
+      },
+      "fact": "Pochta Rossii serves 156,000 post offices including in remote Siberian villages reachable only by helicopter. It is Russia's largest employer outside the state bureaucracy and its delivery times in remote areas can exceed 6 months."
+    },
+    {
+      "id": "ru_t1_019",
+      "name": "Baton (white wheat loaf, 400g, supermarket)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.15,
+        "1995": 2.5,
+        "2000": 7.0,
+        "2005": 13.0,
+        "2010": 25.0,
+        "2015": 38.0,
+        "2020": 55.0,
+        "2025": 85.0
+      },
+      "fact": "The Narodniy baton loaf has been Russia's standard white bread since 1936 and its recipe is government-mandated to this day. Over 40 Soviet-era bakeries still produce the identical recipe for an unchanged shape that Russians recognise at a glance."
+    },
+    {
+      "id": "ru_t1_020",
+      "name": "Banana (single, supermarket, import)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 2.0,
+        "2000": 5.0,
+        "2005": 8.0,
+        "2010": 12.0,
+        "2015": 20.0,
+        "2020": 25.0,
+        "2025": 35.0
+      },
+      "fact": "Bananas were so rare in Soviet Russia that receiving one was a memorable childhood event. They appeared in limited quantities after the 1980 Moscow Olympics through Cuban trade deals and Russians who got one often shared it among the entire family."
+    },
+    {
+      "id": "ru_t1_021",
+      "name": "Butylochnaya Voda (bottled water, 0.5L, Aqua Minerale)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 1.5,
+        "2000": 5.0,
+        "2005": 10.0,
+        "2010": 18.0,
+        "2015": 30.0,
+        "2020": 40.0,
+        "2025": 60.0
+      },
+      "fact": "Bottled water did not exist as a consumer product in the Soviet Union. Aqua Minerale launched in Russia in 1995 as PepsiCo's first Russian consumer brand and within 5 years made bottled water a daily purchase for urban Russians."
+    },
+    {
+      "id": "ru_t1_022",
+      "name": "Chai (black tea, Lipton 100 bags, supermarket)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0.3,
+        "1995": 4.0,
+        "2000": 12.0,
+        "2005": 22.0,
+        "2010": 40.0,
+        "2015": 65.0,
+        "2020": 90.0,
+        "2025": 250.0
+      },
+      "fact": "Russia consumes more tea per capita than any country except Turkey and Ireland. Russian tea drinking uses the samovar, a heated urn that keeps water at near-boiling for hours, symbolising the hospitality of an always-ready home."
+    },
+    {
+      "id": "ru_t1_023",
+      "name": "Garlic (single bulb, local, market)",
+      "emoji": "🧄",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 1.0,
+        "2000": 4.0,
+        "2005": 8.0,
+        "2010": 15.0,
+        "2015": 25.0,
+        "2020": 35.0,
+        "2025": 50.0
+      },
+      "fact": "Russia banned Chinese garlic imports in 2023 after discovering that 90% of supermarket garlic was from China despite Russia being a significant garlic producer. Russian agronomists are now developing new varieties to achieve the domestic food security target of 80% self-sufficiency."
+    },
+    {
+      "id": "ru_t1_024",
+      "name": "Sigarety (cigarettes, Marlboro, 3-pack of 20)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0.25,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 12.0,
+        "2010": 25.0,
+        "2015": 60.0,
+        "2020": 90.0,
+        "2025": 350.0
+      },
+      "fact": "Belomorkanal papirosy cigarettes are hollow tubes of tobacco held by a cardboard tip and have been Russia's cheapest cigarette since 1932. Soviet soldiers smoked them on the Eastern Front by the million and they remain unchanged in design and tobacco blend."
+    },
+    {
+      "id": "ru_t1_025",
+      "name": "Drozhzhi (yeast packet, dry, for baking)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.8,
+        "2000": 3.0,
+        "2005": 6.0,
+        "2010": 10.0,
+        "2015": 15.0,
+        "2020": 25.0,
+        "2025": 40.0
+      },
+      "fact": "Home bread-baking surged 300% in Russia in 2022 as Western food brands left and Russians rediscovered Soviet-era recipes. Yeast sold out nationally in March 2022 for the first time since the 1991 Soviet collapse, creating an unplanned echo of history."
+    },
+    {
+      "id": "ru_t2_001",
+      "name": "Pelmeni (frozen, 400g pack, Tsarskiye brand)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 8.0,
+        "2000": 30.0,
+        "2005": 60.0,
+        "2010": 100.0,
+        "2015": 160.0,
+        "2020": 220.0,
+        "2025": 380.0
+      },
+      "fact": "Pelmeni are Russia's national dumpling, filled with minced meat and eaten with smetana. Siberian hunters traditionally froze hundreds of them outside in winter and carried them as portable provisions on long expeditions."
+    },
+    {
+      "id": "ru_t2_002",
+      "name": "Shashlik (kebab, 200g, restaurant)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 8.0,
+        "2000": 40.0,
+        "2005": 80.0,
+        "2010": 150.0,
+        "2015": 250.0,
+        "2020": 320.0,
+        "2025": 500.0
+      },
+      "fact": "Shashlik is the quintessential Russian outdoor activity food and grilling it on a dacha weekend is a national ritual. The word comes from Turkic languages and the dish was adopted by Russians during the Caucasus campaigns of the 19th century."
+    },
+    {
+      "id": "ru_t2_003",
+      "name": "Bilet v Kino (cinema ticket, standard 2D, Kinomax)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 5.0,
+        "2000": 40.0,
+        "2005": 100.0,
+        "2010": 200.0,
+        "2015": 300.0,
+        "2020": 350.0,
+        "2025": 500.0
+      },
+      "fact": "Russian cinema attendance collapsed 50% after Hollywood studios left in 2022. Domestic films quickly filled the gap and Russian box office records were broken by domestic productions in 2023, the first time since the 1980s that Soviet-era film dominance returned."
+    },
+    {
+      "id": "ru_t2_004",
+      "name": "Borscht (full portion, stolovaya canteen)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.2,
+        "1995": 3.0,
+        "2000": 20.0,
+        "2005": 40.0,
+        "2010": 80.0,
+        "2015": 120.0,
+        "2020": 180.0,
+        "2025": 280.0
+      },
+      "fact": "Russia and Ukraine both claim borscht as their national dish, and UNESCO's 2022 inscription of Ukrainian borscht as Intangible Cultural Heritage was specifically noted as a wartime preservation measure. Russian chefs responded by registering a competing borscht tradition."
+    },
+    {
+      "id": "ru_t2_005",
+      "name": "Strizhka (men's haircut, standard)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0.3,
+        "1995": 5.0,
+        "2000": 50.0,
+        "2005": 100.0,
+        "2010": 200.0,
+        "2015": 350.0,
+        "2020": 500.0,
+        "2025": 10000.0
+      },
+      "fact": "Soviet barbershops were state-owned and charged a fixed 30 kopeks, unchanged for decades. Post-Soviet price liberalisation resulted in the most dramatic single service price increase in Russian consumer history, as state barbers immediately charged market rates."
+    },
+    {
+      "id": "ru_t2_006",
+      "name": "Podpiska Netflix (monthly, standard, Russia, pre-block)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 550.0,
+        "2020": 599.0,
+        "2025": 299.0
+      },
+      "fact": "Netflix suspended its Russian service in March 2022 but millions of Russians continue accessing it via VPN. Russia had the world's highest VPN adoption rate in 2022 at 22% of internet users and the number grew to 28% by 2025 as more Western services were blocked."
+    },
+    {
+      "id": "ru_t2_007",
+      "name": "Abonement Spotify (monthly, standard, via VPN)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 169.0,
+        "2020": 169.0,
+        "2025": 299.0
+      },
+      "fact": "Spotify left Russia in April 2022, the same week Netflix suspended service. Russians shifted to VKontakte Music and Yandex Music, which offer comparable catalogues. Yandex Music now has more Russian subscribers than Spotify ever did."
+    },
+    {
+      "id": "ru_t2_008",
+      "name": "Pivo (beer, 6-pack Baltika 3, supermarket)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 5.0,
+        "2000": 15.0,
+        "2005": 30.0,
+        "2010": 50.0,
+        "2015": 70.0,
+        "2020": 90.0,
+        "2025": 250.0
+      },
+      "fact": "Russia banned street drinking of beer in 2012, ending a post-Soviet era when beer was consumed openly in parks, metro stations and pedestrian zones. Beer consumption fell 40% over the following decade, partly attributable to the street ban."
+    },
+    {
+      "id": "ru_t2_009",
+      "name": "McDonald's Analogue (Vkusno i Tochka, Bol'shoy Burger)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 5.0,
+        "2000": 30.0,
+        "2005": 60.0,
+        "2010": 100.0,
+        "2015": 150.0,
+        "2020": 180.0,
+        "2025": 280.0
+      },
+      "fact": "McDonald's opened its first Russian restaurant in Moscow in 1990, with 30,000 customers queuing on day one. After the 2022 Ukraine invasion it sold to a Russian franchisee who rebranded it Vkusno i Tochka, meaning Tasty and That's It."
+    },
+    {
+      "id": "ru_t2_010",
+      "name": "Proezd (bus or tram, single fare, regional city)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.03,
+        "1995": 0.6,
+        "2000": 4.0,
+        "2005": 8.0,
+        "2010": 13.0,
+        "2015": 22.0,
+        "2020": 28.0,
+        "2025": 35.0
+      },
+      "fact": "Regional city bus fares in Russia are among Europe's cheapest and are regulated by local governments who absorb losses for social reasons. Moscow bus fares are subsidised by oil revenues, effectively transferring hydrocarbon wealth directly to urban commuters."
+    },
+    {
+      "id": "ru_t2_011",
+      "name": "Khachapuri (Georgian cheese bread, cafe)",
+      "emoji": "🥙",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 8.0,
+        "2000": 50.0,
+        "2005": 90.0,
+        "2010": 160.0,
+        "2015": 250.0,
+        "2020": 320.0,
+        "2025": 500.0
+      },
+      "fact": "Georgian cuisine is the most popular foreign food in Russia and khachapuri was listed as a separate inflation indicator by the Bank of Georgia. Tbilisi Economics University issues a Khachapuri Index quarterly tracking the cost of its ingredients as an alternative CPI."
+    },
+    {
+      "id": "ru_t2_012",
+      "name": "Shkolnaya Stolovaya (school canteen lunch, full meal)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.2,
+        "1995": 2.0,
+        "2000": 15.0,
+        "2005": 30.0,
+        "2010": 55.0,
+        "2015": 80.0,
+        "2020": 100.0,
+        "2025": 200.0
+      },
+      "fact": "Soviet school canteens provided heavily subsidised hot meals three times daily and the nutrition standards were set by the same Ministry of Health that governed hospital diets. Post-Soviet Russia retained subsidised school meals but quality fell sharply through the 1990s."
+    },
+    {
+      "id": "ru_t2_013",
+      "name": "Apteka (pharmacy, Nurofen, 12 tablets)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 5.0,
+        "2000": 40.0,
+        "2005": 80.0,
+        "2010": 130.0,
+        "2015": 200.0,
+        "2020": 250.0,
+        "2025": 350.0
+      },
+      "fact": "After Western pharmaceutical companies left Russia in 2022, domestically produced analogues appeared within months. Russian authorities declared their own generic ibuprofen equivalent to Nurofen and mandated pharmacies stock it at a 40% lower price."
+    },
+    {
+      "id": "ru_t2_014",
+      "name": "Zoloto (chocolate bar, Alyonka, 100g, Krasniy Oktyabr)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 5.0,
+        "2000": 25.0,
+        "2005": 45.0,
+        "2010": 80.0,
+        "2015": 120.0,
+        "2020": 160.0,
+        "2025": 250.0
+      },
+      "fact": "Alyonka chocolate was created in 1965 and the girl on the wrapper is one of Russia's most recognised brand images. The Krasniy Oktyabr factory in Moscow, founded 1851, survived nationalisation, two world wars, Soviet planning and privatisation to remain Russia's premium chocolate brand."
+    },
+    {
+      "id": "ru_t2_015",
+      "name": "Plata Za Internet (monthly home broadband, avg)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200.0,
+        "2005": 300.0,
+        "2010": 350.0,
+        "2015": 450.0,
+        "2020": 500.0,
+        "2025": 600.0
+      },
+      "fact": "Russia has some of the world's cheapest home broadband at ₽600 per month for 100Mbps, reflecting state investment in infrastructure. After 2022 Russia began developing a sovereign internet called Runet capable of operating if disconnected from global networks."
+    },
+    {
+      "id": "ru_t2_016",
+      "name": "Marsh Rutet (commuter train, elektrichka, 50km)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0.1,
+        "1995": 2.0,
+        "2000": 15.0,
+        "2005": 30.0,
+        "2010": 70.0,
+        "2015": 120.0,
+        "2020": 160.0,
+        "2025": 250.0
+      },
+      "fact": "The elektrichka commuter train system dates to 1926 and connects Moscow to its 600km dacha zone. In the 1990s millions of pensioners sold goods on the trains to survive, turning Russia's railway network into a mobile bazaar that journalists called the most honest mirror of the economy."
+    },
+    {
+      "id": "ru_t2_017",
+      "name": "Stolovaya Lunch (workers' canteen, full meal)",
+      "emoji": "🥗",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 0.5,
+        "1995": 6.0,
+        "2000": 50.0,
+        "2005": 100.0,
+        "2010": 200.0,
+        "2015": 300.0,
+        "2020": 400.0,
+        "2025": 5000.0
+      },
+      "fact": "Soviet stolovaya canteens fed 330 million citizens daily and their plastic trays, aluminium cutlery and compote drink are encoded in the memory of every Russian over 40. Hipster revivals of stolovaya aesthetics became a café trend in Moscow from 2014 onward."
+    },
+    {
+      "id": "ru_t2_018",
+      "name": "Sbornik Klasiki (classical book, Pushkin, standard edition)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 10.0,
+        "2000": 60.0,
+        "2005": 120.0,
+        "2010": 220.0,
+        "2015": 350.0,
+        "2020": 450.0,
+        "2025": 650.0
+      },
+      "fact": "The Soviet Union printed more books per capita than any country in history and paper book reading was the primary leisure activity of educated Soviets. Russia still has one of the world's highest literacy rates and the strongest book-reading culture among adults of any major economy."
+    },
+    {
+      "id": "ru_t2_019",
+      "name": "Benzin AI-95 (premium petrol, 1 litre)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.15,
+        "1995": 2.0,
+        "2000": 8.0,
+        "2005": 17.0,
+        "2010": 27.0,
+        "2015": 40.0,
+        "2020": 50.0,
+        "2025": 65.0
+      },
+      "fact": "Despite Russia being the world's second-largest oil producer, domestic petrol prices are regulated to prevent profiteering. In 2023 Russia temporarily banned petrol exports to keep domestic prices stable during a period of global price spikes."
+    },
+    {
+      "id": "ru_t2_020",
+      "name": "Abonement Fitnes (monthly, standard gym)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 10.0,
+        "2000": 100.0,
+        "2005": 300.0,
+        "2010": 600.0,
+        "2015": 1200.0,
+        "2020": 1800.0,
+        "2025": 3000.0
+      },
+      "fact": "Fitness clubs emerged in Russia only after 1991 when the Soviet sports infrastructure privatised. World Class and Alexander Fitness are Russia's largest chains and their memberships cost more than a month's rent in many regional cities."
+    },
+    {
+      "id": "ru_t2_021",
+      "name": "Kvas (kvass, large cup from street barrel, 0.5L)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 1.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 30.0,
+        "2015": 50.0,
+        "2020": 70.0,
+        "2025": 100.0
+      },
+      "fact": "Street kvass from yellow barrel trucks was a Soviet institution from the 1930s until the 1990s. Oktyabrskiye Brewery revived barrel kvass trucks in Moscow in 2008 as a nostalgia project and they became unexpectedly popular with both pensioners and millennials."
+    },
+    {
+      "id": "ru_t2_022",
+      "name": "Marlboro Cigarettes (pack of 20, licensed Russian production)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 8.0,
+        "2000": 25.0,
+        "2005": 40.0,
+        "2010": 70.0,
+        "2015": 120.0,
+        "2020": 180.0,
+        "2025": 280.0
+      },
+      "fact": "Philip Morris manufactured Marlboro in Russia from 1993 at the Leningrad Tobacco Factory. After the 2022 invasion it publicly announced withdrawal but its Russian-licensed factory quietly continued production under a local brand name, an arrangement investigated by European regulators."
+    },
+    {
+      "id": "ru_t2_023",
+      "name": "Taksi (Yandex Go, 5km, city centre)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 8.0,
+        "2000": 60.0,
+        "2005": 100.0,
+        "2010": 150.0,
+        "2015": 200.0,
+        "2020": 280.0,
+        "2025": 400.0
+      },
+      "fact": "Yandex Go became Russia's dominant ride-hailing app after Uber sold its Russian operations to Yandex in 2018. Yandex also operates food delivery, grocery, and cloud services making it Russia's most complete tech ecosystem, often called Russia's everything app."
+    },
+    {
+      "id": "ru_t2_024",
+      "name": "SIM Karta (prepaid, MTS or Beeline, activation)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 100.0,
+        "2005": 50.0,
+        "2010": 30.0,
+        "2015": 20.0,
+        "2020": 20.0,
+        "2025": 20.0
+      },
+      "fact": "Russia requires passport registration for all SIM cards, a system introduced in 2018. MTS, Beeline and MegaFon are Russia's big three carriers and compete aggressively with unlimited data plans from ₽200 per month, some of the cheapest mobile data in Europe."
+    },
+    {
+      "id": "ru_t2_025",
+      "name": "Mороженое (ice cream, Plombir, 100g, supermarket)",
+      "emoji": "🍦",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 3.0,
+        "2000": 10.0,
+        "2005": 18.0,
+        "2010": 28.0,
+        "2015": 40.0,
+        "2020": 55.0,
+        "2025": 90.0
+      },
+      "fact": "Soviet Plombir ice cream was prized for its 15% fat content at a time when Western brands used vegetable fat. Putin referenced Soviet Plombir in a 2014 interview as the taste of childhood, and the nostalgia remark triggered a 40% sales spike."
+    },
+    {
+      "id": "ru_t3_001",
+      "name": "Bilet v teatr (Bolshoi Theatre, standard balcony)",
+      "emoji": "🎭",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 3.0,
+        "1995": 30.0,
+        "2000": 200.0,
+        "2005": 600.0,
+        "2010": 2000.0,
+        "2015": 5000.0,
+        "2020": 6000.0,
+        "2025": 10000.0
+      },
+      "fact": "The Bolshoi Theatre was founded in 1776 and its interior restored in a R$35 billion renovation completed in 2011. A standard balcony ticket costs more in nominal roubles than the entire monthly wage of a Soviet engineer."
+    },
+    {
+      "id": "ru_t3_002",
+      "name": "Zheleznodorozhny bilet (train, Moscow to St Pete, Sapsan)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 5.0,
+        "1995": 50.0,
+        "2000": 250.0,
+        "2005": 500.0,
+        "2010": 2000.0,
+        "2015": 2800.0,
+        "2020": 3000.0,
+        "2025": 4500.0
+      },
+      "fact": "The Sapsan high-speed train covers Moscow to St Petersburg in 3.5 hours and is operated by RZhD on a Siemens platform. Russia ordered no replacement Sapsan trains after 2022 when Siemens terminated the contract, meaning Russia is running its only high-speed fleet toward obsolescence."
+    },
+    {
+      "id": "ru_t3_003",
+      "name": "Smartfon (Xiaomi Redmi 12, entry 5G equiv.)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 5000.0,
+        "2010": 5000.0,
+        "2015": 6000.0,
+        "2020": 8000.0,
+        "2025": 12000.0
+      },
+      "fact": "Xiaomi became Russia's dominant smartphone brand after Samsung and Apple left or restricted sales in 2022. Chinese brands collectively grew from 30% to 65% of Russia's smartphone market in two years, one of the fastest brand shifts in consumer electronics history."
+    },
+    {
+      "id": "ru_t3_004",
+      "name": "Aviabiyet (plane ticket, Moscow to Sochi, economy)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 10.0,
+        "1995": 100.0,
+        "2000": 1500.0,
+        "2005": 3000.0,
+        "2010": 5000.0,
+        "2015": 6000.0,
+        "2020": 4000.0,
+        "2025": 8000.0
+      },
+      "fact": "Moscow to Sochi is Russia's busiest domestic air route after foreign travel became difficult post-2022. Aeroflot and S7 dominate with Soviet-era route monopolies and Russia's domestic airspace is so vast that the country operates the world's second-most domestic flights after the US."
+    },
+    {
+      "id": "ru_t3_005",
+      "name": "Noutbuk (laptop, Huawei MateBook D15, Russia)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 30000.0,
+        "2005": 25000.0,
+        "2010": 20000.0,
+        "2015": 35000.0,
+        "2020": 40000.0,
+        "2025": 55000.0
+      },
+      "fact": "Laptop prices in Russia rose 60% after the 2022 sanctions because parallel import channels through Turkey, Kazakhstan and UAE add 30% logistics costs. Huawei laptops became a preferred alternative to Apple and Dell after Western brands left."
+    },
+    {
+      "id": "ru_t3_006",
+      "name": "Remont Kvartiry (apartment renovation, 1-room, per sqm labour)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 5.0,
+        "1995": 50.0,
+        "2000": 400.0,
+        "2005": 1500.0,
+        "2010": 3000.0,
+        "2015": 4500.0,
+        "2020": 5000.0,
+        "2025": 8000.0
+      },
+      "fact": "Apartment renovation is a national obsession in Russia, driven by the need to convert Soviet-era concrete flats into modern living spaces. The remont industry generates ₽2 trillion annually with an average 3 renovations per apartment per decade."
+    },
+    {
+      "id": "ru_t3_007",
+      "name": "Avtomobil (Lada Granta, new, base)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 6000.0,
+        "1995": 25000.0,
+        "2000": 80000.0,
+        "2005": 180000.0,
+        "2010": 250000.0,
+        "2015": 400000.0,
+        "2020": 550000.0,
+        "2025": 800000.0
+      },
+      "fact": "Lada is Russia's only surviving domestic car brand and became the default purchase after Western cars disappeared post-2022. The Granta's price nearly tripled in 5 years as Russia ran out of imported components and scrambled to source Chinese alternatives."
+    },
+    {
+      "id": "ru_t3_008",
+      "name": "Zoloto (gold, 1 gram, Sberbank bullion coin)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 70.0,
+        "2000": 280.0,
+        "2005": 550.0,
+        "2010": 1300.0,
+        "2015": 2300.0,
+        "2020": 3900.0,
+        "2025": 9000.0
+      },
+      "fact": "Russia abolished VAT on physical gold purchases in 2022 specifically to encourage citizens to buy bullion as a ruble hedge. Gold sales through Sberbank rose 500% in 2022 as Russians sought the only asset legally available after Western financial markets closed."
+    },
+    {
+      "id": "ru_t3_009",
+      "name": "Kvartira Arenda (1-room apartment, monthly rent, Moscow)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 10.0,
+        "1995": 200.0,
+        "2000": 5000.0,
+        "2005": 15000.0,
+        "2010": 25000.0,
+        "2015": 35000.0,
+        "2020": 40000.0,
+        "2025": 70000.0
+      },
+      "fact": "Moscow apartment rents fell 30% when hundreds of thousands of professionals emigrated after February 2022. Rents partially recovered as tech workers from other parts of Russia relocated to Moscow, but the emigration wave permanently altered the city's rental market."
+    },
+    {
+      "id": "ru_t3_010",
+      "name": "Meditsinskaya Strakhovka (annual private health insurance, basic)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 100.0,
+        "2000": 2000.0,
+        "2005": 5000.0,
+        "2010": 10000.0,
+        "2015": 18000.0,
+        "2020": 25000.0,
+        "2025": 40000.0
+      },
+      "fact": "Russia has a free public healthcare system (OMS) for all citizens but private insurance is purchased by 20 million Russians for faster access. After 2022 many Western insurers with Russian operations restructured, pushing premiums up 30% in one year."
+    },
+    {
+      "id": "ru_t3_011",
+      "name": "iPhone 15 (128GB, grey import, Moscow)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 30000.0,
+        "2015": 50000.0,
+        "2020": 70000.0,
+        "2025": 90000.0
+      },
+      "fact": "Apple suspended direct sales in Russia in 2022 but iPhones remain available through parallel import channels, primarily through Turkey and Kazakhstan. The grey market adds a 20-30% premium and Russia is now one of the largest informal iPhone markets in the world."
+    },
+    {
+      "id": "ru_t3_012",
+      "name": "Otdykh v Turcii (holiday, Turkey, 7 nights per person, all-inclusive)",
+      "emoji": "🏖️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 1000.0,
+        "2000": 10000.0,
+        "2005": 20000.0,
+        "2010": 30000.0,
+        "2015": 50000.0,
+        "2020": 40000.0,
+        "2025": 80000.0
+      },
+      "fact": "Turkey is by far the most popular foreign holiday destination for Russians with 7 million visits in 2023. After Western destinations became inaccessible, Russians pivoted entirely to Turkey, UAE and Southeast Asia, making Russian tourism the primary driver of Turkey's coastal resort economy."
+    },
+    {
+      "id": "ru_t3_013",
+      "name": "Avtostrakhovka (annual car insurance, KASKO comprehensive)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 5000.0,
+        "2005": 15000.0,
+        "2010": 25000.0,
+        "2015": 35000.0,
+        "2020": 50000.0,
+        "2025": 80000.0
+      },
+      "fact": "Russian car insurance premiums tripled between 2021 and 2024 because spare parts for foreign cars doubled in price after sanctions. Cars with pre-2022 electronic components are now uneconomic to repair after accidents, creating a write-off epidemic that insurers absorbed."
+    },
+    {
+      "id": "ru_t3_014",
+      "name": "Dacha (weekend house, Moscow region, basic, purchase)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 20000.0,
+        "2000": 100000.0,
+        "2005": 400000.0,
+        "2010": 1000000.0,
+        "2015": 2000000.0,
+        "2020": 2500000.0,
+        "2025": 5000000.0
+      },
+      "fact": "Russia has 30 million dacha plots where city dwellers grow vegetables and spend summers. The dacha tradition dating from Tsarist nobility was institutionalised by Stalin as allotments for Soviet workers and became the primary food security mechanism during the 1990s crisis."
+    },
+    {
+      "id": "ru_t3_015",
+      "name": "Planshet (tablet, cheap Android, 10-inch, Russia)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 15000.0,
+        "2015": 20000.0,
+        "2020": 25000.0,
+        "2025": 1800.0
+      },
+      "fact": "Budget Android tablets from Chinese brands filled the gap after iPad sales collapsed in Russia in 2022. Walmart-equivalent tablets priced at ₽1,800 became the primary device for Russian schoolchildren whose parents could not afford iPads."
+    },
+    {
+      "id": "ru_t3_016",
+      "name": "Kontsert (concert ticket, regional Russian act, standing)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 30.0,
+        "2000": 300.0,
+        "2005": 1000.0,
+        "2010": 2000.0,
+        "2015": 3500.0,
+        "2020": 3000.0,
+        "2025": 1500.0
+      },
+      "fact": "Regional concert tickets in Russia cost ₽500-1500 versus ₽6000 for Moscow arena shows. Russian popular music industry consolidated in Moscow after 2022 as domestic artists filled the void left by cancelled Western tours."
+    },
+    {
+      "id": "ru_t3_017",
+      "name": "Mashina B/U (used Toyota Camry, 2018, good condition)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 10000.0,
+        "2000": 100000.0,
+        "2005": 500000.0,
+        "2010": 800000.0,
+        "2015": 1200000.0,
+        "2020": 1500000.0,
+        "2025": 3000000.0
+      },
+      "fact": "Used Toyota Camry prices doubled in Russia between 2022 and 2024 because new Toyota imports stopped. The Camry was the most-stolen car in Russia in 2023 specifically because its parts commanded black market premiums after the import ban."
+    },
+    {
+      "id": "ru_t3_018",
+      "name": "Kosmetika Premium (Dior lipstick, grey import Moscow)",
+      "emoji": "💄",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 200.0,
+        "2000": 1500.0,
+        "2005": 2500.0,
+        "2010": 3500.0,
+        "2015": 5000.0,
+        "2020": 5500.0,
+        "2025": 7000.0
+      },
+      "fact": "Dior, Chanel and LVMH suspended official Russia sales in 2022 but their products remain widely available through grey market importers. Parallel imports surged 400% in Russia's premium cosmetics sector and customs data showed record imports of luxury goods through Georgia and Kazakhstan."
+    },
+    {
+      "id": "ru_t3_019",
+      "name": "Sanatoriy (health resort stay, 7 nights, standard)",
+      "emoji": "♨️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20.0,
+        "1995": 300.0,
+        "2000": 5000.0,
+        "2005": 15000.0,
+        "2010": 30000.0,
+        "2015": 50000.0,
+        "2020": 60000.0,
+        "2025": 100000.0
+      },
+      "fact": "Soviet sanatoria provided free health holiday stays to all workers as part of social insurance. Post-Soviet Russia has 1,800 remaining sanatoria, many in Sochi and the Caucasus, and demand surged after 2022 when foreign holidays became difficult."
+    },
+    {
+      "id": "ru_t3_020",
+      "name": "Gosposhlina (driving theory test fee, Russia)",
+      "emoji": "🚗",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 30.0,
+        "1995": 300.0,
+        "2000": 3000.0,
+        "2005": 8000.0,
+        "2010": 20000.0,
+        "2015": 35000.0,
+        "2020": 45000.0,
+        "2025": 1500.0
+      },
+      "fact": "Russia requires 106 mandatory training hours for a driving licence, the highest in Europe. The state fee for the theory exam is ₽1,500 but the full driving school course costs ₽70,000, making it one of the most expensive driving licences in Eastern Europe."
+    },
+    {
+      "id": "ru_t3_021",
+      "name": "Svadebny Buket (wedding bouquet, florist, standard)",
+      "emoji": "💐",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 5.0,
+        "1995": 80.0,
+        "2000": 800.0,
+        "2005": 2000.0,
+        "2010": 4000.0,
+        "2015": 6000.0,
+        "2020": 8000.0,
+        "2025": 15000.0
+      },
+      "fact": "Russia is the world's second-largest cut flower importer after Germany. Most flowers sold in Russia come from the Netherlands and Ecuador. After 2022 logistics disruptions pushed flower prices up 40%, and the wedding bouquet became an unexpected inflation indicator."
+    },
+    {
+      "id": "ru_t3_022",
+      "name": "Obuchenie v Vuze (annual university fees, state, standard)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 10000.0,
+        "2005": 25000.0,
+        "2010": 60000.0,
+        "2015": 100000.0,
+        "2020": 150000.0,
+        "2025": 250000.0
+      },
+      "fact": "Russian state universities offer 60% of places free based on exam scores and charge fees for remaining places. Moscow State University's paid engineering course costs ₽250,000 per year, less than 3 months of a London equivalent and a fraction of US tuition."
+    },
+    {
+      "id": "ru_t3_023",
+      "name": "Gostinitsa (hotel, 3-star, St Petersburg, per night)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 10.0,
+        "1995": 100.0,
+        "2000": 800.0,
+        "2005": 2500.0,
+        "2010": 4000.0,
+        "2015": 5000.0,
+        "2020": 4500.0,
+        "2025": 7000.0
+      },
+      "fact": "St Petersburg's hotel sector was transformed by the 2018 World Cup into a modern international destination. After 2022 foreign tourist numbers fell 80% but domestic tourism surged as Russians, unable to travel abroad, discovered their own country's heritage cities."
+    },
+    {
+      "id": "ru_t3_024",
+      "name": "Domashniy Kinoteatr (home cinema set, Samsung 65-inch TV)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 1000.0,
+        "2000": 15000.0,
+        "2005": 30000.0,
+        "2010": 40000.0,
+        "2015": 50000.0,
+        "2020": 55000.0,
+        "2025": 80000.0
+      },
+      "fact": "Samsung, LG and Sony halted official Russia sales in 2022 but their TVs remain available via parallel imports. The grey market adds 15-20% to prices and carries no warranty. Chinese brands Haier and TCL gained 30% Russian TV market share in 18 months."
+    },
+    {
+      "id": "ru_t3_025",
+      "name": "Avtomobil Novy (new Haval Jolion, Chinese import, Russia)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1200000.0,
+        "2025": 2000000.0
+      },
+      "fact": "Chinese car brand Haval became Russia's top-selling foreign brand in 2023 after European and Japanese manufacturers left. China now supplies 60% of all new cars sold in Russia, the fastest single-country dominance of any automotive market in history."
+    },
+    {
+      "id": "ru_t4_001",
+      "name": "Zoloto troy unciya (gold, troy ounce, Sberbank, RUB)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 930.0,
+        "1995": 2200.0,
+        "2000": 8600.0,
+        "2005": 17000.0,
+        "2010": 40000.0,
+        "2015": 72000.0,
+        "2020": 123000.0,
+        "2025": 90000.0
+      },
+      "fact": "Gold in rubles rose 300x since 1990 as ruble depreciation amplified USD gold gains. Russia held the world's fifth-largest gold reserves and accelerated purchases after the 2022 dollar reserves freeze, becoming the world's largest single-year gold buyer in 2022."
+    },
+    {
+      "id": "ru_t4_002",
+      "name": "Kvartira Pokupka (2-room apartment, Moscow, avg purchase)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 50000.0,
+        "2000": 700000.0,
+        "2005": 4000000.0,
+        "2010": 6000000.0,
+        "2015": 8000000.0,
+        "2020": 9000000.0,
+        "2025": 14000000.0
+      },
+      "fact": "Moscow apartment prices rose 2,800x from 1990 to 2025 in ruble terms, driven partly by hyperinflation and partly by real estate becoming the dominant middle-class investment vehicle. A Moscow 2-room flat costs more than most European capital equivalents despite lower average wages."
+    },
+    {
+      "id": "ru_t4_003",
+      "name": "Avtomobil Luxury (Mercedes E-Class parallel import, Russia)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 500000.0,
+        "2000": 1500000.0,
+        "2005": 2000000.0,
+        "2010": 2500000.0,
+        "2015": 3500000.0,
+        "2020": 4000000.0,
+        "2025": 8000000.0
+      },
+      "fact": "Mercedes-Benz officially left Russia in 2022 but new E-Class models remain available through parallel import via UAE dealers at a 40% premium. The grey car market generates ₽2 trillion in Russia annually, larger than the official new car market."
+    },
+    {
+      "id": "ru_t4_004",
+      "name": "Chastny Dom (private house, Moscow suburb, basic)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 200000.0,
+        "2000": 2000000.0,
+        "2005": 8000000.0,
+        "2010": 12000000.0,
+        "2015": 15000000.0,
+        "2020": 18000000.0,
+        "2025": 30000000.0
+      },
+      "fact": "Moscow suburban house prices doubled between 2020 and 2025 as remote work, pandemic fears and post-mobilisation anxiety drove demand for space outside the city. The suburban housing market crashed after each geopolitical shock in 2014 and 2022 before recovering to new highs."
+    },
+    {
+      "id": "ru_t4_005",
+      "name": "Kosmos Turizm (space tourism, Roscosmos, per seat)",
+      "emoji": "🚀",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 800000000.0,
+        "2005": 1500000000.0,
+        "2010": 2200000000.0,
+        "2015": 2500000000.0,
+        "2020": 2800000000.0,
+        "2025": 3000000000.0
+      },
+      "fact": "Roscosmos charged NASA USD 90 million per seat for ISS transport between 2011 and 2020, Russia's most profitable single-product export per unit. After SpaceX launched commercial crewed flights in 2020, Russia lost this monopoly and the revenue stream that funded its space programme."
+    },
+    {
+      "id": "ru_t4_006",
+      "name": "Rossiyskiy yakhta (sailing yacht, 10m, new Russian build)",
+      "emoji": "⛵",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 500000.0,
+        "2000": 2000000.0,
+        "2005": 5000000.0,
+        "2010": 8000000.0,
+        "2015": 12000000.0,
+        "2020": 15000000.0,
+        "2025": 25000000.0
+      },
+      "fact": "Russia's luxury yacht market collapsed after 2022 sanctions froze or seized over 50 superyachts belonging to sanctioned oligarchs. Russian yacht builders pivoted to serving domestic demand from non-sanctioned wealthy Russians who could no longer order from European yards."
+    },
+    {
+      "id": "ru_t4_007",
+      "name": "Delovaya Aviatsiya (private jet, Moscow to Dubai, charter)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500000.0,
+        "2000": 2000000.0,
+        "2005": 4000000.0,
+        "2010": 6000000.0,
+        "2015": 8000000.0,
+        "2020": 9000000.0,
+        "2025": 18000000.0
+      },
+      "fact": "Moscow to Dubai became the most-flown private jet route in the world in 2022 as Russian elites relocated assets and families to the UAE. Russian-registered aircraft were banned from EU and US airspace from February 2022, creating demand for UAE-registered charter operators."
+    },
+    {
+      "id": "ru_t4_008",
+      "name": "Svadba Skromnaya (modest wedding, registry + small dinner, avg)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 10000.0,
+        "2000": 100000.0,
+        "2005": 300000.0,
+        "2010": 600000.0,
+        "2015": 900000.0,
+        "2020": 1000000.0,
+        "2025": 90000.0
+      },
+      "fact": "A modest Russian registry wedding with a small dinner costs ₽90,000, while elaborate celebrations reach ₽1.8 million. Russia has a 70% divorce rate per 100 marriages, the highest in Europe, yet the wedding industry grows every year."
+    },
+    {
+      "id": "ru_t4_009",
+      "name": "Novaya Toyota (new Toyota Camry parallel import, Russia)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 300000.0,
+        "2000": 800000.0,
+        "2005": 1200000.0,
+        "2010": 1800000.0,
+        "2015": 2200000.0,
+        "2020": 2500000.0,
+        "2025": 5000000.0
+      },
+      "fact": "Toyota halted official Russia sales in 2022 but new Camrys remain available via parallel import through Kazakhstan and UAE at 2x the pre-war price. Russia is the only major economy where a mid-range sedan costs more than a luxury European car did in the same country five years ago."
+    },
+    {
+      "id": "ru_t4_010",
+      "name": "Kvartira Premium Per Sqm (Moscow City luxury tower, per sqm)",
+      "emoji": "🏢",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50000.0,
+        "2005": 200000.0,
+        "2010": 400000.0,
+        "2015": 500000.0,
+        "2020": 500000.0,
+        "2025": 90000.0
+      },
+      "fact": "Moscow City luxury tower apartments cost ₽900,000 per sqm, the highest in Russia. Prices are tracked in USD by buyers, reflecting a class who think in dollars regardless of what currency they formally hold."
+    },
+    {
+      "id": "ru_t4_011",
+      "name": "Rossiysky Fond (oligarch-linked investment fund, min entry)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000000.0,
+        "2000": 10000000.0,
+        "2005": 50000000.0,
+        "2010": 100000000.0,
+        "2015": 200000000.0,
+        "2020": 300000000.0,
+        "2025": 500000000.0
+      },
+      "fact": "Russia created 130 billionaires between 1991 and 2022, the fastest wealth concentration in any peacetime economy. After 2022 sanctions froze overseas assets, the concentration of wealth inside Russia's closed financial system intensified further."
+    },
+    {
+      "id": "ru_t4_012",
+      "name": "Bolshoy Biznes (Rosneft share block, 1,000 shares at market)",
+      "emoji": "🏭",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 1000.0,
+        "2000": 50000.0,
+        "2005": 400000.0,
+        "2010": 500000.0,
+        "2015": 300000.0,
+        "2020": 350000.0,
+        "2025": 90000.0
+      },
+      "fact": "Rosneft became the world's largest listed oil company by production after absorbing assets from the dismantled Yukos in 2004. Its 1,000-share price history traces Russia's entire post-Soviet arc: oligarch privatisation, oil boom, sanctions pressure and wartime isolation."
+    },
+    {
+      "id": "ru_t4_013",
+      "name": "Kvartira Pentkhaus (penthouse, Moscow Rublyovka area, purchase)",
+      "emoji": "🌟",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500000.0,
+        "2000": 10000000.0,
+        "2005": 50000000.0,
+        "2010": 80000000.0,
+        "2015": 100000000.0,
+        "2020": 100000000.0,
+        "2025": 200000000.0
+      },
+      "fact": "Rublyovka highway estates have been the address of Russia's elite since the Soviet Politburo took country houses there in the 1930s. Post-Soviet oligarchs built adjacent palaces and the area became a byword for extreme wealth that Putin himself has publicly criticised as conspicuous."
+    },
+    {
+      "id": "ru_t4_014",
+      "name": "Chastny Samolyot (private plane, Gulfstream parallel import)",
+      "emoji": "🛩️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200000000.0,
+        "2005": 500000000.0,
+        "2010": 800000000.0,
+        "2015": 1200000000.0,
+        "2020": 1500000000.0,
+        "2025": 3000000000.0
+      },
+      "fact": "Russia had 500 privately registered jets before 2022 sanctions blocked new aircraft deliveries. The EU seized or impounded 26 Russian private jets after the Ukraine invasion. Existing owners kept aircraft but could not legally bring them to Western maintenance facilities."
+    },
+    {
+      "id": "ru_t4_015",
+      "name": "Rossiyskiy Neft (barrel of Urals crude, domestic RUB price)",
+      "emoji": "🛢️",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 500.0,
+        "2000": 1500.0,
+        "2005": 8000.0,
+        "2010": 18000.0,
+        "2015": 15000.0,
+        "2020": 20000.0,
+        "2025": 55000.0
+      },
+      "fact": "Urals crude trades at a discount to Brent after Western sanctions required Russia to redirect oil to Asian buyers. In 2022 the G7 imposed a USD 60 price cap on Russian oil, the first commodity price cap in modern economic history."
+    },
+    {
+      "id": "ru_t4_016",
+      "name": "Sverhrozkosh Avtomobil (Bentley Continental GT, parallel import)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000000.0,
+        "2000": 5000000.0,
+        "2005": 10000000.0,
+        "2010": 15000000.0,
+        "2015": 20000000.0,
+        "2020": 25000000.0,
+        "2025": 50000000.0
+      },
+      "fact": "Bentley officially withdrew from Russia in 2022 but new Continental GTs continue arriving through parallel import dealers in Moscow at 2x official EU prices. Russia was Bentley's 5th-largest market before sanctions and the brand's unofficial Russian market remains its most profitable channel per unit."
+    },
+    {
+      "id": "ru_t4_017",
+      "name": "Biznes Klass Aeroflot (Moscow to Beijing, business class)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 20000.0,
+        "2000": 80000.0,
+        "2005": 120000.0,
+        "2010": 180000.0,
+        "2015": 250000.0,
+        "2020": 200000.0,
+        "2025": 90000.0
+      },
+      "fact": "Aeroflot's Moscow to Beijing route became one of its most important after Western skies closed to Russian aircraft in 2022. Russian airlines are locked out of European and American airspace, meaning intercontinental routes must fly via approved corridors adding 3 to 5 hours to travel times."
+    },
+    {
+      "id": "ru_t4_018",
+      "name": "Elitnoye Zhilyo (luxury apartment, St Petersburg historic centre, per unit)",
+      "emoji": "🏛️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 100000.0,
+        "2000": 2000000.0,
+        "2005": 10000000.0,
+        "2010": 15000000.0,
+        "2015": 20000000.0,
+        "2020": 22000000.0,
+        "2025": 40000000.0
+      },
+      "fact": "St Petersburg's historic centre has more 18th-century palaces per square kilometre than any city except Versailles. Renovation of a historic-centre apartment requires approval from the State Inspectorate for Heritage Protection, a process that takes years and costs more than the renovation itself."
+    },
+    {
+      "id": "ru_t4_019",
+      "name": "Mezhdunarodnaya Shkola (international school, annual, Moscow)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 200000.0,
+        "2000": 500000.0,
+        "2005": 800000.0,
+        "2010": 1200000.0,
+        "2015": 1800000.0,
+        "2020": 2000000.0,
+        "2025": 3500000.0
+      },
+      "fact": "International schools in Moscow contracted dramatically after 2022 as expatriate families evacuated. Anglo-American School of Moscow lost 60% of its students in 90 days. Remaining schools switched to serving Russian elite families whose children now need English education despite sanctions."
+    },
+    {
+      "id": "ru_t4_020",
+      "name": "Neft Skvazhin (oil well, small production, Siberia, total cost)",
+      "emoji": "🛢️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 500000.0,
+        "1995": 5000000.0,
+        "2000": 20000000.0,
+        "2005": 60000000.0,
+        "2010": 100000000.0,
+        "2015": 150000000.0,
+        "2020": 200000000.0,
+        "2025": 400000000.0
+      },
+      "fact": "Russia's oil production costs are higher than Saudi Arabia's but lower than deep-sea drilling. After Western oil services companies Schlumberger and Halliburton left in 2022, Russia's drilling capacity dropped 18% in two years, directly constraining output growth."
+    },
+    {
+      "id": "ru_t4_021",
+      "name": "Rolex Submariner (grey market, Moscow jeweller)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 150000.0,
+        "2000": 400000.0,
+        "2005": 600000.0,
+        "2010": 900000.0,
+        "2015": 1500000.0,
+        "2020": 2000000.0,
+        "2025": 4000000.0
+      },
+      "fact": "Rolex closed its official Russia distribution in 2022 but grey market Rolexes are sold openly in Moscow boutiques at prices 80% above the Geneva retail price in ruble terms. Russian watch enthusiasts call post-sanction prices the ruble tax on luxury."
+    },
+    {
+      "id": "ru_t4_022",
+      "name": "Rossiyskaya Distillyatsiya (premium vodka distillery, small, turnkey)",
+      "emoji": "🏭",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 1000000.0,
+        "2000": 5000000.0,
+        "2005": 15000000.0,
+        "2010": 30000000.0,
+        "2015": 50000000.0,
+        "2020": 70000000.0,
+        "2025": 120000000.0
+      },
+      "fact": "Russia has 200 registered vodka distilleries and the premium vodka market grew 25% after Western spirits brands left in 2022. Beluga, Belenkaya and Zolotaya Moskva replaced Absolut and Grey Goose on Russian restaurant menus, the first domestic vodka dominance since Soviet times."
+    },
+    {
+      "id": "ru_t4_023",
+      "name": "Russkiy Ostrov (private island, Lake Baikal area, purchase)",
+      "emoji": "🏝️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500000.0,
+        "2000": 5000000.0,
+        "2005": 20000000.0,
+        "2010": 50000000.0,
+        "2015": 80000000.0,
+        "2020": 100000000.0,
+        "2025": 200000000.0
+      },
+      "fact": "Lake Baikal holds 20% of the world's unfrozen fresh water and private lakefront property is among Russia's most restricted purchases. After 2022 ultra-wealthy Russians who could no longer buy Monaco apartments or Côte d'Azur estates redirected capital to domestic wilderness retreats."
+    },
+    {
+      "id": "ru_t4_024",
+      "name": "Bolshoy Futbol (Russian Premier League club acquisition)",
+      "emoji": "⚽",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000000.0,
+        "2000": 100000000.0,
+        "2005": 1000000000.0,
+        "2010": 3000000000.0,
+        "2015": 5000000000.0,
+        "2020": 8000000000.0,
+        "2025": 15000000000.0
+      },
+      "fact": "Spartak Moscow was privatised in 1990 in Russia's first sports commercialisation. After 2022 Russian clubs were expelled from UEFA competitions and club values in ruble terms continued rising as domestic oil revenues funded spending on wages, while in global terms values collapsed."
+    },
+    {
+      "id": "ru_t4_025",
+      "name": "Kvantovy Kompyuter (quantum computing contract, Rosatom)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 100000000.0,
+        "2025": 500000000.0
+      },
+      "fact": "Russia launched a national quantum computing programme in 2019 with ₽50 billion in funding. Rosatom, Russia's nuclear agency, became the primary quantum technology developer after Western sanctions blocked access to advanced semiconductor equipment in 2022."
+    }
+  ]
+}

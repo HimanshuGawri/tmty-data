@@ -1,0 +1,1808 @@
+{
+  "country": "JP",
+  "country_name": "Japan",
+  "currency_symbol": "¥",
+  "currency_code": "JPY",
+  "items": [
+    {
+      "id": "jp_t1_001",
+      "name": "Can of Canned Coffee (Boss, vending machine)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 110,
+        "2000": 110,
+        "2005": 110,
+        "2010": 110,
+        "2015": 110,
+        "2020": 120,
+        "2025": 130
+      },
+      "fact": "Japanese vending machine coffee held at ¥110 for over 20 years. Japan has one vending machine for every 23 people, the highest density in the world."
+    },
+    {
+      "id": "jp_t1_002",
+      "name": "Onigiri (konbini, standard filling)",
+      "emoji": "🍙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 110,
+        "2010": 110,
+        "2015": 120,
+        "2020": 130,
+        "2025": 160
+      },
+      "fact": "Japan's 7-Eleven sells over 5 million onigiri daily. It remains one of the cheapest filling snacks in any developed country at ¥160."
+    },
+    {
+      "id": "jp_t1_003",
+      "name": "Postage Stamp (standard letter)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 62,
+        "1995": 80,
+        "2000": 80,
+        "2005": 80,
+        "2010": 80,
+        "2015": 82,
+        "2020": 84,
+        "2025": 110
+      },
+      "fact": "Japan Post raised the stamp price to ¥110 in 2024, its first hike in 30 years. Mail volume has dropped 50% since 2001 as digital messaging replaced letters."
+    },
+    {
+      "id": "jp_t1_004",
+      "name": "Melon Pan (bakery)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 120,
+        "2010": 130,
+        "2015": 140,
+        "2020": 150,
+        "2025": 200
+      },
+      "fact": "Melon pan contains no melon. The name comes from its melon-shaped scored top. It has been a staple of Japanese school canteens since the 1960s."
+    },
+    {
+      "id": "jp_t1_005",
+      "name": "Cup Noodles (Nissin, standard cup)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 150,
+        "2000": 170,
+        "2005": 170,
+        "2010": 170,
+        "2015": 180,
+        "2020": 193,
+        "2025": 235
+      },
+      "fact": "Nissin's Cup Noodles launched in 1971 and the design has barely changed. It became emergency ration food after the 1995 Kobe earthquake, cementing its cultural importance."
+    },
+    {
+      "id": "jp_t1_006",
+      "name": "100 Yen Shop Item (Daiso, standard)",
+      "emoji": "🛍️",
+      "category": "Home",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 100,
+        "2000": 100,
+        "2005": 100,
+        "2010": 100,
+        "2015": 100,
+        "2020": 100,
+        "2025": 110
+      },
+      "fact": "Daiso held its ¥100 price for 30 years before inflation forced a ¥110 increase in 2021. It was Japan's most visible symbol of deflation for three decades."
+    },
+    {
+      "id": "jp_t1_007",
+      "name": "Subway Fare (Tokyo, minimum)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 130,
+        "1995": 150,
+        "2000": 160,
+        "2005": 160,
+        "2010": 160,
+        "2015": 170,
+        "2020": 180,
+        "2025": 200
+      },
+      "fact": "Tokyo's metro is the world's most punctual, averaging delays of under 1 minute. Its minimum fare has barely moved in 30 years despite running 8 million passengers daily."
+    },
+    {
+      "id": "jp_t1_008",
+      "name": "Taiyaki (fish-shaped cake, street stall)",
+      "emoji": "🐟",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 100,
+        "2005": 110,
+        "2010": 120,
+        "2015": 130,
+        "2020": 150,
+        "2025": 180
+      },
+      "fact": "Taiyaki has been sold on Tokyo street corners since 1909. The fish mould shape was chosen because sea bream (tai) was a luxury fish, believed to bring good fortune."
+    },
+    {
+      "id": "jp_t1_009",
+      "name": "Bottle of Green Tea (500ml, vending machine)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 120,
+        "1995": 140,
+        "2000": 150,
+        "2005": 150,
+        "2010": 150,
+        "2015": 150,
+        "2020": 160,
+        "2025": 180
+      },
+      "fact": "Unsweetened bottled green tea is unique to Japan and Western markets still struggle to sell it. Ito En launched the first bottled green tea in 1985 and transformed how Japan consumes its national drink."
+    },
+    {
+      "id": "jp_t1_010",
+      "name": "Pocky (Glico, standard chocolate, box)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 120,
+        "2000": 130,
+        "2005": 140,
+        "2010": 150,
+        "2015": 160,
+        "2020": 170,
+        "2025": 200
+      },
+      "fact": "Pocky launched in 1966 and November 11 is officially 'Pocky Day' in Japan because the date (11/11) looks like four Pocky sticks. It's Glico's best-selling product in over 30 countries."
+    },
+    {
+      "id": "jp_t1_011",
+      "name": "Yakitori Skewer (single, izakaya)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 120,
+        "2010": 130,
+        "2015": 140,
+        "2020": 150,
+        "2025": 200
+      },
+      "fact": "Yakitori carts (yatai) have been part of Tokyo street culture since the Edo period. A single chicken skewer at ¥200 is still one of the best-value hot proteins in any major world city."
+    },
+    {
+      "id": "jp_t1_012",
+      "name": "Ramune Soda (330ml bottle)",
+      "emoji": "🔵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 120,
+        "2000": 130,
+        "2005": 130,
+        "2010": 140,
+        "2015": 150,
+        "2020": 160,
+        "2025": 200
+      },
+      "fact": "Ramune's glass bottle with a marble stopper has been unchanged since 1876. Removing the marble without drinking instructions has stumped tourists for over a century."
+    },
+    {
+      "id": "jp_t1_013",
+      "name": "Newspaper (Yomiuri Shimbun, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 130,
+        "2000": 130,
+        "2005": 130,
+        "2010": 130,
+        "2015": 130,
+        "2020": 130,
+        "2025": 140
+      },
+      "fact": "The Yomiuri Shimbun is the world's highest-circulation newspaper at 7 million daily copies. Japan still has more newspaper readers per capita than almost any other country."
+    },
+    {
+      "id": "jp_t1_014",
+      "name": "Daifuku Mochi (wagashi shop, single)",
+      "emoji": "🍡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 120,
+        "2010": 130,
+        "2015": 140,
+        "2020": 150,
+        "2025": 190
+      },
+      "fact": "Daifuku has been eaten in Japan for over 400 years. The red bean paste inside, anko, is made from azuki beans that are a symbol of celebration and good luck."
+    },
+    {
+      "id": "jp_t1_015",
+      "name": "Can of Asahi Beer (350ml, convenience store)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 215,
+        "2000": 220,
+        "2005": 220,
+        "2010": 220,
+        "2015": 220,
+        "2020": 230,
+        "2025": 260
+      },
+      "fact": "Asahi Super Dry launched in 1987 and within two years overtook Kirin as Japan's best-selling beer. Its 'dry' taste was engineered specifically by taste-testing over 2,000 recipes."
+    },
+    {
+      "id": "jp_t1_016",
+      "name": "Takoyaki (6 pieces, Osaka street stall)",
+      "emoji": "🐙",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 200,
+        "1995": 250,
+        "2000": 280,
+        "2005": 300,
+        "2010": 320,
+        "2015": 350,
+        "2020": 800,
+        "2025": 1000
+      },
+      "fact": "Takoyaki was invented in Osaka in 1935. Osaka residents eat it so often that locals have a saying meaning they go broke buying takoyaki, referencing how affordable food still adds up."
+    },
+    {
+      "id": "jp_t1_017",
+      "name": "Bus Fare (city, single ride, average)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 160,
+        "1995": 180,
+        "2000": 200,
+        "2005": 200,
+        "2010": 210,
+        "2015": 210,
+        "2020": 220,
+        "2025": 240
+      },
+      "fact": "Japanese city buses use an honour-based payment system where passengers pay on exit and are trusted to calculate their fare correctly. Fare evasion is statistically near zero."
+    },
+    {
+      "id": "jp_t1_018",
+      "name": "Calpis Drink (200ml carton, konbini)",
+      "emoji": "🥛",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 110,
+        "2010": 120,
+        "2015": 120,
+        "2020": 130,
+        "2025": 160
+      },
+      "fact": "Calpis is Japan's oldest soft drink brand, launched in 1919. Its name proved difficult to market in English-speaking countries, so it was rebranded 'Calpico' for export."
+    },
+    {
+      "id": "jp_t1_019",
+      "name": "Egg (single, large, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 20,
+        "1995": 22,
+        "2000": 20,
+        "2005": 18,
+        "2010": 20,
+        "2015": 22,
+        "2020": 22,
+        "2025": 35
+      },
+      "fact": "Japan consumes more eggs per capita than almost any nation and eats many raw. A 2023 avian flu outbreak pushed prices up 60%, causing the first major egg shortage since WWII."
+    },
+    {
+      "id": "jp_t1_020",
+      "name": "Chewing Gum (Lotte Xylitol, pack)",
+      "emoji": "🍬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 110,
+        "2000": 120,
+        "2005": 130,
+        "2010": 140,
+        "2015": 145,
+        "2020": 148,
+        "2025": 200
+      },
+      "fact": "Japanese gum maker Lotte partnered with dentists to market Xylitol gum as tooth-protective, turning a snack into a healthcare product and boosting sales tenfold."
+    },
+    {
+      "id": "jp_t1_021",
+      "name": "Edamame (frozen, 200g, supermarket)",
+      "emoji": "🫛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 130,
+        "2000": 150,
+        "2005": 160,
+        "2010": 170,
+        "2015": 178,
+        "2020": 188,
+        "2025": 250
+      },
+      "fact": "Edamame was virtually unknown outside Japan before the 1990s. It is now sold in over 50 countries, and its global export value exceeded ¥10 billion for the first time in 2022."
+    },
+    {
+      "id": "jp_t1_022",
+      "name": "Kit Kat (single bar, konbini)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 120,
+        "2010": 130,
+        "2015": 140,
+        "2020": 150,
+        "2025": 200
+      },
+      "fact": "Japan has produced over 400 Kit Kat flavours including sakura, wasabi and sake. The name sounds like 'kitto katsu' in Japanese, meaning 'you will surely win,' making it a popular exam gift."
+    },
+    {
+      "id": "jp_t1_023",
+      "name": "Coin Locker (train station, small, per day)",
+      "emoji": "🔐",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 200,
+        "1995": 300,
+        "2000": 300,
+        "2005": 300,
+        "2010": 300,
+        "2015": 400,
+        "2020": 400,
+        "2025": 1000
+      },
+      "fact": "Japan has more station coin lockers per square kilometre than any country in the world. Tokyo Station alone has over 1,700 lockers, used daily by commuters storing items mid-journey."
+    },
+    {
+      "id": "jp_t1_024",
+      "name": "Instant Miso Soup Packet (single sachet)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 40,
+        "1995": 50,
+        "2000": 55,
+        "2005": 60,
+        "2010": 65,
+        "2015": 70,
+        "2020": 75,
+        "2025": 90
+      },
+      "fact": "Japanese people drink miso soup at an average of once per day. Marukome and Shinshu launched freeze-dried instant versions in 1965 that retained 95% of the nutritional content of fresh."
+    },
+    {
+      "id": "jp_t1_025",
+      "name": "Banana (single, supermarket)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 50,
+        "1995": 55,
+        "2000": 55,
+        "2005": 55,
+        "2010": 58,
+        "2015": 60,
+        "2020": 65,
+        "2025": 80
+      },
+      "fact": "Japan imports nearly all its bananas from the Philippines. In 1970 a banana was a luxury gift item costing ¥300 equivalent, as imported fruit was a status symbol until trade liberalisation."
+    },
+    {
+      "id": "jp_t2_001",
+      "name": "Ramen (restaurant, standard bowl)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 450,
+        "1995": 550,
+        "2000": 600,
+        "2005": 650,
+        "2010": 700,
+        "2015": 750,
+        "2020": 800,
+        "2025": 1100
+      },
+      "fact": "Tokyo has more Michelin-starred ramen restaurants than any city outside Japan. A bowl that cost ¥450 in 1990 now costs ¥1,100, with top ramen shops charging ¥2,500."
+    },
+    {
+      "id": "jp_t2_002",
+      "name": "Cinema Ticket (standard, Toho/Aeon)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 1700,
+        "2000": 1800,
+        "2005": 1800,
+        "2010": 1800,
+        "2015": 1800,
+        "2020": 1900,
+        "2025": 2000
+      },
+      "fact": "Japan's cinema ticket price barely moved for 30 years. The ¥2,000 ticket price makes Japan one of the most expensive countries in the world to watch a film."
+    },
+    {
+      "id": "jp_t2_003",
+      "name": "Sushi Set (kaiten, 2 plates, standard)",
+      "emoji": "🍣",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 300,
+        "1995": 400,
+        "2000": 440,
+        "2005": 460,
+        "2010": 480,
+        "2015": 500,
+        "2020": 520,
+        "2025": 1400
+      },
+      "fact": "Kaiten (conveyor belt) sushi was invented in Osaka in 1958. Chains like Sushiro serve over 1 billion plates annually, making it Japan's most-visited restaurant format."
+    },
+    {
+      "id": "jp_t2_004",
+      "name": "Paperback Manga Volume (standard, Jump Comics)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 390,
+        "1995": 410,
+        "2000": 420,
+        "2005": 420,
+        "2010": 420,
+        "2015": 432,
+        "2020": 484,
+        "2025": 1100
+      },
+      "fact": "A Jump Comics manga volume held near ¥400 for over 20 years. One Piece has sold over 520 million copies worldwide, making it the best-selling manga and comic series in history."
+    },
+    {
+      "id": "jp_t2_005",
+      "name": "Bento Box (konbini, deluxe)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 400,
+        "1995": 500,
+        "2000": 550,
+        "2005": 550,
+        "2010": 560,
+        "2015": 570,
+        "2020": 600,
+        "2025": 1500
+      },
+      "fact": "Japan's convenience store bento industry is worth over ¥2 trillion annually. Konbini staff undergo 3 months of training specifically on bento presentation and seasonal menu changes."
+    },
+    {
+      "id": "jp_t2_006",
+      "name": "Monthly Suica Pass (Tokyo commuter, avg zone)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 5500,
+        "1995": 6000,
+        "2000": 6500,
+        "2005": 7000,
+        "2010": 7500,
+        "2015": 8000,
+        "2020": 8500,
+        "2025": 10000
+      },
+      "fact": "The Suica IC card launched in 2001 and now handles 20 million transactions daily. Japan's contactless transit card can pay for groceries, vending machines and even taxis."
+    },
+    {
+      "id": "jp_t2_007",
+      "name": "Karaoke (1 hour, per person, standard room)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 500,
+        "1995": 600,
+        "2000": 700,
+        "2005": 750,
+        "2010": 800,
+        "2015": 800,
+        "2020": 700,
+        "2025": 1800
+      },
+      "fact": "Japan invented the karaoke machine in 1971 and the industry generates ¥700 billion annually. Karaoke box rooms were invented because the original karaoke bars made it too embarrassing to sing in front of strangers."
+    },
+    {
+      "id": "jp_t2_008",
+      "name": "Tempura Teishoku (lunch set, standard restaurant)",
+      "emoji": "🍤",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 700,
+        "1995": 850,
+        "2000": 900,
+        "2005": 950,
+        "2010": 1000,
+        "2015": 1050,
+        "2020": 1100,
+        "2025": 1400
+      },
+      "fact": "Tempura was introduced to Japan by Portuguese missionaries in the 16th century. The word comes from the Latin 'tempora,' referring to fasting days when Catholics ate fried vegetables instead of meat."
+    },
+    {
+      "id": "jp_t2_009",
+      "name": "Monthly Spotify Subscription (Japan)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 980,
+        "2020": 980,
+        "2025": 1080
+      },
+      "fact": "Japan was one of Spotify's last major markets to launch in 2016, delayed by music label resistance. Japan has the world's second-largest music market yet physical CDs still outsell streaming."
+    },
+    {
+      "id": "jp_t2_010",
+      "name": "Yoshinoya Gyudon (beef bowl, standard)",
+      "emoji": "🥩",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 400,
+        "1995": 400,
+        "2000": 400,
+        "2005": 380,
+        "2010": 380,
+        "2015": 380,
+        "2020": 426,
+        "2025": 1160
+      },
+      "fact": "Yoshinoya's gyudon held at ¥400 for decades, becoming Japan's symbol of affordable eating. In 2004 a US beef import ban caused a gyudon shortage that generated national news coverage for weeks."
+    },
+    {
+      "id": "jp_t2_011",
+      "name": "Pack of 20 Cigarettes (Mevius standard)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 220,
+        "1995": 250,
+        "2000": 260,
+        "2005": 300,
+        "2010": 440,
+        "2015": 490,
+        "2020": 550,
+        "2025": 1260
+      },
+      "fact": "Japan tripled cigarette tax between 2006 and 2010, pushing a pack from ¥260 to ¥440 almost overnight. Despite the hike, Japan still has one of the highest smoking rates among developed nations."
+    },
+    {
+      "id": "jp_t2_012",
+      "name": "Admission to teamLab / digital art museum",
+      "emoji": "🎨",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 1800,
+        "2020": 2800,
+        "2025": 3800
+      },
+      "fact": "TeamLab Borderless in Tokyo became the world's most-visited single-artist museum within 2 years of opening in 2018. It relocated in 2024 to a larger site after attracting 2.5 million visitors."
+    },
+    {
+      "id": "jp_t2_013",
+      "name": "Haircut (men's, standard barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2500,
+        "1995": 2800,
+        "2000": 3000,
+        "2005": 3000,
+        "2010": 3000,
+        "2015": 3000,
+        "2020": 3000,
+        "2025": 3500
+      },
+      "fact": "QB House launched in 1996 offering 10-minute cuts for ¥1,000 with no washing or drying. It revolutionised Japanese barbering by cutting average visit time from 45 to 10 minutes."
+    },
+    {
+      "id": "jp_t2_014",
+      "name": "Bottle of Sake (720ml, standard junmai)",
+      "emoji": "🍶",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 900,
+        "1995": 1000,
+        "2000": 1000,
+        "2005": 1050,
+        "2010": 1100,
+        "2015": 1200,
+        "2020": 1300,
+        "2025": 1600
+      },
+      "fact": "Sake consumption in Japan has fallen 50% since 1975 as younger Japanese prefer beer and whisky. Yet premium sake exports hit a record ¥67 billion in 2023, driven by demand in the US and Europe."
+    },
+    {
+      "id": "jp_t2_015",
+      "name": "Capsule Hotel (one night, Tokyo)",
+      "emoji": "🛏️",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 2500,
+        "1995": 3000,
+        "2000": 3500,
+        "2005": 3500,
+        "2010": 3500,
+        "2015": 3800,
+        "2020": 3000,
+        "2025": 4500
+      },
+      "fact": "Japan invented capsule hotels in 1979 in Osaka for salary men who missed the last train. They evolved into a global design phenomenon, now featured in Airbnb's top 50 most-wishlisted stays."
+    },
+    {
+      "id": "jp_t2_016",
+      "name": "Uniqlo Basic T-Shirt (HEATTECH, adult)",
+      "emoji": "👕",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 1000,
+        "2000": 990,
+        "2005": 990,
+        "2010": 990,
+        "2015": 990,
+        "2020": 1500,
+        "2025": 1990
+      },
+      "fact": "Uniqlo's HEATTECH fabric, co-developed with Toray Industries, generates heat from body moisture. It launched in 2003 and single-handedly created a new category of functional everyday clothing."
+    },
+    {
+      "id": "jp_t2_017",
+      "name": "Natto (3-pack, supermarket)",
+      "emoji": "🫘",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 80,
+        "1995": 100,
+        "2000": 110,
+        "2005": 120,
+        "2010": 120,
+        "2015": 130,
+        "2020": 148,
+        "2025": 200
+      },
+      "fact": "Natto, fermented soybeans, divides Japan into devoted fans and passionate avoiders. A 2023 supply crunch caused supermarket purchase limits of 1 pack per customer, treating it like a staple emergency supply."
+    },
+    {
+      "id": "jp_t2_018",
+      "name": "Netflix Monthly Subscription (Japan, standard)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 950,
+        "2020": 1490,
+        "2025": 1790
+      },
+      "fact": "Netflix entered Japan in 2015 and initially struggled against local giants NHK Plus and AbemaTV. Its original anime productions eventually became its strongest growth driver in the Japanese market."
+    },
+    {
+      "id": "jp_t2_019",
+      "name": "Shinkansen Reserved Seat (Tokyo–Kyoto, per trip)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 11340,
+        "1995": 12980,
+        "2000": 13220,
+        "2005": 13220,
+        "2010": 13220,
+        "2015": 13620,
+        "2020": 13870,
+        "2025": 15000
+      },
+      "fact": "The Tokaido Shinkansen opened in 1964 for the Tokyo Olympics and carries 450,000 passengers daily. In 60 years of operation, it has had zero passenger fatalities from accidents."
+    },
+    {
+      "id": "jp_t2_020",
+      "name": "Combini Onsen Egg (2-pack, konbini)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 120,
+        "2000": 130,
+        "2005": 130,
+        "2010": 130,
+        "2015": 140,
+        "2020": 150,
+        "2025": 220
+      },
+      "fact": "Onsen tamago (hot spring eggs) are cooked at exactly 68°C, resulting in set whites and custardy yolks. Traditional versions are cooked in actual hot spring water and sold as tourist souvenirs across Japan."
+    },
+    {
+      "id": "jp_t2_021",
+      "name": "Annual Disney Theme Park Ticket (Tokyo, adult)",
+      "emoji": "🏰",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 3500,
+        "1995": 4200,
+        "2000": 5500,
+        "2005": 5800,
+        "2010": 6200,
+        "2015": 6900,
+        "2020": 7900,
+        "2025": 10900
+      },
+      "fact": "Tokyo DisneySea is consistently voted the world's best theme park by global travel polls. It was the first Disney park outside the US to be built entirely new rather than copied from an existing park."
+    },
+    {
+      "id": "jp_t2_022",
+      "name": "Izakaya Draft Beer (500ml, standard)",
+      "emoji": "🍻",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 400,
+        "1995": 500,
+        "2000": 550,
+        "2005": 580,
+        "2010": 600,
+        "2015": 620,
+        "2020": 630,
+        "2025": 1500
+      },
+      "fact": "The izakaya is Japan's equivalent of a British pub, serving food alongside drinks. Japan's izakaya count fell by 25% between 2019 and 2023 as younger Japanese drink less than any previous generation."
+    },
+    {
+      "id": "jp_t2_023",
+      "name": "Matcha Latte (Starbucks Japan, tall)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 330,
+        "2005": 380,
+        "2010": 400,
+        "2015": 430,
+        "2020": 500,
+        "2025": 1320
+      },
+      "fact": "Starbucks Japan opened in Tokyo in 1996 and the matcha latte became its top-selling drink globally after being introduced there. Japan is Starbucks' second-largest market outside the US."
+    },
+    {
+      "id": "jp_t2_024",
+      "name": "Pachinko (¥1 per ball, 30-min session avg spend)",
+      "emoji": "🎰",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 1500,
+        "2000": 2000,
+        "2005": 2000,
+        "2010": 2500,
+        "2015": 2500,
+        "2020": 2500,
+        "2025": 3000
+      },
+      "fact": "Japan's pachinko industry generates ¥20 trillion annually, more than all of Las Vegas combined. It operates in a legal grey zone: players win steel balls that are officially exchanged for prizes, not cash."
+    },
+    {
+      "id": "jp_t2_025",
+      "name": "Monthly Phone Plan (basic SIM, NTT Docomo)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 3000,
+        "2000": 4000,
+        "2005": 4500,
+        "2010": 5000,
+        "2015": 5000,
+        "2020": 3000,
+        "2025": 2178
+      },
+      "fact": "Japanese mobile prices fell 60% between 2020 and 2022 after PM Suga publicly pressured carriers to cut rates. Japan had among the most expensive mobile plans in the developed world before the intervention."
+    },
+    {
+      "id": "jp_t3_001",
+      "name": "Nintendo Switch (base console)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 14800,
+        "2000": 14800,
+        "2005": 19800,
+        "2010": 15000,
+        "2015": 14800,
+        "2020": 32978,
+        "2025": 38478
+      },
+      "fact": "Nintendo launched the Switch in 2017 and it became the third best-selling console of all time. Nintendo headquarters in Kyoto is in the same building the company used to make playing cards in 1889."
+    },
+    {
+      "id": "jp_t3_002",
+      "name": "Kimono Rental (tourist, Kyoto, half day)",
+      "emoji": "👘",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 3000,
+        "1995": 4000,
+        "2000": 5000,
+        "2005": 5500,
+        "2010": 6000,
+        "2015": 8000,
+        "2020": 6000,
+        "2025": 12000
+      },
+      "fact": "Kyoto's kimono rental industry grew 400% between 2010 and 2019 as tourist numbers surged. Kyoto has begun restricting kimono rentals in certain geisha districts after tourists caused damage to private properties."
+    },
+    {
+      "id": "jp_t3_003",
+      "name": "PlayStation 5 (disc edition, Japan)",
+      "emoji": "🕹️",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 39800,
+        "2005": 49980,
+        "2010": 29980,
+        "2015": 34980,
+        "2020": 49980,
+        "2025": 79980
+      },
+      "fact": "Sony raised PS5 prices in Japan by 30% in 2022 due to the weak yen, a rare move for a domestic product. The PS5 became cheaper to buy abroad and import than to purchase in Japan itself."
+    },
+    {
+      "id": "jp_t3_004",
+      "name": "Annual Onsen Resort Stay (1 night, ryokan, standard)",
+      "emoji": "♨️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 8000,
+        "1995": 10000,
+        "2000": 12000,
+        "2005": 13000,
+        "2010": 14000,
+        "2015": 15000,
+        "2020": 12000,
+        "2025": 20000
+      },
+      "fact": "Japan has over 27,000 onsen (hot spring) facilities, more than any other country. A ryokan stay includes dinner and breakfast, and etiquette rules including tattoo bans remain strictly enforced."
+    },
+    {
+      "id": "jp_t3_005",
+      "name": "Electric Rice Cooker (Zojirushi, mid-range)",
+      "emoji": "🍚",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 15000,
+        "1995": 18000,
+        "2000": 20000,
+        "2005": 22000,
+        "2010": 22000,
+        "2015": 22000,
+        "2020": 22000,
+        "2025": 25000
+      },
+      "fact": "Zojirushi rice cookers are considered so precise that Japanese chefs say they understand rice better than most cooks. Top models use AI to adjust pressure and temperature for each rice variety."
+    },
+    {
+      "id": "jp_t3_006",
+      "name": "Monthly Gym Membership (mid-range, Tokyo)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 8000,
+        "1995": 9000,
+        "2000": 10000,
+        "2005": 10000,
+        "2010": 10000,
+        "2015": 9800,
+        "2020": 10000,
+        "2025": 12000
+      },
+      "fact": "Japanese gym culture is highly etiquette-driven and wiping equipment plus silent behaviour are mandatory. Gyms operate strict dress codes not seen in Western equivalents."
+    },
+    {
+      "id": "jp_t3_007",
+      "name": "Round-Trip Domestic Flight (Tokyo–Sapporo, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 38000,
+        "1995": 42000,
+        "2000": 44000,
+        "2005": 35000,
+        "2010": 30000,
+        "2015": 28000,
+        "2020": 20000,
+        "2025": 35000
+      },
+      "fact": "Japan's domestic airline market was deregulated in 2000, cutting Tokyo–Sapporo fares by 30% within 5 years. Budget carrier Peach Aviation later pushed fares below ¥5,000 on flash sales."
+    },
+    {
+      "id": "jp_t3_008",
+      "name": "Annual Disneyland Tokyo Pass (adult)",
+      "emoji": "🎢",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 28000,
+        "1995": 33000,
+        "2000": 44000,
+        "2005": 46400,
+        "2010": 49600,
+        "2015": 55200,
+        "2020": 63200,
+        "2025": 295000
+      },
+      "fact": "Tokyo Disneyland annual passes tripled in price since 1990 and sold out within days of each new issue. Unlike US Disney parks, Tokyo Disney is owned by Oriental Land Company, not Disney, and keeps tighter cost control."
+    },
+    {
+      "id": "jp_t3_009",
+      "name": "Roborock Robot Vacuum (entry model, Japan)",
+      "emoji": "🤖",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 50000,
+        "2010": 40000,
+        "2015": 35000,
+        "2020": 25000,
+        "2025": 20000
+      },
+      "fact": "Robot vacuums launched in Japan in 2002 and quickly caught on in a country where shoe removal at the door makes floor cleanliness a cultural obligation. Prices fell 60% in 20 years."
+    },
+    {
+      "id": "jp_t3_010",
+      "name": "Whisky Bottle (Suntory Toki, 700ml)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2500,
+        "1995": 3000,
+        "2000": 2800,
+        "2005": 2600,
+        "2010": 2800,
+        "2015": 3500,
+        "2020": 4000,
+        "2025": 9500
+      },
+      "fact": "Japanese whisky won international blind tasting competitions from 2001 onward, triggering a global boom that caused domestic shortages. Suntory Hibiki 21 Year now sells for ¥150,000, up from ¥10,000 in 2010."
+    },
+    {
+      "id": "jp_t3_011",
+      "name": "Tamagotchi (original, new, Bandai)",
+      "emoji": "🐣",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 1980,
+        "2000": 1480,
+        "2005": 1480,
+        "2010": 1480,
+        "2015": 2000,
+        "2020": 2800,
+        "2025": 8400
+      },
+      "fact": "The original Tamagotchi sold 82 million units worldwide after launching in 1996. Bandai relaunched it in 2017 and the new version outsold the original in its first year despite smartphones existing."
+    },
+    {
+      "id": "jp_t3_012",
+      "name": "Fujifilm Instax Camera (Mini 12)",
+      "emoji": "📸",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 8000,
+        "2005": 7000,
+        "2010": 7000,
+        "2015": 8000,
+        "2020": 10000,
+        "2025": 11000
+      },
+      "fact": "Fujifilm's Instax outsells all digital camera brands combined in Japan. The company survived the digital photography collapse by pivoting to instant cameras and cosmetics, two businesses that seem unrelated but both use film chemistry."
+    },
+    {
+      "id": "jp_t3_013",
+      "name": "KitchenAid-equivalent Mixer (Panasonic, home baker)",
+      "emoji": "🥣",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 15000,
+        "1995": 18000,
+        "2000": 20000,
+        "2005": 22000,
+        "2010": 23000,
+        "2015": 24000,
+        "2020": 25000,
+        "2025": 30000
+      },
+      "fact": "Japan's home bread machine market exploded during COVID with a 400% sales surge in 2020. Panasonic's bread maker that produces a full loaf overnight became one of Japan's most-gifted kitchen products."
+    },
+    {
+      "id": "jp_t3_014",
+      "name": "Annual Health Check (ningen dock, basic)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 15000,
+        "1995": 20000,
+        "2000": 25000,
+        "2005": 28000,
+        "2010": 30000,
+        "2015": 32000,
+        "2020": 35000,
+        "2025": 40000
+      },
+      "fact": "Japan's 'ningen dock' annual health check is taken by 70% of working adults and is considered partially responsible for Japan's longest life expectancy in the world. Some employers pay the full cost as a staff benefit."
+    },
+    {
+      "id": "jp_t3_015",
+      "name": "Yamaha Acoustic Guitar (entry, F310)",
+      "emoji": "🎸",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 10000,
+        "1995": 12000,
+        "2000": 13000,
+        "2005": 13000,
+        "2010": 14000,
+        "2015": 14800,
+        "2020": 16000,
+        "2025": 20000
+      },
+      "fact": "Yamaha started as a piano repair shop in 1887 and became the world's largest musical instrument company. Its entry guitar is the world's best-selling acoustic model, found in beginner lessons on every continent."
+    },
+    {
+      "id": "jp_t3_016",
+      "name": "Sony WH-1000XM Headphones (current gen, Japan)",
+      "emoji": "🎧",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 30000,
+        "2015": 35000,
+        "2020": 33000,
+        "2025": 44000
+      },
+      "fact": "Sony's WH-1000X series is consistently rated the world's best noise-cancelling headphone. Sony's noise cancellation chip was developed for use in aircraft cockpits before being miniaturised for consumer use."
+    },
+    {
+      "id": "jp_t3_017",
+      "name": "Bullet Train Japan Rail Pass (7 days, adult)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 25000,
+        "1995": 28000,
+        "2000": 28300,
+        "2005": 28300,
+        "2010": 28300,
+        "2015": 29110,
+        "2020": 29650,
+        "2025": 50000
+      },
+      "fact": "JR raised the Japan Rail Pass price by 70% in 2023, the first increase in 30 years. Foreign visitors who had planned trips around the old price complained widely, calling it the largest single tourism price shock in Japan's modern history."
+    },
+    {
+      "id": "jp_t3_018",
+      "name": "Uniqlo Cashmere Sweater",
+      "emoji": "🧥",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5990,
+        "2005": 4990,
+        "2010": 4990,
+        "2015": 9990,
+        "2020": 14900,
+        "2025": 19900
+      },
+      "fact": "Uniqlo's cashmere sweater at ¥19,900 is sourced from Inner Mongolia and is frequently compared in quality tests to sweaters costing 5 times the price from luxury brands."
+    },
+    {
+      "id": "jp_t3_019",
+      "name": "Washlet Toilet Seat (Toto, standard entry)",
+      "emoji": "🚽",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 30000,
+        "1995": 35000,
+        "2000": 35000,
+        "2005": 30000,
+        "2010": 25000,
+        "2015": 22000,
+        "2020": 20000,
+        "2025": 22000
+      },
+      "fact": "Toto's Washlet launched in 1980 and is now installed in 80% of Japanese homes. Visitors from countries without bidets consistently name it the most surprising element of travelling in Japan."
+    },
+    {
+      "id": "jp_t3_020",
+      "name": "Annual Sumo Tournament Ticket (Osaka, floor)",
+      "emoji": "🤼",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 8000,
+        "1995": 10000,
+        "2000": 12000,
+        "2005": 13000,
+        "2010": 14000,
+        "2015": 15000,
+        "2020": 16000,
+        "2025": 20000
+      },
+      "fact": "Sumo has rules and rituals unchanged since the Edo period. The ring is still made of clay, salt is still thrown before each bout, and each match lasts an average of 6 seconds."
+    },
+    {
+      "id": "jp_t3_021",
+      "name": "Professional Shiatsu Massage (60 min, Tokyo)",
+      "emoji": "💆",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 6000,
+        "2000": 7000,
+        "2005": 8000,
+        "2010": 9000,
+        "2015": 10000,
+        "2020": 10000,
+        "2025": 13000
+      },
+      "fact": "Shiatsu was officially recognised as a form of medical treatment by Japan's Ministry of Health in 1964, making it the only massage technique with a government-issued practitioner licence."
+    },
+    {
+      "id": "jp_t3_022",
+      "name": "Annual University Tuition (national, Japan)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 339000,
+        "1995": 448000,
+        "2000": 496000,
+        "2005": 535800,
+        "2010": 535800,
+        "2015": 535800,
+        "2020": 535800,
+        "2025": 642960
+      },
+      "fact": "National university fees in Japan nearly doubled from 1990 to 2005, then froze for 15 years. In 2024 the government announced a further raise, breaking a decade-long consensus on keeping university affordable."
+    },
+    {
+      "id": "jp_t3_023",
+      "name": "Monthly Apartment Rent (1K, 25sqm, Tokyo Yamanote)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 60000,
+        "1995": 80000,
+        "2000": 90000,
+        "2005": 85000,
+        "2010": 80000,
+        "2015": 78000,
+        "2020": 80000,
+        "2025": 110000
+      },
+      "fact": "Tokyo rents barely rose for 20 years as Japan's population shrank outside the capital. The surge since 2022 is driven by foreign investors and a weak yen making Japanese property cheap for overseas buyers."
+    },
+    {
+      "id": "jp_t3_024",
+      "name": "Shinkansen Nozomi Pass (Tokyo–Osaka, day trip return)",
+      "emoji": "🚅",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 26440,
+        "1995": 27240,
+        "2000": 27240,
+        "2005": 27240,
+        "2010": 27240,
+        "2015": 27740,
+        "2020": 28400,
+        "2025": 32200
+      },
+      "fact": "The Nozomi covers Tokyo to Osaka in 2 hours 15 minutes. JR Central runs it so profitably that it funds its own track maintenance independently of government subsidy, unique among the world's high-speed railways."
+    },
+    {
+      "id": "jp_t3_025",
+      "name": "Golf Round (18 holes, standard course, weekday)",
+      "emoji": "⛳",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 30000,
+        "1995": 25000,
+        "2000": 20000,
+        "2005": 18000,
+        "2010": 15000,
+        "2015": 13000,
+        "2020": 12000,
+        "2025": 15000
+      },
+      "fact": "Golf was so expensive in 1980s bubble Japan that membership to a top club cost ¥100 million. After the bubble burst, prices collapsed 80% as thousands of golf courses went bankrupt."
+    },
+    {
+      "id": "jp_t4_001",
+      "name": "iPhone 16 Pro (128GB, Japan price)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 80000,
+        "2015": 96000,
+        "2020": 117480,
+        "2025": 214800
+      },
+      "fact": "iPhone prices in Japan rose 65% between 2020 and 2025 as the yen weakened sharply against the dollar. Japan temporarily became the cheapest country in the world to buy an iPhone in 2022, causing queues of overseas buyers at Tokyo Apple stores."
+    },
+    {
+      "id": "jp_t4_002",
+      "name": "Toyota Corolla (base, new, Japan)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 900000,
+        "1995": 1050000,
+        "2000": 1200000,
+        "2005": 1300000,
+        "2010": 1380000,
+        "2015": 1452000,
+        "2020": 1760000,
+        "2025": 2100000
+      },
+      "fact": "The Toyota Corolla is the world's best-selling car with over 50 million sold since 1966. Its name comes from the Latin word for a small crown, chosen to suggest it was the successor to the Corona."
+    },
+    {
+      "id": "jp_t4_003",
+      "name": "MacBook Air M2 (Japan retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 128000,
+        "2015": 132800,
+        "2020": 115280,
+        "2025": 218800
+      },
+      "fact": "Mac prices in Japan rose 70% between 2020 and 2025 due to yen depreciation. Japanese consumers began bulk-buying electronics abroad and reselling them domestically at a profit."
+    },
+    {
+      "id": "jp_t4_004",
+      "name": "Gold (10 grams, 24K, Japan market)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 12000,
+        "1995": 11000,
+        "2000": 9000,
+        "2005": 18000,
+        "2010": 37000,
+        "2015": 46000,
+        "2020": 72000,
+        "2025": 300000
+      },
+      "fact": "Gold in Japan hit ¥15,000 per gram in 2025, an all-time high amplified by the weak yen. Japan is one of few countries where gold vending machines exist at airports, selling 1-gram bars to travellers."
+    },
+    {
+      "id": "jp_t4_005",
+      "name": "Honda Super Cub (50cc, new, Japan)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 115000,
+        "1995": 130000,
+        "2000": 140000,
+        "2005": 150000,
+        "2010": 165000,
+        "2015": 180000,
+        "2020": 220000,
+        "2025": 280000
+      },
+      "fact": "The Honda Super Cub is the most-produced motor vehicle in history with over 100 million units made. Its automatic clutch was deliberately designed so anyone could ride it without training."
+    },
+    {
+      "id": "jp_t4_006",
+      "name": "Sony OLED TV (55-inch, Bravia A95L)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 800000,
+        "2015": 500000,
+        "2020": 350000,
+        "2025": 220000
+      },
+      "fact": "Sony's Trinitron CRT TV held 0.01mm colour accuracy tolerances that engineers at NASA praised. The OLED successor fell 73% in price in 15 years while delivering a picture the Trinitron engineers couldn't have imagined."
+    },
+    {
+      "id": "jp_t4_007",
+      "name": "Rolex Submariner (new retail, Japan)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 250000,
+        "1995": 320000,
+        "2000": 350000,
+        "2005": 430000,
+        "2010": 580000,
+        "2015": 720000,
+        "2020": 900000,
+        "2025": 1620000
+      },
+      "fact": "Rolex retail prices in Japan nearly doubled between 2020 and 2025 as the weak yen amplified global price hikes. Grey market Rolexes in Tokyo's Ginza district sell for 50% above retail."
+    },
+    {
+      "id": "jp_t4_008",
+      "name": "Annual Private School Fees (elementary, Tokyo)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 600000,
+        "1995": 750000,
+        "2000": 850000,
+        "2005": 900000,
+        "2010": 950000,
+        "2015": 1000000,
+        "2020": 1050000,
+        "2025": 1300000
+      },
+      "fact": "Tokyo private elementary school fees have doubled since 1990. Admission requires parents to pass interviews alongside the child, and prep schools for 5-year-olds charge ¥300,000 just for entrance exam coaching."
+    },
+    {
+      "id": "jp_t4_009",
+      "name": "New Bullet Train Seat (Tokyo–Hokkaido Shinkansen, one way)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 23430
+      },
+      "fact": "The Hokkaido Shinkansen extension to Sapporo is one of the world's most expensive railway projects per kilometre, due to the need to bore through volcanic rock under the Seikan Tunnel seabed."
+    },
+    {
+      "id": "jp_t4_010",
+      "name": "Wagyu Beef (A5, 200g, top Matsusaka grade)",
+      "emoji": "🥩",
+      "category": "Food",
+      "tier": 4,
+      "prices": {
+        "1990": 15000,
+        "1995": 18000,
+        "2000": 20000,
+        "2005": 22000,
+        "2010": 25000,
+        "2015": 28000,
+        "2020": 30000,
+        "2025": 225000
+      },
+      "fact": "Matsusaka wagyu cattle are fed beer and massaged to reduce muscle stress, a process so labour-intensive that a single cow can cost ¥5 million to raise. Each beast is registered individually with a birth certificate."
+    },
+    {
+      "id": "jp_t4_011",
+      "name": "Full Traditional Wedding (Shinto + reception, Tokyo avg)",
+      "emoji": "⛩️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 2500000,
+        "1995": 3000000,
+        "2000": 3200000,
+        "2005": 3000000,
+        "2010": 2800000,
+        "2015": 3000000,
+        "2020": 2500000,
+        "2025": 3500000
+      },
+      "fact": "Japanese weddings average ¥3.5 million but are mostly self-funding. Guests give cash gifts called goshugi averaging ¥30,000 each, and couples often break even after the event."
+    },
+    {
+      "id": "jp_t4_012",
+      "name": "Mazda MX-5 Miata (base, new, Japan)",
+      "emoji": "🏎️",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 1750000,
+        "1995": 1950000,
+        "2000": 1830000,
+        "2005": 1820000,
+        "2010": 2380000,
+        "2015": 2592000,
+        "2020": 3060000,
+        "2025": 3960000
+      },
+      "fact": "The Mazda MX-5 launched in 1989 to prove affordable sports cars were still possible. It is the world's best-selling two-seat roadster with over 1.3 million sold and single-handedly revived the small sports car segment."
+    },
+    {
+      "id": "jp_t4_013",
+      "name": "Tea Ceremony Experience (full private, Kyoto)",
+      "emoji": "🍵",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 15000,
+        "1995": 20000,
+        "2000": 25000,
+        "2005": 30000,
+        "2010": 35000,
+        "2015": 40000,
+        "2020": 35000,
+        "2025": 240000
+      },
+      "fact": "A formal Ura Senke school tea ceremony lesson costs ¥60,000 and takes 3 hours. Becoming a certified tea ceremony master requires 10 years of study and is considered a form of spiritual as well as culinary training."
+    },
+    {
+      "id": "jp_t4_014",
+      "name": "Katsura Imperial Villa Admission (incl. guided tour, pair)",
+      "emoji": "🏯",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 1000,
+        "2000": 1000,
+        "2005": 1000,
+        "2010": 1000,
+        "2015": 1000,
+        "2020": 2200,
+        "2025": 4400
+      },
+      "fact": "The Katsura Imperial Villa was free to visit until 2018 and is considered the greatest example of Japanese architectural design. Walter Gropius called it proof that Japanese culture independently discovered Modernist principles 300 years before Europe."
+    },
+    {
+      "id": "jp_t4_015",
+      "name": "Annual Tokyo Apartment (2LDK, 60sqm, Shibuya, monthly x12)",
+      "emoji": "🏙️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1800000,
+        "1995": 2400000,
+        "2000": 2640000,
+        "2005": 2520000,
+        "2010": 2400000,
+        "2015": 2400000,
+        "2020": 2520000,
+        "2025": 3600000
+      },
+      "fact": "Tokyo's 2-bedroom rent near Shibuya rose 40% between 2020 and 2025 as foreign investment and a weak yen made the city attractive to overseas property buyers for the first time in a generation."
+    },
+    {
+      "id": "jp_t4_016",
+      "name": "Sony Alpha A7 IV Camera Body",
+      "emoji": "📷",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 220000,
+        "2020": 275000,
+        "2025": 390000
+      },
+      "fact": "Sony's mirrorless cameras overtook Canon in Japan's professional camera market in 2020, the first time Canon had lost its top position in 25 years. The yen's weakness pushed the A7IV's Japan price above its US price."
+    },
+    {
+      "id": "jp_t4_017",
+      "name": "Honda Civic (base, new, Japan)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 1050000,
+        "1995": 1200000,
+        "2000": 1400000,
+        "2005": 1550000,
+        "2010": 1800000,
+        "2015": 2100000,
+        "2020": 2990000,
+        "2025": 4290000
+      },
+      "fact": "The Honda Civic was Japan's most exported car in the 1980s. Its Japan price nearly quadrupled since 1990 as the model repositioned from affordable compact to premium sporty, abandoning its original market entirely."
+    },
+    {
+      "id": "jp_t4_018",
+      "name": "Luxury Ryokan Stay (1 night, 2 people with meals, Kyoto)",
+      "emoji": "🏮",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 30000,
+        "1995": 40000,
+        "2000": 50000,
+        "2005": 55000,
+        "2010": 60000,
+        "2015": 65000,
+        "2020": 60000,
+        "2025": 240000
+      },
+      "fact": "Kyoto's top ryokan prices doubled post-COVID as tourist demand exceeded pre-pandemic levels while the number of traditional ryokan fell. Some accept bookings only through personal introduction, no public reservations."
+    },
+    {
+      "id": "jp_t4_019",
+      "name": "Whisky Suntory Yamazaki 12 Year (700ml, retail)",
+      "emoji": "🍾",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3500,
+        "1995": 4000,
+        "2000": 5000,
+        "2005": 6000,
+        "2010": 8000,
+        "2015": 25000,
+        "2020": 55000,
+        "2025": 250000
+      },
+      "fact": "Yamazaki 12 Year won the World's Best Single Malt in 2015 and its price rose 3,000% within 5 years. Suntory had to discontinue several age-statement expressions because they simply ran out of aged stock to sell."
+    },
+    {
+      "id": "jp_t4_020",
+      "name": "Full Home Solar System (4kW, installed, Japan)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 5000000,
+        "2000": 3000000,
+        "2005": 2000000,
+        "2010": 1500000,
+        "2015": 1000000,
+        "2020": 800000,
+        "2025": 700000
+      },
+      "fact": "Japan had the world's most aggressive rooftop solar subsidy programme from 2009 to 2012, cutting system prices 85% in 20 years. After Fukushima in 2011, solar adoption accelerated faster than any other country's transition."
+    },
+    {
+      "id": "jp_t4_021",
+      "name": "Maserati GranTurismo (base, Japan MSRP)",
+      "emoji": "🚗",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 15000000,
+        "1995": 18000000,
+        "2000": 20000000,
+        "2005": 18000000,
+        "2010": 18000000,
+        "2015": 19000000,
+        "2020": 20000000,
+        "2025": 28000000
+      },
+      "fact": "Japan is Maserati's third-largest market despite having excellent domestic cars at a fraction of the price. Italian luxury cars carry a prestige premium in Japan that no domestic brand can replicate regardless of quality."
+    },
+    {
+      "id": "jp_t4_022",
+      "name": "Annual Sumo Membership (Kokugikan, ringside box, year)",
+      "emoji": "🏟️",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 600000,
+        "2000": 700000,
+        "2005": 750000,
+        "2010": 800000,
+        "2015": 850000,
+        "2020": 700000,
+        "2025": 1200000
+      },
+      "fact": "Ringside seats at Tokyo's Kokugikan sumo arena are passed down within families across generations like property deeds. Boxes that seat four can hold 6 tournaments' worth of access and are never sold publicly."
+    },
+    {
+      "id": "jp_t4_023",
+      "name": "Lexus LC 500 (base, new, Japan)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 14580000,
+        "2025": 17600000
+      },
+      "fact": "The Lexus LC 500 is assembled by a team of takumi (master craftspeople) who hand-fit every component. Each takumi must pass a test threading a needle blindfolded to prove their finger sensitivity before joining the line."
+    },
+    {
+      "id": "jp_t4_024",
+      "name": "Nikon Z9 Professional Camera Body",
+      "emoji": "📸",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 700000
+      },
+      "fact": "The Nikon Z9 eliminated the mechanical shutter entirely, the first professional camera to do so. Nikon has been making cameras since 1917 and supplied lenses to the Apollo moon missions."
+    },
+    {
+      "id": "jp_t4_025",
+      "name": "Prime Land in Tokyo (per sqm, Chiyoda ward)",
+      "emoji": "🏗️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 10000000,
+        "1995": 4000000,
+        "2000": 2000000,
+        "2005": 2500000,
+        "2010": 3000000,
+        "2015": 4000000,
+        "2020": 4500000,
+        "2025": 6000000
+      },
+      "fact": "Tokyo's Imperial Palace grounds were once estimated to be worth more than all the real estate in California. The bubble peak of 1990 was the most extreme land price inflation in recorded economic history."
+    }
+  ]
+}

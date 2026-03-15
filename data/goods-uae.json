@@ -1,0 +1,1808 @@
+{
+  "country": "AE",
+  "country_name": "UAE",
+  "currency_symbol": "د.إ",
+  "currency_code": "AED",
+  "items": [
+    {
+      "id": "ae_t1_001",
+      "name": "Karak Chai (small cup, Indian cafe)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Karak chai is the UAE's most consumed hot drink and is sold from Indian-run cafes called chaiwallahs in every residential area. At AED 4 it remains the cheapest hot drink in Dubai, cheaper than water at a mall cafe."
+    },
+    {
+      "id": "ae_t1_002",
+      "name": "Shawarma (chicken, Lebanese bakery)",
+      "emoji": "🌯",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.0,
+        "2000": 3.0,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 9.0
+      },
+      "fact": "A shawarma in Deira costs AED 9 versus AED 35 at a food court. Dubai has 1,500 shawarma shops and the Al Mallah Lebanese restaurant in Jumeirah has been serving its version since 1979 with queues every night."
+    },
+    {
+      "id": "ae_t1_003",
+      "name": "Litre of Petrol (Special 95 octane)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.45,
+        "1995": 0.55,
+        "2000": 0.6,
+        "2005": 0.65,
+        "2010": 1.72,
+        "2015": 1.65,
+        "2020": 1.53,
+        "2025": 2.87
+      },
+      "fact": "UAE petrol is priced monthly by a government committee and fluctuates with global oil markets. Prices were fixed and subsidised until 2015 when the UAE became the first Gulf state to fully deregulate fuel prices."
+    },
+    {
+      "id": "ae_t1_004",
+      "name": "Bottle of Water (500ml, Masafi, supermarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 0.75,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.0,
+        "2025": 1.5
+      },
+      "fact": "Masafi water comes from mountain springs in the Hajar Mountains and has been bottled in the UAE since 1977. The UAE desalinates 42% of the world's desalinated water despite holding less than 1% of its population."
+    },
+    {
+      "id": "ae_t1_005",
+      "name": "Flatbread (khubz, bakery, single)",
+      "emoji": "🫓",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.25,
+        "2000": 0.25,
+        "2005": 0.25,
+        "2010": 0.5,
+        "2015": 0.75,
+        "2020": 1.0,
+        "2025": 1.5
+      },
+      "fact": "Flatbread was sold for 25 fils for 20 years in the UAE, a price kept low by government subsidies. The UAE removed most food subsidies between 2010 and 2015 as part of fiscal reform, ending one of the Arab world's last bread price controls."
+    },
+    {
+      "id": "ae_t1_006",
+      "name": "Can of Pepsi (330ml, convenience store)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.0,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.0,
+        "2025": 2.5
+      },
+      "fact": "PepsiCo has bottled in the UAE since 1959 and is deeply woven into the Gulf market. The UAE consumes more soft drinks per capita than any other country, driven by extreme heat, no alcohol culture among nationals and a large expatriate workforce needing hydration."
+    },
+    {
+      "id": "ae_t1_007",
+      "name": "Egg (single, large, Carrefour)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.3,
+        "2000": 0.35,
+        "2005": 0.4,
+        "2010": 0.5,
+        "2015": 0.55,
+        "2020": 0.6,
+        "2025": 0.8
+      },
+      "fact": "The UAE imports 75% of its food, making egg prices tied to shipping costs and global commodity markets. When India restricted egg exports in 2023, Dubai supermarkets experienced the first visible egg shortage in the country's history."
+    },
+    {
+      "id": "ae_t1_008",
+      "name": "Arabic Coffee (qahwa, cafe, small pot)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 4.0,
+        "2020": 5.0,
+        "2025": 7.0
+      },
+      "fact": "Arabic qahwa served in a dallah pot with dates is the cornerstone of Emirati hospitality. The UAE government declared Arabic coffee a UNESCO Intangible Cultural Heritage in 2015 alongside Saudi Arabia, Kuwait and Qatar in a joint nomination."
+    },
+    {
+      "id": "ae_t1_009",
+      "name": "Falafel (3 pieces, Lebanese bakery)",
+      "emoji": "🧆",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 5.0
+      },
+      "fact": "Dubai's Deira district has the densest concentration of falafel shops in any non-Arab-majority city in the world. The Egyptian and Lebanese workers who make them are often the same families who ran the same stalls for 20 years."
+    },
+    {
+      "id": "ae_t1_010",
+      "name": "Newspaper (Gulf News, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Gulf News launched in 1978 and is the UAE's largest English-language newspaper. The UAE has 14 languages spoken daily and its media landscape reflects a population that is 89% expatriate, making it the world's highest proportion of foreign residents."
+    },
+    {
+      "id": "ae_t1_011",
+      "name": "Packet of Khalas Dates (100g, souvenir pack)",
+      "emoji": "🟤",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 3.0,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 9.0,
+        "2025": 9.0
+      },
+      "fact": "Khalas dates from the UAE's Al Ain region are considered the finest variety in the world and are given as state gifts. The UAE gifted a specially cultivated golden box of Khalas dates to every head of state attending COP28 in Dubai."
+    },
+    {
+      "id": "ae_t1_012",
+      "name": "Red Bull (4-pack, 250ml cans, hypermarket)",
+      "emoji": "🐂",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 9.0,
+        "2025": 28.0
+      },
+      "fact": "The UAE is the world's highest per-capita consumer of energy drinks. Dubai's nightlife culture, long working hours among the expatriate workforce and extreme summer heat create year-round demand that no other country matches."
+    },
+    {
+      "id": "ae_t1_013",
+      "name": "Hummus Plate (small, Lebanese restaurant)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 3.0,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 9.0
+      },
+      "fact": "Dubai has more Lebanese restaurants per square kilometre than Beirut. Lebanese cuisine became the UAE's default restaurant food because Lebanese entrepreneurs arrived in the 1970s oil boom and established the hospitality industry before any other national group."
+    },
+    {
+      "id": "ae_t1_014",
+      "name": "Litre of Milk (full cream, Almarai, supermarket)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.5,
+        "2010": 4.0,
+        "2015": 4.5,
+        "2020": 5.0,
+        "2025": 6.0
+      },
+      "fact": "Almarai, the Saudi dairy giant, produces milk on farms in the Najd desert using fully air-conditioned barns and imported fodder. It is the world's largest integrated dairy company and serves the entire GCC from a region with no natural grassland."
+    },
+    {
+      "id": "ae_t1_015",
+      "name": "Metro Single Fare (Dubai Metro, minimum)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1.8,
+        "2015": 3.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Dubai Metro opened in 2009 as the world's longest driverless metro line. Before it opened, Dubai had no public transport and taxis were the only option for the 2 million residents who could not afford a car."
+    },
+    {
+      "id": "ae_t1_016",
+      "name": "Loaf of Bread (white, standard, Carrefour)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 3.5,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 5.5,
+        "2025": 7.0
+      },
+      "fact": "The UAE imports over 85% of its food and its food security strategy is one of the most sophisticated in the world. The country stockpiles strategic food reserves in temperature-controlled warehouses sufficient for 3 months of national consumption."
+    },
+    {
+      "id": "ae_t1_017",
+      "name": "Baklava (small piece, Lebanese patisserie)",
+      "emoji": "🍮",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 4.0,
+        "2020": 5.0,
+        "2025": 7.0
+      },
+      "fact": "Dubai's Lebanese pastry shops open 24 hours and are busy until 4am because the UAE has no alcohol culture to anchor late-night socialising, so sweets fill the same social role. Feras Sweets in Bur Dubai has operated on the same street since 1982."
+    },
+    {
+      "id": "ae_t1_018",
+      "name": "Packet of Chips (Lay's, 40g, supermarket)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.25,
+        "2000": 1.5,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 4.5
+      },
+      "fact": "PepsiCo manufactures Lay's chips in the UAE's Jebel Ali Free Zone and exports across 30 countries from there. The Free Zone offers zero corporate tax and full profit repatriation, making it the manufacturing base for over 9,000 global companies."
+    },
+    {
+      "id": "ae_t1_019",
+      "name": "Vimto Cordial (500ml, Ramadan special, LuLu)",
+      "emoji": "🟣",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 3.0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 7.0,
+        "2015": 8.0,
+        "2020": 9.0,
+        "2025": 9.0
+      },
+      "fact": "Vimto sells more in the UAE during Ramadan than in the UK for the full year. The British cordial brand has been the official iftar drink of the Gulf since 1920s traders introduced it and it remains unchallenged 100 years later."
+    },
+    {
+      "id": "ae_t1_020",
+      "name": "Stamp (domestic letter, Emirates Post)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 0.75,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 3.0
+      },
+      "fact": "The UAE has no residential street addresses in the traditional sense and uses PO box numbers for mail. Dubai launched a digital street addressing system in 2015 called Makani but physical postal delivery to homes remained limited a decade later."
+    },
+    {
+      "id": "ae_t1_021",
+      "name": "Pita Bread (fresh, single, bakery)",
+      "emoji": "🥙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.5,
+        "2000": 0.5,
+        "2005": 0.75,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.5,
+        "2025": 2.0
+      },
+      "fact": "Every neighbourhood in Dubai has a Lebanese bakery open from 5am to midnight producing fresh pita, manoushe and zaatar bread. The UAE has over 2,000 Lebanese bakeries, more per capita than Lebanon itself."
+    },
+    {
+      "id": "ae_t1_022",
+      "name": "Chocolate Bar (KitKat, single, petrol station)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.25,
+        "2000": 1.5,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.5,
+        "2025": 5.0
+      },
+      "fact": "Nestle has manufactured KitKat in the UAE's Jebel Ali Free Zone since 2004 for distribution across the Middle East and Africa. The Dubai factory produces 25 million KitKat bars monthly, making it one of the highest-output confectionery plants outside Europe."
+    },
+    {
+      "id": "ae_t1_023",
+      "name": "Manoushe (za'atar flatbread, Lebanese bakery)",
+      "emoji": "🧆",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 7.0
+      },
+      "fact": "Manoushe is the most popular breakfast item in the UAE and is sold from early morning bakeries in every emirate. Abu Dhabi's za'atar is blended with olive oil imported from Lebanon and Palestinian territories, making this flatbread a trace of Middle Eastern agricultural heritage."
+    },
+    {
+      "id": "ae_t1_024",
+      "name": "Dettol (antiseptic, 100ml, pharmacy)",
+      "emoji": "🧴",
+      "category": "Health",
+      "tier": 1,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 9.0,
+        "2025": 9.0
+      },
+      "fact": "Dettol sales in the UAE tripled during COVID and have not fully retreated. The UAE government mandated hand sanitiser dispensers at every business entry point during COVID and many establishments kept them permanently, creating a structural increase in antiseptic demand."
+    },
+    {
+      "id": "ae_t1_025",
+      "name": "Barbican Non-Alcoholic Beer (4-pack, 330ml cans)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.0,
+        "1995": 2.5,
+        "2000": 3.0,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 22.0
+      },
+      "fact": "Barbican non-alcoholic malt drink is the best-selling premium cold beverage at UAE supermarkets by volume. The UAE is the only GCC state where alcohol is also legally sold, creating the world's only market where alcoholic and non-alcoholic premium drinks compete directly."
+    },
+    {
+      "id": "ae_t2_001",
+      "name": "McDonald's Big Mac Meal (UAE)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 13.0,
+        "2005": 15.0,
+        "2010": 18.0,
+        "2015": 21.0,
+        "2020": 25.0,
+        "2025": 32.0
+      },
+      "fact": "McDonald's opened in the UAE in 1994 and now has over 200 outlets. It was the first country in the Arab world to offer McDelivery in 1993, a year before the global rollout, recognising that UAE temperatures make walking to a restaurant impractical for half the year."
+    },
+    {
+      "id": "ae_t2_002",
+      "name": "Cinema Ticket (Reel Cinemas / Vox, standard 2D)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 15.0,
+        "2000": 20.0,
+        "2005": 25.0,
+        "2010": 30.0,
+        "2015": 35.0,
+        "2020": 38.0,
+        "2025": 45.0
+      },
+      "fact": "The UAE has more cinema screens per capita than any country in the Middle East and the world's only cinema inside a ski slope, at Ski Dubai in the Mall of the Emirates. VOX Cinemas introduced recliner 'MAX' screens in 2013, now the standard format for premium cinema globally."
+    },
+    {
+      "id": "ae_t2_003",
+      "name": "Haircut (men's, Filipino / South Asian salon)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 12.0,
+        "2000": 15.0,
+        "2005": 18.0,
+        "2010": 20.0,
+        "2015": 25.0,
+        "2020": 28.0,
+        "2025": 35.0
+      },
+      "fact": "Most barbers in the UAE are Filipino, Bangladeshi or Pakistani and live in shared labour accommodation in areas like Sonapur. The gap between what they charge and what a hotel salon charges for the same haircut is AED 300, reflecting the UAE's widest visible income disparity."
+    },
+    {
+      "id": "ae_t2_004",
+      "name": "Pint of Beer (hotel bar, draft lager)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 12.0,
+        "1995": 15.0,
+        "2000": 20.0,
+        "2005": 25.0,
+        "2010": 30.0,
+        "2015": 35.0,
+        "2020": 35.0,
+        "2025": 45.0
+      },
+      "fact": "Alcohol in the UAE is only sold in hotels, licensed venues and specialist shops. Dubai removed its 30% alcohol purchase tax in January 2023 but prices barely fell because the licence system still restricts supply."
+    },
+    {
+      "id": "ae_t2_005",
+      "name": "Monthly Netflix Subscription (UAE, standard)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 37.99,
+        "2020": 49.99,
+        "2025": 65.0
+      },
+      "fact": "Netflix launched in the UAE in 2016 and immediately had to block thousands of episodes of content deemed culturally sensitive. The UAE requires streaming services to comply with content guidelines set by the National Media Council, the strictest such digital regulation in the Arab world."
+    },
+    {
+      "id": "ae_t2_006",
+      "name": "Starbucks Latte (grande, Dubai mall)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 15.0,
+        "2005": 18.0,
+        "2010": 20.0,
+        "2015": 22.0,
+        "2020": 24.0,
+        "2025": 28.0
+      },
+      "fact": "Starbucks UAE is one of the brand's highest-margin markets globally because of its positioning as a premium social space. The Starbucks in Dubai Mall averages over 2,000 transactions per day, making it one of the chain's busiest single locations worldwide."
+    },
+    {
+      "id": "ae_t2_007",
+      "name": "Monthly Spotify (UAE)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 19.99,
+        "2020": 22.99,
+        "2025": 25.99
+      },
+      "fact": "Spotify launched in the UAE in 2018 and Arabic music streaming tripled within 2 years. The UAE hosts the AMAs and Billboard Music Awards Middle East editions, cementing Dubai as the region's music industry capital."
+    },
+    {
+      "id": "ae_t2_008",
+      "name": "Gym Membership (monthly, budget gym, Dubai)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 50.0,
+        "2000": 70.0,
+        "2005": 90.0,
+        "2010": 150.0,
+        "2015": 200.0,
+        "2020": 200.0,
+        "2025": 99.0
+      },
+      "fact": "Dubai has 500+ gyms and budget clubs charge AED 99 per month. The premium gym market is separate, with Fitness First charging AED 3,500 annually, reflecting the city's extreme income stratification."
+    },
+    {
+      "id": "ae_t2_009",
+      "name": "Uber / Careem Ride (5km, Dubai, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 15.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Careem was founded in Dubai in 2012 and sold to Uber for USD 3.1 billion in 2019, the Arab world's largest tech exit. In its early years it was cheaper than taxis and made ride-hailing the default transport for Dubai's middle-class residents."
+    },
+    {
+      "id": "ae_t2_010",
+      "name": "Pack of Marlboro (20, standard, licensed shop)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 7.0,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 14.0,
+        "2015": 16.0,
+        "2020": 22.0,
+        "2025": 28.0
+      },
+      "fact": "The UAE introduced a 100% excise tax on tobacco in 2017. Despite this, the UAE duty-free shops at Dubai Airport are the world's largest single-location tobacco retail operations, selling to passengers at pre-excise prices."
+    },
+    {
+      "id": "ae_t2_011",
+      "name": "Monthly Mobile Plan (Etisalat/du, unlimited data)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 80.0,
+        "2005": 100.0,
+        "2010": 130.0,
+        "2015": 150.0,
+        "2020": 120.0,
+        "2025": 99.0
+      },
+      "fact": "The UAE has only two telecoms operators, Etisalat and du, in one of the world's tightest government-controlled duopolies. VoIP apps including WhatsApp calls and Facetime were blocked in the UAE until 2020 when limited calling was enabled, making it the last country to unblock them."
+    },
+    {
+      "id": "ae_t2_012",
+      "name": "Noon.com Express Delivery (single order fee)",
+      "emoji": "📦",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 10.0,
+        "2025": 9.0
+      },
+      "fact": "Noon.com launched in 2017 with a USD 1 billion investment from the UAE and Saudi governments, the Arab world's largest tech investment at the time. It competes directly with Amazon's UAE operations, which Amazon entered by acquiring Souq.com for USD 580 million in 2017."
+    },
+    {
+      "id": "ae_t2_013",
+      "name": "Biryani (chicken, Indian restaurant, standard portion)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 10.0,
+        "2000": 13.0,
+        "2005": 15.0,
+        "2010": 18.0,
+        "2015": 22.0,
+        "2020": 25.0,
+        "2025": 32.0
+      },
+      "fact": "Indian cuisine is the most popular restaurant category in the UAE because Indians are the largest single national group at 27% of the population. The Indian food ecosystem in Dubai is so complete that chefs from Kerala and Hyderabad replicate their home state recipes without compromise."
+    },
+    {
+      "id": "ae_t2_014",
+      "name": "Friday Brunch (5-star hotel, per person, with alcohol)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 50.0,
+        "2005": 70.0,
+        "2010": 90.0,
+        "2015": 150.0,
+        "2020": 150.0,
+        "2025": 500.0
+      },
+      "fact": "Friday brunch is Dubai's most important social institution, replacing the Saturday cultural role it plays in Western cities. Brunches range from AED 100 to AED 900 per person with alcohol included, making them the primary driver of UAE luxury hotel revenue."
+    },
+    {
+      "id": "ae_t2_015",
+      "name": "Sushi (10-piece set, Japanese restaurant, Jumeirah)",
+      "emoji": "🍣",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 50.0,
+        "2005": 60.0,
+        "2010": 70.0,
+        "2015": 80.0,
+        "2020": 85.0,
+        "2025": 95.0
+      },
+      "fact": "Japanese restaurants are the fastest-growing dining category in Dubai and the city now has more Japanese restaurants than any Middle Eastern city except Istanbul. Nobu Dubai at Atlantis was the restaurant that first established Dubai as a global dining destination."
+    },
+    {
+      "id": "ae_t2_016",
+      "name": "Oud Incense Chips (small 10g packet, souk)",
+      "emoji": "🌸",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 20.0,
+        "1995": 30.0,
+        "2000": 40.0,
+        "2005": 50.0,
+        "2010": 60.0,
+        "2015": 70.0,
+        "2020": 80.0,
+        "2025": 9.0
+      },
+      "fact": "Oud incense chips are burned on charcoal in every Emirati home as a daily ritual. Small packs of lower-grade oud start at AED 9 while top Cambodian agarwood chips sell for AED 5,000 per gram."
+    },
+    {
+      "id": "ae_t2_017",
+      "name": "Salon Blowdry (women's, mid-range, Dubai)",
+      "emoji": "💇",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 40.0,
+        "2005": 50.0,
+        "2010": 60.0,
+        "2015": 70.0,
+        "2020": 75.0,
+        "2025": 90.0
+      },
+      "fact": "Dubai has more beauty salons per square kilometre than any city in the world. Blowdry bars are a standalone business category in Dubai because humidity and heat mean a style only lasts hours, making frequent salon visits a practical rather than purely cosmetic choice."
+    },
+    {
+      "id": "ae_t2_018",
+      "name": "Gold Bracelet (18K, 2g, basic design, Gold Souk)",
+      "emoji": "💛",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 25.0,
+        "2000": 28.0,
+        "2005": 35.0,
+        "2010": 70.0,
+        "2015": 65.0,
+        "2020": 110.0,
+        "2025": 90.0
+      },
+      "fact": "Dubai's Gold Souk has 380 retailers and sells more gold by weight than any market outside Asia. The souk prices gold at world spot plus a small making charge, making it among the cheapest places on earth to buy gold jewellery."
+    },
+    {
+      "id": "ae_t2_019",
+      "name": "Talabat Delivery (avg order incl. fees)",
+      "emoji": "🛵",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 35.0,
+        "2020": 55.0,
+        "2025": 70.0
+      },
+      "fact": "Talabat launched in Kuwait in 2004 and is now the Arab world's dominant food delivery platform. The UAE generates the highest average order value of any Talabat market because Dubai residents regularly order from restaurants 20 to 30km away."
+    },
+    {
+      "id": "ae_t2_020",
+      "name": "Haircut (men's, hotel barber, upscale salon)",
+      "emoji": "✂️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 30.0,
+        "1995": 40.0,
+        "2000": 50.0,
+        "2005": 60.0,
+        "2010": 70.0,
+        "2015": 80.0,
+        "2020": 90.0,
+        "2025": 99.0
+      },
+      "fact": "Dubai hotel barbershops charge 3 times the price of local barbershops for the same cut, reflecting the dual-economy reality of a city where cost of living spans a 10x range from labour camp to luxury apartment."
+    },
+    {
+      "id": "ae_t2_021",
+      "name": "Luqaimat (fried dumplings with honey, street festival)",
+      "emoji": "🍯",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 7.0,
+        "2000": 10.0,
+        "2005": 12.0,
+        "2010": 15.0,
+        "2015": 18.0,
+        "2020": 20.0,
+        "2025": 25.0
+      },
+      "fact": "Luqaimat are the UAE's national sweet, served at Ramadan, National Day and weddings. The Al Fanar restaurant in Dubai serves them in traditional Emirati costumes as part of a cultural dining experience that has become the city's most booked local restaurant."
+    },
+    {
+      "id": "ae_t2_022",
+      "name": "Metro Day Pass (Dubai, all zones)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 14.0,
+        "2015": 20.0,
+        "2020": 22.0,
+        "2025": 25.0
+      },
+      "fact": "Dubai Metro's Red Line runs 52km from the airport to the Marina and the Gold Class carriage has leather seats and a premium fare. It is the only metro in the world with a dedicated luxury carriage where passengers pay 3x the standard fare for the same journey."
+    },
+    {
+      "id": "ae_t2_023",
+      "name": "Burj Khalifa At the Top (observation deck, advance ticket)",
+      "emoji": "🏙️",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 100.0,
+        "2015": 125.0,
+        "2020": 149.0,
+        "2025": 99.0
+      },
+      "fact": "The Burj Khalifa opened in 2010 as the world's tallest building at 828 metres. Its observation deck sold out on day one and peak-time tickets must be booked 2 weeks in advance. The building has more floors used as residential space than any other supertall structure."
+    },
+    {
+      "id": "ae_t2_024",
+      "name": "Dubai Frame Entry (adult ticket)",
+      "emoji": "🖼️",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 50.0,
+        "2025": 65.0
+      },
+      "fact": "The Dubai Frame was the world's largest picture frame at 150 metres tall when it opened in 2018. One side shows old Dubai and the other modern Dubai, framing 50 years of transformation. It was designed by a Mexican architect who won the design competition but had to fight legally to receive credit."
+    },
+    {
+      "id": "ae_t2_025",
+      "name": "Monthly Home Internet (Etisalat, 100Mbps, basic plan)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 150.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 300.0,
+        "2020": 250.0,
+        "2025": 99.0
+      },
+      "fact": "The UAE has 99% fibre broadband coverage and the world's second-highest fixed internet speeds. Etisalat built the infrastructure faster than almost any country by having a single government-linked operator with unlimited capital and political will."
+    },
+    {
+      "id": "ae_t3_001",
+      "name": "iPhone 16 (standard, 128GB, UAE retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 2200.0,
+        "2015": 2900.0,
+        "2020": 3699.0,
+        "2025": 3999.0
+      },
+      "fact": "The UAE has no import duty on electronics making it the cheapest place in the Arab world to buy iPhones. Dubai airport duty free sells more iPhones per day than any single Apple store globally, purchased by travellers arbitraging the price against their home country."
+    },
+    {
+      "id": "ae_t3_002",
+      "name": "One Night at Atlantis The Palm (base room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 800.0,
+        "2010": 1200.0,
+        "2015": 1400.0,
+        "2020": 1200.0,
+        "2025": 1800.0
+      },
+      "fact": "Atlantis The Palm opened in 2008 at a cost of USD 1.5 billion and its opening party cost USD 20 million, making it the most expensive hotel opening in history. Kylie Minogue performed and 2,000 fireworks were fired from the Burj Al Arab simultaneously."
+    },
+    {
+      "id": "ae_t3_003",
+      "name": "Annual Car Insurance (comprehensive, Toyota Camry)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 1200.0,
+        "2000": 1500.0,
+        "2005": 1800.0,
+        "2010": 2200.0,
+        "2015": 2500.0,
+        "2020": 2200.0,
+        "2025": 3000.0
+      },
+      "fact": "UAE car insurance nearly doubled between 2020 and 2024 as repair costs for advanced driver assistance systems and camera arrays drove claims costs to record levels. The average car repair bill in Dubai is 40% higher than in Germany for equivalent damage."
+    },
+    {
+      "id": "ae_t3_004",
+      "name": "Dubai Desert Safari (evening, camel ride + BBQ)",
+      "emoji": "🌅",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 100.0,
+        "2000": 150.0,
+        "2005": 200.0,
+        "2010": 280.0,
+        "2015": 350.0,
+        "2020": 300.0,
+        "2025": 450.0
+      },
+      "fact": "Dubai Desert Safari is the emirate's most booked tourist activity with 2 million participants annually. The Bedouin camps that run the tours have no actual Bedouin connection but generate AED 1.8 billion annually, making the desert experience one of UAE's most profitable tourism products."
+    },
+    {
+      "id": "ae_t3_005",
+      "name": "Economy Flight (Dubai to London, one way, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 1400.0,
+        "2000": 1200.0,
+        "2005": 1000.0,
+        "2010": 900.0,
+        "2015": 750.0,
+        "2020": 600.0,
+        "2025": 1200.0
+      },
+      "fact": "Emirates launched in 1985 with two aircraft and USD 10 million in capital. It grew into the world's largest international airline and the Dubai to London route is now the world's busiest intercontinental air route by passenger numbers."
+    },
+    {
+      "id": "ae_t3_006",
+      "name": "MacBook Air M2 (UAE retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 4500.0,
+        "2015": 4000.0,
+        "2020": 4299.0,
+        "2025": 4599.0
+      },
+      "fact": "UAE MacBook prices are among the cheapest in the Arab world because of zero import duty on technology. Apple opened its first UAE stores in Dubai Mall and Mall of the Emirates in 2021 and both rank in the top 10 Apple stores globally by first-day revenue."
+    },
+    {
+      "id": "ae_t3_007",
+      "name": "PlayStation 5 (disc edition, UAE retail)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 2249.0,
+        "2025": 2099.0
+      },
+      "fact": "UAE PlayStation prices are among the Arab world's lowest due to no import duty and competitive retail. The UAE has the highest console ownership rate in the Arab world and gaming cafes disappeared entirely as home gaming surpassed their offer."
+    },
+    {
+      "id": "ae_t3_008",
+      "name": "Monthly Apartment Rent (1-bedroom, Dubai Marina, avg)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 2000.0,
+        "2005": 5000.0,
+        "2010": 5500.0,
+        "2015": 6500.0,
+        "2020": 5000.0,
+        "2025": 8500.0
+      },
+      "fact": "Dubai Marina rents hit record highs in 2023 as a wave of Russians, Ukrainians and crypto entrepreneurs relocated to Dubai after the Ukraine war and various market collapses. Rents in some buildings rose 70% in 18 months."
+    },
+    {
+      "id": "ae_t3_009",
+      "name": "Annual Gym Membership (Fitness First, premium)",
+      "emoji": "💪",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 600.0,
+        "2000": 900.0,
+        "2005": 1500.0,
+        "2010": 2500.0,
+        "2015": 3000.0,
+        "2020": 2800.0,
+        "2025": 3500.0
+      },
+      "fact": "Fitness First has more UAE members per location than anywhere else in the world and its Dubai centres are the company's most profitable. The UAE gym market grew 25% between 2020 and 2024 as post-COVID health consciousness became a permanent lifestyle shift."
+    },
+    {
+      "id": "ae_t3_010",
+      "name": "Annual School Fees (GEMS international, standard year)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 8000.0,
+        "2000": 12000.0,
+        "2005": 20000.0,
+        "2010": 35000.0,
+        "2015": 48000.0,
+        "2020": 55000.0,
+        "2025": 68000.0
+      },
+      "fact": "GEMS Education is the world's largest private school operator and was founded in Dubai in 1959. Its 47 UAE schools serve 125,000 students and school fees have risen faster than any other consumer cost in Dubai, driven by expat families competing for English-curriculum places."
+    },
+    {
+      "id": "ae_t3_011",
+      "name": "Private Hospital Consultation (specialist, Mediclinic)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 150.0,
+        "2000": 250.0,
+        "2005": 400.0,
+        "2010": 500.0,
+        "2015": 600.0,
+        "2020": 700.0,
+        "2025": 900.0
+      },
+      "fact": "The UAE mandates private health insurance for all residents, making it the only GCC country where healthcare is effectively fully privatised for the non-citizen population. Mediclinic and Cleveland Clinic Abu Dhabi serve as anchors for the UAE's medical tourism strategy."
+    },
+    {
+      "id": "ae_t3_012",
+      "name": "Gold (10 grams, 22K, Gold Souk Dubai)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 520.0,
+        "2000": 500.0,
+        "2005": 700.0,
+        "2010": 1600.0,
+        "2015": 1500.0,
+        "2020": 2900.0,
+        "2025": 4400.0
+      },
+      "fact": "Dubai's Gold Souk sells gold at world spot price plus a small making charge, making it among the cheapest places on earth to buy gold jewellery. The souk operates on trust, with deals worth millions settled by handshake among traders who have known each other for decades."
+    },
+    {
+      "id": "ae_t3_013",
+      "name": "Dubai Aquarium Entry (adult, Dubai Mall)",
+      "emoji": "🐠",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 100.0,
+        "2015": 120.0,
+        "2020": 130.0,
+        "2025": 99.0
+      },
+      "fact": "Dubai Aquarium is the world's largest indoor aquarium and its tank holds 10 million litres. It is inside a shopping mall, making it the only large-scale marine attraction you can visit in the middle of a shopping trip."
+    },
+    {
+      "id": "ae_t3_014",
+      "name": "Ski Dubai Day Pass (Mall of the Emirates)",
+      "emoji": "⛷️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 150.0,
+        "2010": 200.0,
+        "2015": 220.0,
+        "2020": 230.0,
+        "2025": 265.0
+      },
+      "fact": "Ski Dubai operates an indoor ski slope at -4°C inside a mall where the outside temperature reaches 48°C in summer. It opened in 2005 and is still the largest indoor ski slope in the world outside of an actual winter climate country."
+    },
+    {
+      "id": "ae_t3_015",
+      "name": "Burj Khalifa At the Top SKY (level 148, premium ticket)",
+      "emoji": "🌆",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 400.0,
+        "2015": 500.0,
+        "2020": 550.0,
+        "2025": 765.0
+      },
+      "fact": "The Burj Khalifa's level 148 observation deck is the world's highest public viewing platform at 555 metres. Tickets must be booked months in advance for sunset slots and the AED 765 price makes it the world's most expensive outdoor viewing experience per minute of time at the top."
+    },
+    {
+      "id": "ae_t3_016",
+      "name": "Formula 1 Abu Dhabi GP (grandstand, 3-day pass)",
+      "emoji": "🏎️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 500.0,
+        "2015": 700.0,
+        "2020": 750.0,
+        "2025": 1100.0
+      },
+      "fact": "Abu Dhabi's Yas Marina Circuit hosts the final race of every F1 season and the circuit was designed to allow cars to drive through a hotel that straddles the track. The Hotel was the world's most unusual building when it opened in 2009."
+    },
+    {
+      "id": "ae_t3_017",
+      "name": "Wedding Venue Booking (5-star hotel, per table)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1200.0,
+        "2005": 1500.0,
+        "2010": 2000.0,
+        "2015": 2500.0,
+        "2020": 2000.0,
+        "2025": 3000.0
+      },
+      "fact": "Dubai weddings are the largest single-event revenue category for five-star hotels and a mid-sized UAE wedding of 400 guests costs AED 400,000 minimum. Dubai is the Arab world's premier wedding destination and Indian destination weddings generate AED 2 billion annually."
+    },
+    {
+      "id": "ae_t3_018",
+      "name": "Dyson V15 (UAE retail)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 1500.0,
+        "2020": 1800.0,
+        "2025": 2000.0
+      },
+      "fact": "Dyson UAE prices are among the cheapest in the Arab world because of zero import duty. UAE customers buy more Dyson units per household than any other regional market, partly because sand filtration requirements make high-suction vacuums a practical necessity."
+    },
+    {
+      "id": "ae_t3_019",
+      "name": "Annual Private Health Insurance (individual, comprehensive)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 1000.0,
+        "2000": 1500.0,
+        "2005": 2500.0,
+        "2010": 4000.0,
+        "2015": 5000.0,
+        "2020": 6000.0,
+        "2025": 8000.0
+      },
+      "fact": "UAE employers are legally required to provide health insurance for all employees and dependents. The mandatory insurance market is AED 22 billion annually and covers 3.5 million people, making it the world's largest employer-mandated private health market relative to population size."
+    },
+    {
+      "id": "ae_t3_020",
+      "name": "Hotel Night (3-star, Dubai, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 150.0,
+        "2000": 200.0,
+        "2005": 300.0,
+        "2010": 400.0,
+        "2015": 450.0,
+        "2020": 350.0,
+        "2025": 550.0
+      },
+      "fact": "Dubai has 140,000 hotel rooms, the highest concentration per square kilometre of any non-island destination. It plans to reach 200,000 rooms by 2030, adding capacity faster than any city except new Chinese tourism destinations."
+    },
+    {
+      "id": "ae_t3_021",
+      "name": "Dubai Marina Yacht Tour (2-hour, shared, per person)",
+      "emoji": "⛵",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 100.0,
+        "2010": 150.0,
+        "2015": 200.0,
+        "2020": 180.0,
+        "2025": 250.0
+      },
+      "fact": "Dubai Marina is the world's largest man-made marina and houses 200 high-rise towers built in under 15 years. The marina was a sandy desert in 1997 and was fully developed by 2012, the fastest large-scale waterfront development in urban history."
+    },
+    {
+      "id": "ae_t3_022",
+      "name": "Emirates Lounge Access (Dubai Airport, single visit)",
+      "emoji": "✈️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 150.0,
+        "2010": 200.0,
+        "2015": 250.0,
+        "2020": 280.0,
+        "2025": 350.0
+      },
+      "fact": "Dubai International Airport is the world's busiest for international passenger traffic with 90 million passengers per year. Its terminal 3, built exclusively for Emirates, is the world's largest airport terminal by floor area at 1.7 million square metres."
+    },
+    {
+      "id": "ae_t3_023",
+      "name": "Rolex Service (official, Submariner, Richemont Approved)",
+      "emoji": "🔧",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 700.0,
+        "2000": 900.0,
+        "2005": 1200.0,
+        "2010": 1500.0,
+        "2015": 1800.0,
+        "2020": 2200.0,
+        "2025": 3000.0
+      },
+      "fact": "Dubai has the highest concentration of authorised Rolex dealers per square kilometre outside Switzerland. The Gold Souk area has 20 Rolex ADs within a 10-minute walk, making Dubai the most competitive market for luxury watch retail on earth."
+    },
+    {
+      "id": "ae_t3_024",
+      "name": "Annual University Fees (UAEU, domestic student, AED/year)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 2000.0,
+        "2000": 5000.0,
+        "2005": 8000.0,
+        "2010": 10000.0,
+        "2015": 12000.0,
+        "2020": 14000.0,
+        "2025": 18000.0
+      },
+      "fact": "Emirati nationals receive free university education under a federal scholarship programme that also pays a monthly stipend. The AED 18,000 listed fee is paid only by non-citizens, while the 11% of UAE residents who are nationals attend for free."
+    },
+    {
+      "id": "ae_t3_025",
+      "name": "Rolex Submariner (new retail, Dubai authorised dealer)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 6500.0,
+        "2000": 8000.0,
+        "2005": 10000.0,
+        "2010": 13000.0,
+        "2015": 16000.0,
+        "2020": 18000.0,
+        "2025": 21000.0
+      },
+      "fact": "Dubai is the world's second-largest grey market for Rolex watches after Hong Kong. Authorised dealer waiting lists stretch 2 to 4 years but grey market dealers on WhatsApp can source a Submariner the same day for a 20-30% premium over retail."
+    },
+    {
+      "id": "ae_t4_001",
+      "name": "New Toyota Land Cruiser 300 (base, UAE retail)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 60000.0,
+        "1995": 80000.0,
+        "2000": 100000.0,
+        "2005": 130000.0,
+        "2010": 160000.0,
+        "2015": 185000.0,
+        "2020": 220000.0,
+        "2025": 280000.0
+      },
+      "fact": "The Toyota Land Cruiser has a 2-year waiting list in the UAE and is the official vehicle of every UAE government ministry. A dealer in Dubai sold one Land Cruiser on the spot for AED 800,000 in 2022 at the peak of the shortage, 3x the retail price."
+    },
+    {
+      "id": "ae_t4_002",
+      "name": "Gold (troy ounce, AED spot, Dubai)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 1500.0,
+        "2000": 1100.0,
+        "2005": 1700.0,
+        "2010": 5000.0,
+        "2015": 4500.0,
+        "2020": 7200.0,
+        "2025": 11500.0
+      },
+      "fact": "Dubai is the world's third-largest gold trading hub and the Gold Souk's 300 tonne annual throughput exceeds the entire gold mining output of most countries. The Dubai Gold and Commodities Exchange sets benchmark prices referenced across the Middle East."
+    },
+    {
+      "id": "ae_t4_003",
+      "name": "iPhone 16 Pro Max (256GB, UAE retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 3500.0,
+        "2015": 4500.0,
+        "2020": 5499.0,
+        "2025": 9999.0
+      },
+      "fact": "Dubai Duty Free is the world's single largest retail outlet for iPhones and the UAE's zero duty on electronics makes it the cheapest iPhone market in the Middle East. Travellers from 30 countries fly through Dubai specifically to purchase electronics."
+    },
+    {
+      "id": "ae_t4_004",
+      "name": "Average Dubai Studio Apartment Purchase (ready, JVC)",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 150000.0,
+        "2005": 450000.0,
+        "2010": 350000.0,
+        "2015": 400000.0,
+        "2020": 320000.0,
+        "2025": 500000.0
+      },
+      "fact": "Dubai property can be bought by foreigners in designated freehold zones, a rule introduced in 2002 that transformed the market. Property prices peaked in 2008, crashed 60% by 2011, then recovered to new highs by 2023, the most volatile housing cycle of any major city."
+    },
+    {
+      "id": "ae_t4_005",
+      "name": "Annual Private School Fees (elite international, Dubai)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 15000.0,
+        "2000": 25000.0,
+        "2005": 45000.0,
+        "2010": 65000.0,
+        "2015": 85000.0,
+        "2020": 90000.0,
+        "2025": 110000.0
+      },
+      "fact": "Dubai's top British curriculum schools charge AED 110,000 per year and have waiting lists from birth. Over 70% of Dubai children attend private schools because public schools are only available to UAE nationals, making the city entirely dependent on private education."
+    },
+    {
+      "id": "ae_t4_006",
+      "name": "Hermès Birkin 30 (Togo leather, Dubai retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 14000.0,
+        "2000": 20000.0,
+        "2005": 28000.0,
+        "2010": 38000.0,
+        "2015": 46000.0,
+        "2020": 55000.0,
+        "2025": 78000.0
+      },
+      "fact": "Dubai's Hermès boutique in The Dubai Mall reportedly sells more Birkin bags per year than any store outside Paris. Gulf buyers, particularly Emirati women and Saudi visitors, account for 30% of Hermès global revenue despite being under 1% of the world's population."
+    },
+    {
+      "id": "ae_t4_007",
+      "name": "Emirates Business Class (Dubai to London, one way)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 7000.0,
+        "2000": 9000.0,
+        "2005": 8000.0,
+        "2010": 10000.0,
+        "2015": 11000.0,
+        "2020": 8000.0,
+        "2025": 15000.0
+      },
+      "fact": "Emirates Business Class on the A380 has fully flat beds and on-board showers, a feature available only on Emirates aircraft worldwide. The shower spa was added in 2008 and Emirates remains the only airline offering in-flight showering on a commercial route."
+    },
+    {
+      "id": "ae_t4_008",
+      "name": "Burj Al Arab Suite (one night, entry level)",
+      "emoji": "🌊",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 4000.0,
+        "2005": 6000.0,
+        "2010": 8000.0,
+        "2015": 10000.0,
+        "2020": 8000.0,
+        "2025": 16000.0
+      },
+      "fact": "The Burj Al Arab calls itself the world's only 7-star hotel, a category it invented. Every suite is on two floors and guests are met by a Rolls-Royce at the airport. At AED 16,000 for the cheapest room it generates AED 1 billion annually from 202 suites."
+    },
+    {
+      "id": "ae_t4_009",
+      "name": "Emirates Palace Abu Dhabi (1 night, entry suite, off-peak)",
+      "emoji": "🏰",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 3500.0,
+        "2010": 5000.0,
+        "2015": 6500.0,
+        "2020": 5500.0,
+        "2025": 9500.0
+      },
+      "fact": "Emirates Palace cost USD 3 billion to build in 2005 and uses 1 tonne of 24K gold in its interior fittings. Its reception atrium is so large that clouds form indoors when the weather shifts, a phenomenon that staff experience 2 to 3 times per year."
+    },
+    {
+      "id": "ae_t4_010",
+      "name": "Louis Vuitton Neverfull MM (Dubai Mall retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 1800.0,
+        "2000": 2500.0,
+        "2005": 3500.0,
+        "2010": 5000.0,
+        "2015": 6000.0,
+        "2020": 7000.0,
+        "2025": 9500.0
+      },
+      "fact": "Dubai Mall is the world's most visited shopping mall with 105 million visitors per year, more than Mecca. Its luxury wing contains 80 flagship stores of brands that have no other outlet in the entire Arab world, making Dubai the default luxury shopping destination for 400 million people."
+    },
+    {
+      "id": "ae_t4_011",
+      "name": "Rolls-Royce Ghost (new, UAE retail)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 350000.0,
+        "1995": 500000.0,
+        "2000": 700000.0,
+        "2005": 900000.0,
+        "2010": 1200000.0,
+        "2015": 1500000.0,
+        "2020": 1700000.0,
+        "2025": 2200000.0
+      },
+      "fact": "The UAE is Rolls-Royce's global number one market by volume. Dubai Police operates a fleet of supercars including Bugatti, Lamborghini and Rolls-Royce for community policing, a strategy that generated more positive global press than any police PR campaign in history."
+    },
+    {
+      "id": "ae_t4_012",
+      "name": "Palm Jumeirah Villa (3-bedroom, purchase price, avg)",
+      "emoji": "🌴",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 4000000.0,
+        "2010": 5000000.0,
+        "2015": 6000000.0,
+        "2020": 5500000.0,
+        "2025": 15000000.0
+      },
+      "fact": "Palm Jumeirah villas tripled in price between 2020 and 2024 as demand from Russian, European and Indian ultra-wealthy buyers exhausted supply. A Palm villa sold for AED 300 million in 2023, the most expensive residential property sale in UAE history."
+    },
+    {
+      "id": "ae_t4_013",
+      "name": "Full UAE Wedding (average total spend)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 100000.0,
+        "2000": 150000.0,
+        "2005": 250000.0,
+        "2010": 400000.0,
+        "2015": 500000.0,
+        "2020": 400000.0,
+        "2025": 700000.0
+      },
+      "fact": "Emirati weddings average AED 700,000 and often have separate parties for men and women each the size of a major concert. The UAE government offers marriage grants of AED 70,000 to Emirati nationals to encourage marriage within the national community."
+    },
+    {
+      "id": "ae_t4_014",
+      "name": "Annual Private Health Insurance (family, premium plan)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 5000.0,
+        "2000": 10000.0,
+        "2005": 20000.0,
+        "2010": 30000.0,
+        "2015": 40000.0,
+        "2020": 45000.0,
+        "2025": 60000.0
+      },
+      "fact": "A premium family health plan covering 4 people in the UAE costs AED 60,000 annually. Employers who offer health insurance as a benefit report that it is the single most valued employment perk above salary in every UAE workforce survey."
+    },
+    {
+      "id": "ae_t4_015",
+      "name": "Private Jet Charter (Dubai to London, ultra-long range)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200000.0,
+        "2005": 280000.0,
+        "2010": 350000.0,
+        "2015": 400000.0,
+        "2020": 380000.0,
+        "2025": 500000.0
+      },
+      "fact": "The UAE has the Arab world's largest private aviation fleet. Dubai's private jet terminal at Al Maktoum International handled 28,000 movements in 2023. The city is the private aviation hub of the Middle East with more operators per square km than any non-European city."
+    },
+    {
+      "id": "ae_t4_016",
+      "name": "Dubai Downtown Penthouse (2-bed, Burj Khalifa area, purchase)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 3000000.0,
+        "2010": 4000000.0,
+        "2015": 5000000.0,
+        "2020": 4500000.0,
+        "2025": 12000000.0
+      },
+      "fact": "Downtown Dubai penthouses tripled in price between 2020 and 2025. A penthouse in the Burj Khalifa sold for AED 45 million in 2024, making it the most expensive apartment ever sold in the UAE and second most expensive in the Arab world."
+    },
+    {
+      "id": "ae_t4_017",
+      "name": "Chanel Classic Flap Medium (Dubai Mall retail)",
+      "emoji": "👝",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 2500.0,
+        "1995": 4000.0,
+        "2000": 6000.0,
+        "2005": 8000.0,
+        "2010": 12000.0,
+        "2015": 14000.0,
+        "2020": 17000.0,
+        "2025": 25000.0
+      },
+      "fact": "Chanel's Dubai Mall boutique is among its 5 highest-grossing globally and regularly has queues of shoppers waiting before opening. The 70% price increase between 2020 and 2022 triggered overnight queuing, with buyers hoping to resell the same day at a profit."
+    },
+    {
+      "id": "ae_t4_018",
+      "name": "Full Race Weekend VIP at Abu Dhabi F1 (per person)",
+      "emoji": "🏁",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 10000.0,
+        "2015": 15000.0,
+        "2020": 18000.0,
+        "2025": 30000.0
+      },
+      "fact": "Abu Dhabi F1 VIP hospitality is the most expensive single-race entertainment experience in sport. The paddock club at Yas Marina includes unlimited Michelin-starred dining and the opportunity to meet drivers, attracting tech billionaires, royalty and celebrities annually."
+    },
+    {
+      "id": "ae_t4_019",
+      "name": "Annual Country Club Membership (Dubai, top tier)",
+      "emoji": "⛳",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 20000.0,
+        "2000": 35000.0,
+        "2005": 50000.0,
+        "2010": 75000.0,
+        "2015": 90000.0,
+        "2020": 85000.0,
+        "2025": 120000.0
+      },
+      "fact": "The Emirates Golf Club hosts the Dubai Desert Classic and its Majlis Course is the world's only desert course to have held a European Tour event every year since 1989. Membership waiting lists exceed 5 years and transfers cost AED 350,000 on the secondary market."
+    },
+    {
+      "id": "ae_t4_020",
+      "name": "World Islands Private Island Purchase (avg, small)",
+      "emoji": "🌊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 5000000.0,
+        "2010": 4000000.0,
+        "2015": 5000000.0,
+        "2020": 8000000.0,
+        "2025": 25000000.0
+      },
+      "fact": "The World Islands are 300 artificial islands shaped like a world map built from 321 million cubic metres of sand dredged from the sea. Most were sold but never developed due to the 2008 financial crisis. By 2024 only a handful had been built on, the most ambitious urban project still awaiting its occupants."
+    },
+    {
+      "id": "ae_t4_021",
+      "name": "Bugatti Chiron (new, UAE dealer)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 7000000.0,
+        "2015": 9000000.0,
+        "2020": 11000000.0,
+        "2025": 14000000.0
+      },
+      "fact": "UAE has the world's highest per-capita Bugatti ownership and Abu Dhabi has more Bugattis than any city outside Monaco. A private collection in Abu Dhabi holds 5 Bugattis including the world's only Bugatti Atlantic replica, stored in a climate-controlled underground museum."
+    },
+    {
+      "id": "ae_t4_022",
+      "name": "Louvre Abu Dhabi Annual Membership (premium individual)",
+      "emoji": "🏛️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 15000.0,
+        "2025": 20000.0
+      },
+      "fact": "Abu Dhabi paid France EUR 400 million to use the Louvre name for 30 years, the largest cultural branding deal in history. The Jean Nouvel-designed dome allows stars to be seen through it at night, making it the only museum where the architecture generates as much discussion as the art."
+    },
+    {
+      "id": "ae_t4_023",
+      "name": "Kitchen Renovation (premium, Dubai villa, full refit)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 30000.0,
+        "2005": 60000.0,
+        "2010": 80000.0,
+        "2015": 100000.0,
+        "2020": 110000.0,
+        "2025": 150000.0
+      },
+      "fact": "Dubai kitchen renovations are 3 to 4 times more expensive than European equivalents because all materials are imported and skilled tradespeople command UAE wages. German and Italian kitchen brands opened Dubai showrooms specifically because the market for AED 150,000 kitchens is larger here than in Germany."
+    },
+    {
+      "id": "ae_t4_024",
+      "name": "Full Yacht Charter (40ft, Dubai Marina, week)",
+      "emoji": "⛵",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 50000.0,
+        "2010": 80000.0,
+        "2015": 100000.0,
+        "2020": 90000.0,
+        "2025": 130000.0
+      },
+      "fact": "Dubai Marina has 200 yachts available for charter and the Dubai Boat Show is the Middle East's largest maritime event. The UAE registry is used by more international yacht owners than the flags of France and Italy combined because of low fees and no taxation."
+    },
+    {
+      "id": "ae_t4_025",
+      "name": "Penthouse at Address Sky View (purchase price, per unit)",
+      "emoji": "🌇",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 15000000.0,
+        "2025": 45000000.0
+      },
+      "fact": "Address Sky View Penthouses tripled in value between 2020 and 2025, the fastest property appreciation of any building category in the world. Dubai's property market has no capital gains tax and no annual property tax, making it the world's most favourable jurisdiction for real estate investment returns."
+    }
+  ]
+}

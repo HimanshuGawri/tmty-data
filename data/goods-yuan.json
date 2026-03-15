@@ -1,0 +1,1808 @@
+{
+  "country": "CN",
+  "country_name": "China",
+  "currency_symbol": "¥",
+  "currency_code": "CNY",
+  "items": [
+    {
+      "id": "cn_t1_001",
+      "name": "Bowl of Lanzhou Beef Noodles (street restaurant)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 8.0,
+        "2020": 10.0,
+        "2025": 15.0
+      },
+      "fact": "Lanzhou beef noodles are China's most-eaten restaurant dish, with 300 million bowls consumed daily. The broth requires 3 hours to prepare and the noodles are hand-pulled to order."
+    },
+    {
+      "id": "cn_t1_002",
+      "name": "Bottle of Nongfu Spring Water (550ml)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 2.0
+      },
+      "fact": "Nongfu Spring founder Zhong Shanshan became China's richest person selling water at ¥2 a bottle. The brand holds the largest IPO in Hong Kong history for a consumer goods company."
+    },
+    {
+      "id": "cn_t1_003",
+      "name": "Baozi (steamed bun, pork, street stall)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.3,
+        "2000": 0.5,
+        "2005": 0.8,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 3.0
+      },
+      "fact": "China consumes 10 billion baozi daily. The filling varies dramatically by region and Shanghainese soup dumplings are considered almost a different food from Beijing plain steamed buns."
+    },
+    {
+      "id": "cn_t1_004",
+      "name": "Bus Fare (city, single ride, average)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 1.0,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 2.0
+      },
+      "fact": "Beijing and Shanghai made buses free for seniors over 65 in 2000, a policy still in effect. Over 40% of urban trips in Chinese cities are taken by public transport, among the highest in the world."
+    },
+    {
+      "id": "cn_t1_005",
+      "name": "Instant Noodles (Master Kong, single pack)",
+      "emoji": "🍝",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.5,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 3.5
+      },
+      "fact": "China consumes 40 billion packs of instant noodles per year, more than the rest of the world combined. Master Kong, owned by a Taiwanese conglomerate, commands 45% of the Chinese market."
+    },
+    {
+      "id": "cn_t1_006",
+      "name": "Can of Coca-Cola (330ml, convenience store)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 1.5,
+        "2000": 2.0,
+        "2005": 2.0,
+        "2010": 2.5,
+        "2015": 3.0,
+        "2020": 3.0,
+        "2025": 3.5
+      },
+      "fact": "Coca-Cola re-entered China in 1979 as one of the first foreign brands after reform and opening. For years it sold from street carts and was considered a luxury item only seen on special occasions."
+    },
+    {
+      "id": "cn_t1_007",
+      "name": "Egg (single, standard, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.3,
+        "2000": 0.4,
+        "2005": 0.5,
+        "2010": 0.6,
+        "2015": 0.8,
+        "2020": 1.0,
+        "2025": 1.2
+      },
+      "fact": "China produces 35% of the world's eggs and the egg price index is tracked weekly by the National Development and Reform Commission as a key indicator of rural household income."
+    },
+    {
+      "id": "cn_t1_008",
+      "name": "Newspaper (People's Daily, daily)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.05,
+        "1995": 0.2,
+        "2000": 0.5,
+        "2005": 0.5,
+        "2010": 1.0,
+        "2015": 1.0,
+        "2020": 1.0,
+        "2025": 1.0
+      },
+      "fact": "The People's Daily is officially the world's largest newspaper by circulation at 3 million copies. It has held its ¥1 price since 2010, partly subsidised as a Party communication organ."
+    },
+    {
+      "id": "cn_t1_009",
+      "name": "Cup of Jasmine Tea (teahouse, simple)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 2.0,
+        "2010": 3.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 8.0
+      },
+      "fact": "China grows 3 million tonnes of tea annually and is the world's largest producer and consumer. Jasmine tea production requires each leaf to be layered with fresh jasmine flowers three separate times."
+    },
+    {
+      "id": "cn_t1_010",
+      "name": "Jianbing (street crepe, Beijing)",
+      "emoji": "🫓",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 2.0,
+        "2010": 4.0,
+        "2015": 6.0,
+        "2020": 8.0,
+        "2025": 12.0
+      },
+      "fact": "Jianbing is Beijing's most popular street breakfast, made fresh on a flat iron griddle in under 90 seconds. A city crackdown on unlicensed street vendors in 2017 temporarily made jianbing harder to find than a taxi."
+    },
+    {
+      "id": "cn_t1_011",
+      "name": "Bag of Rice (standard, 1kg, supermarket)",
+      "emoji": "🍚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.2,
+        "2000": 1.5,
+        "2005": 1.8,
+        "2010": 3.0,
+        "2015": 4.0,
+        "2020": 5.0,
+        "2025": 7.0
+      },
+      "fact": "China produces and consumes more rice than any other country at 150 million tonnes annually. The government maintains strategic rice reserves large enough to feed the country for 6 months."
+    },
+    {
+      "id": "cn_t1_012",
+      "name": "Postage Stamp (standard domestic letter)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.08,
+        "1995": 0.2,
+        "2000": 0.8,
+        "2005": 0.8,
+        "2010": 0.8,
+        "2015": 0.8,
+        "2020": 0.8,
+        "2025": 0.8
+      },
+      "fact": "China Post has held its domestic stamp at ¥0.80 since 2000, one of the world's longest price freezes on postage. It runs the world's largest postal network with 50,000 outlets across rural China."
+    },
+    {
+      "id": "cn_t1_013",
+      "name": "Scallion Pancake (cong you bing, street)",
+      "emoji": "🥞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 6.0
+      },
+      "fact": "Shanghai's scallion pancake is debated as intensely as pizza in Naples. Locals track which stalls use lard versus oil and queue 30 minutes for the best version in the city."
+    },
+    {
+      "id": "cn_t1_014",
+      "name": "Pack of White Rabbit Candy (108g)",
+      "emoji": "🍬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 4.0,
+        "2015": 5.0,
+        "2020": 6.0,
+        "2025": 8.0
+      },
+      "fact": "White Rabbit candy was gifted to Nixon during his 1972 China visit and became China's first globally recognised confectionery brand. Its rice paper wrapper is edible, a detail that still surprises foreign buyers."
+    },
+    {
+      "id": "cn_t1_015",
+      "name": "Tofu (firm, 400g, wet market)",
+      "emoji": "⬜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.5,
+        "2000": 0.8,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 4.0
+      },
+      "fact": "China invented tofu over 2,000 years ago and it remains the cheapest source of protein in the country. Stinky tofu, fermented for months, is so pungent it has been banned from some subway stations."
+    },
+    {
+      "id": "cn_t1_016",
+      "name": "Red Bull (250ml can, convenience store)",
+      "emoji": "🐂",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 4.0,
+        "2000": 5.0,
+        "2005": 6.0,
+        "2010": 6.0,
+        "2015": 6.0,
+        "2020": 6.0,
+        "2025": 6.0
+      },
+      "fact": "China's Red Bull is a separate formula licensed from the Thai original and held its ¥6 price for over 20 years. A legal battle over the licence ran for 8 years, creating two competing 'Red Bulls' sold simultaneously in China."
+    },
+    {
+      "id": "cn_t1_017",
+      "name": "Pack of Lays Chips (40g, convenience store)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 2.5,
+        "2010": 3.0,
+        "2015": 4.0,
+        "2020": 5.0,
+        "2025": 6.0
+      },
+      "fact": "Lay's China launches new flavours every year including Cucumber, Blueberry and Hot Pot. China is PepsiCo's largest snack market outside the US, with over 300 flavour variants trialled since 1994."
+    },
+    {
+      "id": "cn_t1_018",
+      "name": "Shared Bike Ride (Meituan/Hello, 30 minutes)",
+      "emoji": "🚲",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0.5,
+        "2020": 1.5,
+        "2025": 3.0
+      },
+      "fact": "China launched shared bikes in 2015 and within 2 years had 70 million in circulation. Ofo and Mobike collapsed leaving millions of bikes rusting in giant graveyards after the VC money ran out."
+    },
+    {
+      "id": "cn_t1_019",
+      "name": "Shao Kao Skewer (BBQ lamb, street, Xinjiang style)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 5.0
+      },
+      "fact": "Xinjiang lamb skewers are sold on night market streets across all of China. The spice blend of cumin, chilli and salt is so distinct that Chinese people can identify the origin of a skewer blind."
+    },
+    {
+      "id": "cn_t1_020",
+      "name": "Pen (Aihao ballpoint, single)",
+      "emoji": "🖊️",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.3,
+        "2000": 0.5,
+        "2005": 0.8,
+        "2010": 1.0,
+        "2015": 1.5,
+        "2020": 2.0,
+        "2025": 2.0
+      },
+      "fact": "China manufactures 38 billion ballpoint pens per year, 80% of the world's total. Until 2017 it could not make the tiny tungsten carbide ball inside and had to import it from Germany and Japan."
+    },
+    {
+      "id": "cn_t1_021",
+      "name": "Sunflower Seeds (kuazi, 100g, snack pack)",
+      "emoji": "🌻",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 5.0
+      },
+      "fact": "Cracking sunflower seeds is China's national leisure habit, consumed while watching TV, playing mahjong or socialising. CCTV estimated Chinese people crack 500 billion seeds per year."
+    },
+    {
+      "id": "cn_t1_022",
+      "name": "Bottle of Soy Sauce (Lee Kum Kee, 150ml)",
+      "emoji": "🍶",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 9.0
+      },
+      "fact": "Lee Kum Kee invented oyster sauce in 1888 after accidentally overcooking oysters and discovering the reduced liquid tasted exceptional. It now sells over 200 sauces in 100 countries."
+    },
+    {
+      "id": "cn_t1_023",
+      "name": "Metro Fare (Shanghai, minimum)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 3.0,
+        "2015": 3.0,
+        "2020": 3.0,
+        "2025": 4.0
+      },
+      "fact": "Shanghai Metro opened in 1993 and is now the world's longest metro system at 831 kilometres. It carries 12 million passengers daily, more than the entire population of many countries."
+    },
+    {
+      "id": "cn_t1_024",
+      "name": "Mooncake (single, standard, Mid-Autumn Festival)",
+      "emoji": "🥮",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 15.0
+      },
+      "fact": "Mooncakes generated ¥25 billion in sales during the 2023 Mid-Autumn Festival. The government banned luxury gift mooncake boxes worth thousands of yuan in 2013 as an anti-corruption measure."
+    },
+    {
+      "id": "cn_t1_025",
+      "name": "Box of Matches (standard, 50 sticks)",
+      "emoji": "🔥",
+      "category": "Home",
+      "tier": 1,
+      "prices": {
+        "1990": 0.02,
+        "1995": 0.05,
+        "2000": 0.1,
+        "2005": 0.2,
+        "2010": 0.3,
+        "2015": 0.5,
+        "2020": 0.8,
+        "2025": 1.0
+      },
+      "fact": "China produces 80% of the world's matches and the price rose 50x since 1990. Match factories in Zhangqiu, Shandong have operated continuously since the Qing Dynasty."
+    },
+    {
+      "id": "cn_t2_001",
+      "name": "Hot Pot (per person, standard local restaurant)",
+      "emoji": "🫕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 10.0,
+        "2000": 20.0,
+        "2005": 30.0,
+        "2010": 50.0,
+        "2015": 70.0,
+        "2020": 80.0,
+        "2025": 80.0
+      },
+      "fact": "China has 500,000 hot pot restaurants, more than any other cuisine. The Chongqing style is numbing-spicy from Sichuan peppercorns while Cantonese style uses a clear bone broth."
+    },
+    {
+      "id": "cn_t2_002",
+      "name": "Didi Ride (city taxi, 5km, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 8.0,
+        "2000": 12.0,
+        "2005": 15.0,
+        "2010": 18.0,
+        "2015": 15.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Didi beat Uber in China by spending $1 billion in subsidies in 2015, giving riders free rides and paying drivers bonuses. Uber eventually sold its China business to Didi for a 20% stake."
+    },
+    {
+      "id": "cn_t2_003",
+      "name": "Cinema Ticket (standard 2D, major chain)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 5.0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 40.0,
+        "2015": 60.0,
+        "2020": 60.0,
+        "2025": 80.0
+      },
+      "fact": "China overtook the US as the world's largest film market in 2020. Domestic blockbusters like Ne Zha and The Battle at Lake Changjin have each grossed over ¥5 billion at the Chinese box office."
+    },
+    {
+      "id": "cn_t2_004",
+      "name": "Bubble Tea (standard, Heytea/Nayuki)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 25.0,
+        "2025": 30.0
+      },
+      "fact": "Heytea queues in Shanghai reached 4 hours at peak and the brand reached a ¥60 billion valuation. Premium tea brands sparked a wave of young Chinese choosing tea over coffee for the first time."
+    },
+    {
+      "id": "cn_t2_005",
+      "name": "Maotai Baijiu (50ml miniature, official retail)",
+      "emoji": "🍾",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 25.0,
+        "2005": 50.0,
+        "2010": 120.0,
+        "2015": 100.0,
+        "2020": 130.0,
+        "2025": 50.0
+      },
+      "fact": "Maotai miniatures are sold at airports and train stations as the most gifted item in China. Even the small bottle costs more than a meal because the brand deliberately restricts supply at every size."
+    },
+    {
+      "id": "cn_t2_006",
+      "name": "Haircut (men's, standard barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 20.0,
+        "2015": 30.0,
+        "2020": 40.0,
+        "2025": 60.0
+      },
+      "fact": "A Chinese barbershop haircut cost ¥1 in 1990 and rose 60x in 35 years, among the fastest service inflation anywhere. Hair salons are the most common small business in Chinese cities, outnumbering restaurants."
+    },
+    {
+      "id": "cn_t2_007",
+      "name": "Bottle of Tsingtao Beer (330ml, restaurant)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.5,
+        "2000": 4.0,
+        "2005": 5.0,
+        "2010": 6.0,
+        "2015": 8.0,
+        "2020": 10.0,
+        "2025": 15.0
+      },
+      "fact": "Tsingtao was founded in 1903 by German settlers in Qingdao, which is why it still has a German-style lager recipe. It is China's most exported beer and is sold in over 100 countries."
+    },
+    {
+      "id": "cn_t2_008",
+      "name": "Monthly iQiyi/Youku Streaming Subscription",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 15.0,
+        "2020": 25.0,
+        "2025": 40.0
+      },
+      "fact": "China's streaming platforms iQiyi, Youku and Tencent Video have more combined subscribers than Netflix and Disney+ globally. They produce more original drama content annually than Hollywood."
+    },
+    {
+      "id": "cn_t2_009",
+      "name": "Pack of 20 Cigarettes (Zhongnanhai, standard)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 5.0,
+        "2005": 8.0,
+        "2010": 10.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "China Tobacco is the world's largest corporation by volume, selling 2.4 trillion cigarettes per year. It is state-owned and contributes 7% of total central government tax revenue."
+    },
+    {
+      "id": "cn_t2_010",
+      "name": "Peking Duck (quarter portion, fast-casual Beijing)",
+      "emoji": "🦆",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 30.0,
+        "2000": 60.0,
+        "2005": 80.0,
+        "2010": 100.0,
+        "2015": 120.0,
+        "2020": 138.0,
+        "2025": 90.0
+      },
+      "fact": "Peking duck fast-casual chains like Da Dong Express serve a quarter duck for under ¥100. Traditional full-service versions take 24 hours of preparation and cost 5x more."
+    },
+    {
+      "id": "cn_t2_011",
+      "name": "Monthly WeChat/Tencent Game Pass (basic)",
+      "emoji": "🎮",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 15.0,
+        "2015": 20.0,
+        "2020": 25.0,
+        "2025": 33.0
+      },
+      "fact": "Tencent is the world's largest video game company by revenue, earning more than Sony, Nintendo and Microsoft gaming divisions combined. Honor of Kings alone has 100 million daily active players."
+    },
+    {
+      "id": "cn_t2_012",
+      "name": "High-Speed Rail Ticket (Beijing to Tianjin, one way)",
+      "emoji": "🚄",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 55.0,
+        "2015": 55.0,
+        "2020": 55.0,
+        "2025": 55.0
+      },
+      "fact": "China built 45,000 kilometres of high-speed rail in 15 years, more than the rest of the world combined. The Beijing to Tianjin fare has not increased since the line opened in 2008."
+    },
+    {
+      "id": "cn_t2_013",
+      "name": "Kung Pao Chicken (restaurant, standard portion)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 28.0,
+        "2015": 35.0,
+        "2020": 40.0,
+        "2025": 55.0
+      },
+      "fact": "Kung Pao chicken was named after a Qing Dynasty governor and was briefly renamed 'diced chicken with chillies' during the Cultural Revolution when the dish's imperial association was politically dangerous."
+    },
+    {
+      "id": "cn_t2_014",
+      "name": "McDonald's Big Mac (standard, China)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 9.9,
+        "2000": 10.5,
+        "2005": 11.0,
+        "2010": 14.5,
+        "2015": 18.0,
+        "2020": 22.0,
+        "2025": 28.0
+      },
+      "fact": "McDonald's first China store opened in Shenzhen in 1990 and was considered a tourist attraction. It sold its China business to a state-owned consortium in 2017 and rebranded as 'Jingongmen' in some regions."
+    },
+    {
+      "id": "cn_t2_015",
+      "name": "Monthly Mobile Data Plan (China Mobile, basic 5G)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 50.0,
+        "2000": 80.0,
+        "2005": 80.0,
+        "2010": 58.0,
+        "2015": 38.0,
+        "2020": 29.0,
+        "2025": 29.0
+      },
+      "fact": "China Mobile is the world's largest telecoms company with 1 billion subscribers. Mobile data prices fell 95% between 2010 and 2020 after state pressure on carriers to cut rates and grow digital access."
+    },
+    {
+      "id": "cn_t2_016",
+      "name": "Karaoke Room (KTV, 1 hour, standard room)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 20.0,
+        "2000": 40.0,
+        "2005": 50.0,
+        "2010": 60.0,
+        "2015": 70.0,
+        "2020": 60.0,
+        "2025": 80.0
+      },
+      "fact": "China has over 100,000 KTV venues generating ¥150 billion annually. KTV culture is so embedded in Chinese business life that signing a major deal without a KTV session is considered culturally incomplete."
+    },
+    {
+      "id": "cn_t2_017",
+      "name": "Starbucks Latte (grande, China stores)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 22.0,
+        "2005": 27.0,
+        "2010": 30.0,
+        "2015": 32.0,
+        "2020": 38.0,
+        "2025": 42.0
+      },
+      "fact": "Starbucks China charges more than Starbucks US despite lower wages, a pricing strategy to maintain its luxury positioning. Luckin Coffee disrupted this by offering lattes at ¥9 through a app-only model."
+    },
+    {
+      "id": "cn_t2_018",
+      "name": "Xiaolongbao (soup dumplings, 8 pieces, Din Tai Fung)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 2.0,
+        "1995": 8.0,
+        "2000": 18.0,
+        "2005": 30.0,
+        "2010": 48.0,
+        "2015": 58.0,
+        "2020": 68.0,
+        "2025": 108.0
+      },
+      "fact": "Din Tai Fung's xiaolongbao wrappers must weigh exactly 5 grams and contain exactly 18 folds. The chain has a 2-hour wait in Shanghai and is the only dumpling restaurant with Michelin stars."
+    },
+    {
+      "id": "cn_t2_020",
+      "name": "Dumplings (jiaozi, 20 pieces, standard restaurant)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2.0,
+        "1995": 5.0,
+        "2000": 10.0,
+        "2005": 15.0,
+        "2010": 20.0,
+        "2015": 28.0,
+        "2020": 35.0,
+        "2025": 48.0
+      },
+      "fact": "Dumplings are eaten at Chinese New Year to symbolise wealth because their shape resembles ancient gold ingots. Northern Chinese families fold dumplings together as a family activity on New Year's Eve."
+    },
+    {
+      "id": "cn_t2_021",
+      "name": "Bottle of Wahaha Purified Water (550ml, large pack price)",
+      "emoji": "🫙",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0.8,
+        "2000": 1.0,
+        "2005": 1.2,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 10.0
+      },
+      "fact": "Wahaha founder Zong Qinghou started selling drinks from a school canteen in 1987 and built China's largest beverage company. He remained famous for cycling to work until his eighties."
+    },
+    {
+      "id": "cn_t2_022",
+      "name": "Train Ticket (sleeper berth, Shanghai to Chengdu, soft)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 80.0,
+        "2000": 130.0,
+        "2005": 180.0,
+        "2010": 220.0,
+        "2015": 280.0,
+        "2020": 310.0,
+        "2025": 380.0
+      },
+      "fact": "China's sleeper train network is the most-used overnight rail system in the world with 500 trains running nightly. The experience includes free hot water dispensers and vendors selling noodles at each stop."
+    },
+    {
+      "id": "cn_t2_023",
+      "name": "Manicure (basic, nail salon, tier-2 city)",
+      "emoji": "💅",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 5.0,
+        "2000": 10.0,
+        "2005": 20.0,
+        "2010": 30.0,
+        "2015": 50.0,
+        "2020": 60.0,
+        "2025": 80.0
+      },
+      "fact": "China has more nail salons per capita than any country and trained the majority of nail technicians now working in the US, UK and Australia. The global nail salon industry is largely run by Chinese immigrants trained in Shandong."
+    },
+    {
+      "id": "cn_t2_024",
+      "name": "Durian (single Thai Monthong, 1kg, wet market)",
+      "emoji": "🤢",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 10.0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 30.0,
+        "2015": 40.0,
+        "2020": 60.0,
+        "2025": 80.0
+      },
+      "fact": "China consumes 90% of Thailand's durian exports, spending ¥45 billion per year on the fruit. Durian-flavoured products from milk tea to pizza became a $1 billion category in China between 2018 and 2023."
+    },
+    {
+      "id": "cn_t3_001",
+      "name": "Xiaomi Redmi Smartphone (entry 5G, base model)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 1499.0,
+        "2015": 999.0,
+        "2020": 999.0,
+        "2025": 1099.0
+      },
+      "fact": "Xiaomi launched in 2011 selling a flagship phone for ¥1,999 online only, undercutting competitors by 60%. Its hunger marketing of limited stock drops caused servers to crash and created overnight queues outside offices."
+    },
+    {
+      "id": "cn_t3_002",
+      "name": "Round-trip Flight (Beijing to Shanghai, economy avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 800.0,
+        "2000": 1000.0,
+        "2005": 800.0,
+        "2010": 700.0,
+        "2015": 600.0,
+        "2020": 500.0,
+        "2025": 900.0
+      },
+      "fact": "High-speed rail destroyed Beijing to Shanghai air travel after the route opened in 2011. Airlines lost 25% of passengers in the first year and were forced to cut prices below the rail fare to compete."
+    },
+    {
+      "id": "cn_t3_003",
+      "name": "Hot Pot All-You-Can-Eat (Haidilao, per person)",
+      "emoji": "🫕",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 80.0,
+        "2015": 150.0,
+        "2020": 188.0,
+        "2025": 248.0
+      },
+      "fact": "Haidilao's all-you-can-eat format includes unlimited meat, vegetables, drinks and ice cream. The company is famous for offering free manicures and shoe shines while customers wait for a table."
+    },
+    {
+      "id": "cn_t3_004",
+      "name": "Huawei Band (fitness tracker, base model)",
+      "emoji": "⌚",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 199.0,
+        "2020": 199.0,
+        "2025": 299.0
+      },
+      "fact": "Huawei wearables outsell Apple Watch in China. After US sanctions cut Huawei off from Google services, it built its own HarmonyOS ecosystem from scratch, releasing it to 700 million devices within 2 years."
+    },
+    {
+      "id": "cn_t3_005",
+      "name": "Annual Private Tutoring Course (K-12, per subject)",
+      "emoji": "📚",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1000.0,
+        "2000": 3000.0,
+        "2005": 6000.0,
+        "2010": 10000.0,
+        "2015": 20000.0,
+        "2020": 30000.0,
+        "2025": 40000.0
+      },
+      "fact": "The Chinese government banned for-profit school tutoring in 2021, wiping out ¥1 trillion in market value overnight. Underground tutoring immediately emerged at triple the previous prices."
+    },
+    {
+      "id": "cn_t3_006",
+      "name": "One Night Hotel (5-star, Shanghai, standard room)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 500.0,
+        "2000": 800.0,
+        "2005": 1000.0,
+        "2010": 1200.0,
+        "2015": 1400.0,
+        "2020": 1000.0,
+        "2025": 1800.0
+      },
+      "fact": "Shanghai's Bund hotels offer some of the world's most photographed views. The Peninsula Shanghai took 10 years to build and reproduces its 1929 predecessor building stone-for-stone."
+    },
+    {
+      "id": "cn_t3_007",
+      "name": "BYD Electric Scooter (entry model, 48V)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 1500.0,
+        "2005": 2000.0,
+        "2010": 2200.0,
+        "2015": 2500.0,
+        "2020": 2800.0,
+        "2025": 3500.0
+      },
+      "fact": "China has 350 million electric scooters on its roads, replacing bicycles as the primary urban transport mode. They contribute almost no emissions and travel at speeds that make them faster than cars in congested cities."
+    },
+    {
+      "id": "cn_t3_008",
+      "name": "Maotai Baijiu (500ml, standard, official retail)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 100.0,
+        "2000": 200.0,
+        "2005": 300.0,
+        "2010": 600.0,
+        "2015": 900.0,
+        "2020": 1199.0,
+        "2025": 1499.0
+      },
+      "fact": "Maotai's stock price tracks China's economic sentiment more closely than any index. During the 2022 crackdown on luxury spending its share price fell 40% in one month before recovering."
+    },
+    {
+      "id": "cn_t3_009",
+      "name": "IKEA Billy Bookcase (China price)",
+      "emoji": "📚",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 199.0,
+        "2005": 199.0,
+        "2010": 199.0,
+        "2015": 199.0,
+        "2020": 299.0,
+        "2025": 399.0
+      },
+      "fact": "IKEA China stores receive more visitors than any IKEA in the world because Chinese shoppers use the showroom as a free leisure destination, sleeping on the display beds and eating in the cafeteria without buying anything."
+    },
+    {
+      "id": "cn_t3_010",
+      "name": "iPhone 16 (standard, 128GB, China price)",
+      "emoji": "📲",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 4999.0,
+        "2015": 6088.0,
+        "2020": 6299.0,
+        "2025": 5999.0
+      },
+      "fact": "Apple cut iPhone 16 prices in China in 2024 to fight Huawei's comeback after sanctions. It was the first time Apple lowered a new iPhone launch price in the same market within one year of release."
+    },
+    {
+      "id": "cn_t3_011",
+      "name": "Peking Duck (whole, full-service restaurant, Beijing)",
+      "emoji": "🦆",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 20.0,
+        "1995": 60.0,
+        "2000": 120.0,
+        "2005": 168.0,
+        "2010": 228.0,
+        "2015": 298.0,
+        "2020": 338.0,
+        "2025": 428.0
+      },
+      "fact": "Dadong, Beijing's modern Peking Duck restaurant, serves a duck so fatty it is said to leave no grease on the lips. Its waiting list regularly exceeds 2 weeks and it is considered Beijing's hardest restaurant reservation."
+    },
+    {
+      "id": "cn_t3_012",
+      "name": "Dyson V10 Vacuum Cleaner (China market)",
+      "emoji": "🌀",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 3990.0,
+        "2020": 3490.0,
+        "2025": 2990.0
+      },
+      "fact": "Dyson became a status symbol in China before becoming a cleaning tool. Chinese consumers buy more Dysons per household than any country in the world, often keeping the box for display purposes."
+    },
+    {
+      "id": "cn_t3_013",
+      "name": "Annual University Tuition (public, China average)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 800.0,
+        "2000": 4000.0,
+        "2005": 5000.0,
+        "2010": 5000.0,
+        "2015": 5000.0,
+        "2020": 5500.0,
+        "2025": 6000.0
+      },
+      "fact": "Chinese university fees were free before 1997 and rose 25x in one decade after commercialisation. Fees stabilised at ¥5,000 in the 2010s as political pressure to maintain access to higher education grew."
+    },
+    {
+      "id": "cn_t3_014",
+      "name": "Full Traditional Wedding Banquet (per table, 10 guests)",
+      "emoji": "🎊",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 300.0,
+        "1995": 1000.0,
+        "2000": 2000.0,
+        "2005": 3000.0,
+        "2010": 5000.0,
+        "2015": 8000.0,
+        "2020": 9000.0,
+        "2025": 12000.0
+      },
+      "fact": "Chinese weddings average 20 tables. The gifting custom of hongbao (red envelopes) partially offsets the cost, with guests typically giving ¥500 to ¥2,000 depending on their closeness to the couple."
+    },
+    {
+      "id": "cn_t3_015",
+      "name": "Monthly Rent (1-bedroom, Shanghai inner ring)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 500.0,
+        "2000": 1500.0,
+        "2005": 2500.0,
+        "2010": 3500.0,
+        "2015": 5000.0,
+        "2020": 6000.0,
+        "2025": 8000.0
+      },
+      "fact": "Shanghai inner-city rents rose 80x since 1990. In 2022 rent fell for the first time in 25 years after COVID lockdowns caused a mass exodus of foreign workers and young professionals."
+    },
+    {
+      "id": "cn_t3_016",
+      "name": "Air Purifier (Xiaomi Mi Air Purifier, entry model)",
+      "emoji": "💨",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 699.0,
+        "2020": 499.0,
+        "2025": 399.0
+      },
+      "fact": "Air purifiers became a necessity in Chinese cities after a 2013 'airpocalypse' blanketed Beijing in smog so thick that visibility fell to 200 metres. Xiaomi launched its purifier weeks after the crisis and sold 20,000 in 24 hours."
+    },
+    {
+      "id": "cn_t3_017",
+      "name": "Golf Round (18 holes, standard course, weekend)",
+      "emoji": "⛳",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 300.0,
+        "2000": 500.0,
+        "2005": 800.0,
+        "2010": 1200.0,
+        "2015": 1000.0,
+        "2020": 800.0,
+        "2025": 1000.0
+      },
+      "fact": "China banned new golf course construction in 2004, creating severe demand pressure on existing courses. The ban was officially lifted in 2016, and China is projected to have more golf courses than the US by 2035."
+    },
+    {
+      "id": "cn_t3_018",
+      "name": "New Energy Vehicle Plate (Shanghai lottery, annual fee equiv.)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 20000.0,
+        "2005": 40000.0,
+        "2010": 55000.0,
+        "2015": 80000.0,
+        "2020": 91000.0,
+        "2025": 102000.0
+      },
+      "fact": "A Shanghai car licence plate costs more than many cars, hitting ¥102,000 in 2025 due to strict lottery limits on petrol vehicles. Electric vehicle plates are free, a policy that single-handedly accelerated China's EV transition."
+    },
+    {
+      "id": "cn_t3_019",
+      "name": "Traditional Chinese Medicine Consultation (TCM hospital)",
+      "emoji": "🌿",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 3.0,
+        "1995": 10.0,
+        "2000": 30.0,
+        "2005": 80.0,
+        "2010": 200.0,
+        "2015": 300.0,
+        "2020": 400.0,
+        "2025": 500.0
+      },
+      "fact": "China has 500,000 registered TCM practitioners and the government mandates TCM departments in all public hospitals. The profession grew 40% during COVID as herbal treatments were officially endorsed for mild cases."
+    },
+    {
+      "id": "cn_t3_020",
+      "name": "Hot Spring Resort Day Pass (standard, Guangdong)",
+      "emoji": "♨️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 30.0,
+        "1995": 80.0,
+        "2000": 150.0,
+        "2005": 200.0,
+        "2010": 280.0,
+        "2015": 350.0,
+        "2020": 398.0,
+        "2025": 498.0
+      },
+      "fact": "Guangdong province has more hot spring resorts than any region outside Japan. Weekend hot spring visits replaced dinner parties as the primary social activity for Chinese middle-class families after 2010."
+    },
+    {
+      "id": "cn_t3_021",
+      "name": "Monthly Mortgage Payment (Shanghai avg, 90sqm flat equiv.)",
+      "emoji": "🏗️",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 1500.0,
+        "2005": 3000.0,
+        "2010": 8000.0,
+        "2015": 15000.0,
+        "2020": 20000.0,
+        "2025": 15000.0
+      },
+      "fact": "Shanghai property prices fell 20% from 2021 peak after Evergrande's collapse triggered a property sector crisis affecting 30% of China's GDP. For the first time in a generation, buying was cheaper than continuing to rent."
+    },
+    {
+      "id": "cn_t3_023",
+      "name": "Private Hospital Delivery (normal birth, Shanghai)",
+      "emoji": "👶",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 50.0,
+        "1995": 200.0,
+        "2000": 1000.0,
+        "2005": 3000.0,
+        "2010": 8000.0,
+        "2015": 20000.0,
+        "2020": 35000.0,
+        "2025": 50000.0
+      },
+      "fact": "Private hospital births in Shanghai cost 1,000x more than in 1990. Public hospitals charge under ¥5,000 but have 6-hour waits, creating a tiered system that mirrors income inequality almost exactly."
+    },
+    {
+      "id": "cn_t3_024",
+      "name": "BYD Seagull EV (base, new)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 69800.0
+      },
+      "fact": "The BYD Seagull is the world's cheapest EV at ¥69,800 with a real-world range of 300km. Western analysts called it a 'cathedral' of engineering efficiency that no foreign brand can profitably match at its price."
+    },
+    {
+      "id": "cn_t3_025",
+      "name": "Visit to the Great Wall (Badaling, adult ticket)",
+      "emoji": "🏯",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 15.0,
+        "2000": 30.0,
+        "2005": 40.0,
+        "2010": 40.0,
+        "2015": 40.0,
+        "2020": 40.0,
+        "2025": 60.0
+      },
+      "fact": "Badaling Great Wall receives 10 million visitors per year, making it the world's most visited historical monument. On Golden Week holidays, the wall is so crowded that visitors can barely walk and the experience resembles a stadium event."
+    },
+    {
+      "id": "cn_t4_001",
+      "name": "iPhone 16 Pro (128GB, China price)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 7688.0,
+        "2020": 9299.0,
+        "2025": 9999.0
+      },
+      "fact": "Apple cut iPhone prices in China in 2024 to fight Huawei's comeback after sanctions. It was the first time Apple lowered a new iPhone launch price in the same market within one year."
+    },
+    {
+      "id": "cn_t4_002",
+      "name": "BYD Han EV (base, new)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 229800.0,
+        "2025": 209800.0
+      },
+      "fact": "BYD overtook Tesla as the world's best-selling EV brand in 2023 without selling a single car outside Asia for most of its history. It is now the fourth-largest car company in the world by market cap."
+    },
+    {
+      "id": "cn_t4_003",
+      "name": "Gold (10 grams, 24K, China gold price)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 700.0,
+        "1995": 900.0,
+        "2000": 800.0,
+        "2005": 1400.0,
+        "2010": 2800.0,
+        "2015": 2600.0,
+        "2020": 4100.0,
+        "2025": 9500.0
+      },
+      "fact": "China is both the world's largest gold producer and its largest consumer. In 2024 young Chinese started buying gold beans at ¥750 each instead of jewellery as a savings habit, driving a nationwide bean shortage."
+    },
+    {
+      "id": "cn_t4_004",
+      "name": "Huawei Mate 70 Pro (top model)",
+      "emoji": "📲",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 4688.0,
+        "2020": 6188.0,
+        "2025": 10999.0
+      },
+      "fact": "Huawei's Mate 70 Pro runs a fully domestic chip despite US sanctions banning sales of advanced semiconductors to China. Its launch was treated as a national technology victory and 1 million units sold in 24 hours."
+    },
+    {
+      "id": "cn_t4_005",
+      "name": "Annual Primary School Fees (elite private, Shanghai)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 3000.0,
+        "2000": 10000.0,
+        "2005": 30000.0,
+        "2010": 60000.0,
+        "2015": 100000.0,
+        "2020": 150000.0,
+        "2025": 200000.0
+      },
+      "fact": "Top Shanghai private school fees rose 400x since 1990 and now exceed ¥200,000 per year. Parent networking is considered a core reason for enrollment, as classmates' parents are future business partners."
+    },
+    {
+      "id": "cn_t4_006",
+      "name": "Toyota Camry (2.5L, new, China market)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 150000.0,
+        "1995": 180000.0,
+        "2000": 200000.0,
+        "2005": 210000.0,
+        "2010": 220000.0,
+        "2015": 215000.0,
+        "2020": 200000.0,
+        "2025": 189800.0
+      },
+      "fact": "The Toyota Camry actually fell in price in China after 2010 as domestic EV competition forced foreign brands to discount aggressively. BYD Han outsold the Camry for the first time in 2022."
+    },
+    {
+      "id": "cn_t4_007",
+      "name": "Rolex Submariner (new retail, China)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 25000.0,
+        "2000": 35000.0,
+        "2005": 45000.0,
+        "2010": 60000.0,
+        "2015": 70000.0,
+        "2020": 80000.0,
+        "2025": 75900.0
+      },
+      "fact": "Rolex prices fell in China in 2022 as Xi Jinping's anti-corruption and common prosperity campaigns discouraged conspicuous luxury spending. Grey market Rolex volumes dropped 30% in a single year."
+    },
+    {
+      "id": "cn_t4_008",
+      "name": "New Apartment (90 sqm, Shanghai outer ring, per unit)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 200000.0,
+        "2000": 400000.0,
+        "2005": 800000.0,
+        "2010": 2000000.0,
+        "2015": 3500000.0,
+        "2020": 5000000.0,
+        "2025": 4200000.0
+      },
+      "fact": "Shanghai apartment prices fell 16% between 2021 and 2025 after Evergrande's collapse shook confidence. At peak in 2021 a 90sqm flat cost 50x the average annual salary, a ratio surpassing any city in history."
+    },
+    {
+      "id": "cn_t4_009",
+      "name": "DJI Mini 4 Pro Drone (standard combo)",
+      "emoji": "🚁",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 5888.0,
+        "2020": 8999.0,
+        "2025": 9998.0
+      },
+      "fact": "DJI controls 70% of the global consumer drone market from Shenzhen. The US banned DJI in 2020 citing security concerns, which had almost no effect on its global dominance."
+    },
+    {
+      "id": "cn_t4_010",
+      "name": "Hermès Kelly Bag (base, new, China retail)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000.0,
+        "1995": 20000.0,
+        "2000": 40000.0,
+        "2005": 60000.0,
+        "2010": 90000.0,
+        "2015": 120000.0,
+        "2020": 150000.0,
+        "2025": 210000.0
+      },
+      "fact": "China became the world's largest luxury goods market in 2021 at $73 billion. Hermès opened a China-only store in 2020 selling objects made from Chinese materials that sold out in an hour without advertising."
+    },
+    {
+      "id": "cn_t4_011",
+      "name": "Porsche 911 (base Carrera, China MSRP)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 800000.0,
+        "2000": 900000.0,
+        "2005": 1000000.0,
+        "2010": 1100000.0,
+        "2015": 1200000.0,
+        "2020": 1300000.0,
+        "2025": 1500000.0
+      },
+      "fact": "China is Porsche's largest market and buys more 911s than Germany. Porsche's China sales fell 28% in 2024 as domestic EVs from NIO and Xpeng matched its performance at one-third the price."
+    },
+    {
+      "id": "cn_t4_012",
+      "name": "Maotai Feitian (500ml, single bottle, official retail)",
+      "emoji": "🍾",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 80.0,
+        "1995": 300.0,
+        "2000": 500.0,
+        "2005": 600.0,
+        "2010": 2000.0,
+        "2015": 1600.0,
+        "2020": 2598.0,
+        "2025": 3150.0
+      },
+      "fact": "Maotai Feitian is China's most traded commodity after steel and coal on some secondary markets. A single case purchased at retail is resold at 3x profit before it leaves the store."
+    },
+    {
+      "id": "cn_t4_013",
+      "name": "Louis Vuitton Neverfull MM (China retail)",
+      "emoji": "🛍️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 6000.0,
+        "2000": 10000.0,
+        "2005": 15000.0,
+        "2010": 20000.0,
+        "2015": 25000.0,
+        "2020": 28000.0,
+        "2025": 35000.0
+      },
+      "fact": "Louis Vuitton China prices are 20% higher than in Paris, incentivising a daigou (overseas shopping agent) industry that generates ¥700 billion annually re-importing luxury goods bought abroad."
+    },
+    {
+      "id": "cn_t4_014",
+      "name": "Tesla Model Y (standard range, China)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 339900.0,
+        "2025": 249900.0
+      },
+      "fact": "Tesla cut the Model Y price 7 times in China between 2022 and 2024, triggering a price war across the entire EV sector. BYD, Nio and Li Auto all responded with cuts, reducing average EV prices by 25% in 2 years."
+    },
+    {
+      "id": "cn_t4_015",
+      "name": "Medical Tourism Package (cancer screening, top hospital, Shanghai)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 2000.0,
+        "2005": 5000.0,
+        "2010": 15000.0,
+        "2015": 30000.0,
+        "2020": 40000.0,
+        "2025": 50000.0
+      },
+      "fact": "Premium cancer screening packages at Shanghai's best hospitals attract patients from Southeast Asia and the Middle East. China trains more oncologists annually than the US, EU and Japan combined."
+    },
+    {
+      "id": "cn_t4_016",
+      "name": "Huawei P60 Pro (flagship, standard storage)",
+      "emoji": "📸",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 4188.0,
+        "2020": 5488.0,
+        "2025": 9988.0
+      },
+      "fact": "Huawei's camera phones topped global photography benchmarks for 4 consecutive years before sanctions cut off its access to Google Maps and services. Its camera hardware still outscores the iPhone in independent tests."
+    },
+    {
+      "id": "cn_t4_017",
+      "name": "Annual VIP Medical Insurance (premium, major city)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000.0,
+        "2000": 3000.0,
+        "2005": 8000.0,
+        "2010": 15000.0,
+        "2015": 25000.0,
+        "2020": 35000.0,
+        "2025": 50000.0
+      },
+      "fact": "China's private health insurance market grew from almost nothing in 1995 to ¥3 trillion by 2023. VIP plans cover overseas treatment, critical illness and include a personal physician on call around the clock."
+    },
+    {
+      "id": "cn_t4_018",
+      "name": "Grand Piano (Steinway Model O, China retail)",
+      "emoji": "🎹",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 200000.0,
+        "2000": 280000.0,
+        "2005": 350000.0,
+        "2010": 500000.0,
+        "2015": 650000.0,
+        "2020": 750000.0,
+        "2025": 900000.0
+      },
+      "fact": "China has 30 million children learning piano, more than any country in history. Steinway opened its largest showroom in the world in Shanghai in 2019 because the Chinese market now exceeds its combined global sales."
+    },
+    {
+      "id": "cn_t4_019",
+      "name": "Prestige Baijiu Gift Set (Wuliangye, 6-bottle)",
+      "emoji": "🎁",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 200.0,
+        "1995": 800.0,
+        "2000": 2000.0,
+        "2005": 3000.0,
+        "2010": 6000.0,
+        "2015": 5000.0,
+        "2020": 6000.0,
+        "2025": 8000.0
+      },
+      "fact": "Wuliangye baijiu gift sets are the most commonly gifted item in Chinese corporate culture. The anti-corruption campaign of 2012 wiped 60% off Wuliangye's stock price in 3 months as officials stopped accepting gifts."
+    },
+    {
+      "id": "cn_t4_020",
+      "name": "Beijing Hutong Courtyard House (per sqm, Dongcheng)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500.0,
+        "1995": 2000.0,
+        "2000": 5000.0,
+        "2005": 15000.0,
+        "2010": 50000.0,
+        "2015": 100000.0,
+        "2020": 150000.0,
+        "2025": 130000.0
+      },
+      "fact": "A Beijing hutong courtyard rose from ¥500 to ¥150,000 per sqm in 30 years before falling in the property crunch. Many owners refused to sell at any price, living in homes worth ¥100 million while earning minimum wage."
+    },
+    {
+      "id": "cn_t4_022",
+      "name": "Panda-Themed Tourist Package (Chengdu, 3 nights, luxury)",
+      "emoji": "🐼",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 2000.0,
+        "2005": 5000.0,
+        "2010": 10000.0,
+        "2015": 20000.0,
+        "2020": 15000.0,
+        "2025": 30000.0
+      },
+      "fact": "Chengdu's giant panda base attracted 12 million visitors in 2023, making it China's most-visited wildlife attraction. The 'volunteer keeper for a day' package costs ¥10,000 and has a 2-year waiting list."
+    },
+    {
+      "id": "cn_t4_023",
+      "name": "Annual International School Fees (Shanghai, per year)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 30000.0,
+        "2000": 80000.0,
+        "2005": 130000.0,
+        "2010": 180000.0,
+        "2015": 230000.0,
+        "2020": 280000.0,
+        "2025": 350000.0
+      },
+      "fact": "Shanghai international school fees rose 35x since 1990. They were restricted to foreign passport holders until 2021 when wealthy Chinese began routing children through foreign passports specifically to enrol."
+    },
+    {
+      "id": "cn_t4_024",
+      "name": "Maotai Feitian (whole case, 6 bottles, 2015 vintage)",
+      "emoji": "🍷",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 9600.0,
+        "2020": 30000.0,
+        "2025": 80000.0
+      },
+      "fact": "Aged Maotai cases from the 2015 vintage quadrupled in secondary market value by 2025. Wine auctions in Beijing now include baijiu lots that outvalue first-growth Bordeaux by price per millilitre."
+    },
+    {
+      "id": "cn_t4_025",
+      "name": "Full Kitchen Renovation (premium, Shanghai, 120sqm)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 20000.0,
+        "2000": 50000.0,
+        "2005": 100000.0,
+        "2010": 180000.0,
+        "2015": 300000.0,
+        "2020": 400000.0,
+        "2025": 500000.0
+      },
+      "fact": "Premium kitchen renovation in Shanghai costs 100x more than in 1990. German brands Siemens and Miele dominate the high-end Chinese kitchen market, with a single oven costing more than a month's rent in a tier-3 city."
+    },
+    {
+      "id": "cn_t1_026",
+      "name": "Sesame Oil (small bottle 100ml, supermarket)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.0,
+        "2000": 3.0,
+        "2005": 4.0,
+        "2010": 5.0,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 9.0
+      },
+      "fact": "China produces 70% of the world's sesame and sesame oil is non-negotiable in Chinese cooking. A 2021 sesame harvest failure in Henan caused brief supermarket rationing of small bottles."
+    },
+    {
+      "id": "cn_t1_027",
+      "name": "Chili Garlic Sauce (Laoganma, small jar 210g)",
+      "emoji": "🌶️",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.5,
+        "2000": 2.5,
+        "2005": 3.5,
+        "2010": 4.5,
+        "2015": 6.0,
+        "2020": 7.0,
+        "2025": 9.9
+      },
+      "fact": "Laoganma founder Tao Huabi built a ¥5 billion company without ever borrowing money or taking investors. She retired in 2014 and the sauce recipe has remained unchanged for 30 years."
+    },
+    {
+      "id": "cn_t1_029",
+      "name": "Youtiao (fried dough stick, breakfast stall)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.3,
+        "2000": 0.5,
+        "2005": 1.0,
+        "2010": 1.5,
+        "2015": 2.0,
+        "2020": 2.5,
+        "2025": 3.0
+      },
+      "fact": "Youtiao is China's most eaten breakfast item, paired with soy milk or rice porridge. Legend holds it was invented to symbolise frying a treacherous Song Dynasty official, making it history's most politically motivated food."
+    },
+    {
+      "id": "cn_t4_026",
+      "name": "BYD Atto 3 EV (base, new China price)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 149800.0,
+        "2025": 139800.0
+      },
+      "fact": "BYD's Atto 3 is the best-selling EV in Australia and Southeast Asia. BYD went from making batteries in 1995 to being the world's largest EV company by sales in under 30 years."
+    }
+  ]
+}
