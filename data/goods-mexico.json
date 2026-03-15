@@ -1,0 +1,1808 @@
+{
+  "country": "MX",
+  "country_name": "Mexico",
+  "currency_symbol": "MX$",
+  "currency_code": "MXN",
+  "items": [
+    {
+      "id": "mx_t1_001",
+      "name": "Taco (street, single, guisado filling)",
+      "emoji": "🌮",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 2.0,
+        "2000": 4.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Mexico has over 500 named taco varieties and the taco al pastor was created by Lebanese immigrants who adapted shawarma using pork and pineapple. Taqueros in Mexico City serve an estimated 40 million tacos per day."
+    },
+    {
+      "id": "mx_t1_002",
+      "name": "Litre of Petrol (Magna regular, PEMEX)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 1.1,
+        "2000": 4.8,
+        "2005": 6.5,
+        "2010": 8.5,
+        "2015": 13.0,
+        "2020": 16.5,
+        "2025": 22.0
+      },
+      "fact": "PEMEX is the world's most indebted oil company and its fuel subsidies cost Mexico MX$350 billion annually. President AMLO froze petrol prices during the 2022 global price spike, the only major economy to do so."
+    },
+    {
+      "id": "mx_t1_003",
+      "name": "Tortilla (corn, single, mercado)",
+      "emoji": "🫓",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 0.3,
+        "2000": 0.5,
+        "2005": 0.8,
+        "2010": 1.0,
+        "2015": 1.2,
+        "2020": 1.5,
+        "2025": 2.5
+      },
+      "fact": "Mexico consumes 94kg of tortillas per person per year, more than any country consumes of any single food. The tortilla price is Mexico's most politically sensitive food metric and triggered the Tortillazo protests of 2007 when prices doubled in a month."
+    },
+    {
+      "id": "mx_t1_004",
+      "name": "Agua fresca (500ml cup, street vendor)",
+      "emoji": "🌸",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 7.0,
+        "2020": 10.0,
+        "2025": 15.0
+      },
+      "fact": "Agua fresca, fresh fruit water, is sold from giant glass barrels at markets across Mexico and comes in 40 regional varieties. The Jamaica hibiscus variety exported to the US became a USD 200 million industry after being featured in major US restaurant chains."
+    },
+    {
+      "id": "mx_t1_005",
+      "name": "Tamale (single, street vendor)",
+      "emoji": "🫔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.5,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 7.0,
+        "2015": 10.0,
+        "2020": 14.0,
+        "2025": 20.0
+      },
+      "fact": "Tamales are 8,000 years old and predate corn tortillas as Mexico's oldest prepared food. The tamalera, a woman selling tamales from a bucket on public transport, is a cultural archetype that appears in Mexican literature, film and art."
+    },
+    {
+      "id": "mx_t1_006",
+      "name": "Egg (single, huevo blanco, supermarket)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.6,
+        "2000": 1.0,
+        "2005": 1.5,
+        "2010": 2.0,
+        "2015": 2.5,
+        "2020": 3.5,
+        "2025": 5.0
+      },
+      "fact": "Mexico is the world's largest per-capita egg consumer, eating 23 billion eggs annually. Eggs appear in every Mexican meal from enfrijoladas to huevos rancheros and the price is watched as closely as tortillas as a cost-of-living indicator."
+    },
+    {
+      "id": "mx_t1_007",
+      "name": "Newspaper (El Universal, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 2.0,
+        "2000": 4.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "El Universal has been published since 1916 and covered every Mexican revolution, earthquake and election. Mexico has one of the world's highest rates of journalist murders, making the press the most dangerous profession in the country after police officer."
+    },
+    {
+      "id": "mx_t1_008",
+      "name": "Elote (grilled corn on the cob, street vendor)",
+      "emoji": "🌽",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 25.0
+      },
+      "fact": "Elote covered in mayonnaise, cheese and chilli is Mexico's most iconic street food and became a global trend after Mexican food carts spread to US cities. Mexico is the birthplace of corn and grows 450 native varieties that exist nowhere else on earth."
+    },
+    {
+      "id": "mx_t1_009",
+      "name": "Bolillo (bread roll, panadería)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.4,
+        "2000": 0.8,
+        "2005": 1.2,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.0,
+        "2025": 6.0
+      },
+      "fact": "The bolillo was introduced by French bakers during the 1860s French Intervention and became Mexico's daily bread. Mexican panaderías produce 600 bread varieties and Mexico City has 30,000 bakeries, more per capita than France."
+    },
+    {
+      "id": "mx_t1_010",
+      "name": "Pulque (traditional drink, glass, pulquería)",
+      "emoji": "🥛",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.5,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "Pulque is fermented agave sap and was the sacred drink of Aztec priests. Spanish colonisers suppressed it to promote beer and by 2000 it had nearly disappeared. A hipster revival starting in 2010 saved the drink and 1,500 pulquerías now operate in Mexico City alone."
+    },
+    {
+      "id": "mx_t1_011",
+      "name": "Chilaquiles (breakfast for 2, fondita)",
+      "emoji": "🍳",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 15.0,
+        "2010": 25.0,
+        "2015": 35.0,
+        "2020": 45.0,
+        "2025": 120.0
+      },
+      "fact": "Chilaquiles are considered Mexico's most effective hangover cure and are eaten as the last dish at every major Mexican party as it winds down near dawn. The name comes from the Nahuatl word for submerged in chilli sauce."
+    },
+    {
+      "id": "mx_t1_012",
+      "name": "Litre of Milk (LALA, supermarket)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 2.0,
+        "2000": 5.5,
+        "2005": 8.0,
+        "2010": 12.0,
+        "2015": 15.0,
+        "2020": 18.0,
+        "2025": 24.0
+      },
+      "fact": "LALA is Mexico's largest dairy company and is listed on the Mexican Stock Exchange. Mexico's milk price is set partly by LICONSA, a government company that sells subsidised milk from 8,500 distribution points to low-income families at half the market price."
+    },
+    {
+      "id": "mx_t1_013",
+      "name": "Chela (beer, single 355ml can, Oxxo)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 3.0,
+        "2000": 7.0,
+        "2005": 10.0,
+        "2010": 14.0,
+        "2015": 18.0,
+        "2020": 22.0,
+        "2025": 30.0
+      },
+      "fact": "Grupo Modelo and FEMSA control 95% of the Mexican beer market and Mexico is the world's largest beer exporter by value. Corona is the second-best-selling beer globally yet costs more in the US than in Mexico because the export pricing reflects branding rather than production cost."
+    },
+    {
+      "id": "mx_t1_014",
+      "name": "Café de olla (spiced coffee, single cup, market)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "Café de olla is brewed in a clay pot with cinnamon and piloncillo sugar and is Mexico's oldest coffee tradition, predating European-style espresso bars. Mexican coffee from Chiapas and Veracruz is among the world's most prized varieties but most is exported."
+    },
+    {
+      "id": "mx_t1_015",
+      "name": "Chocolate (Abuelita tablet, 90g, supermarket)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 6.0,
+        "2005": 9.0,
+        "2010": 12.0,
+        "2015": 15.0,
+        "2020": 18.0,
+        "2025": 25.0
+      },
+      "fact": "Mexico is the birthplace of chocolate and the Aztec word xocolatl gave all European languages their word for it. Abuelita drinking chocolate, owned by Nestlé since 1990, outsells all other chocolate formats in Mexico because drinking chocolate remains the primary consumption method."
+    },
+    {
+      "id": "mx_t1_016",
+      "name": "Chiles secos (dried chilli mix, mercado, 100g)",
+      "emoji": "🌶️",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.5,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "Mexico has 64 named chile varieties and UNESCO listed Mexican cuisine as Intangible Cultural Heritage in 2010, the first national cuisine to receive this recognition. Chiles are used in both savoury and sweet dishes, including in the chocolate mole that takes 3 days to prepare."
+    },
+    {
+      "id": "mx_t1_017",
+      "name": "Michelada mix (Clamato + lime, can, Oxxo)",
+      "emoji": "🍹",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 2.0,
+        "2000": 5.0,
+        "2005": 8.0,
+        "2010": 12.0,
+        "2015": 16.0,
+        "2020": 20.0,
+        "2025": 28.0
+      },
+      "fact": "Michelada, beer with lime and chilli, is Mexico's answer to a Bloody Mary and is sold pre-mixed in 16 Oxxo variations. Oxxo, owned by FEMSA, has over 22,000 stores in Mexico, more than Walmart globally, making it the most ubiquitous retail format on earth relative to country size."
+    },
+    {
+      "id": "mx_t1_018",
+      "name": "Avocado (single Hass, mercado)",
+      "emoji": "🥑",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 8.0,
+        "2020": 15.0,
+        "2025": 20.0
+      },
+      "fact": "Mexico supplies 32% of the world's avocados and the Michoacán avocado industry earns more than all of Mexico's oil exports combined. Cartel involvement in avocado control became so severe that the US temporarily suspended avocado inspections in 2022 after inspectors received death threats."
+    },
+    {
+      "id": "mx_t1_019",
+      "name": "Pepito (sandwich, torta filling, fondita)",
+      "emoji": "🥪",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 8.0,
+        "2005": 12.0,
+        "2010": 20.0,
+        "2015": 30.0,
+        "2020": 40.0,
+        "2025": 60.0
+      },
+      "fact": "The torta mexicana is a sandwich on a bolillo and is Mexico's most-consumed lunchtime meal after tacos. Mexico City's torta ahogada drowned in chilli sauce is considered the most intense sandwich in the world by hot sauce Scoville rating."
+    },
+    {
+      "id": "mx_t1_020",
+      "name": "Frijoles (black beans, 1kg dried, supermarket)",
+      "emoji": "🫘",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 3.0,
+        "2000": 6.0,
+        "2005": 9.0,
+        "2010": 14.0,
+        "2015": 18.0,
+        "2020": 25.0,
+        "2025": 35.0
+      },
+      "fact": "Frijoles are eaten at every Mexican meal and have been cultivated in Mexico for 7,000 years. Mexico has 70 native bean varieties and 70% of the population eats beans daily, making them alongside tortillas the caloric foundation of the national diet."
+    },
+    {
+      "id": "mx_t1_021",
+      "name": "Coca-Cola (355ml glass bottle, taco stand)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.0,
+        "2000": 4.0,
+        "2005": 6.0,
+        "2010": 8.0,
+        "2015": 10.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Chiapas has the highest Coca-Cola consumption per capita of any place on earth at over 2 litres per day per person. The Tzotzil Maya community of San Cristóbal uses Coke in religious ceremonies, replacing traditional pulque after Coca-Cola aggressively marketed to indigenous communities in the 1990s."
+    },
+    {
+      "id": "mx_t1_022",
+      "name": "Salsa (250g jar, La Costeña, supermarket)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 2.0,
+        "2000": 5.0,
+        "2005": 7.0,
+        "2010": 10.0,
+        "2015": 14.0,
+        "2020": 18.0,
+        "2025": 25.0
+      },
+      "fact": "Salsa overtook ketchup as the top-selling condiment in the United States in 1991 and has never looked back. Mexico exports MX$12 billion of salsa and hot sauces annually and Valentina is the best-selling hot sauce brand globally by bottle volume."
+    },
+    {
+      "id": "mx_t1_023",
+      "name": "Metro Fare (Mexico City, single trip)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.1,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 2.0,
+        "2010": 3.0,
+        "2015": 5.0,
+        "2020": 5.0,
+        "2025": 5.0
+      },
+      "fact": "Mexico City Metro's MX$5 fare has not changed since 2013, making it the cheapest metro in the world for a major capital city. The system carries 5.5 million passengers daily on 12 lines and its cars, mostly from the 1970s, are the oldest continuously operating metro fleet in any major city."
+    },
+    {
+      "id": "mx_t1_024",
+      "name": "Chicharrón (pork skin, 30g bag, Oxxo)",
+      "emoji": "🐷",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.8,
+        "2000": 2.0,
+        "2005": 3.0,
+        "2010": 5.0,
+        "2015": 7.0,
+        "2020": 9.0,
+        "2025": 14.0
+      },
+      "fact": "Mexico produces 40,000 tonnes of chicharrón annually and it is sold fresh from streetside vats throughout the country. In Mexico City's Tepito market, a single vendor can sell a whole pig's worth of chicharrón in one day, fried and sold by weight to a queue that never shortens."
+    },
+    {
+      "id": "mx_t1_025",
+      "name": "Stamp (domestic letter, Correos de México)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 1.5,
+        "2000": 3.5,
+        "2005": 6.5,
+        "2010": 10.5,
+        "2015": 13.0,
+        "2020": 14.5,
+        "2025": 19.0
+      },
+      "fact": "Correos de México has the worst on-time delivery record of any postal service in the OECD, with average delivery times of 8 days for domestic letters. Despite this, Mexico sends 550 million letters annually because many rural areas still rely on physical mail for legal documents."
+    },
+    {
+      "id": "mx_t2_001",
+      "name": "Pozole (family pot, serves 6, restaurante catering)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 3,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 30.0,
+        "2005": 50.0,
+        "2010": 70.0,
+        "2015": 90.0,
+        "2020": 110.0,
+        "2025": 1200.0
+      },
+      "fact": "Pozole is a hominy corn stew eaten at celebrations, quinceañeras and Independence Day. The Aztec version was made with human flesh during ritual ceremonies, a fact included in restaurant menus across Mexico City that tourists find alarming."
+    },
+    {
+      "id": "mx_t2_002",
+      "name": "Tequila Blanco (750ml bottle, Jose Cuervo, restaurante)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 3,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 18.0,
+        "2005": 28.0,
+        "2010": 40.0,
+        "2015": 55.0,
+        "2020": 70.0,
+        "2025": 1200.0
+      },
+      "fact": "Tequila can legally only be produced in five Mexican states and Jalisco produces 95% of all official tequila. The global tequila boom of the 2010s drove agave prices up 1,000%, which caused a plant shortage because blue agave takes 8 years to mature."
+    },
+    {
+      "id": "mx_t2_003",
+      "name": "Cinema Ticket + Snack (Cinépolis, 2D + popcorn)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 30.0,
+        "2005": 40.0,
+        "2010": 55.0,
+        "2015": 65.0,
+        "2020": 70.0,
+        "2025": 120.0
+      },
+      "fact": "Cinépolis is the world's fourth-largest cinema chain with 700 complexes in 18 countries. It operates in India, Brazil, the US and Colombia yet its most profitable market by margin remains Mexico, where its VIP recliner halls charge MX$250 a ticket."
+    },
+    {
+      "id": "mx_t2_004",
+      "name": "Haircut (men's, barbería)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 40.0,
+        "2005": 60.0,
+        "2010": 80.0,
+        "2015": 100.0,
+        "2020": 120.0,
+        "2025": 170.0
+      },
+      "fact": "Mexican barbershops became globally fashionable when Mexican-American barbers in Los Angeles popularised the fade haircut in the early 2000s. The Mexican barber tradition spread to Europe and Asia through diaspora communities and is now the dominant men's barbershop aesthetic worldwide."
+    },
+    {
+      "id": "mx_t2_005",
+      "name": "Netflix Suscripción (monthly, standard, Mexico)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 99.0,
+        "2020": 154.0,
+        "2025": 249.0
+      },
+      "fact": "Mexico is Netflix's largest Spanish-language market and Netflix has invested over USD 300 million in Mexican original content. Narcos and Club de Cuervos were the first Mexican productions to reach the global top 10, changing international perceptions of Mexican storytelling."
+    },
+    {
+      "id": "mx_t2_006",
+      "name": "Gym Membership (monthly, Sports World / Smart Fit)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 30.0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 400.0,
+        "2020": 450.0,
+        "2025": 600.0
+      },
+      "fact": "Smart Fit entered Mexico in 2012 and disrupted a market where gym memberships cost MX$800 per month by charging MX$299. Within 5 years it had 3 million Mexican members, the fastest gym chain growth in Latin American history."
+    },
+    {
+      "id": "mx_t2_007",
+      "name": "Spotify Suscripción (monthly, Mexico)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 99.0,
+        "2020": 99.0,
+        "2025": 139.0
+      },
+      "fact": "Mexico is Spotify's largest Spanish-language market and Mexican regional music, corridos tumbados and banda, are the fastest-growing genres globally. Peso Pluma's Ella Baila Sola spent 22 weeks in the US top 10, the longest run for a Spanish-language song in chart history."
+    },
+    {
+      "id": "mx_t2_008",
+      "name": "Margaritas (pitcher for 4, restaurante)",
+      "emoji": "🍸",
+      "category": "Drink",
+      "tier": 3,
+      "prices": {
+        "1990": 8.0,
+        "1995": 20.0,
+        "2000": 50.0,
+        "2005": 70.0,
+        "2010": 90.0,
+        "2015": 110.0,
+        "2020": 130.0,
+        "2025": 1200.0
+      },
+      "fact": "The margarita is the most-ordered cocktail in the United States and Mexico simultaneously. Its origin is disputed between Tijuana, Acapulco and Juárez, with at least 11 people claiming to have invented it. Mexico exports more tequila to the US for margaritas than it keeps domestically."
+    },
+    {
+      "id": "mx_t2_009",
+      "name": "Uber / DiDi Ride (5km, CDMX, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 50.0,
+        "2020": 80.0,
+        "2025": 120.0
+      },
+      "fact": "Uber launched in Mexico in 2013 and was immediately attacked by taxi drivers who slashed tyres and assaulted passengers. DiDi entered in 2018 with lower rates and within a year was competitive with Uber, making Mexico City one of the most competitive ride-hailing markets in the world."
+    },
+    {
+      "id": "mx_t2_010",
+      "name": "Cigarettes (Marlboro, 2-pack)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 4.0,
+        "1995": 10.0,
+        "2000": 22.0,
+        "2005": 30.0,
+        "2010": 40.0,
+        "2015": 52.0,
+        "2020": 60.0,
+        "2025": 120.0
+      },
+      "fact": "Mexico has the highest cigarette tax as a percentage of price in Latin America. The government taxed cigarettes to fund Seguro Popular universal health coverage starting in 2004, one of the few countries to directly earmark tobacco taxes for healthcare."
+    },
+    {
+      "id": "mx_t2_011",
+      "name": "Mole negro (main course, Oaxacan restaurant)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 25.0,
+        "2000": 60.0,
+        "2005": 90.0,
+        "2010": 130.0,
+        "2015": 160.0,
+        "2020": 190.0,
+        "2025": 280.0
+      },
+      "fact": "Oaxacan black mole contains 36 ingredients including chocolate, five chilli varieties and plantain and takes 3 days to prepare. Oaxaca is considered Mexico's most celebrated culinary region and has more restaurants per capita than any Mexican city outside the capital."
+    },
+    {
+      "id": "mx_t2_012",
+      "name": "Mezcal (shot, artesanal, mezcalería)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 30.0,
+        "2005": 50.0,
+        "2010": 80.0,
+        "2015": 120.0,
+        "2020": 160.0,
+        "2025": 220.0
+      },
+      "fact": "Mezcal exports grew 2,000% between 2010 and 2023, from a regional drink to a global premium spirit. Unlike tequila, mezcal can be made from 40 agave varieties giving each producer a unique flavour profile. The phrase con todo y gusano, with the worm, was a US marketing invention and has nothing to do with Mexican tradition."
+    },
+    {
+      "id": "mx_t2_013",
+      "name": "Monthly Mobile Plan (Telcel, unlimited 20GB)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200.0,
+        "2005": 300.0,
+        "2010": 400.0,
+        "2015": 350.0,
+        "2020": 300.0,
+        "2025": 280.0
+      },
+      "fact": "Telcel is owned by Carlos Slim's América Móvil and controls 65% of the Mexican mobile market. Slim was the world's richest person from 2010 to 2013, the first time a non-American held the title since the 19th century, largely due to Telcel's near-monopoly."
+    },
+    {
+      "id": "mx_t2_014",
+      "name": "Pan Dulce (assorted, 8 pcs, panadería)",
+      "emoji": "🥐",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 20.0,
+        "2005": 30.0,
+        "2010": 40.0,
+        "2015": 50.0,
+        "2020": 65.0,
+        "2025": 120.0
+      },
+      "fact": "Mexico has over 2,000 pan dulce varieties including conchas, cuernos and polvorones. Sunday morning pan dulce runs are a national family ritual and the pan de muerto eaten on Día de Muertos is prepared by every bakery in the country simultaneously in late October."
+    },
+    {
+      "id": "mx_t2_015",
+      "name": "Michelada (glass, botanas included, cantina)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 30.0,
+        "2005": 45.0,
+        "2010": 60.0,
+        "2015": 80.0,
+        "2020": 100.0,
+        "2025": 140.0
+      },
+      "fact": "Mexican cantinas traditionally serve botanas, free snacks, with every drink. The cantina system makes Mexican drinking culture inherently social and food-linked in a way that differentiates it from US and European bar culture."
+    },
+    {
+      "id": "mx_t2_016",
+      "name": "Lucha libre ticket (Arena Mexico, general admission)",
+      "emoji": "🤼",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 50.0,
+        "2005": 80.0,
+        "2010": 100.0,
+        "2015": 130.0,
+        "2020": 120.0,
+        "2025": 180.0
+      },
+      "fact": "Lucha libre was invented in Mexico in 1863 and Arena Mexico in Mexico City has hosted it continuously since 1956. El Santo, the greatest luchador, wore his silver mask in public for 40 years and only removed it on television 2 days before his death."
+    },
+    {
+      "id": "mx_t2_017",
+      "name": "Farmacia Kit (generic paracetamol + ibuprofen, combo)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 25.0,
+        "2015": 30.0,
+        "2020": 35.0,
+        "2025": 110.0
+      },
+      "fact": "Farmacias del Ahorro operates a free in-store doctor consultation with every prescription, a model that democratised basic healthcare for millions who cannot afford private doctors. The chain consults 1 million patients per month across 1,500 locations."
+    },
+    {
+      "id": "mx_t2_018",
+      "name": "Telenovela Magazine (TVNotas, weekly)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 18.0,
+        "2005": 25.0,
+        "2010": 30.0,
+        "2015": 35.0,
+        "2020": 40.0,
+        "2025": 110.0
+      },
+      "fact": "Televisa produced 30,000 hours of telenovela content and exported them to 80 countries, making Mexican television the first Spanish-language cultural product to achieve global reach. Maria la del Barrio starring Thalia was watched by 2 billion people across 170 countries."
+    },
+    {
+      "id": "mx_t2_019",
+      "name": "Agua embotellada (purified, 20L garrafón, delivery)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 15.0,
+        "2000": 30.0,
+        "2005": 40.0,
+        "2010": 50.0,
+        "2015": 55.0,
+        "2020": 60.0,
+        "2025": 120.0
+      },
+      "fact": "Mexico City's tap water is not safe to drink and 90% of households use the garrafón 20L jug delivery system for drinking water. Mexico has the world's highest bottled water consumption per capita at 234 litres per person annually, 3 times the US rate."
+    },
+    {
+      "id": "mx_t2_020",
+      "name": "Horchata (2L jug, rice water, fondita)",
+      "emoji": "🥛",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 8.0,
+        "2000": 15.0,
+        "2005": 20.0,
+        "2010": 28.0,
+        "2015": 35.0,
+        "2020": 45.0,
+        "2025": 120.0
+      },
+      "fact": "Mexican horchata made from rice, cinnamon and vanilla is distinct from the Spanish barley version and became a diaspora cultural identifier across US cities. Los Angeles has entire streets of horchata shops and the drink generates USD 50 million in California alone."
+    },
+    {
+      "id": "mx_t2_021",
+      "name": "Starbucks Café Latte (grande, Mexico City)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 28.0,
+        "2005": 40.0,
+        "2010": 52.0,
+        "2015": 62.0,
+        "2020": 75.0,
+        "2025": 110.0
+      },
+      "fact": "Starbucks Mexico opened its first location in Mexico City in 2002 and became the aspirational brand of Mexico's middle class within 5 years. It charges 5x the price of a café de olla yet serves the same number of daily customers, reflecting Mexico's stark income inequality."
+    },
+    {
+      "id": "mx_t2_022",
+      "name": "Corrida de toros (bullfight, Plaza México, sol general)",
+      "emoji": "🐂",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 30.0,
+        "2000": 80.0,
+        "2005": 120.0,
+        "2010": 160.0,
+        "2015": 200.0,
+        "2020": 180.0,
+        "2025": 250.0
+      },
+      "fact": "Plaza México in Mexico City is the world's largest bullring with 48,000 seats. Bullfighting was suspended in Mexico City in 2022 by court order for animal welfare reasons, the first time it had been interrupted in its 76-year history, creating a legal battle still ongoing."
+    },
+    {
+      "id": "mx_t2_023",
+      "name": "TV por Cable (monthly, Izzi Telecom, basic package)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 80.0,
+        "2000": 150.0,
+        "2005": 200.0,
+        "2010": 280.0,
+        "2015": 320.0,
+        "2020": 350.0,
+        "2025": 420.0
+      },
+      "fact": "Televisa and its cable arm Izzi were synonymous with Mexican media for 50 years, controlling 70% of television and 60% of cable. The 2022 merger with Univision created the world's largest Spanish-language media company, valued at USD 4.8 billion."
+    },
+    {
+      "id": "mx_t2_024",
+      "name": "Microbús Ride (Mexico City, collective minibus, one trip)",
+      "emoji": "🚐",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.5,
+        "2010": 5.0,
+        "2015": 7.0,
+        "2020": 8.0,
+        "2025": 12.0
+      },
+      "fact": "Mexico City's 27,000 microbús minivans carried 11 million passengers daily at their peak, more than the metro. Each vehicle was owner-operated and the system had no central coordination, schedules or safety oversight. CDMX replaced most with BRT lines between 2012 and 2022."
+    },
+    {
+      "id": "mx_t2_025",
+      "name": "Piñata (papier-mâché, market, standard)",
+      "emoji": "🎉",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10.0,
+        "1995": 25.0,
+        "2000": 50.0,
+        "2005": 70.0,
+        "2010": 90.0,
+        "2015": 110.0,
+        "2020": 130.0,
+        "2025": 180.0
+      },
+      "fact": "Mexico invented the modern piñata and its seven-pointed star shape represents the seven deadly sins in Catholic tradition. The artisans of Acolman, Mexico, have made piñatas for 500 years continuously and the town holds a patent dispute with China over the export market."
+    },
+    {
+      "id": "mx_t3_001",
+      "name": "iPhone 16 (128GB, Mexico retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 8000.0,
+        "2015": 12000.0,
+        "2020": 18000.0,
+        "2025": 24999.0
+      },
+      "fact": "iPhones in Mexico cost 2x the US price due to 16% VAT on imports and customs duties. Apple opened its first Mexico City store in 2021 and queues stretched 3km on day one."
+    },
+    {
+      "id": "mx_t3_002",
+      "name": "Vuelo CDMX-Cancún (economy, round trip, Volaris avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1200.0,
+        "2000": 2000.0,
+        "2005": 2500.0,
+        "2010": 3000.0,
+        "2015": 3500.0,
+        "2020": 2500.0,
+        "2025": 4500.0
+      },
+      "fact": "Volaris and Viva Aerobus entered the Mexican market in 2006 and 2009 and halved Aeroméxico's domestic fares within 3 years. Mexico's aviation market deregulation was the fastest in Latin America and made Cancún the region's most-visited tourist destination."
+    },
+    {
+      "id": "mx_t3_003",
+      "name": "Televisión (Samsung 55-inch 4K, Liverpool)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 3000.0,
+        "2000": 8000.0,
+        "2005": 12000.0,
+        "2010": 10000.0,
+        "2015": 8000.0,
+        "2020": 7000.0,
+        "2025": 8500.0
+      },
+      "fact": "Liverpool is Mexico's top department store and its appliance prices determine middle-class consumer purchasing power. Mexico assembles more flat-screen TVs than any country outside China and South Korea because of US-Mexico proximity, yet its citizens pay US import prices for the same product."
+    },
+    {
+      "id": "mx_t3_004",
+      "name": "Seguro de auto (annual, comprehensive, Nissan Versa)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1500.0,
+        "2000": 4000.0,
+        "2005": 6000.0,
+        "2010": 8000.0,
+        "2015": 9000.0,
+        "2020": 10000.0,
+        "2025": 14000.0
+      },
+      "fact": "Car theft rates in Mexico make comprehensive insurance a near-necessity. Mexico has 150,000 vehicle thefts per year and the states bordering the US have the highest rates because stolen vehicles are dismantled and parts smuggled across the border."
+    },
+    {
+      "id": "mx_t3_005",
+      "name": "Colegiatura (monthly, private school, mid-range)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1500.0,
+        "2000": 3000.0,
+        "2005": 5000.0,
+        "2010": 7000.0,
+        "2015": 9000.0,
+        "2020": 11000.0,
+        "2025": 16000.0
+      },
+      "fact": "Mexico has 42,000 private schools attended by 15% of students, yet they produce 80% of university entrants. The correlation between private school attendance and university access is steeper in Mexico than in any other OECD country, making education the primary driver of intergenerational inequality."
+    },
+    {
+      "id": "mx_t3_006",
+      "name": "Auto nuevo (Nissan Versa base, 0km, agencia)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 50000.0,
+        "2000": 80000.0,
+        "2005": 110000.0,
+        "2010": 130000.0,
+        "2015": 160000.0,
+        "2020": 200000.0,
+        "2025": 280000.0
+      },
+      "fact": "Nissan is Mexico's best-selling car brand and manufactures 800,000 vehicles annually in Aguascalientes and Morelos. Mexico is the world's 8th-largest car producer and 80% of its vehicles are exported to the US under USMCA, making Mexican auto workers the most export-productive in the world."
+    },
+    {
+      "id": "mx_t3_007",
+      "name": "Alquiler departamento (1-bedroom, monthly, Condesa CDMX)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 2000.0,
+        "2000": 5000.0,
+        "2005": 7000.0,
+        "2010": 9000.0,
+        "2015": 12000.0,
+        "2020": 14000.0,
+        "2025": 25000.0
+      },
+      "fact": "La Condesa and Roma Norte rents doubled between 2021 and 2024 as US tech workers relocated to Mexico City for its lower costs, internet infrastructure and US time-zone compatibility. The phenomenon was called the gringo invasion by local residents priced out of their neighbourhoods."
+    },
+    {
+      "id": "mx_t3_008",
+      "name": "Hotel noche (3-star, CDMX, standard)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 300.0,
+        "2000": 700.0,
+        "2005": 1000.0,
+        "2010": 1200.0,
+        "2015": 1400.0,
+        "2020": 1200.0,
+        "2025": 2000.0
+      },
+      "fact": "Mexico City attracted 25 million tourists in 2023, overtaking Paris to briefly become the world's most-visited city. Airbnb listings grew 400% between 2020 and 2024, directly causing hotel rates to rise as short-term rentals absorbed supply that previously competed with hotels."
+    },
+    {
+      "id": "mx_t3_009",
+      "name": "Internet hogar (monthly, Telmex 100Mbps fibre)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 200.0,
+        "2005": 400.0,
+        "2010": 600.0,
+        "2015": 650.0,
+        "2020": 700.0,
+        "2025": 750.0
+      },
+      "fact": "Telmex, owned by Carlos Slim, controls 70% of fixed broadband in Mexico and was declared a monopoly by the OECD in 2012. Mexico's internet prices are among the highest in the OECD per Mbps and rural coverage lags by 20 years behind urban areas."
+    },
+    {
+      "id": "mx_t3_010",
+      "name": "Seguro médico (private, monthly individual, AXA México)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 200.0,
+        "2000": 500.0,
+        "2005": 1000.0,
+        "2010": 1500.0,
+        "2015": 2000.0,
+        "2020": 2800.0,
+        "2025": 4500.0
+      },
+      "fact": "Mexico's IMSS public health system covers 70 million workers but is chronically underfunded. Private health insurance doubled in price between 2019 and 2024 as COVID revealed the fragility of public provision. 54% of medical spending in Mexico is out-of-pocket, the highest in the OECD."
+    },
+    {
+      "id": "mx_t3_011",
+      "name": "MacBook Air M2 (Mexico retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 15000.0,
+        "2015": 18000.0,
+        "2020": 22000.0,
+        "2025": 30000.0
+      },
+      "fact": "MacBooks in Mexico cost 50% more than in the US partly due to currency depreciation and import taxes. Mexico manufactures electronics for Apple suppliers at its Guadalajara technology hub, yet the finished products are taxed on re-import for domestic sale."
+    },
+    {
+      "id": "mx_t3_012",
+      "name": "Temazcal Ceremony (spa, per person)",
+      "emoji": "♨️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 200.0,
+        "2000": 500.0,
+        "2005": 800.0,
+        "2010": 1200.0,
+        "2015": 1800.0,
+        "2020": 2200.0,
+        "2025": 3500.0
+      },
+      "fact": "Temazcal is a pre-Columbian steam ceremony using volcanic rocks and medicinal herbs. It was practised in secret during 300 years of Spanish colonial suppression and revived in the 1980s. It is now Mexico's fastest-growing wellness tourism product, booked by international visitors at premium prices."
+    },
+    {
+      "id": "mx_t3_013",
+      "name": "Concierto (concert ticket, Foro Sol, floor)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 300.0,
+        "2000": 800.0,
+        "2005": 1200.0,
+        "2010": 1800.0,
+        "2015": 2500.0,
+        "2020": 2000.0,
+        "2025": 4500.0
+      },
+      "fact": "Foro Sol in Mexico City is Latin America's largest concert venue with 65,000 capacity. Mexico is the world's second-largest Latin music market and Taylor Swift's Eras Tour Mexico City dates sold out in 3 minutes, becoming the most-purchased tickets in Mexican history."
+    },
+    {
+      "id": "mx_t3_014",
+      "name": "Día de Muertos (altar set, full, mercado)",
+      "emoji": "💀",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 300.0,
+        "2000": 600.0,
+        "2005": 900.0,
+        "2010": 1300.0,
+        "2015": 1800.0,
+        "2020": 2200.0,
+        "2025": 3500.0
+      },
+      "fact": "Día de Muertos is UNESCO Intangible Cultural Heritage and generates MX$15 billion in altar supplies, marigolds and food for the deceased. The tradition was nearly absorbed into Halloween by US cultural influence in the 1990s before a government campaign successfully restored it to distinction."
+    },
+    {
+      "id": "mx_t3_015",
+      "name": "Destilado de agave premium (artisanal bottle, 750ml)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 3,
+      "prices": {
+        "1990": 100.0,
+        "1995": 300.0,
+        "2000": 600.0,
+        "2005": 1000.0,
+        "2010": 1500.0,
+        "2015": 2000.0,
+        "2020": 3000.0,
+        "2025": 5000.0
+      },
+      "fact": "Artisanal agave spirits outside the official tequila and mezcal denominations represent Mexico's most dynamic drinks category. Raicilla from Jalisco, sotol from Chihuahua and bacanora from Sonora each received official denomination status after 2000, protecting regional spirits from mass-market imitation."
+    },
+    {
+      "id": "mx_t3_016",
+      "name": "Cirugía estética (rhinoplasty, CDMX clinic)",
+      "emoji": "👃",
+      "category": "Health",
+      "tier": 4,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 5000.0,
+        "2000": 10000.0,
+        "2005": 15000.0,
+        "2010": 20000.0,
+        "2015": 28000.0,
+        "2020": 35000.0,
+        "2025": 100000.0
+      },
+      "fact": "Mexico is the world's 4th-largest cosmetic surgery market and Tijuana is the primary destination for American medical tourists seeking procedures at 40% of US prices. Mexico City's Polanco district has the highest concentration of cosmetic surgeons per capita in Latin America."
+    },
+    {
+      "id": "mx_t3_017",
+      "name": "PlayStation 5 (disc edition, Mexico retail)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 10999.0,
+        "2025": 12999.0
+      },
+      "fact": "PlayStation 5 in Mexico costs MX$13,000 versus USD 499 in the US, effectively 3x the US price in purchasing power terms. Mexico has the world's largest informal gaming market with 60% of games sold as second-hand cartridges and pirated downloads."
+    },
+    {
+      "id": "mx_t3_018",
+      "name": "Viaje a Cancún (7 nights all-inclusive, per person, CDMX)",
+      "emoji": "🏖️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 3000.0,
+        "2000": 6000.0,
+        "2005": 9000.0,
+        "2010": 12000.0,
+        "2015": 16000.0,
+        "2020": 14000.0,
+        "2025": 25000.0
+      },
+      "fact": "Cancún was uninhabited jungle until 1974 when a government computer selected it as the ideal tourism development site. Within 30 years it became the Caribbean's most-visited destination with 10 million arrivals annually, the fastest tourism megadestination creation in history."
+    },
+    {
+      "id": "mx_t3_019",
+      "name": "Quinceañera (15th birthday party, budget package)",
+      "emoji": "👑",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 6000.0,
+        "2000": 15000.0,
+        "2005": 25000.0,
+        "2010": 35000.0,
+        "2015": 50000.0,
+        "2020": 60000.0,
+        "2025": 120000.0
+      },
+      "fact": "Quinceañera celebrations marking a girl's 15th birthday cost an average MX$90,000 for a budget event. Mexican families sometimes take years of credit to fund a quinceañera because the social obligation of a lavish celebration is considered more important than the financial cost."
+    },
+    {
+      "id": "mx_t3_020",
+      "name": "Auto Usado (Toyota Corolla 2018, buenas condiciones)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 25000.0,
+        "2000": 30000.0,
+        "2005": 50000.0,
+        "2010": 70000.0,
+        "2015": 55000.0,
+        "2020": 80000.0,
+        "2025": 100000.0
+      },
+      "fact": "The used car market in Mexico boomed after new car prices doubled between 2020 and 2024. A used 2018 Toyota Corolla now costs more than a new Nissan Tsuru did in 2015, reflecting the peso depreciation and supply chain disruptions that made new vehicles unaffordable for most households."
+    },
+    {
+      "id": "mx_t3_021",
+      "name": "Boda (wedding, average total, CDMX)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 15000.0,
+        "2000": 30000.0,
+        "2005": 50000.0,
+        "2010": 70000.0,
+        "2015": 90000.0,
+        "2020": 80000.0,
+        "2025": 130000.0
+      },
+      "fact": "The average Mexican wedding costs MX$130,000 and the wedding market generates MX$80 billion annually. Mexico has one of the world's highest rates of church weddings and the Catholic ceremony is followed by a civil ceremony, making Mexican weddings legally the most complex in Latin America."
+    },
+    {
+      "id": "mx_t3_022",
+      "name": "Zócalo Hotel (5-star, CDMX historic centre, per night)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 2000.0,
+        "2000": 4000.0,
+        "2005": 6000.0,
+        "2010": 8000.0,
+        "2015": 10000.0,
+        "2020": 8000.0,
+        "2025": 14000.0
+      },
+      "fact": "The Zócalo, Mexico City's main square, is the second-largest urban plaza in the world after Tiananmen. Hotels overlooking it charge a premium for rooms facing the annual Independence Day spectacle where 2 million people gather, the densest crowd event in the Western Hemisphere."
+    },
+    {
+      "id": "mx_t3_023",
+      "name": "Remesas (annual fee to send USD500 to family, avg cost)",
+      "emoji": "💸",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 200.0,
+        "1995": 400.0,
+        "2000": 600.0,
+        "2005": 400.0,
+        "2010": 300.0,
+        "2015": 250.0,
+        "2020": 180.0,
+        "2025": 120.0
+      },
+      "fact": "Mexico receives USD 63 billion in remittances annually, more than all foreign direct investment and oil exports combined. The remittance transfer fee has fallen from 8% to 2.4% as competition from apps like Wise, Remitly and Nequi has broken the Western Union monopoly."
+    },
+    {
+      "id": "mx_t3_024",
+      "name": "Solar system (residential, 3kW, installed CDMX)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 100000.0,
+        "2010": 60000.0,
+        "2015": 40000.0,
+        "2020": 28000.0,
+        "2025": 22000.0
+      },
+      "fact": "Mexico has the highest solar irradiation of any country outside the tropics but generates only 4% of its electricity from solar. President AMLO cancelled solar investment incentives in 2020 to protect the state utility CFE, reversing a decade of renewable energy growth overnight."
+    },
+    {
+      "id": "mx_t3_025",
+      "name": "Gold (10 grams, 24K, casas de cambio CDMX)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1000.0,
+        "1995": 3000.0,
+        "2000": 5000.0,
+        "2005": 8000.0,
+        "2010": 22000.0,
+        "2015": 22000.0,
+        "2020": 55000.0,
+        "2025": 100000.0
+      },
+      "fact": "Mexico is one of the world's top 10 gold producers and the Peñasquito mine in Zacatecas is the largest open-pit silver and gold mine in the world. Gold prices in pesos rose 80x since 1990 as peso depreciation amplified the USD price rise."
+    },
+    {
+      "id": "mx_t4_001",
+      "name": "iPhone 16 Pro Max (256GB, Mexico retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 22000.0,
+        "2020": 32000.0,
+        "2025": 100000.0
+      },
+      "fact": "iPhone Pro Max costs 3x the US price in Mexico in purchasing power terms. Despite this, iPhone is Mexico's best-selling smartphone by revenue because remittance recipients frequently receive phones as gifts from relatives in the US."
+    },
+    {
+      "id": "mx_t4_002",
+      "name": "Gold (troy ounce, MXN spot, CDMX)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 9000.0,
+        "2000": 15000.0,
+        "2005": 24000.0,
+        "2010": 65000.0,
+        "2015": 68000.0,
+        "2020": 170000.0,
+        "2025": 250000.0
+      },
+      "fact": "Gold in pesos rose 80x since 1990, amplified by the peso's 25x depreciation versus the dollar over the same period. Mexicans who bought gold in 1990 and sold in 2025 multiplied their money 80 times while those holding pesos saw purchasing power fall 90%."
+    },
+    {
+      "id": "mx_t4_003",
+      "name": "Departamento (2-bedroom, purchase, Polanco CDMX)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 500000.0,
+        "2000": 1000000.0,
+        "2005": 1800000.0,
+        "2010": 3000000.0,
+        "2015": 4000000.0,
+        "2020": 5000000.0,
+        "2025": 8000000.0
+      },
+      "fact": "Polanco apartment prices tripled between 2020 and 2024 as US remote workers relocated to CDMX and drove rents to levels local professionals cannot afford. The phenomenon transformed Mexico City from an affordable world city into a priced-out capital city for its own middle class."
+    },
+    {
+      "id": "mx_t4_004",
+      "name": "Tesla Model 3 (standard, Mexico retail)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1500000.0,
+        "2025": 980000.0
+      },
+      "fact": "Tesla opened a Gigafactory in Monterrey after lengthy AMLO negotiations, with groundbreaking projected for 2024. Tesla Model 3 prices fell 35% as the plant neared production, making Mexico the first country where a Tesla factory reduced its own domestic car price before opening."
+    },
+    {
+      "id": "mx_t4_005",
+      "name": "Rolex Submariner (new retail, Mexico City)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 18000.0,
+        "2000": 40000.0,
+        "2005": 70000.0,
+        "2010": 120000.0,
+        "2015": 160000.0,
+        "2020": 250000.0,
+        "2025": 420000.0
+      },
+      "fact": "Rolex Submariner prices in Mexico rose 168x since 1990 versus a 200x peso depreciation over the same period. Mexico City's Presidente Masaryk luxury strip is Latin America's most expensive retail street by rent per square metre, hosting Rolex, Cartier and Hermès flagship stores."
+    },
+    {
+      "id": "mx_t4_006",
+      "name": "Mezcal premium bottle (El Jolgorio, special edition, 750ml)",
+      "emoji": "🥃",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500.0,
+        "2000": 1500.0,
+        "2005": 3000.0,
+        "2010": 6000.0,
+        "2015": 15000.0,
+        "2020": 25000.0,
+        "2025": 50000.0
+      },
+      "fact": "Single-village artisanal mezcals from rare agave varieties like tobalá and tepextate now command prices comparable to single malt Scotch. The Oaxacan mezcal boom created 5,000 artisan producer licences between 2010 and 2024, the fastest regulated spirits category expansion in history."
+    },
+    {
+      "id": "mx_t4_007",
+      "name": "Casa en privada (gated community house, Monterrey, purchase)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 150000.0,
+        "1995": 600000.0,
+        "2000": 1200000.0,
+        "2005": 2000000.0,
+        "2010": 3000000.0,
+        "2015": 4000000.0,
+        "2020": 5500000.0,
+        "2025": 9000000.0
+      },
+      "fact": "Monterrey's San Pedro Garza García is the wealthiest municipality in Latin America and its gated communities house the leadership of Mexico's industrial conglomerates. Nearshoring of US manufacturing to Monterrey after 2020 pushed property prices up 60% in 3 years."
+    },
+    {
+      "id": "mx_t4_008",
+      "name": "Vuelo CDMX-Madrid (economy, round trip, Aeroméxico)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 12000.0,
+        "2000": 18000.0,
+        "2005": 20000.0,
+        "2010": 22000.0,
+        "2015": 25000.0,
+        "2020": 18000.0,
+        "2025": 35000.0
+      },
+      "fact": "Aeroméxico filed for Chapter 11 bankruptcy in the US in 2020 and emerged in 2021 with Delta Air Lines as a stakeholder. Its CDMX-Madrid route is Mexico's most historic international air corridor and the most-flown transatlantic route from Latin America."
+    },
+    {
+      "id": "mx_t4_009",
+      "name": "Fiesta Quinceañera de lujo (full premium package)",
+      "emoji": "👸",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 60000.0,
+        "2000": 150000.0,
+        "2005": 250000.0,
+        "2010": 350000.0,
+        "2015": 500000.0,
+        "2020": 600000.0,
+        "2025": 900000.0
+      },
+      "fact": "A luxury quinceañera in Mexico City with a ballroom, live orchestra, choreographed waltz and designer gown can cost MX$900,000. Quinceañera Instagram influencers who document lavish celebrations have followings of over 2 million, making the 15th birthday the most content-rich cultural event in Mexican social media."
+    },
+    {
+      "id": "mx_t4_010",
+      "name": "Hacienda (colonial, 10 hectares, Oaxaca, purchase)",
+      "emoji": "🏰",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 200000.0,
+        "1995": 800000.0,
+        "2000": 2000000.0,
+        "2005": 4000000.0,
+        "2010": 7000000.0,
+        "2015": 10000000.0,
+        "2020": 12000000.0,
+        "2025": 20000000.0
+      },
+      "fact": "Oaxacan colonial haciendas now attract buyers from the US tech sector seeking remote living with cultural authenticity. The conversion of haciendas into boutique hotels generated USD 500 million in investment between 2015 and 2024, more than the Mexican government spent on rural tourism infrastructure."
+    },
+    {
+      "id": "mx_t4_011",
+      "name": "Louis Vuitton Neverfull MM (Presidente Masaryk, CDMX)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 20000.0,
+        "2000": 40000.0,
+        "2005": 70000.0,
+        "2010": 100000.0,
+        "2015": 130000.0,
+        "2020": 160000.0,
+        "2025": 220000.0
+      },
+      "fact": "Mexico's luxury market is the largest in Latin America and growing faster than Brazil despite Mexico's lower GDP per capita. The Polanco and Masaryk retail corridor in CDMX generates more luxury revenue per square metre than Rodeo Drive, according to LVMH's internal market analysis."
+    },
+    {
+      "id": "mx_t4_012",
+      "name": "Rancho ganadero (cattle ranch, 500 hectares, Chihuahua)",
+      "emoji": "🐄",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000.0,
+        "1995": 2000000.0,
+        "2000": 4000000.0,
+        "2005": 8000000.0,
+        "2010": 15000000.0,
+        "2015": 20000000.0,
+        "2020": 25000000.0,
+        "2025": 40000000.0
+      },
+      "fact": "Chihuahua state is Mexico's largest beef-producing region and its ranches supply the premium cuts served at Mexico City's elite churrascarias and exported to Japan. A working cattle ranch is one of the few assets that appreciated consistently through every peso devaluation since 1976."
+    },
+    {
+      "id": "mx_t4_013",
+      "name": "Porsche 911 (base Carrera, Mexico MSRP)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 200000.0,
+        "1995": 800000.0,
+        "2000": 1500000.0,
+        "2005": 1800000.0,
+        "2010": 2200000.0,
+        "2015": 2500000.0,
+        "2020": 3000000.0,
+        "2025": 4200000.0
+      },
+      "fact": "Mexico is Porsche's 6th-largest global market despite average wages being a fraction of European competitors. The Monterrey industrial elite drive Porsches as a status marker that signals both personal wealth and alignment with the US business culture that is their primary commercial partner."
+    },
+    {
+      "id": "mx_t4_014",
+      "name": "Concierto VIP (Taylor Swift Eras Tour CDMX, floor+package)",
+      "emoji": "🌟",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 35000.0
+      },
+      "fact": "Taylor Swift's Eras Tour CDMX shows each generated MX$500 million in local economic activity. The ticket resale market for premium Eras Tour packages reached MX$80,000 on secondary platforms, making the Mexico City shows the most expensive Taylor Swift tickets outside North America."
+    },
+    {
+      "id": "mx_t4_015",
+      "name": "Mercedes GLE (new, Mexico MSRP)",
+      "emoji": "🚙",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 400000.0,
+        "2000": 800000.0,
+        "2005": 1000000.0,
+        "2010": 1400000.0,
+        "2015": 1800000.0,
+        "2020": 2200000.0,
+        "2025": 3200000.0
+      },
+      "fact": "Mercedes-Benz manufactures trucks in Mexico but imports all passenger cars, paying a 15% import duty that makes German cars 25% more expensive than in the US. Mexico's luxury car market grew 40% between 2021 and 2024 as nearshoring executives relocated to Monterrey and Guadalajara."
+    },
+    {
+      "id": "mx_t4_016",
+      "name": "Propiedad en Los Cabos (beach villa, Cabo San Lucas, purchase)",
+      "emoji": "🌊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300000.0,
+        "1995": 1000000.0,
+        "2000": 2000000.0,
+        "2005": 4000000.0,
+        "2010": 6000000.0,
+        "2015": 8000000.0,
+        "2020": 10000000.0,
+        "2025": 20000000.0
+      },
+      "fact": "Los Cabos is Mexico's most expensive real estate market and its average property transaction exceeds those of most US coastal cities. US retirees own 40% of Cabo real estate, making it the largest concentration of foreign property ownership in any Mexican municipality."
+    },
+    {
+      "id": "mx_t4_017",
+      "name": "Boda de lujo (luxury wedding, total, CDMX)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 200000.0,
+        "2000": 400000.0,
+        "2005": 600000.0,
+        "2010": 800000.0,
+        "2015": 1000000.0,
+        "2020": 800000.0,
+        "2025": 1500000.0
+      },
+      "fact": "A luxury Mexican wedding at a Polanco hotel with an international DJ costs MX$1.5 million. Mexico City's wedding planners say 40% of their 2023 clients were US-based couples drawn by the city's aesthetic and food quality at a fraction of comparable US wedding costs."
+    },
+    {
+      "id": "mx_t4_018",
+      "name": "Annual Colegio privado premium (top CDMX bilingual school)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 30000.0,
+        "2000": 80000.0,
+        "2005": 120000.0,
+        "2010": 180000.0,
+        "2015": 240000.0,
+        "2020": 300000.0,
+        "2025": 450000.0
+      },
+      "fact": "Mexico City's elite bilingual schools charge MX$450,000 annually and their alumni networks are the primary pathway to Mexico's political and corporate elite. The Monterrey Tec system, founded by the industrial families of Nuevo León, educated every Mexican CEO in the Fortune 500 equivalent."
+    },
+    {
+      "id": "mx_t4_019",
+      "name": "Tequila premium (Don Julio 1942, 750ml, retail)",
+      "emoji": "🥃",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 200.0,
+        "2000": 500.0,
+        "2005": 1000.0,
+        "2010": 2000.0,
+        "2015": 3500.0,
+        "2020": 4500.0,
+        "2025": 7000.0
+      },
+      "fact": "Don Julio 1942 became the world's most-ordered ultra-premium spirit in 2019, the first time a non-whisky brand held this title. Its cultural prominence in rap and hip-hop across North America drove a 40% annual price increase between 2018 and 2022, the fastest premium spirits inflation in history."
+    },
+    {
+      "id": "mx_t4_020",
+      "name": "Tren Maya (tourist class ticket, full route, Cancún to Palenque)",
+      "emoji": "🚆",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 800.0
+      },
+      "fact": "The Tren Maya, completed in 2023 at a cost of MX$350 billion, is the most expensive infrastructure project in Mexican history. It was built in 5 years despite crossing 10 archaeological sites, a jungle and a sensitive cenote region, making it simultaneously a logistical triumph and an environmental controversy."
+    },
+    {
+      "id": "mx_t4_021",
+      "name": "Hacienda Tequila (small distillery, Jalisco, operating business)",
+      "emoji": "🌵",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 500000.0,
+        "1995": 2000000.0,
+        "2000": 5000000.0,
+        "2005": 10000000.0,
+        "2010": 20000000.0,
+        "2015": 40000000.0,
+        "2020": 60000000.0,
+        "2025": 100000000.0
+      },
+      "fact": "Small tequila distilleries in Jalisco became the most-acquired luxury assets by US investors between 2015 and 2023. George Clooney's Casamigos brand sold for USD 1 billion in 2017 after 4 years of operation, making tequila the single highest-return investment in the food and beverage industry in that decade."
+    },
+    {
+      "id": "mx_t4_022",
+      "name": "Propiedad turística (boutique hotel, 10 rooms, Oaxaca city)",
+      "emoji": "🏩",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300000.0,
+        "1995": 1000000.0,
+        "2000": 2500000.0,
+        "2005": 5000000.0,
+        "2010": 8000000.0,
+        "2015": 12000000.0,
+        "2020": 15000000.0,
+        "2025": 30000000.0
+      },
+      "fact": "Oaxaca city boutique hotels are the most sought-after hospitality investment in Mexico and foreign buyers compete with Mexican hotel groups for each property. Oaxaca was named the world's best city by Travel + Leisure in 2022, driving a 200% rise in boutique hotel valuations within 18 months."
+    },
+    {
+      "id": "mx_t4_023",
+      "name": "Avión privado charter (CDMX to Cancún, light jet)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 150000.0,
+        "2000": 300000.0,
+        "2005": 400000.0,
+        "2010": 500000.0,
+        "2015": 600000.0,
+        "2020": 550000.0,
+        "2025": 900000.0
+      },
+      "fact": "Mexico has the largest private aviation market in Latin America with 2,000 registered aircraft. CDMX-Cancún is the most-flown private jet route in Latin America, used by industrial families for whom the 4-hour commercial flight feels impractical given security concerns at commercial terminals."
+    },
+    {
+      "id": "mx_t4_024",
+      "name": "Festival de Globos (Guanajuato hot air balloon festival, VIP package)",
+      "emoji": "🎈",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5000.0,
+        "2005": 8000.0,
+        "2010": 12000.0,
+        "2015": 18000.0,
+        "2020": 15000.0,
+        "2025": 30000.0
+      },
+      "fact": "The Guanajuato International Balloon Festival is the largest in Latin America and the third-largest in the world. The VIP package includes a sunrise balloon flight over the colonial city and has a 3-year waiting list for the first flight of each festival."
+    },
+    {
+      "id": "mx_t4_025",
+      "name": "Mansión (luxury mansion, Lomas de Chapultepec, CDMX)",
+      "emoji": "🏛️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 2000000.0,
+        "1995": 8000000.0,
+        "2000": 15000000.0,
+        "2005": 25000000.0,
+        "2010": 40000000.0,
+        "2015": 60000000.0,
+        "2020": 70000000.0,
+        "2025": 120000000.0
+      },
+      "fact": "Lomas de Chapultepec is Mexico's wealthiest residential neighbourhood and its mansions house the families who control 40% of Mexico's GDP. Security spending for Lomas properties averages MX$500,000 annually per household, more than most Mexican families earn in a lifetime."
+    }
+  ]
+}

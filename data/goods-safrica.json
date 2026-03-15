@@ -1,0 +1,1808 @@
+{
+  "country": "ZA",
+  "country_name": "South Africa",
+  "currency_symbol": "R",
+  "currency_code": "ZAR",
+  "items": [
+    {
+      "id": "za_t1_001",
+      "name": "Braai boerewors (sausage, 100g, butcher)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 3.5,
+        "2000": 6.0,
+        "2005": 9.0,
+        "2010": 14.0,
+        "2015": 20.0,
+        "2020": 30.0,
+        "2025": 45.0
+      },
+      "fact": "Boerewors is South Africa's national sausage and is so culturally significant it has a legal definition: it must contain 90% meat with no mechanically recovered protein. The word literally means farmer's sausage and braai culture is the one ritual that unites all South African demographics."
+    },
+    {
+      "id": "za_t1_002",
+      "name": "Pap (maize meal, 1kg, Iwisa brand, supermarket)",
+      "emoji": "🌽",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 2.5,
+        "2000": 4.0,
+        "2005": 6.5,
+        "2010": 10.0,
+        "2015": 14.0,
+        "2020": 20.0,
+        "2025": 30.0
+      },
+      "fact": "Pap maize porridge is eaten by 80% of South Africans and is the dietary staple of township communities. Its price is politically sensitive and the government scrapped VAT on it as a zero-rated food item in 1993, a policy that has not changed through six different administrations."
+    },
+    {
+      "id": "za_t1_003",
+      "name": "Litre of Petrol (93 unleaded, average South Africa)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.56,
+        "1995": 1.2,
+        "2000": 2.85,
+        "2005": 5.2,
+        "2010": 8.1,
+        "2015": 12.8,
+        "2020": 14.5,
+        "2025": 24.0
+      },
+      "fact": "South Africa sets petrol prices monthly using a complex formula tied to global oil benchmarks, the rand exchange rate and local taxes. The fuel levy accounts for 40% of the pump price and is used to fund roads, accident funds and the fiscus, making every litre a significant tax event."
+    },
+    {
+      "id": "za_t1_004",
+      "name": "Egg (single, large, Pick n Pay)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.8,
+        "2000": 1.2,
+        "2005": 1.8,
+        "2010": 2.5,
+        "2015": 3.5,
+        "2020": 5.0,
+        "2025": 7.5
+      },
+      "fact": "South Africa's egg industry was prosecuted for price-fixing in 2019 in the Competition Tribunal's biggest ever agricultural cartel case, resulting in fines of R1.5 billion. The case revealed that egg companies had colluded for 17 years through a WhatsApp group called the Egg Farmers of SA."
+    },
+    {
+      "id": "za_t1_005",
+      "name": "Taxi fare (minibus taxi, township to CBD, standard route)",
+      "emoji": "🚐",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.5,
+        "2000": 3.0,
+        "2005": 5.0,
+        "2010": 8.0,
+        "2015": 12.0,
+        "2020": 16.0,
+        "2025": 24.0
+      },
+      "fact": "South Africa's 250,000 minibus taxis carry 15 million passengers daily, more than all formal public transport combined. The taxi industry is controlled by associations that determine routes, prices and membership, making it simultaneously Africa's most successful transport business and its most violent industry."
+    },
+    {
+      "id": "za_t1_006",
+      "name": "Bread (Albany white loaf, 700g, Shoprite)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.2,
+        "1995": 2.5,
+        "2000": 3.5,
+        "2005": 5.0,
+        "2010": 7.5,
+        "2015": 11.0,
+        "2020": 14.0,
+        "2025": 20.0
+      },
+      "fact": "Albany bread is South Africa's bestselling bread and was at the centre of a 2007 bread price-fixing scandal where the four major bakers colluded for a decade. Tiger Brands, Pioneer Foods and Foodcorp paid combined fines of R99 million, the largest cartel penalty in South African history at the time."
+    },
+    {
+      "id": "za_t1_007",
+      "name": "Bunny chow (quarter loaf, Durban, street)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1.5,
+        "1995": 3.0,
+        "2000": 5.0,
+        "2005": 8.0,
+        "2010": 14.0,
+        "2015": 20.0,
+        "2020": 30.0,
+        "2025": 50.0
+      },
+      "fact": "Bunny chow, a hollowed-out loaf filled with curry, was invented in Durban's Indian community during apartheid when Black South Africans could not be served in restaurants but could buy food through a window. The container that could not offend became South Africa's most beloved street food."
+    },
+    {
+      "id": "za_t1_008",
+      "name": "Milk (2L, full cream, Clover, supermarket)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 3.0,
+        "2000": 4.5,
+        "2005": 7.0,
+        "2010": 11.0,
+        "2015": 16.0,
+        "2020": 22.0,
+        "2025": 32.0
+      },
+      "fact": "Clover is South Africa's largest dairy company and was at the centre of a major milk price-fixing investigation alongside its competitors. The Competition Commission found that dairy companies colluded on milk prices for 12 years, a case that became a textbook example of food industry cartel behaviour."
+    },
+    {
+      "id": "za_t1_009",
+      "name": "Newspaper (Daily Sun, print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.8,
+        "2000": 1.5,
+        "2005": 2.5,
+        "2010": 3.5,
+        "2015": 5.0,
+        "2020": 7.0,
+        "2025": 11.0
+      },
+      "fact": "Daily Sun is South Africa's highest-circulation newspaper and is read primarily in townships. It covers crime, sport and supernatural stories including zombie attacks and tokoloshe sightings, making it the most demographically honest newspaper in any African country."
+    },
+    {
+      "id": "za_t1_010",
+      "name": "Mageu (fermented maize drink, 500ml, supermarket)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.5,
+        "2000": 2.5,
+        "2005": 4.0,
+        "2010": 6.0,
+        "2015": 8.5,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Mageu is a fermented non-alcoholic maize drink with a slightly sour taste that has been consumed in southern Africa for centuries. Tiger Brands and Pioneer Foods produce commercial versions, but informal home production remains the primary source in rural areas where it replaces milk as a protein drink."
+    },
+    {
+      "id": "za_t1_011",
+      "name": "Chakalaka (canned, 410g, All Gold)",
+      "emoji": "🥫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.8,
+        "2000": 3.0,
+        "2005": 4.5,
+        "2010": 7.0,
+        "2015": 10.0,
+        "2020": 14.0,
+        "2025": 22.0
+      },
+      "fact": "Chakalaka is a spiced vegetable relish served alongside pap and braai and originated in Johannesburg's mine hostels where workers from across Africa created a condiment from whatever ingredients were available. It is now South Africa's most exported food product."
+    },
+    {
+      "id": "za_t1_012",
+      "name": "Stamp (domestic letter, SA Post Office)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.21,
+        "1995": 0.55,
+        "2000": 1.1,
+        "2005": 2.8,
+        "2010": 4.0,
+        "2015": 5.9,
+        "2020": 7.7,
+        "2025": 12.0
+      },
+      "fact": "The SA Post Office has been technically insolvent since 2020 and was placed under administration in 2023. Letter delivery times in some provinces exceed 6 months and the organisation employed 15,000 people to deliver 50 million letters annually, the lowest letters-per-employee ratio of any national postal service."
+    },
+    {
+      "id": "za_t1_013",
+      "name": "Simba chips (30g packet, convenience store)",
+      "emoji": "🥔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.4,
+        "1995": 0.8,
+        "2000": 1.5,
+        "2005": 2.5,
+        "2010": 4.0,
+        "2015": 5.5,
+        "2020": 8.0,
+        "2025": 13.0
+      },
+      "fact": "Simba chips are South Africa's dominant crisp brand and were founded in 1957 by a South African entrepreneur who licensed the recipe from a US potato chip manufacturer. The lion mascot is unchanged since 1960 and the chilli-flavoured variety is the most-eaten snack in township tuck shops."
+    },
+    {
+      "id": "za_t1_014",
+      "name": "Cabbage (whole, medium, Shoprite)",
+      "emoji": "🥬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 1.2,
+        "2000": 2.0,
+        "2005": 3.5,
+        "2010": 5.5,
+        "2015": 8.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Cabbage is the most purchased vegetable in South Africa and the cheapest source of vitamins for low-income households. Cooked with pap and chakalaka it forms the basis of township nutrition and studies show it appears in 70% of meals eaten by South Africans below the poverty line."
+    },
+    {
+      "id": "za_t1_015",
+      "name": "Coca-Cola (330ml can, Spar)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 1.2,
+        "2000": 2.0,
+        "2005": 3.5,
+        "2010": 5.5,
+        "2015": 8.5,
+        "2020": 12.0,
+        "2025": 17.0
+      },
+      "fact": "South Africa introduced a sugar tax on fizzy drinks in 2018, the Health Promotion Levy, the first sugar tax in Africa. Coca-Cola reduced the sugar content in its South African recipe to below the tax threshold rather than absorb the cost, making South African Coke measurably less sweet than its original formula."
+    },
+    {
+      "id": "za_t1_016",
+      "name": "Sunflower oil (750ml, Sunfoil, Checkers)",
+      "emoji": "🫙",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.5,
+        "1995": 3.0,
+        "2000": 5.0,
+        "2005": 7.5,
+        "2010": 13.0,
+        "2015": 18.0,
+        "2020": 25.0,
+        "2025": 38.0
+      },
+      "fact": "South Africa is a major sunflower producer and Sunfoil is manufactured domestically, yet oil prices rose sharply after the 2022 Ukraine war disrupted global sunflower oil markets. The Ukraine conflict showed that South African domestic production was insufficient to insulate consumers from global commodity shocks."
+    },
+    {
+      "id": "za_t1_017",
+      "name": "Koeksister (twisted doughnut, bakery, single)",
+      "emoji": "🍩",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.3,
+        "1995": 0.6,
+        "2000": 1.2,
+        "2005": 2.0,
+        "2010": 3.5,
+        "2015": 5.0,
+        "2020": 7.5,
+        "2025": 12.0
+      },
+      "fact": "The koeksister is South Africa's most distinctive pastry, a braided doughnut dipped in cold syrup that creates a sticky, crunchy exterior. The Afrikaner version and the Cape Malay version are completely different desserts sharing the same name, a source of ongoing culinary debate that mirrors South Africa's broader cultural negotiations."
+    },
+    {
+      "id": "za_t1_018",
+      "name": "Rooibos tea (pack of 40 teabags, Freshpak, Checkers)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.0,
+        "2000": 3.5,
+        "2005": 5.5,
+        "2010": 8.5,
+        "2015": 12.0,
+        "2020": 17.0,
+        "2025": 28.0
+      },
+      "fact": "Rooibos tea grows only in the Cederberg mountains of the Western Cape and nowhere else on earth. South Africa successfully registered rooibos as a geographical indication in 2021 after a 20-year legal battle, ensuring that only South African rooibos can be sold under that name globally."
+    },
+    {
+      "id": "za_t1_019",
+      "name": "Vetkoek (fried dough, single, school tuck shop)",
+      "emoji": "🥐",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.5,
+        "2000": 1.0,
+        "2005": 2.0,
+        "2010": 3.5,
+        "2015": 5.0,
+        "2020": 8.0,
+        "2025": 14.0
+      },
+      "fact": "Vetkoek, meaning fat cake, is made from simple bread dough deep-fried in oil and is sold at school tuck shops and informal markets across South Africa. Its price is the most accurate single indicator of township food inflation because it uses the three cheapest ingredients available: flour, oil and water."
+    },
+    {
+      "id": "za_t1_020",
+      "name": "Litre of milk (full cream, Checkers house brand)",
+      "emoji": "🥛",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.8,
+        "1995": 1.6,
+        "2000": 2.8,
+        "2005": 4.5,
+        "2010": 7.0,
+        "2015": 10.0,
+        "2020": 14.0,
+        "2025": 20.0
+      },
+      "fact": "Checkers and Woolworths Food are South Africa's two premium supermarket chains and their house-brand milk is considered more reliable than branded equivalents by consumer surveys. The Shoprite group, which owns Checkers, is Africa's largest retailer and operates in 34 countries."
+    },
+    {
+      "id": "za_t1_021",
+      "name": "Maggi (2-minute noodles, single pack, Shoprite)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.25,
+        "1995": 0.5,
+        "2000": 0.9,
+        "2005": 1.5,
+        "2010": 2.5,
+        "2015": 3.5,
+        "2020": 5.0,
+        "2025": 8.0
+      },
+      "fact": "Two-minute noodles are South Africa's most purchased single food item by units and are sold at every spaza shop in the country. In township economics, a single pack at R8 can feed a child for a meal and the price point is used by food security researchers as a primary deprivation indicator."
+    },
+    {
+      "id": "za_t1_022",
+      "name": "Spaza airtime (R5 MTN top-up, local spaza shop)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5.0,
+        "2005": 5.0,
+        "2010": 5.0,
+        "2015": 5.0,
+        "2020": 5.0,
+        "2025": 5.0
+      },
+      "fact": "South Africa's R5 airtime denomination has not changed since mobile phones were introduced and is bought daily by millions of township residents who cannot afford larger top-ups. Spaza shops, informal township convenience stores, sell more airtime by unit than any formal retailer in South Africa."
+    },
+    {
+      "id": "za_t1_023",
+      "name": "Chicken feet (walkie-talkies, 250g, Shoprite)",
+      "emoji": "🐔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 1.0,
+        "2000": 2.0,
+        "2005": 3.5,
+        "2010": 5.5,
+        "2015": 8.0,
+        "2020": 12.0,
+        "2025": 18.0
+      },
+      "fact": "Walkie-talkies, as chicken feet are known in South African townships, are the cheapest animal protein available and are eaten boiled or grilled with pap. South Africa exports premium chicken pieces to Europe and imports chicken feet from Brazil for the domestic market, a trade dynamic that critics call nutritional colonialism."
+    },
+    {
+      "id": "za_t1_024",
+      "name": "Banana (single, Cavendish, Woolworths Food)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 0.2,
+        "1995": 0.4,
+        "2000": 0.7,
+        "2005": 1.2,
+        "2010": 2.0,
+        "2015": 3.0,
+        "2020": 4.5,
+        "2025": 7.0
+      },
+      "fact": "South Africa grows bananas primarily in the Limpopo province and the Eastern Cape, with the Cavendish variety making up 90% of commercial production. Cyclone Freddy in 2023 destroyed 60% of the Mozambique banana crop, which normally supplements South Africa's supply, causing the first visible banana shortage in 30 years."
+    },
+    {
+      "id": "za_t1_025",
+      "name": "Gatsby (1/4 roll, atchaar and chips, Cape Town)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1.0,
+        "1995": 2.5,
+        "2000": 5.0,
+        "2005": 8.0,
+        "2010": 14.0,
+        "2015": 20.0,
+        "2020": 28.0,
+        "2025": 45.0
+      },
+      "fact": "The Gatsby is Cape Town's enormous submarine roll filled with chips, atchar and meat, invented by Rashaad Pandy in 1976 after buying leftover fish for his workers. He named it after the film playing at a nearby cinema. A full Gatsby feeds four people and is considered the Cape Flats community's birthday meal."
+    },
+    {
+      "id": "za_t2_001",
+      "name": "Chicken braai (half chicken, ready-to-braai, Checkers)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 10.0,
+        "2000": 18.0,
+        "2005": 28.0,
+        "2010": 42.0,
+        "2015": 60.0,
+        "2020": 80.0,
+        "2025": 120.0
+      },
+      "fact": "South Africa is one of the world's largest per-capita chicken consumers. The Rainbow Chicken and Astral Foods duopoly was fined R1.5 billion for price-fixing in 2021. Chicken is the only protein accessible to all income levels and its price correlates directly with political stability."
+    },
+    {
+      "id": "za_t2_002",
+      "name": "Cinema ticket (Ster-Kinekor, standard 2D, Gauteng)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 22.0,
+        "2005": 38.0,
+        "2010": 60.0,
+        "2015": 80.0,
+        "2020": 95.0,
+        "2025": 130.0
+      },
+      "fact": "Ster-Kinekor is South Africa's largest cinema chain and has operated since 1958. South African films like Tsotsi, which won the 2006 Best Foreign Film Oscar, and District 9 brought global attention to South African storytelling. The industry generates R2 billion annually despite limited government support."
+    },
+    {
+      "id": "za_t2_003",
+      "name": "Haircut (men's, barbershop, township)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 7.0,
+        "2000": 15.0,
+        "2005": 25.0,
+        "2010": 40.0,
+        "2015": 60.0,
+        "2020": 80.0,
+        "2025": 120.0
+      },
+      "fact": "Township barbershops are South Africa's most democratic social spaces, serving as community centres, political meeting rooms and sports commentary venues simultaneously. The fade haircut that spread globally from Nigerian and African-American barbers was practised in South African townships decades before it became a global trend."
+    },
+    {
+      "id": "za_t2_004",
+      "name": "Netflix subscription (monthly, standard, South Africa)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 99.0,
+        "2020": 159.0,
+        "2025": 228.0
+      },
+      "fact": "Netflix launched in South Africa in 2016 and has invested over R1 billion in local content. South African productions like Blood and Water and How to Ruin Christmas reached Netflix global top-10 charts, becoming the first sub-Saharan African productions to achieve consistent global audiences."
+    },
+    {
+      "id": "za_t2_005",
+      "name": "Braai pack (boerewors + chops + steaks, basic, Shoprite)",
+      "emoji": "🥩",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 15.0,
+        "1995": 30.0,
+        "2000": 55.0,
+        "2005": 90.0,
+        "2010": 140.0,
+        "2015": 200.0,
+        "2020": 280.0,
+        "2025": 420.0
+      },
+      "fact": "South Africa has National Braai Day on 24 September, a heritage day promoted by Jan Braai who convinced Nelson Mandela to endorse the idea of a single day where all South Africans gather around a fire. The braai is the most egalitarian cultural institution in the country."
+    },
+    {
+      "id": "za_t2_006",
+      "name": "Gym membership (annual, Virgin Active, standard)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 50.0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 6000.0,
+        "2020": 7200.0,
+        "2025": 9500.0
+      },
+      "fact": "Virgin Active South Africa is the country's largest gym chain and its parent company was founded in Cape Town before expanding to 10 countries. South Africa has one of Africa's highest gym membership rates because the post-apartheid middle class adopted wellness culture rapidly in the 1990s."
+    },
+    {
+      "id": "za_t2_007",
+      "name": "Uber / Bolt ride (5km, Johannesburg, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 55.0,
+        "2020": 80.0,
+        "2025": 160.0
+      },
+      "fact": "Uber launched in South Africa in 2013 and transformed middle-class mobility by providing an alternative to metered taxis and the dangerous reputation of Johannesburg streets. Bolt entered in 2016 with lower prices and now has more drivers than Uber in most South African cities."
+    },
+    {
+      "id": "za_t2_008",
+      "name": "Spotify subscription (monthly, South Africa)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 59.99,
+        "2020": 59.99,
+        "2025": 79.99
+      },
+      "fact": "South Africa is the continent's largest music streaming market and amapiano, invented in Johannesburg's townships around 2012, became Africa's most-streamed genre globally by 2022. DJ Maphorisa and Kabza de Small's collaborations have each topped 1 billion Spotify streams, the first South African artists to achieve this."
+    },
+    {
+      "id": "za_t2_009",
+      "name": "Pack of 20 cigarettes (Peter Stuyvesant, standard)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 5.0,
+        "2000": 10.0,
+        "2005": 16.0,
+        "2010": 22.0,
+        "2015": 32.0,
+        "2020": 45.0,
+        "2025": 75.0
+      },
+      "fact": "South Africa banned cigarette sales entirely for 5 weeks during the first COVID lockdown in 2020, the only democratic country in the world to do so. The ban created an overnight black market that sold cigarettes at R5 each, generating R35 billion in illicit trade. The decision was widely condemned as the most counterproductive lockdown measure globally."
+    },
+    {
+      "id": "za_t2_010",
+      "name": "Braai wood (bag, 5kg, Sasol petrol station)",
+      "emoji": "🪵",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3.0,
+        "1995": 7.0,
+        "2000": 13.0,
+        "2005": 22.0,
+        "2010": 38.0,
+        "2015": 55.0,
+        "2020": 80.0,
+        "2025": 130.0
+      },
+      "fact": "South Africans debate the superiority of different braai woods the way Frenchmen debate wine. Rooikrans from the Fynbos biome burns hottest and is used for steaks, while ironwood is preferred for long slow-cooked lamb. The braai wood industry generates R2 billion annually."
+    },
+    {
+      "id": "za_t2_011",
+      "name": "Woolworths Ready Meal (single, premium range)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 22.0,
+        "2005": 38.0,
+        "2010": 60.0,
+        "2015": 90.0,
+        "2020": 120.0,
+        "2025": 180.0
+      },
+      "fact": "Woolworths Food is South Africa's premium grocery brand and charges 30-40% above Checkers for equivalent products. Its annual food inflation tracking is used by economists as a proxy for middle-class spending power, separate from the CPI which tracks the full income spectrum."
+    },
+    {
+      "id": "za_t2_012",
+      "name": "Monthly home internet (Telkom, 50Mbps fibre)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 4800.0,
+        "2020": 6000.0,
+        "2025": 599.0
+      },
+      "fact": "South Africa has the most expensive mobile data per gigabyte in the G20 according to the Alliance for Affordable Internet. Telkom's historic monopoly on fixed lines meant competitors could not lay cables without leasing from Telkom at non-commercial rates, keeping prices high for 20 years after deregulation."
+    },
+    {
+      "id": "za_t2_013",
+      "name": "Nandos quarter chicken (restaurant, with chips and peri-peri sauce)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 8.0,
+        "1995": 18.0,
+        "2000": 30.0,
+        "2005": 48.0,
+        "2010": 70.0,
+        "2015": 95.0,
+        "2020": 130.0,
+        "2025": 190.0
+      },
+      "fact": "Nando's was founded in Johannesburg in 1987 by Robbie Brozin after he tasted peri-peri chicken at a Mozambican restaurant in Rosettenville. It now operates in 35 countries and its UK advertising is considered the most satirically sharp of any restaurant chain globally."
+    },
+    {
+      "id": "za_t2_014",
+      "name": "2L of Castle Lager (supermarket, 2-litre bottle)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 3.5,
+        "1995": 8.0,
+        "2000": 15.0,
+        "2005": 24.0,
+        "2010": 36.0,
+        "2015": 52.0,
+        "2020": 70.0,
+        "2025": 110.0
+      },
+      "fact": "Castle Lager is South Africa's most iconic beer brand and has sponsored the Springbok rugby team since 1992. South African Breweries, which makes Castle, merged with AB InBev in 2016 creating the world's largest beer company. South Africa consumes 3 billion litres of beer annually."
+    },
+    {
+      "id": "za_t2_015",
+      "name": "Clicks pharmacy consultation (private, walk-in, basic)",
+      "emoji": "👨‍⚕️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 50.0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 400.0,
+        "2015": 650.0,
+        "2020": 900.0,
+        "2025": 999.0
+      },
+      "fact": "A private GP consultation costs R1,400 without medical aid, making South Africa's private healthcare the most expensive in Africa relative to median income. The two-tier system where 84% use a crumbling public service and 16% access world-class private care is described by the WHO as the most stark healthcare inequality of any upper-middle income country."
+    },
+    {
+      "id": "za_t2_016",
+      "name": "Electricity (monthly, 150kWh, Eskom residential avg)",
+      "emoji": "💡",
+      "category": "Home",
+      "tier": 2,
+      "prices": {
+        "1990": 20.0,
+        "1995": 40.0,
+        "2000": 65.0,
+        "2005": 100.0,
+        "2010": 250.0,
+        "2015": 500.0,
+        "2020": 700.0,
+        "2025": 999.0
+      },
+      "fact": "Eskom raised electricity prices 700% between 2007 and 2024, more than any utility in the OECD. It is the world's most indebted utility company with R450 billion in debt and is responsible for load shedding that costs South Africa R1 billion per day in economic losses."
+    },
+    {
+      "id": "za_t2_017",
+      "name": "Monthly mobile data (1GB, MTN South Africa)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 500.0,
+        "2010": 299.0,
+        "2015": 149.0,
+        "2020": 50.0,
+        "2025": 30.0
+      },
+      "fact": "South Africa's 1GB mobile data price fell from R500 to R30 between 2005 and 2025, the steepest single-product price decline in South African consumer history. The fall was driven by Competition Commission action, infrastructure investment and the entry of Rain, a data-only network, in 2018."
+    },
+    {
+      "id": "za_t2_018",
+      "name": "Amarula Cream (750ml, duty-free gift purchase)",
+      "emoji": "🥃",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 15.0,
+        "1995": 30.0,
+        "2000": 55.0,
+        "2005": 80.0,
+        "2010": 120.0,
+        "2015": 160.0,
+        "2020": 220.0,
+        "2025": 320.0
+      },
+      "fact": "Amarula is made from the fruit of the marula tree, which elephants ferment in their stomachs after eating fallen fruit. The iconic elephant on the bottle is one of Africa's most globally recognised brand images and Amarula is the second-bestselling cream liqueur in the world after Baileys."
+    },
+    {
+      "id": "za_t2_019",
+      "name": "Pick n Pay weekly shop (family of 3, essential items)",
+      "emoji": "🛒",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 50.0,
+        "1995": 120.0,
+        "2000": 200.0,
+        "2005": 350.0,
+        "2010": 600.0,
+        "2015": 900.0,
+        "2020": 1200.0,
+        "2025": 950.0
+      },
+      "fact": "Pick n Pay introduced the grocery basket concept to South Africa in 1967 and still publishes weekly basket comparisons against competitors. Founder Raymond Ackerman fought apartheid price controls and tax increases that he argued hurt poor consumers, making Pick n Pay the most politically outspoken retailer in African history."
+    },
+    {
+      "id": "za_t2_020",
+      "name": "Full day car hire with driver (Johannesburg, 8hrs)",
+      "emoji": "🚕",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 20.0,
+        "1995": 50.0,
+        "2000": 120.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 500.0,
+        "2020": 650.0,
+        "2025": 5000.0
+      },
+      "fact": "A full-day driver-hire in Johannesburg costs R5,000, less than a one-way business class flight to Cape Town. South Africa's driver-for-hire market grew 40% between 2020 and 2024 as load shedding made road safety unpredictable and corporate clients preferred known drivers to app-based rides."
+    },
+    {
+      "id": "za_t2_021",
+      "name": "Springboks match (premium seat, Loftus Versfeld, vs All Blacks)",
+      "emoji": "🏉",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 15.0,
+        "1995": 40.0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 500.0,
+        "2020": 450.0,
+        "2025": 750.0
+      },
+      "fact": "The Springboks have won four Rugby World Cups, more than any team alongside New Zealand. Their 1995 World Cup win in post-apartheid South Africa, attended by Nelson Mandela wearing Francois Pienaar's jersey, is described by historians as the most politically significant sporting event of the 20th century."
+    },
+    {
+      "id": "za_t2_022",
+      "name": "Mediclinic annual medical aid (individual, basic Discovery)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 50.0,
+        "1995": 150.0,
+        "2000": 400.0,
+        "2005": 800.0,
+        "2010": 1400.0,
+        "2015": 2000.0,
+        "2020": 2800.0,
+        "2025": 4200.0
+      },
+      "fact": "Only 16% of South Africans have medical aid, making it the most unequal health access ratio of any upper-middle income country. Discovery Health, the largest medical aid administrator, introduced the Vitality wellness programme that rewards healthy behaviour with discounts, now copied by insurers in 40 countries."
+    },
+    {
+      "id": "za_t2_023",
+      "name": "Malva pudding (restaurant, single, SA cuisine)",
+      "emoji": "🍮",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 5.0,
+        "1995": 12.0,
+        "2000": 22.0,
+        "2005": 38.0,
+        "2010": 60.0,
+        "2015": 85.0,
+        "2020": 110.0,
+        "2025": 165.0
+      },
+      "fact": "Malva pudding is South Africa's national dessert, a sweet apricot sponge soaked in cream sauce of Cape Dutch origin. It appears on every South African restaurant menu and the recipe has not changed materially since the 18th century, making it the oldest living recipe in continuous commercial use in the country."
+    },
+    {
+      "id": "za_t2_024",
+      "name": "DSTV Access (monthly, MultiChoice, basic tier)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 50.0,
+        "2000": 150.0,
+        "2005": 280.0,
+        "2010": 450.0,
+        "2015": 659.0,
+        "2020": 829.0,
+        "2025": 999.0
+      },
+      "fact": "MultiChoice DSTV is the dominant pay-TV platform across Africa and its South African subscription is the most expensive in the continent relative to income. MultiChoice listed on the JSE in 2019 and its Showmax streaming service is Africa's Netflix competitor, made by the same company that has sold satellite dishes across the continent since 1995."
+    },
+    {
+      "id": "za_t2_025",
+      "name": "Litre of wine (Tassenberg, 1L carton, Makro)",
+      "emoji": "🍷",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 2.5,
+        "1995": 6.0,
+        "2000": 10.0,
+        "2005": 16.0,
+        "2010": 22.0,
+        "2015": 32.0,
+        "2020": 42.0,
+        "2025": 65.0
+      },
+      "fact": "Tassenberg is South Africa's best-selling wine by volume and is sold in 1-litre cartons that are ubiquitous at township celebrations. South Africa is the world's 9th-largest wine producer and has been making wine since 1659, yet Tassenberg drinkers outnumber all premium wine drinkers combined."
+    },
+    {
+      "id": "za_t3_001",
+      "name": "iPhone 16 (128GB, iStore South Africa)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 8000.0,
+        "2015": 13000.0,
+        "2020": 18000.0,
+        "2025": 26000.0
+      },
+      "fact": "iPhones in South Africa cost 50% more than in the US due to import duties and the rand's depreciation. Apple opened its first South African iStore franchise in 2008 and the brand is associated with upward mobility in a country where a phone's brand signals class status as clearly as the car you drive."
+    },
+    {
+      "id": "za_t3_002",
+      "name": "Domestic flight (JHB-CPT, budget, advance buy, Kulula)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 400.0,
+        "1995": 800.0,
+        "2000": 1200.0,
+        "2005": 900.0,
+        "2010": 1200.0,
+        "2015": 1500.0,
+        "2020": 1400.0,
+        "2025": 999.0
+      },
+      "fact": "Kulula launched in 2001 with R99 fares and broke SAA's domestic monopoly. Its cheeky advertising calling itself a flying bus made it South Africa's most talked-about brand. SAA declared bankruptcy in 2019 and was rescued with R10 billion of taxpayer money, while Kulula remains profitable with no subsidies."
+    },
+    {
+      "id": "za_t3_003",
+      "name": "MacBook Air M2 (iStore, South Africa)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 12000.0,
+        "2015": 17000.0,
+        "2020": 20000.0,
+        "2025": 28000.0
+      },
+      "fact": "MacBook prices in South Africa are among the highest in Africa due to import duties and the rand's weakness. Every 10% rand depreciation against the dollar adds approximately R3,000 to the price of a MacBook, making Apple products a real-time currency indicator for South African consumers."
+    },
+    {
+      "id": "za_t3_004",
+      "name": "Annual car insurance (comprehensive, Toyota Corolla, OUTsurance)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 600.0,
+        "1995": 1500.0,
+        "2000": 3000.0,
+        "2005": 5000.0,
+        "2010": 8000.0,
+        "2015": 12000.0,
+        "2020": 16000.0,
+        "2025": 26000.0
+      },
+      "fact": "OUTsurance entered the South African market in 1998 and disrupted the insurance industry with direct sales and guaranteed cash-back bonuses for claim-free periods. South Africa has one of the world's highest car hijacking rates, which keeps comprehensive insurance premiums high and makes it the most commonly skipped household expense."
+    },
+    {
+      "id": "za_t3_005",
+      "name": "Annual private school fees (mid-range, Gauteng)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 6000.0,
+        "2000": 12000.0,
+        "2005": 22000.0,
+        "2010": 40000.0,
+        "2015": 65000.0,
+        "2020": 90000.0,
+        "2025": 99000.0
+      },
+      "fact": "Private school fees in South Africa have risen 10x faster than inflation since 1994 as middle-class parents fled deteriorating government schools. South Africa's top independent schools such as Reddam House and Michaelhouse produce graduates who dominate every corporate leadership cohort in the country."
+    },
+    {
+      "id": "za_t3_006",
+      "name": "Monthly apartment rent (2-bedroom, Sandton, Johannesburg)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 700.0,
+        "1995": 1800.0,
+        "2000": 3500.0,
+        "2005": 6000.0,
+        "2010": 9000.0,
+        "2015": 13000.0,
+        "2020": 15000.0,
+        "2025": 22000.0
+      },
+      "fact": "Sandton is described as the richest square mile in Africa and is home to more JSE-listed companies than any other address. Its rental market is driven by corporate relocations and the post-apartheid flight of businesses from Johannesburg CBD, which lost 80% of its commercial tenants between 1994 and 2010."
+    },
+    {
+      "id": "za_t3_007",
+      "name": "Toyota Fortuner (new, base, Wesbank financed, Toyota dealer)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 250000.0,
+        "2010": 350000.0,
+        "2015": 500000.0,
+        "2020": 620000.0,
+        "2025": 800000.0
+      },
+      "fact": "The Toyota Fortuner is South Africa's best-selling SUV and the aspirational vehicle of the emerging black middle class. Its association with government tenders and BEE success led to the informal term tenderpreneur vehicle, a double-edged compliment that reflects both economic mobility and controversy."
+    },
+    {
+      "id": "za_t3_008",
+      "name": "Robben Island ferry + tour (return, adult, Cape Town)",
+      "emoji": "⛴️",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 50.0,
+        "2000": 100.0,
+        "2005": 200.0,
+        "2010": 350.0,
+        "2015": 550.0,
+        "2020": 650.0,
+        "2025": 900.0
+      },
+      "fact": "Robben Island where Nelson Mandela was imprisoned for 18 years became South Africa's most visited tourist attraction after 1994. Former political prisoners serve as guides and the tour includes Mandela's cell. The island was listed as a UNESCO World Heritage Site in 1999 and receives 400,000 visitors annually."
+    },
+    {
+      "id": "za_t3_009",
+      "name": "Solar panels (3kW residential system, installed, average SA)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 80000.0,
+        "2010": 50000.0,
+        "2015": 35000.0,
+        "2020": 28000.0,
+        "2025": 25000.0
+      },
+      "fact": "Solar installations in South Africa grew 2,000% between 2020 and 2023 as load shedding made grid electricity unreliable for up to 12 hours per day. South Africa became Africa's largest rooftop solar market in 2022 and the government introduced a tax rebate that allowed individuals to claim back 25% of installation costs."
+    },
+    {
+      "id": "za_t3_010",
+      "name": "Cape Winelands tasting (self-drive, 3 estates, per person)",
+      "emoji": "🍷",
+      "category": "Experience",
+      "tier": 2,
+      "prices": {
+        "1990": 50.0,
+        "1995": 150.0,
+        "2000": 350.0,
+        "2005": 600.0,
+        "2010": 1000.0,
+        "2015": 1500.0,
+        "2020": 1800.0,
+        "2025": 950.0
+      },
+      "fact": "The Cape Winelands were established in 1685 by French Huguenot refugees and now produce wine exported to 100 countries. Franschhoek is considered South Africa's culinary capital and its restaurants have produced 6 chefs who appear on the World's 50 Best Restaurants list."
+    },
+    {
+      "id": "za_t3_011",
+      "name": "PlayStation 5 (disc edition, Incredible Connection)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 8999.0,
+        "2025": 10999.0
+      },
+      "fact": "PlayStation 5 in South Africa costs R11,000 versus USD 499 in the US, roughly 2.5x in purchasing power terms. South Africa is Africa's largest gaming market and the first to receive most gaming launches on the same day as Europe, because its time zone aligns with the European morning launch window."
+    },
+    {
+      "id": "za_t3_012",
+      "name": "Gold (10 grams, 24K, SA Mint bullion coin)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 600.0,
+        "1995": 1200.0,
+        "2000": 2500.0,
+        "2005": 6000.0,
+        "2010": 15000.0,
+        "2015": 17000.0,
+        "2020": 32000.0,
+        "2025": 55000.0
+      },
+      "fact": "South Africa produces the Krugerrand, the world's best-selling gold coin, of which 60 million have been minted since 1967. During apartheid, Krugerrands were banned in the US and Europe as part of sanctions but continued to be traded underground, making them an inadvertent symbol of resilience."
+    },
+    {
+      "id": "za_t3_013",
+      "name": "Safari (Kruger National Park, 3 nights, rest camp)",
+      "emoji": "🦁",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 300.0,
+        "1995": 800.0,
+        "2000": 1500.0,
+        "2005": 2500.0,
+        "2010": 4000.0,
+        "2015": 6000.0,
+        "2020": 7500.0,
+        "2025": 12000.0
+      },
+      "fact": "Kruger National Park is larger than Wales and receives 2 million visitors annually. South Africa pioneered the concept of conservation-funded through tourism, and the Big Five marketing concept was invented by South African National Parks to drive safari bookings. It is now used by every wildlife destination on earth."
+    },
+    {
+      "id": "za_t3_014",
+      "name": "Wedding (average, middle class, South Africa)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 3000.0,
+        "1995": 8000.0,
+        "2000": 18000.0,
+        "2005": 35000.0,
+        "2010": 65000.0,
+        "2015": 100000.0,
+        "2020": 120000.0,
+        "2025": 95000.0
+      },
+      "fact": "The average South African wedding costs R180,000, representing nearly 2 years of median household income. South African wedding culture incorporates lobola cattle negotiations in many traditions, a formal recognition of the bride's family that can add R50,000 to R500,000 to the total cost of getting married."
+    },
+    {
+      "id": "za_t3_015",
+      "name": "Amapiano concert (floor, Sun Arena, Pretoria)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 5000.0,
+        "2025": 18000.0
+      },
+      "fact": "Amapiano was created in Soweto around 2012 and became the world's most-searched music genre on Google in 2022. DJ Maphorisa and Kabza de Small who pioneered the genre's commercial success are the first South African musicians since Hugh Masekela to top global streaming charts."
+    },
+    {
+      "id": "za_t3_016",
+      "name": "Kruger Rand (1oz gold coin, SA Mint, current)",
+      "emoji": "🪙",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 1800.0,
+        "1995": 3800.0,
+        "2000": 7500.0,
+        "2005": 18000.0,
+        "2010": 46000.0,
+        "2015": 51000.0,
+        "2020": 96000.0,
+        "2025": 99000.0
+      },
+      "fact": "The Krugerrand was the world's first gold bullion coin designed for investment rather than circulation. Its name combines Paul Kruger, the Boer president, with rand, the currency. At R170,000 for one ounce, it appreciated 94x since 1990, making it South Africa's single best-performing asset class."
+    },
+    {
+      "id": "za_t3_017",
+      "name": "Annual medical aid (hospital plan, Discovery, individual)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1500.0,
+        "2000": 4000.0,
+        "2005": 8000.0,
+        "2010": 14000.0,
+        "2015": 20000.0,
+        "2020": 28000.0,
+        "2025": 45000.0
+      },
+      "fact": "Discovery Health administers medical aid for 3.7 million members and is South Africa's most sophisticated insurance operation. Its Vitality behaviour-change programme, which reduces premiums for healthy lifestyle choices, was adopted by Prudential, AIA and John Hancock globally, making a South African insurance product the most exported financial services innovation from the continent."
+    },
+    {
+      "id": "za_t3_018",
+      "name": "Load shedding inverter kit (3kVA, lithium, Cape Town install)",
+      "emoji": "🔋",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 25000.0,
+        "2020": 35000.0,
+        "2025": 55000.0
+      },
+      "fact": "Load shedding, South Africa's system of scheduled power cuts, reached Stage 6 in 2023 meaning up to 12 hours of darkness per day. The backup power industry grew from R2 billion to R30 billion between 2019 and 2023, making load shedding the single largest involuntary household spending driver in post-apartheid South Africa."
+    },
+    {
+      "id": "za_t3_019",
+      "name": "Lebola (bride price, standard cattle, 5 head, KZN)",
+      "emoji": "🐄",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 12000.0,
+        "2000": 25000.0,
+        "2005": 45000.0,
+        "2010": 75000.0,
+        "2015": 100000.0,
+        "2020": 130000.0,
+        "2025": 90000.0
+      },
+      "fact": "Lobola is a bride price paid in cattle or cash from the groom's family to the bride's in Zulu, Xhosa and other Nguni traditions. At R200,000 for a standard 5-head negotiation, lobola is one of the most significant financial transactions a South African man will make and is a subject of intense national debate about tradition and gender economics."
+    },
+    {
+      "id": "za_t3_020",
+      "name": "Cape Town AirBnB (1-bedroom, Sea Point, peak week)",
+      "emoji": "🌊",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 1500.0,
+        "2005": 3000.0,
+        "2010": 6000.0,
+        "2015": 12000.0,
+        "2020": 10000.0,
+        "2025": 25000.0
+      },
+      "fact": "Cape Town is the world's fastest-growing Airbnb market by new host listings and Sea Point on the Atlantic seaboard is its most expensive neighbourhood. Cape Town's rental market was criticised for a housing apartheid where digital nomads paying in dollars price local workers out of the city."
+    },
+    {
+      "id": "za_t3_021",
+      "name": "Toyota Corolla (new, base, Toyota dealer, Johannesburg)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 45000.0,
+        "1995": 80000.0,
+        "2000": 110000.0,
+        "2005": 150000.0,
+        "2010": 200000.0,
+        "2015": 260000.0,
+        "2020": 340000.0,
+        "2025": 480000.0
+      },
+      "fact": "Toyota is South Africa's best-selling car brand and manufactures the Corolla and Hilux at its Prospecton plant in Durban. South Africa is one of only 5 countries where Toyota still manufactures vehicles and the plant exports 60% of its output, making the Corolla South Africa's single most valuable export after precious metals."
+    },
+    {
+      "id": "za_t3_022",
+      "name": "Cape vineyard property (small working farm, 5 hectares, Stellenbosch)",
+      "emoji": "🍇",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 200000.0,
+        "1995": 500000.0,
+        "2000": 1200000.0,
+        "2005": 2500000.0,
+        "2010": 4000000.0,
+        "2015": 6000000.0,
+        "2020": 7000000.0,
+        "2025": 12000000.0
+      },
+      "fact": "Stellenbosch wine farms are among the most sought-after rural properties in Africa and international buyers from Europe and North America have driven prices to levels no South African farmer could historically afford. The land ownership debate in South Africa's wine industry mirrors the national land reform conversation in miniature."
+    },
+    {
+      "id": "za_t3_023",
+      "name": "Game drive (private reserve, 2 nights, Eastern Cape)",
+      "emoji": "🦏",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500.0,
+        "1995": 1500.0,
+        "2000": 3000.0,
+        "2005": 5000.0,
+        "2010": 8000.0,
+        "2015": 12000.0,
+        "2020": 15000.0,
+        "2025": 28000.0
+      },
+      "fact": "South Africa has the most private game reserves of any country, with 10,000 registered wildlife properties compared to 22 national parks. Private game tourism generates R30 billion annually and is South Africa's fastest-growing export earner, valued in dollars by international guests whose spending insulates the sector from rand weakness."
+    },
+    {
+      "id": "za_t3_024",
+      "name": "Rooftop solar system (5kW, Eskom bypass complete, premium install)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 100000.0,
+        "2015": 70000.0,
+        "2020": 55000.0,
+        "2025": 60000.0
+      },
+      "fact": "South Africa introduced a Section 6C tax rebate in 2023 allowing homeowners to claim 25% of solar installation costs. The policy led to 4GW of rooftop solar being installed in 18 months, the fastest residential energy transition in South African history and one of the fastest per-capita anywhere."
+    },
+    {
+      "id": "za_t3_025",
+      "name": "Annual university fees (UCT, domestic, average)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 5000.0,
+        "2000": 10000.0,
+        "2005": 18000.0,
+        "2010": 30000.0,
+        "2015": 45000.0,
+        "2020": 58000.0,
+        "2025": 80000.0
+      },
+      "fact": "The 2015 FeesMustFall movement shut down South African universities for months in the largest student protest since apartheid. Students demanded free higher education for all, citing fees that had risen 3x faster than inflation since 1994. The government introduced NSFAS bursaries covering 600,000 students annually as a partial response."
+    },
+    {
+      "id": "za_t4_001",
+      "name": "Gold (troy ounce, ZAR, JSE spot)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1700.0,
+        "1995": 3600.0,
+        "2000": 7200.0,
+        "2005": 17000.0,
+        "2010": 43000.0,
+        "2015": 48000.0,
+        "2020": 90000.0,
+        "2025": 164000.0
+      },
+      "fact": "South Africa was the world's largest gold producer for a century but is now ranked 9th as mines deepened beyond 4km, making extraction uneconomic at most gold prices. The rand price of gold rose 96x since 1990 as both the USD gold price rose and the rand weakened, giving South African gold investors one of the best asset returns of any commodity in any currency."
+    },
+    {
+      "id": "za_t4_002",
+      "name": "Toyota Hilux GD-6 (new, double cab, auto, Toyota dealer)",
+      "emoji": "🛻",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 70000.0,
+        "1995": 130000.0,
+        "2000": 200000.0,
+        "2005": 300000.0,
+        "2010": 400000.0,
+        "2015": 560000.0,
+        "2020": 700000.0,
+        "2025": 950000.0
+      },
+      "fact": "The Toyota Hilux is South Africa's best-selling vehicle and has been for over 30 years. Its diesel double-cab is the standard vehicle of South African farmers, contractors and politicians and the Hilux's indestructibility was proven by Top Gear when it survived being submerged in the North Sea, set on fire and dropped from a building."
+    },
+    {
+      "id": "za_t4_003",
+      "name": "House (3-bedroom, Atlantic Seaboard, Cape Town, purchase)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 150000.0,
+        "1995": 450000.0,
+        "2000": 1200000.0,
+        "2005": 3500000.0,
+        "2010": 5000000.0,
+        "2015": 7000000.0,
+        "2020": 8000000.0,
+        "2025": 14000000.0
+      },
+      "fact": "Cape Town's Atlantic Seaboard is Africa's most expensive residential address. Its properties are priced in dollars by the market and dollar-denominated demand from Europeans and Americans insulates prices from rand weakness. A Clifton beachfront property sold for R100 million in 2022, the most expensive residential sale in South African history."
+    },
+    {
+      "id": "za_t4_004",
+      "name": "iPhone 16 Pro Max (256GB, iStore)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 22000.0,
+        "2020": 30000.0,
+        "2025": 46000.0
+      },
+      "fact": "iPhone 16 Pro Max at R46,000 costs the equivalent of 4 months of median salary in South Africa. Despite this, South Africa is Apple's fastest-growing sub-Saharan African market and the iPhone 15 launch queues at iStore V&A Waterfront in Cape Town stretched 500 metres."
+    },
+    {
+      "id": "za_t4_005",
+      "name": "Private hospital delivery (Netcare or Mediclinic, normal birth)",
+      "emoji": "👶",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 2500.0,
+        "1995": 7000.0,
+        "2000": 15000.0,
+        "2005": 28000.0,
+        "2010": 50000.0,
+        "2015": 75000.0,
+        "2020": 100000.0,
+        "2025": 95000.0
+      },
+      "fact": "A private hospital birth costs R160,000 in South Africa while a public hospital birth is free. The private birth rate is 37% of all deliveries, paid through medical aid. South Africa has the highest Caesarean section rate in Africa at 74% of private hospital deliveries, driven by doctor scheduling incentives rather than medical necessity."
+    },
+    {
+      "id": "za_t4_006",
+      "name": "Rolex Submariner (new retail, The Watch Boutique, Cape Town)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 12000.0,
+        "2000": 30000.0,
+        "2005": 60000.0,
+        "2010": 100000.0,
+        "2015": 140000.0,
+        "2020": 190000.0,
+        "2025": 340000.0
+      },
+      "fact": "Rolex has three authorised dealers in South Africa and waitlists of 3-5 years for the Submariner. South Africa's luxury watch market grew faster than any other African country between 2021 and 2024, driven by commodity wealth, tech sector growth and a Rand that makes imports expensive but local buyers aspirational."
+    },
+    {
+      "id": "za_t4_007",
+      "name": "Porsche 911 (base Carrera, new, Porsche Centre SA)",
+      "emoji": "🏎️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 120000.0,
+        "1995": 280000.0,
+        "2000": 500000.0,
+        "2005": 700000.0,
+        "2010": 900000.0,
+        "2015": 1300000.0,
+        "2020": 1800000.0,
+        "2025": 2600000.0
+      },
+      "fact": "South Africa is Porsche's largest market in Africa and among its top 20 globally. Johannesburg's sandton Porsche Centre is among the brand's 10 highest-grossing dealerships in the Southern Hemisphere. The 911 price in rand rose 22x since 1990, meaning rand holders saw the car become dramatically more expensive while dollar earners saw it become relatively cheaper."
+    },
+    {
+      "id": "za_t4_008",
+      "name": "Annual private school fees (top tier, Michaelhouse or Reddam)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000.0,
+        "1995": 25000.0,
+        "2000": 60000.0,
+        "2005": 120000.0,
+        "2010": 200000.0,
+        "2015": 300000.0,
+        "2020": 380000.0,
+        "2025": 560000.0
+      },
+      "fact": "Michaelhouse in the KwaZulu-Natal Midlands charges R560,000 per year for boarding. Its alumni network includes every major South African CEO category and the school's old-boy WhatsApp groups are described as the most commercially valuable contact lists in the country. Nelson Mandela's grandson attended a school from this tier."
+    },
+    {
+      "id": "za_t4_009",
+      "name": "Luxury safari lodge (Singita Sabi Sand, 2 nights per person)",
+      "emoji": "🌅",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 1500.0,
+        "1995": 5000.0,
+        "2000": 15000.0,
+        "2005": 30000.0,
+        "2010": 50000.0,
+        "2015": 80000.0,
+        "2020": 90000.0,
+        "2025": 200000.0
+      },
+      "fact": "Singita Sabi Sand is consistently ranked the world's best hotel and charges USD 2,000 per person per night. It prices in dollars, meaning rand weakness makes it more affordable for international guests while simultaneously making it unaffordable for local South Africans. Its pricing model is a microcosm of South Africa's tourism paradox."
+    },
+    {
+      "id": "za_t4_010",
+      "name": "House (4-bedroom, Sandton, Johannesburg, purchase)",
+      "emoji": "🏘️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 200000.0,
+        "1995": 600000.0,
+        "2000": 1500000.0,
+        "2005": 4000000.0,
+        "2010": 6000000.0,
+        "2015": 8000000.0,
+        "2020": 9000000.0,
+        "2025": 14000000.0
+      },
+      "fact": "Sandton property prices peaked in 2015 and barely rose in real terms for a decade as load shedding, high crime and the general deterioration of Johannesburg infrastructure reduced demand. Properties that outperformed had private boreholes, solar systems and electric fencing, turning energy independence into a key pricing factor."
+    },
+    {
+      "id": "za_t4_011",
+      "name": "Louis Vuitton Neverfull MM (V&A Waterfront, Cape Town)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 2000.0,
+        "1995": 5500.0,
+        "2000": 10000.0,
+        "2005": 20000.0,
+        "2010": 38000.0,
+        "2015": 50000.0,
+        "2020": 60000.0,
+        "2025": 95000.0
+      },
+      "fact": "V&A Waterfront in Cape Town is Africa's highest-grossing luxury retail centre and its Louis Vuitton store is among the brand's top 20 globally by revenue per square metre. South Africa's luxury goods market is the continent's largest and domestic consumers are supplemented by visitors from the rest of Africa who use Cape Town as a luxury shopping destination."
+    },
+    {
+      "id": "za_t4_012",
+      "name": "Full luxury wedding (Ellerman House tier, Cape Town)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 50000.0,
+        "2000": 150000.0,
+        "2005": 400000.0,
+        "2010": 800000.0,
+        "2015": 1300000.0,
+        "2020": 1500000.0,
+        "2025": 3000000.0
+      },
+      "fact": "A luxury Cape Town wedding at a private wine estate with helicopter arrival, international floral designer and a celebrity DJ now costs R3 million. South Africa's wedding photography industry has produced globally recognised photographers because the combination of dramatic landscapes, diverse cultures and newly affluent clients created the world's richest single-country wedding photography market."
+    },
+    {
+      "id": "za_t4_013",
+      "name": "Hermès Birkin 30 (V&A Waterfront, Cape Town)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 4000.0,
+        "1995": 12000.0,
+        "2000": 30000.0,
+        "2005": 70000.0,
+        "2010": 130000.0,
+        "2015": 180000.0,
+        "2020": 230000.0,
+        "2025": 420000.0
+      },
+      "fact": "Hermès Birkin bags at the V&A Waterfront sell to South African customers and to African visitors from Nigeria, Angola and DRC whose dollars and kwanza go far in rand terms. The rand's weakness makes South Africa a luxury shopping destination for dollar-earning Africans, reversing a dynamic where South Africans historically shopped abroad."
+    },
+    {
+      "id": "za_t4_014",
+      "name": "Johannesburg Stock Exchange top-100 share (JSE, 100 shares BHP)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000.0,
+        "1995": 15000.0,
+        "2000": 50000.0,
+        "2005": 100000.0,
+        "2010": 160000.0,
+        "2015": 200000.0,
+        "2020": 250000.0,
+        "2025": 500000.0
+      },
+      "fact": "The JSE is Africa's largest stock exchange and BHP, the global mining giant, retains a primary listing here due to its South African origins. South Africa's commodity wealth means the JSE top-40 index tracks global commodity prices more closely than any other major index, making it the purest large-cap resources investment in the world."
+    },
+    {
+      "id": "za_t4_015",
+      "name": "Angus cattle herd (50 head, good condition, Eastern Cape)",
+      "emoji": "🐄",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000.0,
+        "1995": 150000.0,
+        "2000": 400000.0,
+        "2005": 700000.0,
+        "2010": 1200000.0,
+        "2015": 1800000.0,
+        "2020": 2200000.0,
+        "2025": 4000000.0
+      },
+      "fact": "South African commercial cattle farming is concentrated in the Eastern Cape and KwaZulu-Natal and produces 3 million slaughter cattle annually. Beef cattle values rose 8x since 1990 in nominal terms, tracking the price of boerewors at the braai in a loop that connects farmer's income to urban consumer spending."
+    },
+    {
+      "id": "za_t4_016",
+      "name": "Private school fees annual (IEB international track, top tier)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 15000.0,
+        "1995": 40000.0,
+        "2000": 80000.0,
+        "2005": 150000.0,
+        "2010": 250000.0,
+        "2015": 380000.0,
+        "2020": 480000.0,
+        "2025": 700000.0
+      },
+      "fact": "IEB independent exam schools in South Africa produce 97% university pass rates versus the national matric rate of 82%. The top IEB schools charge R700,000 per year including boarding and their alumni networks generate salary premiums of 40-60% above state school graduates entering the same industries."
+    },
+    {
+      "id": "za_t4_017",
+      "name": "Cape Dutch wine estate (working, 30 hectares, Paarl)",
+      "emoji": "🍷",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 1000000.0,
+        "1995": 3000000.0,
+        "2000": 8000000.0,
+        "2005": 18000000.0,
+        "2010": 30000000.0,
+        "2015": 45000000.0,
+        "2020": 55000000.0,
+        "2025": 90000000.0
+      },
+      "fact": "Cape Dutch wine estates are among the most architecturally and culturally significant properties in the world, with gabled manor houses listed as national heritage sites. The land reform question that hangs over South African agriculture has kept a ceiling on prices that would otherwise rival Bordeaux and Napa valley."
+    },
+    {
+      "id": "za_t4_018",
+      "name": "Mercedes GLE (new, Sandown Motors Johannesburg)",
+      "emoji": "🚙",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 300000.0,
+        "2000": 600000.0,
+        "2005": 900000.0,
+        "2010": 1200000.0,
+        "2015": 1600000.0,
+        "2020": 2100000.0,
+        "2025": 3200000.0
+      },
+      "fact": "Mercedes-Benz South Africa assembles C-Class and GLE models at its East London plant. South Africa is Mercedes's most important African market and the GLE is the standard vehicle of Johannesburg's corporate and political class, a role it shares only with the Toyota Hilux double-cab among South African status symbols."
+    },
+    {
+      "id": "za_t4_019",
+      "name": "Singita Boulders Lodge (2 nights, Sabi Sands, full board)",
+      "emoji": "🌍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 3000.0,
+        "2000": 15000.0,
+        "2005": 40000.0,
+        "2010": 80000.0,
+        "2015": 130000.0,
+        "2020": 150000.0,
+        "2025": 350000.0
+      },
+      "fact": "Singita Boulders charges R175,000 per person per night, the most expensive hotel room rate in Africa. Its model of linking conservation fees directly to guest charges funds the protection of 500,000 acres of wilderness and has been copied by 200 conservation properties globally, making South African luxury safari the blueprint for conservation tourism worldwide."
+    },
+    {
+      "id": "za_t4_020",
+      "name": "Annual mining rights (gold, small operation, Witwatersrand)",
+      "emoji": "⛏️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 100000.0,
+        "1995": 500000.0,
+        "2000": 2000000.0,
+        "2005": 8000000.0,
+        "2010": 20000000.0,
+        "2015": 25000000.0,
+        "2020": 30000000.0,
+        "2025": 80000000.0
+      },
+      "fact": "The Witwatersrand Basin has produced 50% of all gold ever mined in human history. South Africa's mining sector contributed 7% of GDP in 2024 yet employs fewer than 500,000 people directly because mechanisation has replaced the 600,000 workers who operated the deep mines in their 1980s peak."
+    },
+    {
+      "id": "za_t4_021",
+      "name": "Ashton Villa (Cape Winelands, luxury estate, purchase)",
+      "emoji": "🏰",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000.0,
+        "1995": 2000000.0,
+        "2000": 6000000.0,
+        "2005": 15000000.0,
+        "2010": 25000000.0,
+        "2015": 40000000.0,
+        "2020": 50000000.0,
+        "2025": 90000000.0
+      },
+      "fact": "Luxury Cape Winelands estates attract buyers from the UK, Netherlands and Germany who use the weak rand to acquire properties that would cost 3-5x as much in European wine regions. The Cape Dutch manor house is the most internationally distinctive architectural style in Africa and its global desirability has made Stellenbosch the most sought-after agricultural address on the continent."
+    },
+    {
+      "id": "za_t4_022",
+      "name": "Bombardier Learjet (charter, Cape Town to London)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 200000.0,
+        "2000": 600000.0,
+        "2005": 1500000.0,
+        "2010": 2500000.0,
+        "2015": 4000000.0,
+        "2020": 4500000.0,
+        "2025": 8000000.0
+      },
+      "fact": "South Africa's private aviation market is the largest in Africa with 3,000 registered aircraft. Cape Town to London is the most-flown long-haul private jet route from Africa, used by mining executives, tech entrepreneurs and the Cape Town wine and lifestyle set who treat London as an extended home."
+    },
+    {
+      "id": "za_t4_023",
+      "name": "Luxury Clifton apartment (3-bedroom, penthouse, Cape Town)",
+      "emoji": "🌅",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300000.0,
+        "1995": 1200000.0,
+        "2000": 4000000.0,
+        "2005": 12000000.0,
+        "2010": 20000000.0,
+        "2015": 35000000.0,
+        "2020": 40000000.0,
+        "2025": 80000000.0
+      },
+      "fact": "Clifton Fourth Beach is Africa's most expensive beachfront address and its apartments are priced in dollars by the market. The Constitutional Court ruled in 2019 that Clifton Beach must be accessible to all South Africans, overturning attempts to restrict access, in a case that became a symbol of post-apartheid public space rights."
+    },
+    {
+      "id": "za_t4_024",
+      "name": "Black Label beer crate sponsorship deal (annual, SAB)",
+      "emoji": "🍺",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 500000.0,
+        "2000": 2000000.0,
+        "2005": 5000000.0,
+        "2010": 12000000.0,
+        "2015": 20000000.0,
+        "2020": 25000000.0,
+        "2025": 50000000.0
+      },
+      "fact": "Castle and Black Label beer sponsorship deals are South Africa's most valuable sports marketing contracts. SAB (South African Breweries) sponsors Springbok rugby, Orlando Pirates football and the national cricket team simultaneously, making it the most sports-active beverage company in Africa and one of the few that can claim a share of every major South African sporting moment."
+    },
+    {
+      "id": "za_t4_025",
+      "name": "De Beers diamond (1 carat, D-Flawless, Johannesburg)",
+      "emoji": "💎",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 20000.0,
+        "1995": 50000.0,
+        "2000": 100000.0,
+        "2005": 200000.0,
+        "2010": 350000.0,
+        "2015": 500000.0,
+        "2020": 600000.0,
+        "2025": 1200000.0
+      },
+      "fact": "South Africa is the birthplace of the modern diamond industry following the Kimberley diamond rush of 1869. De Beers was founded by Cecil Rhodes and controlled 90% of the world's diamond supply for a century. The company invented the marketing slogan A Diamond is Forever in 1947 and it was voted the most effective advertising tagline of the 20th century."
+    }
+  ]
+}

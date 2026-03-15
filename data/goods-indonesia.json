@@ -1,0 +1,1808 @@
+{
+  "country": "ID",
+  "country_name": "Indonesia",
+  "currency_symbol": "Rp",
+  "currency_code": "IDR",
+  "items": [
+    {
+      "id": "id_t1_001",
+      "name": "Nasi goreng (fried rice, warung, standard plate)",
+      "emoji": "🍳",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 500,
+        "1995": 1000,
+        "2000": 3000,
+        "2005": 5000,
+        "2010": 8000,
+        "2015": 12000,
+        "2020": 15000,
+        "2025": 20000
+      },
+      "fact": "Nasi goreng was voted the world's most delicious food by CNN in 2011, the highest global ranking ever given to an Indonesian dish. It is eaten at all hours including breakfast and the version with kecap manis sweet soy sauce is distinctly Indonesian."
+    },
+    {
+      "id": "id_t1_002",
+      "name": "Mie instan (instant noodles, Indomie single pack)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 150,
+        "1995": 250,
+        "2000": 600,
+        "2005": 1000,
+        "2010": 1500,
+        "2015": 2300,
+        "2020": 2700,
+        "2025": 3500
+      },
+      "fact": "Indomie is the world's best-selling instant noodle brand and its Goreng flavour is eaten in 100 countries. Indonesia consumes 14 billion packs per year, 52 per person, the highest per-capita consumption in the world."
+    },
+    {
+      "id": "id_t1_003",
+      "name": "Gorengan (fried snack, single piece, street vendor)",
+      "emoji": "🧆",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 500,
+        "2005": 800,
+        "2010": 1000,
+        "2015": 1500,
+        "2020": 2000,
+        "2025": 3000
+      },
+      "fact": "Gorengan fried snacks are sold from carts on every Indonesian street corner from 5am to midnight. The variety includes tempe, bakwan, tahu, and pisang goreng, making Indonesia's street snack culture the most diverse by ingredient in Southeast Asia."
+    },
+    {
+      "id": "id_t1_004",
+      "name": "Teh manis (sweet tea, glass, warung)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 1000,
+        "2005": 2000,
+        "2010": 3000,
+        "2015": 4000,
+        "2020": 5000,
+        "2025": 7000
+      },
+      "fact": "Sweet tea brewed with generous quantities of sugar is Indonesia's most-consumed beverage and is served at every meal. Indonesia consumes 1.3 million tonnes of sugar annually in beverages alone, driving one of the world's highest rates of diabetes among middle-income countries."
+    },
+    {
+      "id": "id_t1_005",
+      "name": "Tempe (block, 150g, pasar tradisional)",
+      "emoji": "🟫",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 500,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 4000,
+        "2015": 6000,
+        "2020": 8000,
+        "2025": 9000
+      },
+      "fact": "Tempe was invented in Java 400 years ago and is the world's only widely-eaten fermented soybean cake. Indonesia imports 70% of its soybeans from the US and when US soy prices spike, tempeh prices follow within weeks, directly affecting the diet of 60 million low-income Indonesians."
+    },
+    {
+      "id": "id_t1_006",
+      "name": "Egg (single, ayam kampung free-range, pasar)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 150,
+        "1995": 300,
+        "2000": 700,
+        "2005": 1000,
+        "2010": 1500,
+        "2015": 2000,
+        "2020": 2500,
+        "2025": 3500
+      },
+      "fact": "Indonesia is the world's seventh-largest egg producer and eggs are the single most-tracked food price by the government's inflation team. The kampung free-range egg carries a 50% premium over factory eggs and is believed by many Indonesians to have superior nutritional value."
+    },
+    {
+      "id": "id_t1_007",
+      "name": "Kopi tubruk (ground coffee, cup, warung)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 4000,
+        "2015": 5000,
+        "2020": 6000,
+        "2025": 8000
+      },
+      "fact": "Kopi tubruk is unfiltered ground coffee poured directly into a glass, drunk with the grounds settling at the bottom. Indonesia is the world's fourth-largest coffee producer and grows six of the world's most distinctive regional varieties including Toraja, Gayo and Flores."
+    },
+    {
+      "id": "id_t1_008",
+      "name": "Sate (skewer, single, street vendor)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 1000,
+        "2005": 1500,
+        "2010": 2500,
+        "2015": 3500,
+        "2020": 4000,
+        "2025": 6000
+      },
+      "fact": "Satay originated in Java and has 18 regional varieties across Indonesia. The Madura version with thick peanut sauce is the most widely exported and became the defining Indonesian food internationally, appearing on menus in 60 countries."
+    },
+    {
+      "id": "id_t1_009",
+      "name": "Biskuit (crackers, Khong Guan tin assortment, per piece)",
+      "emoji": "🍪",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 500,
+        "2005": 800,
+        "2010": 1200,
+        "2015": 1800,
+        "2020": 2500,
+        "2025": 3500
+      },
+      "fact": "Khong Guan biscuit tins are Indonesia's most iconic Lebaran gift, exchanged at Eid as a symbol of celebration that has not changed since 1947. The red tin is so culturally ingrained that it was used by a presidential campaign as a nostalgia symbol, the only biscuit brand to appear in a national election."
+    },
+    {
+      "id": "id_t1_010",
+      "name": "Beras (rice, 500g, medium quality)",
+      "emoji": "🍚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 2500,
+        "2005": 4000,
+        "2010": 7000,
+        "2015": 10000,
+        "2020": 12000,
+        "2025": 9000
+      },
+      "fact": "Rice is eaten at every meal by 90% of Indonesians and the government controls the rice price through BULOG, the national food logistics agency. When rice prices rose 20% in 2023, the government imported 3 million tonnes from Vietnam in one emergency order."
+    },
+    {
+      "id": "id_t1_011",
+      "name": "Angkot (shared minivan taxi, single trip, Bandung)",
+      "emoji": "🚐",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 300,
+        "2000": 1000,
+        "2005": 2000,
+        "2010": 3000,
+        "2015": 4000,
+        "2020": 4000,
+        "2025": 5000
+      },
+      "fact": "The angkot shared minivan routes Indonesia's secondary cities with no fixed schedule, stopping anywhere when passengers wave. Bandung alone has 5,000 angkot vehicles competing for the same routes with no coordination, making them the world's most chaotic functional transit system."
+    },
+    {
+      "id": "id_t1_012",
+      "name": "Krupuk (prawn crackers, 50g bag, supermarket)",
+      "emoji": "🦐",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 500,
+        "2000": 1200,
+        "2005": 2000,
+        "2010": 3000,
+        "2015": 4500,
+        "2020": 6000,
+        "2025": 9000
+      },
+      "fact": "Prawn crackers are served with virtually every Indonesian meal and Indonesia produces 60% of the world's supply. The cracker-making villages of Sidoarjo in East Java employ 30,000 people drying crackers on bamboo frames along every road, visible from satellite imagery."
+    },
+    {
+      "id": "id_t1_013",
+      "name": "Es teh manis (iced sweet tea, plastic bag, street)",
+      "emoji": "🧋",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 500,
+        "2005": 1000,
+        "2010": 2000,
+        "2015": 3000,
+        "2020": 4000,
+        "2025": 6000
+      },
+      "fact": "Iced sweet tea in a sealed plastic bag with a straw is Indonesia's most democratic beverage, costing a fraction of bottled drinks. The plastic bag method was invented because ice was cheaper than cups, and the practice persists despite plastic pollution concerns as an economic necessity."
+    },
+    {
+      "id": "id_t1_014",
+      "name": "Bensin (petrol, Pertalite, litre, Pertamina)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 150,
+        "1995": 700,
+        "2000": 1150,
+        "2005": 2400,
+        "2010": 4500,
+        "2015": 7300,
+        "2020": 7650,
+        "2025": 9000
+      },
+      "fact": "Indonesia subsidises petrol through Pertamina and the subsidy costs Rp 300 trillion annually. Jokowi made the controversial decision to cut the subsidy in 2022 and raised prices 30% overnight, triggering the largest single day of fuel protests in Indonesian history."
+    },
+    {
+      "id": "id_t1_015",
+      "name": "Bubur ayam (congee, small bowl, street vendor)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 2000,
+        "2005": 4000,
+        "2010": 7000,
+        "2015": 10000,
+        "2020": 13000,
+        "2025": 9000
+      },
+      "fact": "Bubur ayam is Indonesia's most popular breakfast and is sold from bicycles and carts from 5am. The Bandung style with crispy fried shallots, shredded chicken and century egg differs from the Jakarta version, making bubur ayam a regional identity marker as well as a meal."
+    },
+    {
+      "id": "id_t1_016",
+      "name": "Koran (newspaper, Kompas, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 1000,
+        "2000": 2500,
+        "2005": 3500,
+        "2010": 5000,
+        "2015": 6500,
+        "2020": 7500,
+        "2025": 9000
+      },
+      "fact": "Kompas is Indonesia's newspaper of record and has been published since 1965. Indonesia has 300 million active social media users, more than the US, yet Kompas still sells 500,000 print copies daily because Indonesian readers trust print for political analysis."
+    },
+    {
+      "id": "id_t1_017",
+      "name": "Rokok kretek (clove cigarette, single, Djarum)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 1,
+      "prices": {
+        "1990": 50,
+        "1995": 100,
+        "2000": 400,
+        "2005": 700,
+        "2010": 1200,
+        "2015": 2000,
+        "2020": 2500,
+        "2025": 4000
+      },
+      "fact": "Kretek clove cigarettes were invented in Indonesia in the 1880s when Haji Jamhari mixed cloves with tobacco for chest pain relief. Indonesia has 65 million smokers and the clove cigarette industry employs 6 million people, making tobacco Indonesia's most politically protected industry."
+    },
+    {
+      "id": "id_t1_018",
+      "name": "Tahu goreng (fried tofu, 2 pieces, street vendor)",
+      "emoji": "🟡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 500,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 4000,
+        "2015": 6000,
+        "2020": 8000,
+        "2025": 9000
+      },
+      "fact": "Tofu was introduced to Indonesia from China 500 years ago and became so integral to Indonesian cuisine that it is considered a native food. Indonesia is the world's largest tofu consumer per capita and the Sumedang region of West Java is famous for producing tofu since the 17th century."
+    },
+    {
+      "id": "id_t1_019",
+      "name": "Permen (candy, single, minimarket)",
+      "emoji": "🍬",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 25,
+        "1995": 50,
+        "2000": 100,
+        "2005": 200,
+        "2010": 300,
+        "2015": 500,
+        "2020": 700,
+        "2025": 1000
+      },
+      "fact": "Indonesian warung shops give candy as change when coins are unavailable, a practice so common that the consumer protection agency issued guidelines on it. The Kopiko coffee candy is Indonesia's most exported confectionery and appeared as a product placement in a Netflix Korean drama, triggering a global sales spike."
+    },
+    {
+      "id": "id_t1_020",
+      "name": "Air mineral (bottled water, Aqua 600ml, minimarket)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 3500,
+        "2015": 4500,
+        "2020": 5000,
+        "2025": 6500
+      },
+      "fact": "Aqua was Indonesia's first branded bottled water, launched in 1973, and is so dominant that Indonesians generically call all bottled water aqua regardless of brand. Danone acquired Aqua in 1998 and it remains Indonesia's best-selling food and beverage product."
+    },
+    {
+      "id": "id_t1_021",
+      "name": "Ojek (motorcycle taxi, 1km, cash)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 500,
+        "1995": 1000,
+        "2000": 3000,
+        "2005": 5000,
+        "2010": 8000,
+        "2015": 12000,
+        "2020": 11000,
+        "2025": 9000
+      },
+      "fact": "Gojek was founded in Jakarta in 2010 as a call centre for motorcycle taxis and became Indonesia's first tech unicorn by 2016. It is now a super-app offering food delivery, payments, healthcare and logistics, valued at USD 10 billion and reshaping how 270 million Indonesians live daily."
+    },
+    {
+      "id": "id_t1_022",
+      "name": "Singkong (cassava, 1kg, pasar tradisional)",
+      "emoji": "🌿",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 150,
+        "1995": 300,
+        "2000": 800,
+        "2005": 1500,
+        "2010": 2500,
+        "2015": 4000,
+        "2020": 5000,
+        "2025": 8000
+      },
+      "fact": "Cassava is Indonesia's most-grown food crop by volume after rice and is eaten boiled, fried and dried as a snack. In Maluku and Papua it replaces rice as the dietary staple, making Indonesia one of the few countries with two distinct carbohydrate cultures operating simultaneously."
+    },
+    {
+      "id": "id_t1_023",
+      "name": "Pecel lele (fried catfish with rice, warung)",
+      "emoji": "🐟",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 2000,
+        "2005": 4000,
+        "2010": 7000,
+        "2015": 10000,
+        "2020": 13000,
+        "2025": 18000
+      },
+      "fact": "Pecel lele is the most widely-eaten evening meal at warungs across Java and is especially popular among students and workers because a whole fried catfish costs less than a bottle of water at a shopping mall. Catfish is the cheapest protein in Indonesia."
+    },
+    {
+      "id": "id_t1_024",
+      "name": "Kue lapis (layered cake, single slice)",
+      "emoji": "🎂",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 200,
+        "1995": 400,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 4000,
+        "2015": 6000,
+        "2020": 8000,
+        "2025": 9000
+      },
+      "fact": "Kue lapis is a slow-baked layered cake that requires each of its layers to be cooked individually, a process that takes hours. Indonesian layered cakes are considered among the most technically demanding pastries in the world and competition events judging them attract audiences of 50,000."
+    },
+    {
+      "id": "id_t1_025",
+      "name": "Perangko (domestic stamp, Pos Indonesia)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 100,
+        "1995": 300,
+        "2000": 1000,
+        "2005": 1500,
+        "2010": 2500,
+        "2015": 3000,
+        "2020": 3500,
+        "2025": 4500
+      },
+      "fact": "Pos Indonesia serves 17,000 islands and 270 million people through 4,200 post offices. Delivering a letter to Papua takes up to 3 weeks and occasionally arrives by the same vessel that brings monthly food supplies, making Indonesian postal logistics a marvel of geography."
+    },
+    {
+      "id": "id_t2_001",
+      "name": "Ayam goreng (fried chicken, warung Padang, half)",
+      "emoji": "🍗",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 4000,
+        "2000": 10000,
+        "2005": 15000,
+        "2010": 25000,
+        "2015": 35000,
+        "2020": 45000,
+        "2025": 60000
+      },
+      "fact": "Padang cuisine from West Sumatra is Indonesia's most-exported culinary tradition, with Nasi Padang restaurants on every Indonesian high street and in 25 countries. The unique self-service system where dishes are placed on the table and you only pay for what you eat is replicated globally."
+    },
+    {
+      "id": "id_t2_002",
+      "name": "Bioskop (cinema ticket, CGV/XXI, standard 2D, Jakarta)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 3000,
+        "2000": 8000,
+        "2005": 15000,
+        "2010": 25000,
+        "2015": 35000,
+        "2020": 40000,
+        "2025": 55000
+      },
+      "fact": "Indonesia's film industry is the world's largest non-English film market by screen count with 2,800 cinemas. KKN di Desa Penari, a 2022 Indonesian horror film, sold 10 million tickets in 2 weeks, a record for any Asian film outside China and Japan."
+    },
+    {
+      "id": "id_t2_003",
+      "name": "Potong rambut (men's haircut, barbershop)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 2000,
+        "2000": 8000,
+        "2005": 15000,
+        "2010": 25000,
+        "2015": 35000,
+        "2020": 40000,
+        "2025": 55000
+      },
+      "fact": "Indonesian barbershop culture was transformed by Korean pop culture influence after 2010, when fades and k-pop-inspired styles became the standard request. The barbershop market grew 300% in value between 2015 and 2023 as it shifted from functional to aspirational."
+    },
+    {
+      "id": "id_t2_004",
+      "name": "Soto Ayam (chicken soup, restaurant, Jakarta)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1500,
+        "1995": 3000,
+        "2000": 8000,
+        "2005": 15000,
+        "2010": 25000,
+        "2015": 35000,
+        "2020": 45000,
+        "2025": 60000
+      },
+      "fact": "Soto is Indonesia's most diverse dish with 75 regional varieties across the archipelago. Indonesian food scientists discovered that each regional soto version uses a unique combination of spices tied to local trade history, making soto a liquid map of Indonesia's spice trading past."
+    },
+    {
+      "id": "id_t2_005",
+      "name": "Netflix Langganan (monthly, standard, Indonesia)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 109000,
+        "2020": 139000,
+        "2025": 99000
+      },
+      "fact": "Netflix Indonesia launched in 2016 and was immediately blocked by Telkom, the state-owned telecommunications company, for 2 years over content licensing disputes. Netflix unblocked in 2018 after agreeing to host local content and invest in Indonesian productions."
+    },
+    {
+      "id": "id_t2_006",
+      "name": "Gym harian (daily gym pass, GOR / public gym, Jakarta)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 15000,
+        "2000": 50000,
+        "2005": 100000,
+        "2010": 200000,
+        "2015": 300000,
+        "2020": 350000,
+        "2025": 90000
+      },
+      "fact": "Gym culture in Indonesia exploded after the 2018 Asian Games in Jakarta, which was the first time most Indonesians saw world-class athletic facilities. Memberships grew 400% between 2018 and 2023 but remain out of reach for 80% of the population."
+    },
+    {
+      "id": "id_t2_007",
+      "name": "Gojek Food Delivery (GoFood, avg small order + fee)",
+      "emoji": "🛵",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 50000,
+        "2020": 80000,
+        "2025": 90000
+      },
+      "fact": "Gojek and Grab together complete 7 million food deliveries daily in Indonesia, the highest per-capita delivery rate of any country outside South Korea. Indonesian cloud kitchens grew from 100 to 30,000 between 2016 and 2023, reshaping the restaurant industry entirely."
+    },
+    {
+      "id": "id_t2_008",
+      "name": "Spotify Langganan (monthly, Indonesia)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 49000,
+        "2020": 54990,
+        "2025": 64990
+      },
+      "fact": "Indonesia is Spotify's largest market in Southeast Asia and the birthplace of koplo, a genre of upbeat Javanese folk music that has 50 million Spotify listeners globally. Indonesian dangdut music has more dedicated listeners globally than the entire discography of most European countries."
+    },
+    {
+      "id": "id_t2_009",
+      "name": "Batik shirt (machine, basic, Tanah Abang market)",
+      "emoji": "👕",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 5000,
+        "1995": 10000,
+        "2000": 25000,
+        "2005": 50000,
+        "2010": 80000,
+        "2015": 100000,
+        "2020": 120000,
+        "2025": 99000
+      },
+      "fact": "Batik was declared UNESCO Intangible Cultural Heritage in 2009, the same year Jokowi turned batik into a diplomatic tool by wearing it to every international summit. Indonesia mandates batik dress on National Batik Day and the sight of every government worker in batik simultaneously is a remarkable national spectacle."
+    },
+    {
+      "id": "id_t2_010",
+      "name": "Paket data (mobile data, 10GB monthly, Telkomsel)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 50000,
+        "2010": 100000,
+        "2015": 80000,
+        "2020": 50000,
+        "2025": 45000
+      },
+      "fact": "Indonesia has the world's second-largest number of mobile internet users after China, with 200 million active users. Mobile data prices fell 90% between 2015 and 2023 as competition intensified, making Indonesia one of the cheapest mobile data markets in Asia."
+    },
+    {
+      "id": "id_t2_011",
+      "name": "Rendang (portion, small, rumah makan Padang)",
+      "emoji": "🥩",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 3000,
+        "1995": 7000,
+        "2000": 18000,
+        "2005": 30000,
+        "2010": 50000,
+        "2015": 70000,
+        "2020": 85000,
+        "2025": 80000
+      },
+      "fact": "Rendang was voted the world's most delicious food by CNN readers in 2017. The dry curry slow-cooked for 8 hours was originally a preservation method in tropical heat, and its concentrated spice coating means it can last weeks without refrigeration."
+    },
+    {
+      "id": "id_t2_012",
+      "name": "Transjakarta BRT (single trip, e-money card)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 3500,
+        "2010": 3500,
+        "2015": 3500,
+        "2020": 3500,
+        "2025": 3500
+      },
+      "fact": "Transjakarta is the world's longest BRT network at 251km and has held its Rp 3,500 fare since 2012 as a government social subsidy. The system carries 1 million passengers daily despite Jakarta's legendary traffic, which loses Rp 100 trillion annually in productivity."
+    },
+    {
+      "id": "id_t2_013",
+      "name": "Nasi Padang (rice + 3 dishes, take away, rumah makan)",
+      "emoji": "🍱",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 5000,
+        "2000": 12000,
+        "2005": 20000,
+        "2010": 35000,
+        "2015": 50000,
+        "2020": 65000,
+        "2025": 90000
+      },
+      "fact": "Nasi Padang is Indonesia's most complete and celebrated meal tradition. A single rumah makan Padang can offer 40 dishes simultaneously, all pre-cooked and waiting at room temperature for service, a feat of culinary logistics that Western food safety authorities would find impossible to permit."
+    },
+    {
+      "id": "id_t2_014",
+      "name": "Rokok kretek (clove cigarettes, Djarum Black pack of 16)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 2000,
+        "2000": 6000,
+        "2005": 11000,
+        "2010": 17000,
+        "2015": 25000,
+        "2020": 30000,
+        "2025": 45000
+      },
+      "fact": "Indonesia has the world's highest male smoking rate at 71% of adult men. The tobacco industry donates heavily to political campaigns and clove farmers' associations have blocked every tobacco tax increase since 1998, making Indonesia the only G20 country without a comprehensive tobacco control policy."
+    },
+    {
+      "id": "id_t2_015",
+      "name": "Es krim (ice cream, Campina Paddle Pop, single)",
+      "emoji": "🍦",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 300,
+        "1995": 700,
+        "2000": 2000,
+        "2005": 4000,
+        "2010": 8000,
+        "2015": 12000,
+        "2020": 18000,
+        "2025": 28000
+      },
+      "fact": "Campina is Indonesia's oldest ice cream brand, founded in 1972 in Surabaya, and its Paddle Pop lion mascot is the most recognised children's character in the country. The brand survived multinational competition from Walls and Magnum by positioning itself as the authentic Indonesian choice."
+    },
+    {
+      "id": "id_t2_016",
+      "name": "Tiket KRL Commuter Line (Jakarta, e-money, single)",
+      "emoji": "🚆",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 1000,
+        "2000": 2000,
+        "2005": 3000,
+        "2010": 5000,
+        "2015": 5000,
+        "2020": 5000,
+        "2025": 5000
+      },
+      "fact": "Jakarta's KRL commuter rail carries 1.2 million passengers daily at a subsidised flat fare of Rp 5,000. When the government tried to raise the fare in 2023, public outcry forced a reversal within 48 hours, the fastest policy reversal in Indonesian transport history."
+    },
+    {
+      "id": "id_t2_017",
+      "name": "Jamu (herbal medicine, bottle, Sido Muncul brand)",
+      "emoji": "🌿",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 2500,
+        "2000": 6000,
+        "2005": 10000,
+        "2010": 16000,
+        "2015": 22000,
+        "2020": 28000,
+        "2025": 38000
+      },
+      "fact": "Jamu herbal medicine is 1,200 years old and was inscribed on UNESCO's Intangible Cultural Heritage list in 2023. The Indonesian jamu industry generates Rp 20 trillion annually and traditional jamu sellers carrying bamboo baskets through neighbourhoods are a protected street vendor category under Indonesian law."
+    },
+    {
+      "id": "id_t2_018",
+      "name": "Buku (paperback bestseller, Gramedia)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 3000,
+        "1995": 7000,
+        "2000": 20000,
+        "2005": 35000,
+        "2010": 50000,
+        "2015": 65000,
+        "2020": 75000,
+        "2025": 95000
+      },
+      "fact": "Gramedia is Indonesia's largest bookstore chain and its Laskar Pelangi by Andrea Hirata is the best-selling Indonesian novel ever at 5 million copies, adapted into the most-watched Indonesian film of all time. The novel's description of poverty in Belitung triggered a national debate about education inequality."
+    },
+    {
+      "id": "id_t2_019",
+      "name": "Internet rumah (monthly, IndiHome basic, Telkom)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50000,
+        "2005": 150000,
+        "2010": 200000,
+        "2015": 250000,
+        "2020": 280000,
+        "2025": 99000
+      },
+      "fact": "Indonesia has the worst fixed broadband infrastructure in Southeast Asia relative to its GDP, with only 15% of households having fixed-line internet. The rest rely on mobile data, making Indonesia the world's largest mobile-only internet economy by total users."
+    },
+    {
+      "id": "id_t2_020",
+      "name": "Tiket konser (dangdut, medium venue, Jakarta)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 2000,
+        "1995": 5000,
+        "2000": 15000,
+        "2005": 30000,
+        "2010": 50000,
+        "2015": 75000,
+        "2020": 80000,
+        "2025": 80000
+      },
+      "fact": "Dangdut is Indonesia's most popular music genre and its biggest star Rhoma Irama is known as the King of Dangdut with 8 million Spotify listeners. Dangdut concerts regularly draw 100,000 people outdoors and have been used by every major political campaign since 1998 to attract voter crowds."
+    },
+    {
+      "id": "id_t2_021",
+      "name": "Baju lebaran (Eid top, basic, Tanah Abang)",
+      "emoji": "👗",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 5000,
+        "1995": 12000,
+        "2000": 40000,
+        "2005": 70000,
+        "2010": 100000,
+        "2015": 140000,
+        "2020": 150000,
+        "2025": 99000
+      },
+      "fact": "Tanah Abang in Jakarta is the largest textile market in Southeast Asia and its Eid trading period generates Rp 2 trillion in 10 days. Every Muslim Indonesian buys new clothes for Eid and the custom is so ingrained that clothing brands plan their entire year around the Lebaran season."
+    },
+    {
+      "id": "id_t2_022",
+      "name": "Warteg set (rice + 3 dishes, workers' canteen)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 1000,
+        "1995": 2500,
+        "2000": 6000,
+        "2005": 10000,
+        "2010": 18000,
+        "2015": 25000,
+        "2020": 30000,
+        "2025": 45000
+      },
+      "fact": "The Warteg, Warung Tegal canteen from Central Java, feeds an estimated 20 million Jakarta workers daily at prices the middle class cannot find cheaper. The Warteg system is studied by urban food economists as the most efficient informal food distribution network in any megacity."
+    },
+    {
+      "id": "id_t2_023",
+      "name": "Kopi susu kekinian (trendy milk coffee, Kopi Kenangan)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 20000,
+        "2020": 28000,
+        "2025": 38000
+      },
+      "fact": "Kopi Kenangan launched in 2017 and became Southeast Asia's first F&B unicorn by 2021 on the back of Indonesia's kekinian trendy coffee boom. Its success was built on the exact midpoint between warung prices and Starbucks prices, creating a category that served the emerging middle class."
+    },
+    {
+      "id": "id_t2_024",
+      "name": "Pisang goreng (fried banana, portion of 5, street)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 500,
+        "1995": 1000,
+        "2000": 3000,
+        "2005": 6000,
+        "2010": 10000,
+        "2015": 15000,
+        "2020": 18000,
+        "2025": 25000
+      },
+      "fact": "Pisang goreng fried banana is considered Indonesia's universal snack and is sold in 50 varieties from plain fried to Pontianak-style with cheese and condensed milk. Indonesian expats cite pisang goreng as the first food they miss abroad, ahead of nasi goreng."
+    },
+    {
+      "id": "id_t2_025",
+      "name": "Starbucks Latte (grande, Jakarta mall)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 20000,
+        "2005": 30000,
+        "2010": 40000,
+        "2015": 50000,
+        "2020": 60000,
+        "2025": 80000
+      },
+      "fact": "Starbucks Indonesia opened its first store in Jakarta in 2002 and is among the brand's fastest-growing markets globally. A Starbucks grande in Jakarta costs 10x the price of a warung kopi tubruk, yet 750 Indonesian Starbucks locations are consistently full, demonstrating the spending power of Indonesia's 60 million middle class."
+    },
+    {
+      "id": "id_t3_001",
+      "name": "Samsung Galaxy A55 (mid-range, Indonesia retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 2000000,
+        "2015": 3000000,
+        "2020": 4000000,
+        "2025": 5000000
+      },
+      "fact": "Samsung manufactures phones in its Cikarang factory specifically for the Indonesian market, enabling it to beat Apple on price. Indonesia levies a 20% import duty on fully-assembled electronics, making domestic assembly essential for any brand seeking volume in the archipelago."
+    },
+    {
+      "id": "id_t3_002",
+      "name": "Tiket pesawat (Jakarta to Bali, economy, one way, Lion Air avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 200000,
+        "2000": 350000,
+        "2005": 300000,
+        "2010": 400000,
+        "2015": 500000,
+        "2020": 400000,
+        "2025": 800000
+      },
+      "fact": "Jakarta to Bali is Southeast Asia's busiest domestic air route. Lion Air launched in 2000 and halved fares within 3 years, triggering Indonesia's aviation boom. The country went from 10 million to 100 million domestic passengers in 15 years, the fastest aviation market expansion in history."
+    },
+    {
+      "id": "id_t3_003",
+      "name": "Motor baru (new motorcycle, Honda Beat, 0km)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 1500000,
+        "1995": 3000000,
+        "2000": 7000000,
+        "2005": 10000000,
+        "2010": 13000000,
+        "2015": 16000000,
+        "2020": 18000000,
+        "2025": 9000000
+      },
+      "fact": "Indonesia is the world's third-largest motorcycle market with 6 million new units sold annually. The Honda Beat is the best-selling motorcycle in any country in the world and Indonesia has more motorcycles than cars by a factor of 8, making it the most motorcycle-dependent large economy."
+    },
+    {
+      "id": "id_t3_004",
+      "name": "iPhone 15 (128GB, Indonesia retail, resmi)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 6000000,
+        "2015": 10000000,
+        "2020": 15000000,
+        "2025": 9000000
+      },
+      "fact": "Apple was briefly banned from selling iPhones in Indonesia in 2024 for failing to meet the 40% local content requirement. The ban lasted 3 weeks before Apple agreed to invest USD 1 billion in manufacturing infrastructure, the first time Indonesia's local content rules forced a major tech company to comply."
+    },
+    {
+      "id": "id_t3_005",
+      "name": "Laptop (Asus mid-range, 8GB RAM, Indonesia retail)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5000000,
+        "2005": 8000000,
+        "2010": 6000000,
+        "2015": 7000000,
+        "2020": 9000000,
+        "2025": 9000000
+      },
+      "fact": "Asus is the dominant laptop brand in Indonesia with 35% market share, favoured because of its relatively affordable pricing versus Apple and Dell. Indonesian students received government laptop subsidies under the Merdeka Belajar education programme, distributing 1.5 million units in 2022."
+    },
+    {
+      "id": "id_t3_006",
+      "name": "Sewa kamar kos (monthly room rent, budget, Jakarta)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 50000,
+        "1995": 100000,
+        "2000": 300000,
+        "2005": 600000,
+        "2010": 1200000,
+        "2015": 1800000,
+        "2020": 2000000,
+        "2025": 3000000
+      },
+      "fact": "Kos-kosan budget room rentals are how 6 million Jakarta workers live, in rooms shared between 2 to 4 people. The kos system created a parallel property market where owners convert houses into individual room rentals generating 5x the income of conventional tenancy."
+    },
+    {
+      "id": "id_t3_007",
+      "name": "Asuransi kendaraan (annual motor insurance, comprehensive, Honda Jazz)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 200000,
+        "1995": 500000,
+        "2000": 1500000,
+        "2005": 2500000,
+        "2010": 3500000,
+        "2015": 4500000,
+        "2020": 5000000,
+        "2025": 6500000
+      },
+      "fact": "Jakarta's traffic is the worst in the world by hours-lost-per-driver measurement and car insurance claims are dominated by minor collision damage rather than theft. Indonesians spend an average 65 hours per year stationary in traffic, the highest of any city population globally."
+    },
+    {
+      "id": "id_t3_008",
+      "name": "Paket wisata Bali (3 nights, mid-range hotel + tour, per person)",
+      "emoji": "🏖️",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 200000,
+        "1995": 500000,
+        "2000": 1000000,
+        "2005": 1500000,
+        "2010": 2500000,
+        "2015": 3500000,
+        "2020": 2500000,
+        "2025": 5000000
+      },
+      "fact": "Bali receives 6 million foreign tourists annually and is Indonesia's single most economically significant tourism destination. Tourism accounts for 54% of Bali's GDP, the highest tourism-dependency ratio of any Indonesian province and comparable to Maldives globally."
+    },
+    {
+      "id": "id_t3_009",
+      "name": "Emas perhiasan (22K gold bracelet, 5g, toko emas)",
+      "emoji": "💛",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 50000,
+        "1995": 150000,
+        "2000": 400000,
+        "2005": 700000,
+        "2010": 2000000,
+        "2015": 2500000,
+        "2020": 4500000,
+        "2025": 7000000
+      },
+      "fact": "Gold jewellery is Indonesia's primary savings instrument for 40 million households that lack bank accounts. Toko emas gold shops operate with a buyback guarantee, making gold a more liquid savings product than a bank deposit in communities where financial literacy is low."
+    },
+    {
+      "id": "id_t3_010",
+      "name": "Sekolah swasta (private school, monthly tuition, mid-level)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 50000,
+        "1995": 150000,
+        "2000": 400000,
+        "2005": 800000,
+        "2010": 1500000,
+        "2015": 2000000,
+        "2020": 2500000,
+        "2025": 3500000
+      },
+      "fact": "Indonesia has 200,000 private schools, more than any country, and private school enrolment grew 60% between 2010 and 2023 as urban parents sought better quality than state schools. The quality gap between the best and worst Indonesian schools is the widest of any country in the OECD education assessment."
+    },
+    {
+      "id": "id_t3_011",
+      "name": "Tiket pesawat (Jakarta to Tokyo, economy, one way, avg)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 2000000,
+        "1995": 3000000,
+        "2000": 4000000,
+        "2005": 5000000,
+        "2010": 6000000,
+        "2015": 7000000,
+        "2020": 5000000,
+        "2025": 9000000
+      },
+      "fact": "Japan is Indonesia's most popular long-haul tourist destination and Indonesia sends 500,000 tourists to Japan annually. Japan has invested more in Indonesia than any other Asian country and the two nations have the most people-to-people exchange of any bilateral relationship in Southeast Asia."
+    },
+    {
+      "id": "id_t3_012",
+      "name": "PlayStation 5 (disc, Indonesia resmi)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 8500000,
+        "2025": 9500000
+      },
+      "fact": "PlayStation 5 in Indonesia costs Rp 9.5 million versus USD 499 in the US, roughly 2x on purchasing power terms. Indonesia's gaming market is the largest in Southeast Asia and most players access games through mobile, making Indonesia the world's largest mobile-first gaming market."
+    },
+    {
+      "id": "id_t3_013",
+      "name": "Pernikahan (wedding, average total cost, Java)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 2000000,
+        "2000": 8000000,
+        "2005": 15000000,
+        "2010": 25000000,
+        "2015": 40000000,
+        "2020": 40000000,
+        "2025": 65000000
+      },
+      "fact": "Indonesian weddings traditionally invite the entire neighbourhood and guest lists of 1,000 people are normal. A Javanese wedding requires a full gamelan orchestra, a 3-day ceremony and thousands of nasi kotak box meals. Wedding costs are shared across family networks, making them communal economic events."
+    },
+    {
+      "id": "id_t3_014",
+      "name": "Asuransi jiwa (annual life insurance, basic, Prudential)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 1500000,
+        "2005": 3000000,
+        "2010": 5000000,
+        "2015": 7000000,
+        "2020": 9000000,
+        "2025": 9000000
+      },
+      "fact": "Indonesia's insurance penetration rate of 3% of GDP is the lowest of any G20 country, leaving 80% of the population uninsured. Prudential entered in 1995 and became Indonesia's most trusted financial brand, demonstrating that formal financial products can scale even in low-trust markets with the right distribution model."
+    },
+    {
+      "id": "id_t3_015",
+      "name": "Motor sport (motocross racing event entry fee, amateur)",
+      "emoji": "🏍️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 100000,
+        "2000": 300000,
+        "2005": 600000,
+        "2010": 1200000,
+        "2015": 2000000,
+        "2020": 2500000,
+        "2025": 4000000
+      },
+      "fact": "Indonesia has 30,000 motocross and motor racing events annually, more than any country. Indonesian MotoGP rider Dimas Ekky became the first Indonesian in the Moto2 World Championship in 2018 and the Mandalika circuit in Lombok hosting the MotoGP World Championship from 2022 attracted 75,000 spectators."
+    },
+    {
+      "id": "id_t3_016",
+      "name": "Sewa apartemen (1-bedroom, monthly, Kemang Jakarta)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 2000000,
+        "2005": 4000000,
+        "2010": 7000000,
+        "2015": 10000000,
+        "2020": 12000000,
+        "2025": 9000000
+      },
+      "fact": "Kemang in South Jakarta is Indonesia's expat quarter and its rents rival Singapore's suburban areas. Jakarta's property market is among Asia's most volatile, having crashed 70% in the 1998 Asian financial crisis and recovered to record highs by 2023."
+    },
+    {
+      "id": "id_t3_017",
+      "name": "Liburan raja ampat (Raja Ampat liveaboard, 3 nights, per person)",
+      "emoji": "🐠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 500000,
+        "2000": 1500000,
+        "2005": 3000000,
+        "2010": 5000000,
+        "2015": 8000000,
+        "2020": 7000000,
+        "2025": 9000000
+      },
+      "fact": "Raja Ampat in West Papua has the highest marine biodiversity of any location on earth, with 1,500 fish species and 600 coral species in 40,000 square kilometres. Indonesia has designated 30% of Raja Ampat as a no-take marine reserve, the largest conservation commitment by any developing nation."
+    },
+    {
+      "id": "id_t3_018",
+      "name": "Emas batangan (gold bullion, 1 gram, Antam)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 30000,
+        "1995": 80000,
+        "2000": 100000,
+        "2005": 180000,
+        "2010": 500000,
+        "2015": 550000,
+        "2020": 950000,
+        "2025": 1650000
+      },
+      "fact": "Antam, the state-owned gold company, sells stamped gold bars from 0.5 grams to 1 kilogram in 600 retail outlets. Indonesia is the world's sixth-largest gold producer and gold investment products from Antam are the most purchased financial product after government bonds."
+    },
+    {
+      "id": "id_t3_019",
+      "name": "Konser internasional (floor ticket, Coldplay / Taylor Swift, Jakarta)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 500000,
+        "2010": 800000,
+        "2015": 1200000,
+        "2020": 1000000,
+        "2025": 2500000
+      },
+      "fact": "Coldplay's 2023 Jakarta concert drew 55,000 fans per night across 3 nights and generated Rp 500 billion in economic activity. The concert's environmental conditions, including solar-powered stages and biodegradable wristbands, were presented to the Indonesian government as a model for sustainable events."
+    },
+    {
+      "id": "id_t3_020",
+      "name": "MacBook Air M2 (Indonesia retail, resmi)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 12000000,
+        "2015": 15000000,
+        "2020": 18000000,
+        "2025": 9000000
+      },
+      "fact": "MacBook prices in Indonesia are 30% above US prices due to import duties and the rupiah's chronic depreciation. Apple was forced to comply with Indonesia's 40% local content law in 2024 after its iPhone ban, committing to a USD 1 billion manufacturing investment in Bandung."
+    },
+    {
+      "id": "id_t3_021",
+      "name": "Mobil baru (Toyota Avanza, base, 0km, showroom)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 20000000,
+        "1995": 50000000,
+        "2000": 100000000,
+        "2005": 130000000,
+        "2010": 160000000,
+        "2015": 200000000,
+        "2020": 230000000,
+        "2025": 280000000
+      },
+      "fact": "The Toyota Avanza is Indonesia's best-selling car, designed specifically for Indonesian roads with high ground clearance for flooding and a third-row seat for extended families. Indonesia assembles 1.5 million vehicles annually and Toyota's Indonesian factory is the most productive in Asia outside Japan."
+    },
+    {
+      "id": "id_t3_022",
+      "name": "Biaya kuliah (annual university, private, management program)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 500000,
+        "1995": 1500000,
+        "2000": 5000000,
+        "2005": 10000000,
+        "2010": 15000000,
+        "2015": 20000000,
+        "2020": 25000000,
+        "2025": 9000000
+      },
+      "fact": "Indonesia has 4,500 private universities, the most of any country, yet its top university ranks 301-400 globally. University fees grew 7x faster than inflation between 2010 and 2023, making higher education the fastest-rising household cost in Indonesia."
+    },
+    {
+      "id": "id_t3_023",
+      "name": "Panel surya (residential solar, 2kW kit, installed)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 50000000,
+        "2010": 30000000,
+        "2015": 20000000,
+        "2020": 15000000,
+        "2025": 9000000
+      },
+      "fact": "Indonesia is the world's second-largest coal exporter yet has the solar potential to power all of Southeast Asia. Solar panel uptake grew 500% between 2020 and 2024 despite regulatory barriers imposed by PLN, the state electricity company, which charges a fee to connect solar to the grid."
+    },
+    {
+      "id": "id_t3_024",
+      "name": "Batik tulis (hand-drawn batik, high quality, 2m cloth)",
+      "emoji": "🎨",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 300000,
+        "2000": 700000,
+        "2005": 1200000,
+        "2010": 2000000,
+        "2015": 3000000,
+        "2020": 4000000,
+        "2025": 6000000
+      },
+      "fact": "Hand-drawn batik tulis takes 3 months to complete and a master batik artist in Yogyakarta earns Rp 10 million per cloth. Since UNESCO recognition in 2009 global demand for authentic batik tulis has grown 300%, pricing out Indonesian buyers and making it primarily an export luxury product."
+    },
+    {
+      "id": "id_t3_025",
+      "name": "Renovasi rumah (house renovation, 60sqm, per sqm labour+materials)",
+      "emoji": "🔨",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 100000,
+        "1995": 300000,
+        "2000": 800000,
+        "2005": 1500000,
+        "2010": 2500000,
+        "2015": 3500000,
+        "2020": 4500000,
+        "2025": 7000000
+      },
+      "fact": "Construction costs in Jakarta rose 40% in two years after the pandemic as building materials prices tracked global commodity markets. Indonesian homeowners often renovate their properties during Lebaran holiday when construction workers return to villages and can be hired locally at lower rates."
+    },
+    {
+      "id": "id_t4_001",
+      "name": "Emas troy ounce (gold spot, IDR, Jakarta)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 1500000,
+        "2000": 3000000,
+        "2005": 6000000,
+        "2010": 17500000,
+        "2015": 17000000,
+        "2020": 32000000,
+        "2025": 54000000
+      },
+      "fact": "Gold in rupiah terms rose 108x since 1990 as rupiah depreciation amplified USD gold gains. Indonesia's Grasberg mine in Papua is the world's largest gold mine and one of the largest copper mines, generating USD 3 billion annually while creating the world's largest artificial mine mountain."
+    },
+    {
+      "id": "id_t4_002",
+      "name": "Apartemen mewah (luxury 2-bedroom, SCBD Jakarta, purchase)",
+      "emoji": "🏙️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 50000000,
+        "1995": 500000000,
+        "2000": 800000000,
+        "2005": 1500000000,
+        "2010": 3000000000,
+        "2015": 4500000000,
+        "2020": 4500000000,
+        "2025": 6000000000
+      },
+      "fact": "SCBD Jakarta luxury apartments cost USD 350,000 for 80 square metres, making them 5x more expensive per square metre than the median Jakarta wage earner could save in a lifetime. Jakarta's property market is exclusively driven by the top 5% of earners and Chinese-Indonesian business families."
+    },
+    {
+      "id": "id_t4_003",
+      "name": "Mobil mewah (BMW 3 Series, new, Indonesia MSRP)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 100000000,
+        "1995": 400000000,
+        "2000": 600000000,
+        "2005": 700000000,
+        "2010": 800000000,
+        "2015": 900000000,
+        "2020": 1000000000,
+        "2025": 1200000000
+      },
+      "fact": "Indonesia imposes a 40% luxury goods tax on cars above Rp 200 million, making a BMW 3 Series cost 3x its German price. Indonesia's luxury car market is dominated by Toyota Land Cruiser and Alphard, which avoid the highest luxury tax bands while still signalling wealth."
+    },
+    {
+      "id": "id_t4_004",
+      "name": "iPhone 16 Pro Max (256GB, Indonesia resmi)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 18000000,
+        "2020": 22000000,
+        "2025": 30000000
+      },
+      "fact": "Apple was banned from selling the iPhone 16 series in Indonesia in 2024 for failing to meet 40% local content requirements, the first time a country had blocked an iPhone model launch. The ban lasted 3 weeks before Apple agreed to build a USD 1 billion developer academy in Bandung."
+    },
+    {
+      "id": "id_t4_005",
+      "name": "Tanah kavling (land plot, 200sqm, BSD City, South Tangerang)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 50000000,
+        "2000": 100000000,
+        "2005": 200000000,
+        "2010": 600000000,
+        "2015": 1200000000,
+        "2020": 1500000000,
+        "2025": 2500000000
+      },
+      "fact": "BSD City by Sinar Mas Land is a self-contained satellite city 30km from Jakarta built for 1 million residents, the largest privately-built city in Southeast Asia. Its land prices rose 50x since 1990 as Jakarta's congestion pushed middle-class families outward into developer-planned townships."
+    },
+    {
+      "id": "id_t4_006",
+      "name": "Rolex Submariner (new retail, Jakarta authorised dealer)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 20000000,
+        "2000": 40000000,
+        "2005": 70000000,
+        "2010": 120000000,
+        "2015": 180000000,
+        "2020": 250000000,
+        "2025": 380000000
+      },
+      "fact": "Indonesia's luxury goods market is growing faster than China's, driven by a new wealth class from the nickel, coal and palm oil industries. Jakarta's Pondok Indah Mall has the highest luxury watch sales density of any Southeast Asian mall outside Singapore."
+    },
+    {
+      "id": "id_t4_007",
+      "name": "Villa Bali (freehold, 3-bedroom, Seminyak, purchase)",
+      "emoji": "🌴",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 100000000,
+        "1995": 500000000,
+        "2000": 1000000000,
+        "2005": 2000000000,
+        "2010": 4000000000,
+        "2015": 6000000000,
+        "2020": 7000000000,
+        "2025": 15000000000
+      },
+      "fact": "Bali villa prices tripled between 2020 and 2024 as digital nomads and cryptocurrency investors discovered the island. Indonesia restricts freehold foreign ownership but a long-term leasehold structure effectively functions as ownership, making Bali the most-purchased holiday property in Asia by non-residents."
+    },
+    {
+      "id": "id_t4_008",
+      "name": "Kapal yacht (private yacht, 20m, charter per week)",
+      "emoji": "⛵",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50000000,
+        "2005": 100000000,
+        "2010": 200000000,
+        "2015": 400000000,
+        "2020": 350000000,
+        "2025": 600000000
+      },
+      "fact": "Komodo National Park yacht charters are the most expensive charter route in Southeast Asia because access requires a special permit capped at 10 vessels per day. The park protects the only wild Komodo dragon population and was briefly threatened with tourist closure in 2019 before the government reversed course."
+    },
+    {
+      "id": "id_t4_009",
+      "name": "Pernikahan mewah (luxury wedding, Jakarta hotel, full)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000000,
+        "1995": 50000000,
+        "2000": 150000000,
+        "2005": 300000000,
+        "2010": 500000000,
+        "2015": 750000000,
+        "2020": 700000000,
+        "2025": 1200000000
+      },
+      "fact": "Indonesian Chinese-Indonesian business family weddings at 5-star Jakarta hotels can cost Rp 1.2 billion and invite 2,000 guests. Indonesian weddings involving a politician's family are subject to KPK anti-corruption scrutiny if costs exceed Rp 500 million, the only country where wedding expenditure is a corruption indicator."
+    },
+    {
+      "id": "id_t4_010",
+      "name": "Pesawat charter (private jet, Jakarta to Bali, light jet)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 20000000,
+        "2000": 60000000,
+        "2005": 120000000,
+        "2010": 200000000,
+        "2015": 300000000,
+        "2020": 280000000,
+        "2025": 500000000
+      },
+      "fact": "Indonesia has 500 registered private jets and Jakarta-Bali is the most-flown private route in Southeast Asia. The coal, palm oil and nickel mining families of Indonesia generate more private jet charter hours per capita than any country outside the Gulf states and Russia."
+    },
+    {
+      "id": "id_t4_011",
+      "name": "Properti IKN (land in new capital Nusantara, per sqm)",
+      "emoji": "🏗️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 500000,
+        "2025": 10000000
+      },
+      "fact": "Indonesia announced the move of its capital from Jakarta to Nusantara in East Kalimantan in 2019 and began construction in 2022. Land prices in surrounding areas rose 20x in 5 years. The project costs USD 32 billion and is the world's largest current capital city relocation."
+    },
+    {
+      "id": "id_t4_012",
+      "name": "Nikel tambang (nickel mining permit, small operation, Sulawesi)",
+      "emoji": "⛏️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 100000000,
+        "2005": 500000000,
+        "2010": 2000000000,
+        "2015": 5000000000,
+        "2020": 10000000000,
+        "2025": 30000000000
+      },
+      "fact": "Indonesia holds 40% of the world's nickel reserves, the single most critical mineral for EV battery production. After banning raw nickel ore exports in 2020, Indonesia forced every global EV maker to invest in Indonesian processing facilities, the most effective single commodity leverage by a developing country in history."
+    },
+    {
+      "id": "id_t4_013",
+      "name": "Saham BRI (Bank Rakyat Indonesia, 10,000 shares at market)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 45000000,
+        "2010": 130000000,
+        "2015": 120000000,
+        "2020": 40000000,
+        "2025": 9000000
+      },
+      "fact": "BRI is the world's largest microfinance bank serving 95 million ultra-micro borrowers in 400,000 villages through agents who bring banking to remote communities. Its total loan book of USD 100 billion is the largest in Southeast Asia and its 2020 COVID crash and recovery traced every phase of the pandemic economy."
+    },
+    {
+      "id": "id_t4_014",
+      "name": "Sawit kebun (palm oil plantation, 10 hectares, Kalimantan)",
+      "emoji": "🌴",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 20000000,
+        "2000": 60000000,
+        "2005": 150000000,
+        "2010": 500000000,
+        "2015": 700000000,
+        "2020": 900000000,
+        "2025": 1500000000
+      },
+      "fact": "Indonesia is the world's largest palm oil producer generating USD 35 billion in exports annually. Palm oil appears in 50% of supermarket products globally yet its Kalimantan plantation expansion destroyed the world's third-largest tropical forest, one of the defining environmental conflicts of the 21st century."
+    },
+    {
+      "id": "id_t4_015",
+      "name": "Batu bara kontrak (coal supply contract, 1,000 tonnes, Kalimantan)",
+      "emoji": "⚫",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000000,
+        "1995": 100000000,
+        "2000": 200000000,
+        "2005": 500000000,
+        "2010": 1500000000,
+        "2015": 800000000,
+        "2020": 800000000,
+        "2025": 2500000000
+      },
+      "fact": "Indonesia is the world's largest thermal coal exporter and its 2022 coal export revenues reached USD 50 billion, more than the country's total FDI inflow. The coal boom created 200 new Indonesian billionaires between 2020 and 2023, the fastest wealth creation in any developing economy."
+    },
+    {
+      "id": "id_t4_016",
+      "name": "Hermès Birkin 30 (Jakarta authorised dealer)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 20000000,
+        "2000": 60000000,
+        "2005": 120000000,
+        "2010": 200000000,
+        "2015": 280000000,
+        "2020": 380000000,
+        "2025": 600000000
+      },
+      "fact": "Indonesia's luxury goods market grew 40% in 2022 as coal and nickel wealth created a new consumer class. Jakarta's Plaza Indonesia and Grand Indonesia malls host more luxury flagship stores than any Southeast Asian city outside Singapore, serving families whose commodity wealth rivals Gulf oil money."
+    },
+    {
+      "id": "id_t4_017",
+      "name": "Rumah BSD mewah (luxury house, 500sqm, BSD City)",
+      "emoji": "🏠",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 100000000,
+        "1995": 500000000,
+        "2000": 1000000000,
+        "2005": 2000000000,
+        "2010": 5000000000,
+        "2015": 8000000000,
+        "2020": 9000000000,
+        "2025": 15000000000
+      },
+      "fact": "BSD City luxury houses cost up to Rp 50 billion for trophy homes with private pools and security. Indonesian Chinese-Indonesian families invest in BSD because it has the best private hospital, international school and golf course in the Jakarta metro area, creating a self-sufficient elite enclave."
+    },
+    {
+      "id": "id_t4_018",
+      "name": "Proyek EV battery (Lithium processing plant, equity stake, Batang)",
+      "emoji": "⚡",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 50000000000,
+        "2025": 200000000000
+      },
+      "fact": "Indonesia's Batang Industrial Estate is building the world's largest integrated EV battery supply chain from nickel mining to cell manufacturing. Hyundai, LG and CATL invested USD 9 billion jointly and Indonesia's government described it as the most important industrial project since the Pertamina oil fields were nationalised in 1957."
+    },
+    {
+      "id": "id_t4_019",
+      "name": "Tiket MotoGP Mandalika (VIP 3-day pass, Lombok)",
+      "emoji": "🏍️",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 9000000
+      },
+      "fact": "The Mandalika MotoGP circuit was built in 18 months at a cost of USD 800 million on the island of Lombok. Its construction displaced 900 Sasak indigenous families and the compensation dispute was still unresolved when the first race was held in 2022 before a crowd of 75,000."
+    },
+    {
+      "id": "id_t4_020",
+      "name": "Pesawat Garuda Business Class (Jakarta to London, one way)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 10000000,
+        "1995": 30000000,
+        "2000": 60000000,
+        "2005": 80000000,
+        "2010": 100000000,
+        "2015": 120000000,
+        "2020": 90000000,
+        "2025": 150000000
+      },
+      "fact": "Garuda Indonesia filed for bankruptcy in 2021 with USD 9.8 billion in debt after COVID destroyed 90% of its revenue. It was restructured and relaunched in 2022 as a smaller carrier. The airline's collapse exposed how Indonesian state-owned enterprises had borrowed in dollars while earning in rupiah for decades."
+    },
+    {
+      "id": "id_t4_021",
+      "name": "Tokopedia / TikTok Shop seller account (annual fees + ads budget, top seller)",
+      "emoji": "🛒",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 10000000,
+        "2020": 50000000,
+        "2025": 200000000
+      },
+      "fact": "TikTok Shop became Indonesia's largest e-commerce platform in 2023 before the government banned social commerce in September 2023, ordering TikTok to separate its shopping feature or exit. TikTok acquired 75% of Tokopedia 2 months later to create a compliant hybrid, the most dramatic single regulatory intervention in Southeast Asian tech history."
+    },
+    {
+      "id": "id_t4_022",
+      "name": "Listrik PLN (annual electricity bill, luxury home, Rp/year)",
+      "emoji": "💡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 2000000,
+        "2000": 5000000,
+        "2005": 10000000,
+        "2010": 18000000,
+        "2015": 28000000,
+        "2020": 35000000,
+        "2025": 55000000
+      },
+      "fact": "PLN, Indonesia's state electricity monopoly, supplies 99% of Indonesian electricity including to 17,000 islands. It runs 5,000 diesel generators on remote islands at a cost 10x the national average tariff, a geographic subsidy that costs Rp 30 trillion annually and makes Indonesian energy the most geographically complex to deliver."
+    },
+    {
+      "id": "id_t4_023",
+      "name": "Kapal tongkang (coal barge, small, 300 DWT, purchase)",
+      "emoji": "🚢",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 1000000000,
+        "1995": 3000000000,
+        "2000": 5000000000,
+        "2005": 10000000000,
+        "2010": 30000000000,
+        "2015": 25000000000,
+        "2020": 20000000000,
+        "2025": 50000000000
+      },
+      "fact": "Coal barges on the Mahakam River in Kalimantan carry 80% of Indonesia's coal exports and are among the most profitable small vessels in the world during coal price spikes. A single barge owner with 5 vessels earned more in 2022 than the entire annual budget of several Indonesian provinces."
+    },
+    {
+      "id": "id_t4_024",
+      "name": "Sekolah internasional premium (annual, Jakarta, top British/IB)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 5000000,
+        "1995": 15000000,
+        "2000": 40000000,
+        "2005": 80000000,
+        "2010": 130000000,
+        "2015": 180000000,
+        "2020": 220000000,
+        "2025": 300000000
+      },
+      "fact": "Jakarta British School and ACG New Jakarta charge Rp 300 million annually and have waiting lists from birth registration. Indonesian parents who send children to international schools call it the safest investment available because the school network connects children to global business contacts no Indonesian university can provide."
+    },
+    {
+      "id": "id_t4_025",
+      "name": "Rumah Menteng (colonial Dutch house, 500sqm, Menteng Jakarta)",
+      "emoji": "🏛️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300000000,
+        "1995": 2000000000,
+        "2000": 5000000000,
+        "2005": 10000000000,
+        "2010": 20000000000,
+        "2015": 30000000000,
+        "2020": 35000000000,
+        "2025": 60000000000
+      },
+      "fact": "Menteng is Jakarta's original Dutch colonial garden suburb and its 1920s bungalows cannot be demolished under heritage protection law. Prices crossed Rp 60 billion for the most coveted addresses as Indonesia's political elite competes for homes that have housed every president since Sukarno."
+    }
+  ]
+}

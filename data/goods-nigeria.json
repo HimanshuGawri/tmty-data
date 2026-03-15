@@ -1,0 +1,1808 @@
+{
+  "country": "NG",
+  "country_name": "Nigeria",
+  "currency_symbol": "₦",
+  "currency_code": "NGN",
+  "items": [
+    {
+      "id": "ng_t1_001",
+      "name": "Suya (spiced beef, 2 skewers, street vendor)",
+      "emoji": "🍢",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 10,
+        "1995": 30,
+        "2000": 80,
+        "2005": 150,
+        "2010": 300,
+        "2015": 500,
+        "2020": 800,
+        "2025": 900
+      },
+      "fact": "Suya is Nigeria's most beloved street food, originating with the Hausa people of northern Nigeria. The spice mix called yaji contains groundnut cake, ginger, paprika and a dozen other ingredients guarded as trade secrets by each suya mallam vendor."
+    },
+    {
+      "id": "ng_t1_002",
+      "name": "Litre of Petrol (PMS, NNPC filling station)",
+      "emoji": "⛽",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0.6,
+        "1995": 11.0,
+        "2000": 22.0,
+        "2005": 65.0,
+        "2010": 65.0,
+        "2015": 87.0,
+        "2020": 162.0,
+        "2025": 950.0
+      },
+      "fact": "Nigeria subsidised petrol for decades despite being Africa's largest oil producer, spending over ₦10 trillion on the programme. President Tinubu removed the fuel subsidy on his inauguration day in May 2023, his first sentence in office, tripling pump prices overnight."
+    },
+    {
+      "id": "ng_t1_003",
+      "name": "Boli (roasted plantain, street vendor, single)",
+      "emoji": "🍌",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 15,
+        "2000": 30,
+        "2005": 50,
+        "2010": 80,
+        "2015": 100,
+        "2020": 150,
+        "2025": 500
+      },
+      "fact": "Boli roasted plantain sold from charcoal grills is Lagos street food at its most essential. It is eaten with groundnut paste or fish and is one of the few street foods that costs the same in Lagos and in a remote village, making it the country's most geographically democratic food."
+    },
+    {
+      "id": "ng_t1_004",
+      "name": "Indomie (instant noodles, single pack, supermarket)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 10,
+        "1995": 20,
+        "2000": 45,
+        "2005": 70,
+        "2010": 100,
+        "2015": 150,
+        "2020": 200,
+        "2025": 600
+      },
+      "fact": "Indomie is Nigeria's most consumed food product after rice and is made by Dufil in Sagamu. Nigerians eat 4.5 billion packs annually, the third-highest national consumption in the world. The brand is so dominant that Nigerians call all instant noodles Indomie regardless of brand."
+    },
+    {
+      "id": "ng_t1_005",
+      "name": "Egg (single, large, market)",
+      "emoji": "🥚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 8,
+        "2000": 20,
+        "2005": 35,
+        "2010": 55,
+        "2015": 80,
+        "2020": 130,
+        "2025": 450
+      },
+      "fact": "Eggs tripled in price between 2020 and 2025 in Nigeria, driven by the naira's collapse and the cost of imported poultry feed. The government banned maize imports in 2019 to protect local farmers, inadvertently making chicken feed scarce and egg prices the fastest-rising food cost in the country."
+    },
+    {
+      "id": "ng_t1_006",
+      "name": "Bread (half loaf, 250g, local bakery)",
+      "emoji": "🍞",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 8,
+        "1995": 20,
+        "2000": 60,
+        "2005": 120,
+        "2010": 200,
+        "2015": 350,
+        "2020": 500,
+        "2025": 900
+      },
+      "fact": "Nigeria imports 5 million tonnes of wheat annually, making it the most wheat-import-dependent large African economy. Every naira devaluation directly raises bread prices within weeks, making the bread loaf the most sensitive barometer of currency health in the Nigerian economy."
+    },
+    {
+      "id": "ng_t1_007",
+      "name": "Puff Puff (fried dough balls, 3 pieces, street)",
+      "emoji": "🍩",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2,
+        "1995": 5,
+        "2000": 15,
+        "2005": 30,
+        "2010": 50,
+        "2015": 100,
+        "2020": 200,
+        "2025": 700
+      },
+      "fact": "Puff puff is Nigeria's most universal street snack, sold at parties, roadside stalls and school gates. Its recipe uses only flour, sugar, yeast and water, making it one of the most inflation-resilient snacks in the country despite the naira's consistent depreciation."
+    },
+    {
+      "id": "ng_t1_008",
+      "name": "Danfo bus (minibus, single trip, Lagos Island to Mainland)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 20,
+        "2000": 50,
+        "2005": 100,
+        "2010": 150,
+        "2015": 200,
+        "2020": 300,
+        "2025": 800
+      },
+      "fact": "Danfo yellow minibuses are Lagos's iconic public transport and run with no fixed schedule, stopping anywhere to pick up passengers. Lagos has 9 million daily public transport trips with no government-run metro until the Blue Line opened in 2023, making the danfo the informal backbone of a megacity of 24 million."
+    },
+    {
+      "id": "ng_t1_009",
+      "name": "Keke Napep (tricycle taxi, short trip, per person)",
+      "emoji": "🛺",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 10,
+        "2000": 20,
+        "2005": 50,
+        "2010": 80,
+        "2015": 150,
+        "2020": 250,
+        "2025": 600
+      },
+      "fact": "The keke napep tricycle taxi arrived in Nigeria in 2000 and displaced the molue bus in smaller towns and city fringes. Over 1.5 million keke napep operate nationwide, making Nigeria the world's largest tuk-tuk market outside Asia and a major source of income for millions of young men."
+    },
+    {
+      "id": "ng_t1_010",
+      "name": "Sachet water (pure water, 50cl plastic sachet)",
+      "emoji": "💧",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 5,
+        "2005": 5,
+        "2010": 5,
+        "2015": 10,
+        "2020": 10,
+        "2025": 30
+      },
+      "fact": "Pure water sachets are the primary drinking water for 80% of Nigerians and a sachet industry employs 3 million people nationally. The 50cl sachet is bitten open at the corner and drunk directly, a technique so universal it is featured in Nigerian comedy sketches as a symbol of authentic Lagos life."
+    },
+    {
+      "id": "ng_t1_011",
+      "name": "Agege Bread (soft white bread, single roll, Agege bakery)",
+      "emoji": "🥖",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 8,
+        "2000": 20,
+        "2005": 40,
+        "2010": 60,
+        "2015": 100,
+        "2020": 150,
+        "2025": 600
+      },
+      "fact": "Agege bread from the Lagos suburb of Agege is Nigeria's most famous bread, distinguished by its soft texture achieved by adding extra yeast and a longer rise time. Bread sellers on bicycles with stacked trays are a defining Lagos visual and the Agege bread seller has appeared in Nigerian music, art and literature."
+    },
+    {
+      "id": "ng_t1_012",
+      "name": "Gala (sausage roll, single, Julius Berger canteen)",
+      "emoji": "🌭",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 10,
+        "2000": 20,
+        "2005": 30,
+        "2010": 50,
+        "2015": 100,
+        "2020": 150,
+        "2025": 400
+      },
+      "fact": "Gala sausage rolls are sold through car windows in Lagos traffic by street hawkers who memorise which window will open in each vehicle queue. The Gala hawker navigating six-lane standstill traffic is a symbol of Lagos informal entrepreneurship that is taught in business school case studies."
+    },
+    {
+      "id": "ng_t1_013",
+      "name": "Agbo (herbal drink, cup, traditional medicine seller)",
+      "emoji": "🌿",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 10,
+        "2000": 20,
+        "2005": 30,
+        "2010": 50,
+        "2015": 80,
+        "2020": 150,
+        "2025": 400
+      },
+      "fact": "Agbo is a Yoruba herbal preparation sold in glass bottles by roadside sellers who claim it cures everything from malaria to diabetes. Despite no regulatory approval, an estimated 70% of Nigerians use herbal medicine and the traditional medicine market is worth USD 3 billion annually."
+    },
+    {
+      "id": "ng_t1_014",
+      "name": "Garri (cassava flakes, 200g, market)",
+      "emoji": "🌾",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 10,
+        "1995": 25,
+        "2000": 60,
+        "2005": 120,
+        "2010": 200,
+        "2015": 350,
+        "2020": 600,
+        "2025": 900
+      },
+      "fact": "Garri is Nigeria's most essential staple, eaten by soaking in cold water as a meal or cooked into eba dough for swallowing. When Nigeria's economy collapsed in 2016, the phrase garri is now a luxury entered common speech as gallows humour, tracking the naira's purchasing power decline."
+    },
+    {
+      "id": "ng_t1_015",
+      "name": "Newspaper (Punch or Vanguard, daily print)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 5,
+        "2000": 30,
+        "2005": 100,
+        "2010": 150,
+        "2015": 200,
+        "2020": 350,
+        "2025": 800
+      },
+      "fact": "The Punch has been Nigeria's most-read newspaper since 1976 and survived multiple military regimes that shut down critical press. Nigeria has 700 registered newspaper titles, the largest print media landscape in Africa, though most sell fewer than 50,000 copies daily as digital reading dominates."
+    },
+    {
+      "id": "ng_t1_016",
+      "name": "Malt drink (Malta Guinness, 33cl bottle)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 8,
+        "1995": 20,
+        "2000": 60,
+        "2005": 100,
+        "2010": 150,
+        "2015": 200,
+        "2020": 300,
+        "2025": 700
+      },
+      "fact": "Malta Guinness is Nigeria's best-selling beverage after water and is consumed as a health drink, a celebration drink and a pregnancy supplement. Nigerian mothers are advised by doctors to drink malt during pregnancy, a medically unsupported but commercially significant recommendation that drives half the brand's sales."
+    },
+    {
+      "id": "ng_t1_017",
+      "name": "Tokunbo (second-hand t-shirt, single, Yaba market)",
+      "emoji": "👕",
+      "category": "Fashion",
+      "tier": 1,
+      "prices": {
+        "1990": 10,
+        "1995": 30,
+        "2000": 80,
+        "2005": 150,
+        "2010": 300,
+        "2015": 500,
+        "2020": 800,
+        "2025": 900
+      },
+      "fact": "Tokunbo, meaning returned from across the sea, is the Nigerian word for any second-hand import from Europe or North America. The tokunbo clothing market at Yaba in Lagos is Africa's largest second-hand fashion market and directly competes with global fast-fashion brands."
+    },
+    {
+      "id": "ng_t1_018",
+      "name": "Buka lunch (one plate, rice plus stew, local canteen)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 10,
+        "1995": 30,
+        "2000": 80,
+        "2005": 150,
+        "2010": 300,
+        "2015": 500,
+        "2020": 800,
+        "2025": 2500
+      },
+      "fact": "Bukas are informal restaurants run from sheds and converted garages that feed Nigeria's urban workforce. A buka is rated by how much meat is in the stew and regulars develop loyalty to specific buka mothers whose recipes never change over decades."
+    },
+    {
+      "id": "ng_t1_019",
+      "name": "Airtime (mobile top-up, smallest denomination, MTN)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50,
+        "2005": 50,
+        "2010": 50,
+        "2015": 50,
+        "2020": 50,
+        "2025": 100
+      },
+      "fact": "Nigeria launched mobile telephony in 2001 and went from 500,000 to 100 million subscribers in 10 years, the fastest mobile adoption in any country. MTN Nigeria is now the continent's most profitable mobile company and the minimum airtime recharge unit of ₦50 has not changed in 20 years."
+    },
+    {
+      "id": "ng_t1_020",
+      "name": "Akara (bean fritter, 3 pieces, street vendor, morning)",
+      "emoji": "🫘",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 10,
+        "2000": 20,
+        "2005": 30,
+        "2010": 50,
+        "2015": 100,
+        "2020": 200,
+        "2025": 600
+      },
+      "fact": "Akara bean fritters fried in palm oil are the standard Lagos breakfast, sold from the same spots by the same women every morning at 6am. The akara woman who disappears from her spot signals a neighbourhood's economic distress faster than any formal economic indicator."
+    },
+    {
+      "id": "ng_t1_021",
+      "name": "Pepe (pepper, habanero scotch bonnet, 100g, market)",
+      "emoji": "🌶️",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 10,
+        "1995": 20,
+        "2000": 50,
+        "2005": 80,
+        "2010": 120,
+        "2015": 200,
+        "2020": 400,
+        "2025": 800
+      },
+      "fact": "Habanero pepper is the flavour backbone of all Nigerian cooking and its price is the single most-tracked food item by market women across the country. When pepper prices triple, which they do every 2 to 3 years due to crop failures, stew portions at bukas shrink visibly overnight."
+    },
+    {
+      "id": "ng_t1_022",
+      "name": "Zobo (hibiscus drink, sachet, street)",
+      "emoji": "🌸",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 8,
+        "2000": 20,
+        "2005": 30,
+        "2010": 50,
+        "2015": 100,
+        "2020": 150,
+        "2025": 400
+      },
+      "fact": "Zobo hibiscus drink is brewed from dried roselle flowers and is Nigeria's most popular homemade drink. Small-scale zobo producers operate from every neighbourhood, and the drink's bright red colour makes it a fixture at Nigerian parties where it is considered a healthy alternative to imported soft drinks."
+    },
+    {
+      "id": "ng_t1_023",
+      "name": "Okrika (second-hand shoes, per pair, Oshodi market)",
+      "emoji": "👟",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 10,
+        "1995": 30,
+        "2000": 80,
+        "2005": 200,
+        "2010": 400,
+        "2015": 700,
+        "2020": 1200,
+        "2025": 4000
+      },
+      "fact": "Okrika is the Nigerian word for second-hand clothes and the Oshodi market in Lagos processes 2,000 bales of imported used clothing weekly from Europe, North America and Asia. The okrika market is more valuable to Lagos consumers than the formal retail sector and employs an estimated 200,000 people."
+    },
+    {
+      "id": "ng_t1_024",
+      "name": "Stamp (domestic letter, NIPOST)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 0.5,
+        "1995": 2,
+        "2000": 10,
+        "2005": 20,
+        "2010": 50,
+        "2015": 80,
+        "2020": 100,
+        "2025": 200
+      },
+      "fact": "NIPOST, Nigeria's postal service, has an estimated 10% letter delivery success rate in rural areas. Despite this, Nigeria's stamp collecting community is one of Africa's largest because Nigerian commemorative stamps featuring Fela Kuti, Wole Soyinka and AFCON victories are among the continent's most sought-after philatelic items."
+    },
+    {
+      "id": "ng_t1_025",
+      "name": "Corn on the cob (boiled, single, street vendor)",
+      "emoji": "🌽",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 5,
+        "1995": 10,
+        "2000": 20,
+        "2005": 30,
+        "2010": 50,
+        "2015": 100,
+        "2020": 200,
+        "2025": 700
+      },
+      "fact": "Boiled corn with coconut or ube pear is a beloved Nigerian street food primarily sold at roadsides and markets from June to October. Corn season is a cultural event in Nigeria and the phrase I just want corn and pear is used to describe someone with simple, genuine taste."
+    },
+    {
+      "id": "ng_t2_001",
+      "name": "Jollof Rice (full plate, restaurant)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 80,
+        "2000": 200,
+        "2005": 400,
+        "2010": 700,
+        "2015": 1200,
+        "2020": 2000,
+        "2025": 6000
+      },
+      "fact": "The Jollof Wars between Nigeria and Ghana for ownership of the dish are Africa's most spirited culinary dispute. A 2020 Twitter thread between Nigerian and Ghanaian celebrities went viral globally and received diplomatic comment from both governments."
+    },
+    {
+      "id": "ng_t2_002",
+      "name": "Cinema Ticket (Filmhouse / Genesis, standard 2D, Lagos)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 50,
+        "2000": 200,
+        "2005": 500,
+        "2010": 1000,
+        "2015": 1500,
+        "2020": 2000,
+        "2025": 5000
+      },
+      "fact": "Nollywood is the world's second-largest film industry by output with 2,500 movies produced annually. The industry generates USD 6.4 billion and employs 1 million people. Nigerian films are watched across Africa and the diaspora on AfricaMagic and now dominate Netflix Africa's top 10 charts."
+    },
+    {
+      "id": "ng_t2_003",
+      "name": "Haircut (men's, barbing salon)",
+      "emoji": "💈",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 50,
+        "2000": 150,
+        "2005": 300,
+        "2010": 500,
+        "2015": 800,
+        "2020": 1500,
+        "2025": 4000
+      },
+      "fact": "Nigerian barbing salons are social institutions where football is debated, business is conducted and political gossip is exchanged. The Nigerian barber is Africa's most travelled professional, running shops in London, New York, Dubai and Johannesburg for the diaspora who insist on getting a Nigerian-style fade."
+    },
+    {
+      "id": "ng_t2_004",
+      "name": "Pepper soup (goat meat, full bowl, restaurant)",
+      "emoji": "🍲",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 80,
+        "2000": 250,
+        "2005": 500,
+        "2010": 1000,
+        "2015": 1800,
+        "2020": 3000,
+        "2025": 8000
+      },
+      "fact": "Pepper soup is Nigeria's most celebrated social dish, served at every naming ceremony, funeral wake, and late-night gathering. The Calabar version with catfish and the Abuja version with goat meat represent a North-South culinary divide that tracks exactly with ethnic boundaries."
+    },
+    {
+      "id": "ng_t2_005",
+      "name": "Netflix Subscription (monthly, standard, Nigeria)",
+      "emoji": "📺",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 3600,
+        "2020": 4600,
+        "2025": 7400
+      },
+      "fact": "Netflix launched in Nigeria in 2016 and invested heavily in Nollywood content after seeing that Nigerian films topped African viewing charts. King of Boys and Blood Sisters became the first Nigerian productions to trend globally, proving that African storytelling could compete without Western production values."
+    },
+    {
+      "id": "ng_t2_006",
+      "name": "Gym Day Pass (Lagos mid-range, per visit)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 500,
+        "2000": 2000,
+        "2005": 5000,
+        "2010": 8000,
+        "2015": 12000,
+        "2020": 20000,
+        "2025": 9000
+      },
+      "fact": "Daily gym passes became popular in Lagos as monthly memberships priced out the middle class. Nigerians who cannot afford monthly fees visit 3 to 4 times a week on day rates, making Nigerian gyms the only fitness chains globally where day-pass revenue exceeds membership revenue."
+    },
+    {
+      "id": "ng_t2_007",
+      "name": "Bolt / Uber ride (5km, Lagos, daytime)",
+      "emoji": "🚖",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 1500,
+        "2020": 2500,
+        "2025": 8000
+      },
+      "fact": "Bolt entered Nigeria in 2016 and became more popular than Uber within 2 years through aggressive price competition. Ride-hailing transformed Lagos professional life, making the city navigable without a car for the first time. Bolt drivers quadrupled their fares after the fuel subsidy removal in 2023."
+    },
+    {
+      "id": "ng_t2_008",
+      "name": "Spotify Subscription (monthly, Nigeria)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 2600,
+        "2020": 3100,
+        "2025": 4900
+      },
+      "fact": "Nigeria is the global epicentre of Afrobeats, which became the world's fastest-growing music genre between 2018 and 2024. Burna Boy, Wizkid and Davido each have over 50 million monthly Spotify listeners and the Afrobeats genre accounted for 30% of all new African streaming growth globally."
+    },
+    {
+      "id": "ng_t2_009",
+      "name": "Ofada rice with ayamase stew (restaurant portion)",
+      "emoji": "🍚",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 80,
+        "2000": 250,
+        "2005": 500,
+        "2010": 1200,
+        "2015": 2000,
+        "2020": 3500,
+        "2025": 9000
+      },
+      "fact": "Ofada rice from Ogun State is Nigeria's only indigenous premium rice variety and its fermented aroma is an acquired taste that divides Nigerians. Ayamase green pepper stew served on a banana leaf has become Lagos's most photographed food item, appearing in every food Instagram account and luxury brunch menu."
+    },
+    {
+      "id": "ng_t2_010",
+      "name": "Pack of cigarettes (Benson & Hedges, 20)",
+      "emoji": "🚬",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 60,
+        "2000": 200,
+        "2005": 400,
+        "2010": 700,
+        "2015": 1200,
+        "2020": 2000,
+        "2025": 5000
+      },
+      "fact": "Nigeria has 5 million smokers and tobacco taxes were increased 500% between 2016 and 2022 as part of the WHO FCTC treaty Nigeria signed in 2005. British American Tobacco's largest Africa factory is in Ibadan and makes more cigarettes than are consumed domestically, primarily for export to Central Africa."
+    },
+    {
+      "id": "ng_t2_011",
+      "name": "Amala with ewedu (traditional Yoruba meal, buka)",
+      "emoji": "🥣",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 60,
+        "2000": 150,
+        "2005": 300,
+        "2010": 600,
+        "2015": 1000,
+        "2020": 2000,
+        "2025": 6000
+      },
+      "fact": "Amala yam flour swallow with ewedu jute leaf soup and gbegiri bean soup is the signature meal of Lagos's Yoruba culture. The Isale Eko old quarter has bukas that have served the same amala recipe for three generations, feeding judges, lawyers and market traders at adjacent tables with no distinction."
+    },
+    {
+      "id": "ng_t2_012",
+      "name": "Monthly data bundle (1GB, MTN Nigeria)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 2000,
+        "2010": 5000,
+        "2015": 1000,
+        "2020": 350,
+        "2025": 500
+      },
+      "fact": "Nigeria's mobile data prices fell 99.3% between 2012 and 2023, the steepest price decline for any consumer product in any large economy in modern history. The price drop was driven by infrastructure competition between MTN, Airtel, Glo and 9mobile who collectively spent USD 12 billion on towers."
+    },
+    {
+      "id": "ng_t2_013",
+      "name": "Nkwobi (cow heel, small portion, bar snack)",
+      "emoji": "🍖",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 50,
+        "1995": 150,
+        "2000": 400,
+        "2005": 800,
+        "2010": 1500,
+        "2015": 2500,
+        "2020": 4000,
+        "2025": 9000
+      },
+      "fact": "Nkwobi is Nigeria's most indulgent social food, traditionally eaten at high-stakes conversations and deal-making. The dish is so strongly associated with wealthy Igbo businessmen that it is a plot device in several Nollywood films where its appearance signals that a serious negotiation is about to begin."
+    },
+    {
+      "id": "ng_t2_014",
+      "name": "Aso-oke fabric (1 yard, basic quality, Balogun)",
+      "emoji": "🎨",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 100,
+        "1995": 300,
+        "2000": 800,
+        "2005": 1500,
+        "2010": 3000,
+        "2015": 5000,
+        "2020": 8000,
+        "2025": 9000
+      },
+      "fact": "Aso-oke handwoven fabric from Oyo State is used for agbada traditional outfits worn at naming ceremonies, weddings and funerals. The master weavers of Iseyin produce fabric on 300-year-old looms and their work is collected internationally as fine art, selling at Sotheby's London for up to GBP 2,000 per metre."
+    },
+    {
+      "id": "ng_t2_015",
+      "name": "Bottle of Nigerian Guinness (60cl, bar)",
+      "emoji": "🍺",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 60,
+        "2000": 150,
+        "2005": 250,
+        "2010": 400,
+        "2015": 700,
+        "2020": 1200,
+        "2025": 3500
+      },
+      "fact": "Nigerian Guinness Foreign Extra Stout at 7.5% ABV is stronger than the Irish original and has more calories per bottle than any mainstream beer in the world. Nigeria is Guinness's second-largest market and when Nigerian Guinness threatened to overtake Irish Guinness in sales, Diageo restructured its entire Africa strategy."
+    },
+    {
+      "id": "ng_t2_016",
+      "name": "DSTV Access subscription (monthly, MultiChoice)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 500,
+        "2000": 1500,
+        "2005": 3000,
+        "2010": 4900,
+        "2015": 6800,
+        "2020": 9000,
+        "2025": 8500
+      },
+      "fact": "DSTV is the dominant pay-TV platform across Africa with 22 million subscribers and Nigeria is its largest single market. The Nigerian Premier League and English Premier League broadcast rights are the most valuable content licenses in West Africa and bidding between DSTV and rivals drives prices higher every cycle."
+    },
+    {
+      "id": "ng_t2_017",
+      "name": "Shawarma (chicken, Lebanon restaurant, single)",
+      "emoji": "🌯",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 150,
+        "2000": 400,
+        "2005": 700,
+        "2010": 1200,
+        "2015": 2000,
+        "2020": 3500,
+        "2025": 9000
+      },
+      "fact": "Shawarma became Lagos's aspirational fast food in the 2010s, signalling that its buyer has disposable income. A ₦9,000 chicken shawarma in 2025 costs more than 12 plates of jollof rice at a buka, making it a visible class marker that has entered Nigerian slang as shorthand for unnecessary extravagance."
+    },
+    {
+      "id": "ng_t2_018",
+      "name": "Tailoring (sewn aso-ebi outfit, simple design)",
+      "emoji": "🧵",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 100,
+        "1995": 300,
+        "2000": 800,
+        "2005": 1500,
+        "2010": 3000,
+        "2015": 6000,
+        "2020": 10000,
+        "2025": 30000
+      },
+      "fact": "Aso-ebi is the Nigerian tradition of wedding guests wearing identical fabric to celebrate with the couple. The fabric distribution and tailoring of aso-ebi generates ₦500 billion annually, making Nigerian weddings the single largest cultural driver of the textile and fashion economy."
+    },
+    {
+      "id": "ng_t2_019",
+      "name": "Generator fuel (petrol for 5 hours of I-pass-my-neighbour gen)",
+      "emoji": "⚡",
+      "category": "Home",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 100,
+        "2000": 220,
+        "2005": 650,
+        "2010": 900,
+        "2015": 1300,
+        "2020": 1600,
+        "2025": 9500
+      },
+      "fact": "Nigeria generates only 4,000MW of electricity for 220 million people, meaning most urban businesses and homes run generators for 12 to 20 hours daily. The I-pass-my-neighbour small generator is named for the social one-upmanship of having power when neighbours do not. Nigerians spend ₦4 trillion annually on generator fuel."
+    },
+    {
+      "id": "ng_t2_020",
+      "name": "Okada (motorcycle taxi, 5km, Lagos pre-ban)",
+      "emoji": "🏍️",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 50,
+        "2000": 100,
+        "2005": 200,
+        "2010": 300,
+        "2015": 500,
+        "2020": 800,
+        "2025": 2500
+      },
+      "fact": "Lagos banned okada motorcycle taxis from major roads in 2020, throwing 200,000 riders out of work overnight. The ban was justified by accident statistics but widely seen as class legislation benefiting car owners. Okadas continue to operate in Lagos suburbs where the ban is not enforced."
+    },
+    {
+      "id": "ng_t2_021",
+      "name": "Ankara (1 yard, mid-quality print, Balogun market)",
+      "emoji": "🎭",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 50,
+        "1995": 150,
+        "2000": 400,
+        "2005": 800,
+        "2010": 1500,
+        "2015": 2500,
+        "2020": 4000,
+        "2025": 9000
+      },
+      "fact": "Ankara wax print fabric, despite its African cultural status, is manufactured primarily in Holland and China. The Dutch Vlisco brand has dominated African fabric since 1846 and holds the patent on many of the most-loved Nigerian prints, a colonial legacy that causes ongoing tension in African fashion."
+    },
+    {
+      "id": "ng_t2_022",
+      "name": "Ofe Onugbu (bitter leaf soup, restaurant, small portion)",
+      "emoji": "🥬",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 80,
+        "2000": 250,
+        "2005": 500,
+        "2010": 1000,
+        "2015": 2000,
+        "2020": 3500,
+        "2025": 9000
+      },
+      "fact": "Bitter leaf soup is Nigeria's most medicinal dish and is served to new mothers, recovering patients and anyone who Nigerians decide needs fortifying. The hand-washing ritual of bitter leaf, squeezing it repeatedly in water to reduce bitterness, is one of the most distinctive food preparation sounds of Nigerian kitchens."
+    },
+    {
+      "id": "ng_t2_023",
+      "name": "Recharge card (₦500 MTN recharge, airtime)",
+      "emoji": "💳",
+      "category": "Tech",
+      "tier": 1,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 500,
+        "2005": 500,
+        "2010": 500,
+        "2015": 500,
+        "2020": 500,
+        "2025": 500
+      },
+      "fact": "The MTN ₦500 recharge card denomination has not changed since it launched in 2001, making it the most price-stable consumer product in Nigeria's history. Nigerians top up their phones with physical scratch cards at roadside sellers so frequently that the recharge card industry employs 500,000 people."
+    },
+    {
+      "id": "ng_t2_024",
+      "name": "Starbucks Latte (Accra-priced equivalent, premium Lagos cafe)",
+      "emoji": "☕",
+      "category": "Drink",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 500,
+        "2010": 1000,
+        "2015": 2000,
+        "2020": 3500,
+        "2025": 8000
+      },
+      "fact": "Starbucks does not operate in Nigeria so the premium Lagos cafe Cafe Neo fills the equivalent role at similar pricing. Cafe Neo grew from 2 to 60 locations between 2013 and 2023, making it Africa's first home-grown coffee chain to challenge international brands."
+    },
+    {
+      "id": "ng_t2_025",
+      "name": "Agege pepper bread (street sandwich, egg and pepper)",
+      "emoji": "🥪",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 10,
+        "1995": 30,
+        "2000": 80,
+        "2005": 150,
+        "2010": 300,
+        "2015": 500,
+        "2020": 800,
+        "2025": 2500
+      },
+      "fact": "Egg roll and pepper inside Agege bread is the Lagos working-class breakfast sandwich, assembled fresh by vendors at bus stops from 6am. It costs more than pure water and less than a cold drink, occupying the exact economic rung that feeds Lagos's 10 million daily commuters."
+    },
+    {
+      "id": "ng_t3_001",
+      "name": "Samsung Galaxy A55 (mid-range, Nigeria retail)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 30000,
+        "2015": 60000,
+        "2020": 120000,
+        "2025": 500000
+      },
+      "fact": "Samsung is Nigeria's dominant smartphone brand with 40% market share because it maintains a Lagos distribution centre. The naira's collapse from ₦450 to ₦1,600 per dollar between 2022 and 2024 made every imported electronic more than triple in naira price within 2 years."
+    },
+    {
+      "id": "ng_t3_002",
+      "name": "Domestic flight (Lagos to Abuja, economy, Air Peace)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 2000,
+        "1995": 8000,
+        "2000": 15000,
+        "2005": 25000,
+        "2010": 35000,
+        "2015": 50000,
+        "2020": 60000,
+        "2025": 200000
+      },
+      "fact": "Lagos to Abuja is Africa's busiest domestic air route. Air Peace launched in 2013 and became Nigeria's largest carrier by disrupting established airlines with lower fares. Flight prices tripled after the fuel subsidy removal in 2023 because aviation fuel is not price-controlled and tracks global kerosene markets."
+    },
+    {
+      "id": "ng_t3_003",
+      "name": "Monthly home internet (broadband, 10Mbps, Spectranet)",
+      "emoji": "📡",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5000,
+        "2005": 20000,
+        "2010": 30000,
+        "2015": 30000,
+        "2020": 28000,
+        "2025": 35000
+      },
+      "fact": "Only 40% of Nigerian homes have fixed broadband and most access the internet via mobile data. The undersea cable landing stations at Victoria Island in Lagos carry all of West Africa's internet traffic and when they fail, the entire region goes offline simultaneously, as happened in March 2024."
+    },
+    {
+      "id": "ng_t3_004",
+      "name": "Generator (Thermocool 2.5KVA, new, Alaba market)",
+      "emoji": "⚙️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 20000,
+        "2000": 50000,
+        "2005": 80000,
+        "2010": 100000,
+        "2015": 130000,
+        "2020": 200000,
+        "2025": 600000
+      },
+      "fact": "Generators are mandatory household equipment in Nigeria, where power outages average 20 hours per day in most cities. Nigeria imports USD 1 billion of generators annually, primarily from China, making it the world's largest generator import market and Nigerians the world's most generator-literate population."
+    },
+    {
+      "id": "ng_t3_005",
+      "name": "Laptop (HP 8GB entry, Computer Village Lagos)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 80000,
+        "2005": 100000,
+        "2010": 80000,
+        "2015": 100000,
+        "2020": 150000,
+        "2025": 600000
+      },
+      "fact": "Computer Village in Ikeja Lagos is Africa's largest ICT market, housing 5,000 shops in 6 blocks. It generates USD 2 billion in annual turnover selling everything from USB cables to full data centre equipment. Every tech entrepreneur in Nigeria got their first computer from Computer Village."
+    },
+    {
+      "id": "ng_t3_006",
+      "name": "Rent (1-bedroom, monthly, Surulere Lagos)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 20000,
+        "2000": 60000,
+        "2005": 120000,
+        "2010": 250000,
+        "2015": 400000,
+        "2020": 600000,
+        "2025": 1500000
+      },
+      "fact": "Nigerian landlords demand rent 1 to 2 years in advance as a lump sum because inflation makes monthly collection economically irrational. This system means renters must produce ₦1.5 to ₦3 million at once to secure a modest flat, creating a permanent housing barrier for the working class."
+    },
+    {
+      "id": "ng_t3_007",
+      "name": "Annual health insurance (NHIS private, individual, basic)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 5000,
+        "2005": 20000,
+        "2010": 50000,
+        "2015": 80000,
+        "2020": 120000,
+        "2025": 400000
+      },
+      "fact": "Only 3% of Nigerians have any form of health insurance and 95% of healthcare spending is out-of-pocket. A hospital delivery in Lagos costs ₦200,000 to ₦1 million and a critical surgery can financially destroy a middle-class family. Medical crowdfunding on Twitter is a routine life event for Nigerians."
+    },
+    {
+      "id": "ng_t3_008",
+      "name": "Private school fees (monthly, mid-range, Lagos)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 2000,
+        "1995": 8000,
+        "2000": 20000,
+        "2005": 50000,
+        "2010": 100000,
+        "2015": 150000,
+        "2020": 250000,
+        "2025": 700000
+      },
+      "fact": "Nigeria's public school system is in such poor condition that 10 million children do not attend school at all. Even lower-income families stretch to private schools because government schools lack furniture, teachers and textbooks. Private school fees have risen faster than inflation for 30 consecutive years."
+    },
+    {
+      "id": "ng_t3_009",
+      "name": "Car insurance (comprehensive, Toyota Corolla, annual)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 15000,
+        "2000": 40000,
+        "2005": 80000,
+        "2010": 120000,
+        "2015": 200000,
+        "2020": 300000,
+        "2025": 900000
+      },
+      "fact": "Only 5% of Nigerian vehicles have valid comprehensive insurance despite a legal requirement for third-party cover. Lagos's accident rate is 5 times the OECD average and the entire Lagos car insurance market is smaller than the annual premium revenue of a single mid-sized UK insurer."
+    },
+    {
+      "id": "ng_t3_010",
+      "name": "Afrobeats concert ticket (floor, Burna Boy, Lagos, O2-equivalent)",
+      "emoji": "🎤",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 2000,
+        "2010": 5000,
+        "2015": 20000,
+        "2020": 50000,
+        "2025": 200000
+      },
+      "fact": "Burna Boy's Afrofusion concerts in Lagos sell out in 10 minutes and floor tickets resell at 5x face value. Afrobeats generates more global revenue than any African music genre in history and Lagos is the only city where a local music star can sell out a 20,000-seat arena on a Tuesday night."
+    },
+    {
+      "id": "ng_t3_011",
+      "name": "Ankara designer dress (Deola Sagoe tier, ready-to-wear)",
+      "emoji": "👗",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 15000,
+        "2000": 40000,
+        "2005": 80000,
+        "2010": 150000,
+        "2015": 250000,
+        "2020": 400000,
+        "2025": 1200000
+      },
+      "fact": "Nigerian fashion designers are the fastest-growing luxury category in African retail. Deola Sagoe, Lisa Folawiyo and Tolu Coker have dressed global celebrities and shown at Paris Fashion Week. The Made-in-Nigeria fashion movement is the first African luxury narrative to achieve genuine international retail presence."
+    },
+    {
+      "id": "ng_t3_012",
+      "name": "Hotel room (3-star, Lagos Island, per night)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 3000,
+        "1995": 10000,
+        "2000": 25000,
+        "2005": 50000,
+        "2010": 80000,
+        "2015": 120000,
+        "2020": 200000,
+        "2025": 600000
+      },
+      "fact": "Lagos hotel occupancy consistently exceeds 70% making it one of Africa's strongest hospitality markets despite the city's reputation for difficulty. Business travellers from the oil industry and tech sector keep hotels full and prices rising, making Lagos increasingly comparable to Nairobi and Johannesburg per night."
+    },
+    {
+      "id": "ng_t3_013",
+      "name": "Toyota Corolla used (2010 model, fair condition, Lagos)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 80000,
+        "2000": 300000,
+        "2005": 700000,
+        "2010": 1200000,
+        "2015": 2000000,
+        "2020": 4000000,
+        "2025": 12000000
+      },
+      "fact": "Used Toyota Corolla prices quadrupled in Nigeria between 2020 and 2024 as naira depreciation made every imported vehicle, new or used, more expensive in local currency. A car that cost USD 8,000 in 2020 at ₦360 per dollar cost the same USD but over ₦12 million at ₦1,600 per dollar."
+    },
+    {
+      "id": "ng_t3_014",
+      "name": "Solar inverter system (5kVA, full home, Lagos)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 150000,
+        "2010": 300000,
+        "2015": 400000,
+        "2020": 600000,
+        "2025": 10000000
+      },
+      "fact": "Large solar inverter systems became the primary status purchase for Lagos professionals after the 2023 fuel subsidy removal made generator running costs unaffordable. A 5kVA system powers an entire middle-class home and its presence signals escape from the national grid."
+    },
+    {
+      "id": "ng_t3_015",
+      "name": "Wedding (average total spend, Lagos middle class)",
+      "emoji": "💒",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20000,
+        "1995": 80000,
+        "2000": 300000,
+        "2005": 700000,
+        "2010": 1500000,
+        "2015": 3000000,
+        "2020": 5000000,
+        "2025": 15000000
+      },
+      "fact": "Nigerian weddings are the most socially mandatory large expenditure in the country, regularly exceeding 5 years of savings for middle-class families. The tradition requires the groom's family to pay bride price, host an introduction ceremony, a court wedding and a church or mosque ceremony, then a reception feeding 500 guests."
+    },
+    {
+      "id": "ng_t3_016",
+      "name": "Private tuition (WAEC exam prep, 3 months, Lagos)",
+      "emoji": "📚",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 15000,
+        "2000": 40000,
+        "2005": 80000,
+        "2010": 150000,
+        "2015": 250000,
+        "2020": 400000,
+        "2025": 1200000
+      },
+      "fact": "WAEC exam coaching centres operate across Nigeria preparing students for the West Africa Senior School Certificate that determines university entry. Leakage of exam papers has occurred in 15 of the past 20 years, making private coaching centres that teach answers from past leaks simultaneously illegal and widely used."
+    },
+    {
+      "id": "ng_t3_017",
+      "name": "Rent (2-bedroom, monthly, Victoria Island Lagos)",
+      "emoji": "🏢",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 10000,
+        "1995": 50000,
+        "2000": 150000,
+        "2005": 400000,
+        "2010": 800000,
+        "2015": 1500000,
+        "2020": 2500000,
+        "2025": 10000000
+      },
+      "fact": "Victoria Island in Lagos has rental prices comparable to Central London despite average Nigerian wages being 50 times lower. The island is home to multinational oil company offices, fintech headquarters and foreign embassies whose hard-currency budgets drive prices to levels Nigerian professionals cannot afford."
+    },
+    {
+      "id": "ng_t3_018",
+      "name": "Electricity bill (monthly, 200kWh, EKEDC band A metered)",
+      "emoji": "💡",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 1000,
+        "1995": 3000,
+        "2000": 10000,
+        "2005": 20000,
+        "2010": 30000,
+        "2015": 50000,
+        "2020": 80000,
+        "2025": 300000
+      },
+      "fact": "Nigeria's electricity tariff rose 300% in 2024 as subsidies were removed. Band A customers who receive more than 20 hours of power daily pay premiums that are double Band E customers who receive under 4 hours, creating the world's most explicitly tiered electricity poverty pricing system."
+    },
+    {
+      "id": "ng_t3_019",
+      "name": "Gold (10 grams, 22K jewellery, Alaba market)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 3000,
+        "1995": 10000,
+        "2000": 30000,
+        "2005": 60000,
+        "2010": 150000,
+        "2015": 180000,
+        "2020": 380000,
+        "2025": 1800000
+      },
+      "fact": "Gold in naira terms rose 600x since 1990 as naira depreciation magnified the USD gold price increase. Nigerian women wear gold jewellery as portable savings that maintain value across currency crises, making gold bangles a practical financial instrument as much as an ornament."
+    },
+    {
+      "id": "ng_t3_020",
+      "name": "iPhone 15 (128GB, Slot Nigeria, grey market)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 100000,
+        "2015": 200000,
+        "2020": 450000,
+        "2025": 1500000
+      },
+      "fact": "Apple has no official Nigeria distribution and all iPhones enter through parallel import. Slot Nigeria is the country's largest electronics retailer and prices iPhones at dollar equivalent plus 30% for import risk. iPhone ownership in Nigeria is a visible class indicator because the price represents months of median salary."
+    },
+    {
+      "id": "ng_t3_021",
+      "name": "POS machine cash withdrawal (₦20,000, fee)",
+      "emoji": "🏧",
+      "category": "Tech",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 500,
+        "2015": 500,
+        "2020": 500,
+        "2025": 1000
+      },
+      "fact": "Nigeria's POS agent banking network of 1.5 million terminals in markets, barbershops and roadside stalls is the world's largest informal financial infrastructure outside China. POS agents replaced bank branches for 80 million unbanked Nigerians and the network grew during the 2023 naira redesign crisis when cash was scarce."
+    },
+    {
+      "id": "ng_t3_022",
+      "name": "Portable inverter solar kit (100W, complete, Lagos)",
+      "emoji": "🔋",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 50000,
+        "2010": 80000,
+        "2015": 100000,
+        "2020": 150000,
+        "2025": 350000
+      },
+      "fact": "Mini solar home systems are Nigeria's fastest-growing household purchase after smartphone top-up cards. Off Grid Electric, Solar Sister and SunKing distribute pay-as-you-go solar on mobile payment plans to rural households that have never had grid electricity, reaching 4 million Nigerian homes."
+    },
+    {
+      "id": "ng_t3_023",
+      "name": "Ankara premium (George wrapper, 5 yards, luxury fabric)",
+      "emoji": "🎀",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 5000,
+        "1995": 15000,
+        "2000": 40000,
+        "2005": 80000,
+        "2010": 150000,
+        "2015": 250000,
+        "2020": 450000,
+        "2025": 1500000
+      },
+      "fact": "George wrapper from India is the most prestigious occasion fabric in southeastern Nigeria and carries a social weight equivalent to luxury handbags in Western culture. Premium George fabrics are gifted at weddings, stored as family heirlooms and their ownership signals established family status in Igbo communities."
+    },
+    {
+      "id": "ng_t3_024",
+      "name": "Tolling (Lagos-Ibadan expressway annual pass, private car)",
+      "emoji": "🛣️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 200000
+      },
+      "fact": "The Lagos-Ibadan expressway reconstruction by Dangote Industries introduced Nigeria's first modern tolling system in 2022. The expressway carries 250,000 vehicles daily and its completion after 10 years of construction was called the most impactful single infrastructure event in West Africa in a generation."
+    },
+    {
+      "id": "ng_t3_025",
+      "name": "Dental implant (single, private clinic, Lagos)",
+      "emoji": "🦷",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 50000,
+        "2005": 100000,
+        "2010": 200000,
+        "2015": 400000,
+        "2020": 600000,
+        "2025": 2000000
+      },
+      "fact": "Dental tourism from Nigeria to India and Turkey has grown 300% since 2018 as procedures abroad including flights cost less than local prices. The naira's collapse made Indian dental implants at USD 600 cheaper than Nigerian implants billed in dollar-equivalent naira at ₦2 million."
+    },
+    {
+      "id": "ng_t4_001",
+      "name": "iPhone 16 Pro Max (256GB, grey market, Lagos)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 350000,
+        "2020": 800000,
+        "2025": 3500000
+      },
+      "fact": "An iPhone 16 Pro Max costs ₦3.5 million in Nigeria, roughly 8 months of median salary. Nigeria's 5 million iPhone users are among the world's most financially stretched Apple customers, spending a higher fraction of annual income on the device than consumers in any other country."
+    },
+    {
+      "id": "ng_t4_002",
+      "name": "Toyota Corolla (new, 0km, Elizade Motors Lagos)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 60000,
+        "1995": 250000,
+        "2000": 1000000,
+        "2005": 3000000,
+        "2010": 5000000,
+        "2015": 8000000,
+        "2020": 14000000,
+        "2025": 45000000
+      },
+      "fact": "A new Toyota Corolla costs ₦45 million in Nigeria in 2025, equivalent to 10 years of median household income. Car dealerships report that 90% of buyers pay in full cash because Nigerian bank auto loans carry interest rates of 30-40%, making financing more expensive than the car itself over a 3-year term."
+    },
+    {
+      "id": "ng_t4_003",
+      "name": "Gold (troy ounce, NGN, Lagos)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 9000,
+        "1995": 30000,
+        "2000": 90000,
+        "2005": 190000,
+        "2010": 600000,
+        "2015": 680000,
+        "2020": 1400000,
+        "2025": 5500000
+      },
+      "fact": "Gold in naira terms rose 600x since 1990 versus a 90x rise in USD. Nigeria's naira lost 99% of its 1990 value against the dollar by 2025, meaning Nigerians who saved in gold in 1990 preserved their wealth while those who held naira saw it reduced to nearly nothing."
+    },
+    {
+      "id": "ng_t4_004",
+      "name": "House (3-bedroom, purchase, Lekki Phase 1 Lagos)",
+      "emoji": "🏡",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 200000,
+        "1995": 800000,
+        "2000": 4000000,
+        "2005": 15000000,
+        "2010": 35000000,
+        "2015": 70000000,
+        "2020": 100000000,
+        "2025": 300000000
+      },
+      "fact": "Lekki Peninsula in Lagos is Africa's fastest-growing real estate market by transaction value. A 3-bedroom house that cost ₦4 million in 2000 costs ₦300 million in 2025, a 75x increase that dramatically outpaced naira inflation and made early Lekki buyers the wealthiest property investors in West Africa."
+    },
+    {
+      "id": "ng_t4_005",
+      "name": "Wedding luxury package (Eko Hotel, full event, Lagos)",
+      "emoji": "💍",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 100000,
+        "1995": 500000,
+        "2000": 3000000,
+        "2005": 10000000,
+        "2010": 25000000,
+        "2015": 60000000,
+        "2020": 100000000,
+        "2025": 300000000
+      },
+      "fact": "A luxury Nigerian wedding at Eko Hotel with 1,000 guests, three outfits per person and a live headliner artist costs ₦300 million. Nigerian Instagram wedding culture, where every outfit change is a content opportunity, has made Nigerian weddings the most photographed cultural events in Africa."
+    },
+    {
+      "id": "ng_t4_006",
+      "name": "Dangote Cement share (1,000 shares, Dangote Group)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 600000,
+        "2010": 1500000,
+        "2015": 2000000,
+        "2020": 1500000,
+        "2025": 4500000
+      },
+      "fact": "Dangote Cement is Nigeria's largest company by market capitalisation and Africa's biggest cement manufacturer. Aliko Dangote built his fortune on exclusive import licences in the 1980s, pivoting to manufacturing when the government changed policy. He was Africa's richest person for 13 consecutive years."
+    },
+    {
+      "id": "ng_t4_007",
+      "name": "Rolex Submariner (grey market, Lagos)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000,
+        "1995": 200000,
+        "2000": 600000,
+        "2005": 1200000,
+        "2010": 2500000,
+        "2015": 4000000,
+        "2020": 7000000,
+        "2025": 20000000
+      },
+      "fact": "No official Rolex authorised dealer operates in Nigeria, yet an estimated 5,000 Rolexes enter the country annually through parallel import. Nigerian oil executives and Afrobeats artists are among Rolex's most commercially significant non-dealer customers globally, buying watches in Dubai and Switzerland on their travels."
+    },
+    {
+      "id": "ng_t4_008",
+      "name": "Abuja townhouse (4-bedroom, purchase, Maitama)",
+      "emoji": "🏘️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 300000,
+        "1995": 2000000,
+        "2000": 8000000,
+        "2005": 25000000,
+        "2010": 60000000,
+        "2015": 120000000,
+        "2020": 180000000,
+        "2025": 500000000
+      },
+      "fact": "Maitama in Abuja is Nigeria's diplomatic and political elite neighbourhood, where properties are priced in dollars even though the naira is the legal tender. A 4-bedroom Maitama townhouse sold for the equivalent of USD 300,000 in 2025, comparable to suburban Washington DC despite Nigeria's much lower median income."
+    },
+    {
+      "id": "ng_t4_009",
+      "name": "Dangote Refinery (per barrel daily capacity, investment cost equiv.)",
+      "emoji": "🛢️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 0,
+        "2025": 30000000000
+      },
+      "fact": "The Dangote Refinery in Lekki opened in 2023 as Africa's largest refinery with 650,000 barrels per day capacity, costing USD 20 billion. It was supposed to end Nigeria's paradox of exporting crude oil while importing refined petrol at global prices. Teething problems delayed full production and Nigeria's fuel crisis continued."
+    },
+    {
+      "id": "ng_t4_010",
+      "name": "Private jet charter (Lagos to London, midsize)",
+      "emoji": "✈️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000000,
+        "2000": 5000000,
+        "2005": 20000000,
+        "2010": 40000000,
+        "2015": 80000000,
+        "2020": 100000000,
+        "2025": 300000000
+      },
+      "fact": "Nigeria has 200 registered private jets and Lagos has the busiest private aviation terminal in Africa at Murtala Muhammed International Airport. The Eko Hotel private lounge processes 50 private jet departures daily. Nigerian oil wealth and political connections generate a private aviation market that rivals the UAE per capita."
+    },
+    {
+      "id": "ng_t4_011",
+      "name": "Louis Vuitton Neverfull MM (Lagos grey market)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 50000,
+        "1995": 200000,
+        "2000": 700000,
+        "2005": 1500000,
+        "2010": 3000000,
+        "2015": 6000000,
+        "2020": 10000000,
+        "2025": 30000000
+      },
+      "fact": "Louis Vuitton has no official Nigeria store, yet Nigeria is among LVMH's top 15 markets globally by unit volume of grey-market product. Nigerian oil wealth wives travel to London, Paris and Dubai for luxury shopping and return with purchases that are resold on Instagram stores to a domestic market that cannot afford the trip."
+    },
+    {
+      "id": "ng_t4_012",
+      "name": "Eko Atlantic plot (beachfront, per sqm, Lagos)",
+      "emoji": "🌊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 500000,
+        "2015": 3000000,
+        "2020": 8000000,
+        "2025": 25000000
+      },
+      "fact": "Eko Atlantic is a 10 square kilometre city being built on land reclaimed from the Atlantic Ocean in Lagos. It is designed to house 250,000 people and is Africa's most ambitious urban development project. Only the very wealthy can afford its lots, creating a city within a city invisible to the 24 million people around it."
+    },
+    {
+      "id": "ng_t4_013",
+      "name": "MTN Nigeria share (10,000 shares at market)",
+      "emoji": "📈",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1600000,
+        "2025": 2400000
+      },
+      "fact": "MTN Nigeria IPO on the Nigerian Stock Exchange in 2019 was the largest in Nigerian capital markets history. The share price reflected a company that earns more revenue than all Nigerian banks combined, built on the decision of 100 million Nigerians to adopt mobile phones within 10 years."
+    },
+    {
+      "id": "ng_t4_014",
+      "name": "International school fees (annual, British Curriculum, Abuja)",
+      "emoji": "🏫",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 30000,
+        "1995": 150000,
+        "2000": 600000,
+        "2005": 2000000,
+        "2010": 5000000,
+        "2015": 10000000,
+        "2020": 18000000,
+        "2025": 60000000
+      },
+      "fact": "British curriculum schools in Abuja and Lagos charge ₦60 million annually and are attended by the children of politicians, oil executives and diaspora returnees. Nigerian politicians who criticise the public education system routinely send their own children to these schools, a contradiction noticed by every Nigerian electorate."
+    },
+    {
+      "id": "ng_t4_015",
+      "name": "Luxury car (Range Rover Sport, new, Coscharis Motors)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 1000000,
+        "2000": 5000000,
+        "2005": 15000000,
+        "2010": 30000000,
+        "2015": 60000000,
+        "2020": 100000000,
+        "2025": 350000000
+      },
+      "fact": "Range Rover is the aspirational vehicle of Nigeria's upper class and the most visible symbol of wealth in Lagos traffic. Coscharis Motors, the official Land Rover dealer, cannot import enough units to meet demand and its allocation system creates a 12-month waiting list at full retail price."
+    },
+    {
+      "id": "ng_t4_016",
+      "name": "Villa Ikoyi (5-bedroom, Lagos, purchase price)",
+      "emoji": "🏰",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 3000000,
+        "2000": 15000000,
+        "2005": 60000000,
+        "2010": 150000000,
+        "2015": 350000000,
+        "2020": 600000000,
+        "2025": 2000000000
+      },
+      "fact": "Ikoyi is Lagos's most expensive residential address and its 5-bedroom villas are priced in dollars at USD 1.2 million, comparable to suburban London. Ikoyi properties are primarily owned by politicians, oil moguls and diaspora Nigerians who return from the US and UK with dollar savings that go far in naira real estate."
+    },
+    {
+      "id": "ng_t4_017",
+      "name": "Afrobeats artist endorsement deal (annual, major brand)",
+      "emoji": "🎵",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 1000000,
+        "2010": 5000000,
+        "2015": 50000000,
+        "2020": 300000000,
+        "2025": 2000000000
+      },
+      "fact": "Burna Boy's endorsement portfolio includes Pepsi, Puma and Havana Club at contracts collectively worth over USD 10 million annually. Wizkid's Nike deal in 2022 was the largest sports brand endorsement by any African artist and the first time a Nigerian musician's commercial value was comparable to a Premier League footballer."
+    },
+    {
+      "id": "ng_t4_018",
+      "name": "Crude oil cargo (1,000 barrels, Bonny Light, spot market)",
+      "emoji": "🛢️",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 200000,
+        "1995": 500000,
+        "2000": 1200000,
+        "2005": 5000000,
+        "2010": 10000000,
+        "2015": 7000000,
+        "2020": 5000000,
+        "2025": 15000000
+      },
+      "fact": "Nigeria produces 1.5 million barrels of oil daily but theft from pipelines, called oil bunkering, removes an estimated 200,000 barrels per day. Shell, TotalEnergies and Equinor have all sold Nigerian onshore assets between 2021 and 2024, ending 60 years of western oil majors in the Niger Delta."
+    },
+    {
+      "id": "ng_t4_019",
+      "name": "Flutterwave / Paystack share (fintech equity, angel round equiv.)",
+      "emoji": "💳",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 50000000,
+        "2025": 500000000
+      },
+      "fact": "Paystack was acquired by Stripe for USD 200 million in 2020, Nigeria's largest tech exit. Flutterwave reached a USD 3 billion valuation in 2022 making it Africa's most valuable startup. Nigeria's fintech ecosystem processes USD 100 billion annually and has more unicorn companies than any other African country."
+    },
+    {
+      "id": "ng_t4_020",
+      "name": "Transcorp Hilton penthouse (annual rent, Abuja)",
+      "emoji": "🏨",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 2000000,
+        "2000": 8000000,
+        "2005": 20000000,
+        "2010": 50000000,
+        "2015": 100000000,
+        "2020": 200000000,
+        "2025": 800000000
+      },
+      "fact": "The Transcorp Hilton Abuja is the most politically significant hotel in Africa, where every major Nigerian political deal has been negotiated since 1985. Its penthouse at ₦800 million annual rent is occupied by oil company executives and senior politicians whose residence in the hotel is itself a signal of proximity to power."
+    },
+    {
+      "id": "ng_t4_021",
+      "name": "Nollywood blockbuster budget (top production, A-list cast)",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 4,
+      "prices": {
+        "1990": 500000,
+        "1995": 2000000,
+        "2000": 5000000,
+        "2005": 20000000,
+        "2010": 80000000,
+        "2015": 200000000,
+        "2020": 400000000,
+        "2025": 1500000000
+      },
+      "fact": "A top Nollywood film with A-list stars like Funke Akindele or Genevieve Nnaji budgets ₦1.5 billion and earns ₦2 to ₦5 billion at the box office. Brotherhood, the 2022 action film, broke Nollywood's all-time box office record and became the first Nigerian film compared to Hollywood production values by international critics."
+    },
+    {
+      "id": "ng_t4_022",
+      "name": "Luxury yacht (40ft, Lagos marina, charter per week)",
+      "emoji": "⛵",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 500000,
+        "2005": 2000000,
+        "2010": 8000000,
+        "2015": 20000000,
+        "2020": 50000000,
+        "2025": 200000000
+      },
+      "fact": "Lagos marina yacht culture grew alongside Afrobeats and oil wealth after 2010. Music videos shot on Lagos Harbour yachts became the visual shorthand for Nigerian success globally, and the imagery spread Afrobeats aesthetics to 50 countries before the music itself arrived."
+    },
+    {
+      "id": "ng_t4_023",
+      "name": "Annual university (private, Covenant or American University Nigeria)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 100000,
+        "2000": 500000,
+        "2005": 1500000,
+        "2010": 3000000,
+        "2015": 6000000,
+        "2020": 12000000,
+        "2025": 45000000
+      },
+      "fact": "Covenant University in Ota and American University of Nigeria in Yola are Nigeria's most prestigious private universities. They produce graduates who enter the fintech, media and professional services sectors at salaries 5x the state university average. Their fees have risen 15x since 2000, creating an education-wealth feedback loop."
+    },
+    {
+      "id": "ng_t4_024",
+      "name": "Hermès Birkin (grey market import, Lagos)",
+      "emoji": "👜",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 500000,
+        "2005": 2000000,
+        "2010": 6000000,
+        "2015": 15000000,
+        "2020": 30000000,
+        "2025": 120000000
+      },
+      "fact": "Hermès Birkin bags enter Nigeria through Dubai and London returning travellers and are resold via Instagram boutiques at 40% premiums. Nigerian Afrobeats wives and oil industry figures collectively represent one of Hermès' most significant unofficial markets, a fact documented in LVMH analyst reports without naming Nigeria."
+    },
+    {
+      "id": "ng_t4_025",
+      "name": "Dangote personal net worth (Forbes estimate, annual peak)",
+      "emoji": "💰",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 100000000000,
+        "2000": 500000000000,
+        "2005": 2000000000000,
+        "2010": 8000000000000,
+        "2015": 12000000000000,
+        "2020": 6000000000000,
+        "2025": 18000000000000
+      },
+      "fact": "Aliko Dangote's peak net worth exceeded the GDP of half the countries in Africa. He built his empire on a government import protection system that simultaneously made him Africa's wealthiest person and is cited by economists as the clearest example of how protectionism creates monopoly wealth in developing markets."
+    }
+  ]
+}
