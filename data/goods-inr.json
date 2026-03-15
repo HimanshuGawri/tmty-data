@@ -1,0 +1,1808 @@
+{
+  "country": "IN",
+  "country_name": "India",
+  "currency_symbol": "₹",
+  "currency_code": "INR",
+  "items": [
+    {
+      "id": "in_t1_001",
+      "name": "Cutting Chai (tapri)",
+      "emoji": "🍵",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 4,
+        "2010": 6,
+        "2015": 8,
+        "2020": 10,
+        "2025": 15
+      },
+      "fact": "A cutting chai cost just ₹1 in 1990 — it's now ₹15 at most tapris, a 15x rise in 35 years that still makes it India's greatest bargain."
+    },
+    {
+      "id": "in_t1_002",
+      "name": "Matchbox (50 sticks)",
+      "emoji": "🔥",
+      "category": "Home",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 1,
+        "2000": 1,
+        "2005": 2,
+        "2010": 2,
+        "2015": 3,
+        "2020": 4,
+        "2025": 5
+      },
+      "fact": "The matchbox held its price at ₹1 for nearly two decades — it's one of India's most stubborn inflation resistors, controlled partly by government price sensitivity."
+    },
+    {
+      "id": "in_t1_003",
+      "name": "Samosa (single, street)",
+      "emoji": "🥟",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 5,
+        "2010": 7,
+        "2015": 10,
+        "2020": 12,
+        "2025": 20
+      },
+      "fact": "A street samosa cost ₹1 in 1990 — today it's ₹20, a 20x inflation that outruns even official CPI numbers for food."
+    },
+    {
+      "id": "in_t1_004",
+      "name": "Local Bus Ticket (city)",
+      "emoji": "🚌",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 4,
+        "2010": 6,
+        "2015": 8,
+        "2020": 10,
+        "2025": 15
+      },
+      "fact": "City bus fares are often politically controlled — Delhi's DTC bus fares went unchanged for nearly a decade before a 2019 hike, making them one of the cheapest commutes in the world."
+    },
+    {
+      "id": "in_t1_005",
+      "name": "Parle-G Biscuit (small pack)",
+      "emoji": "🍪",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2,
+        "1995": 2,
+        "2000": 3,
+        "2005": 4,
+        "2010": 5,
+        "2015": 5,
+        "2020": 6,
+        "2025": 10
+      },
+      "fact": "Parle-G famously froze its ₹5 pack price for nearly 25 years by quietly shrinking the biscuit count — the ultimate Indian jugaad against inflation."
+    },
+    {
+      "id": "in_t1_006",
+      "name": "Postcard (inland letter)",
+      "emoji": "📮",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 4,
+        "2005": 5,
+        "2010": 5,
+        "2015": 6,
+        "2020": 6,
+        "2025": 8
+      },
+      "fact": "India Post's inland letter card, once the lifeline of millions, cost just ₹1 in 1990 — its slow price rise reflects how thoroughly it's been replaced by WhatsApp."
+    },
+    {
+      "id": "in_t1_007",
+      "name": "Vada Pav (Mumbai street)",
+      "emoji": "🍔",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 4,
+        "2005": 6,
+        "2010": 8,
+        "2015": 12,
+        "2020": 15,
+        "2025": 22
+      },
+      "fact": "Mumbai's beloved vada pav was a ₹1 snack in 1990 — Shiv Sena once tried to cap its price at ₹1 for years, making it a political football alongside a culinary icon."
+    },
+    {
+      "id": "in_t1_008",
+      "name": "Newspaper (daily, Hindi)",
+      "emoji": "📰",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 3,
+        "2010": 4,
+        "2015": 5,
+        "2020": 5,
+        "2025": 6
+      },
+      "fact": "Hindi dailies like Dainik Bhaskar are among the cheapest in the world — at ₹6, they cost less than one WhatsApp forward, subsidised by massive ad revenue."
+    },
+    {
+      "id": "in_t1_009",
+      "name": "Sugarcane Juice (glass)",
+      "emoji": "🥤",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 2,
+        "1995": 3,
+        "2000": 5,
+        "2005": 7,
+        "2010": 10,
+        "2015": 15,
+        "2020": 20,
+        "2025": 30
+      },
+      "fact": "A glass of fresh sugarcane juice was just ₹2 in 1990 — India is the world's second-largest sugar producer, yet the juice has still gone up 15x in price."
+    },
+    {
+      "id": "in_t1_010",
+      "name": "Atta (wheat flour, 1kg)",
+      "emoji": "🌾",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 4,
+        "1995": 6,
+        "2000": 9,
+        "2005": 12,
+        "2010": 18,
+        "2015": 22,
+        "2020": 28,
+        "2025": 40
+      },
+      "fact": "Atta prices are the most politically sensitive in India — governments have fallen over flour prices, and MSP policy directly shapes what the aam aadmi pays."
+    },
+    {
+      "id": "in_t1_011",
+      "name": "Paan (simple, sweet)",
+      "emoji": "🌿",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 5,
+        "2010": 8,
+        "2015": 10,
+        "2020": 15,
+        "2025": 20
+      },
+      "fact": "The humble paan has become a luxury — what cost ₹1 now costs ₹20, while fancy 'Fire Paan' and 'Gold Paan' variants in cities fetch ₹500+."
+    },
+    {
+      "id": "in_t1_012",
+      "name": "Tata Salt (1kg)",
+      "emoji": "🧂",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 4,
+        "2000": 6,
+        "2005": 8,
+        "2010": 10,
+        "2015": 14,
+        "2020": 18,
+        "2025": 24
+      },
+      "fact": "Tata Salt's 'Desh ka Namak' campaign made it synonymous with patriotism — at ₹24/kg it's still one of the most price-controlled FMCG products in India."
+    },
+    {
+      "id": "in_t1_013",
+      "name": "Pencil (single HB)",
+      "emoji": "✏️",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 1,
+        "2000": 2,
+        "2005": 2,
+        "2010": 3,
+        "2015": 4,
+        "2020": 5,
+        "2025": 7
+      },
+      "fact": "India is one of the world's largest pencil manufacturers, with Nataraj and Apsara dominating — a single pencil at ₹7 is still one of the best-value school supplies on earth."
+    },
+    {
+      "id": "in_t1_014",
+      "name": "Nimbu Paani (street lemonade)",
+      "emoji": "🍋",
+      "category": "Drink",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 4,
+        "2005": 6,
+        "2010": 10,
+        "2015": 15,
+        "2020": 20,
+        "2025": 30
+      },
+      "fact": "A glass of nimbu paani from a roadside stall was just ₹1 in 1990 — now at ₹30, it's cheaper than any bottled drink but has risen 30x in three decades."
+    },
+    {
+      "id": "in_t1_015",
+      "name": "Agarbatti (pack of 10)",
+      "emoji": "🕯️",
+      "category": "Home",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 3,
+        "2005": 4,
+        "2010": 6,
+        "2015": 8,
+        "2020": 10,
+        "2025": 15
+      },
+      "fact": "India produces 90% of the world's agarbattis — ironically, a 2020 government ban on Chinese bamboo imports triggered a domestic agarbatti price spike overnight."
+    },
+    {
+      "id": "in_t1_016",
+      "name": "Glucose Biscuit (Britannia, small)",
+      "emoji": "🍘",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 2,
+        "1995": 3,
+        "2000": 4,
+        "2005": 5,
+        "2010": 7,
+        "2015": 8,
+        "2020": 10,
+        "2025": 15
+      },
+      "fact": "Glucose biscuits were the original Indian energy bar — distributed in government schools and anganwadis for decades, they're now facing stiff competition from ₹5 cream biscuit brands."
+    },
+    {
+      "id": "in_t1_017",
+      "name": "Auto Rickshaw (1km, city)",
+      "emoji": "🛺",
+      "category": "Transport",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 5,
+        "2000": 7,
+        "2005": 10,
+        "2010": 14,
+        "2015": 18,
+        "2020": 22,
+        "2025": 30
+      },
+      "fact": "Auto fares are set by state governments and revised roughly every 5 years — drivers often refuse metered fares entirely, making the 'official' price largely fictional."
+    },
+    {
+      "id": "in_t1_018",
+      "name": "Hajmola (single tablet)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 1,
+        "2000": 1,
+        "2005": 1,
+        "2010": 2,
+        "2015": 2,
+        "2020": 3,
+        "2025": 5
+      },
+      "fact": "Dabur's Hajmola tablet held at ₹1 for nearly two decades — it's sold over 100 crore tablets a year, making it India's most-consumed digestive product per rupee."
+    },
+    {
+      "id": "in_t1_019",
+      "name": "Maida (refined flour, 500g)",
+      "emoji": "🥣",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 5,
+        "2000": 7,
+        "2005": 10,
+        "2010": 14,
+        "2015": 18,
+        "2020": 22,
+        "2025": 32
+      },
+      "fact": "Maida powers everything from puris to paratha — India's annual consumption exceeds 10 million tonnes, yet nutritionists have been calling it 'white poison' for three decades."
+    },
+    {
+      "id": "in_t1_020",
+      "name": "Cello Pen (ballpoint, single)",
+      "emoji": "🖊️",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 2,
+        "1995": 3,
+        "2000": 4,
+        "2005": 5,
+        "2010": 6,
+        "2015": 8,
+        "2020": 10,
+        "2025": 12
+      },
+      "fact": "Cello is India's largest pen maker, producing over 3 crore pens a day — their flagship ballpoint has barely changed price in 15 years, a quiet victory against stationery inflation."
+    },
+    {
+      "id": "in_t1_021",
+      "name": "Poha (flattened rice, 500g)",
+      "emoji": "🍚",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 4,
+        "1995": 6,
+        "2000": 8,
+        "2005": 12,
+        "2010": 18,
+        "2015": 22,
+        "2020": 28,
+        "2025": 40
+      },
+      "fact": "Poha is the breakfast of Central India — Indore's poha-jalebi combo is so culturally entrenched that a politician once promised 'subsidised poha' in an election manifesto."
+    },
+    {
+      "id": "in_t1_022",
+      "name": "Rubber Eraser (Nataraj)",
+      "emoji": "🧹",
+      "category": "Entertainment",
+      "tier": 1,
+      "prices": {
+        "1990": 1,
+        "1995": 1,
+        "2000": 2,
+        "2005": 3,
+        "2010": 4,
+        "2015": 5,
+        "2020": 6,
+        "2025": 9
+      },
+      "fact": "The pink Nataraj eraser has been a school staple since the 1960s — at under ₹10, it remains the most unchanged-in-spirit product in the Indian stationery market."
+    },
+    {
+      "id": "in_t1_023",
+      "name": "Instant Noodles (Maggi, single pack)",
+      "emoji": "🍜",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 5,
+        "2000": 7,
+        "2005": 9,
+        "2010": 12,
+        "2015": 14,
+        "2020": 17,
+        "2025": 25
+      },
+      "fact": "Maggi was banned for 5 months in 2015 over a lead scare — Nestlé destroyed ₹320 crore worth of noodles, yet sales recovered within a year, proof of Indians' undying Maggi love."
+    },
+    {
+      "id": "in_t1_024",
+      "name": "Coconut (single, medium)",
+      "emoji": "🥥",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 5,
+        "2000": 8,
+        "2005": 12,
+        "2010": 20,
+        "2015": 30,
+        "2020": 40,
+        "2025": 55
+      },
+      "fact": "Coconut prices have risen 18x since 1990, driven by climate stress on Kerala's plantations and surging global demand for coconut oil — the state tree of Kerala is now a premium commodity."
+    },
+    {
+      "id": "in_t1_025",
+      "name": "Turmeric (haldi, 100g)",
+      "emoji": "🟡",
+      "category": "Food",
+      "tier": 1,
+      "prices": {
+        "1990": 3,
+        "1995": 5,
+        "2000": 7,
+        "2005": 10,
+        "2010": 18,
+        "2015": 22,
+        "2020": 28,
+        "2025": 45
+      },
+      "fact": "India grows 75% of the world's turmeric, yet domestic prices spiked 60% in 2024 alone due to a drought in Erode, showing how one district's rain can change every dal's colour."
+    },
+    {
+      "id": "in_t2_001",
+      "name": "Multiplex Movie Ticket",
+      "emoji": "🎬",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 15,
+        "1995": 25,
+        "2000": 50,
+        "2005": 80,
+        "2010": 150,
+        "2015": 200,
+        "2020": 250,
+        "2025": 350
+      },
+      "fact": "A PVR ticket cost ₹50 in 2000 — today it's ₹350 for a standard 2D show, while IMAX seats in metros touch ₹1,500, a 30x rise in 25 years."
+    },
+    {
+      "id": "in_t2_002",
+      "name": "Cricket Ball (leather, practice)",
+      "emoji": "🏏",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 30,
+        "2000": 50,
+        "2005": 75,
+        "2010": 120,
+        "2015": 170,
+        "2020": 200,
+        "2025": 280
+      },
+      "fact": "A good leather cricket ball cost ₹20 in 1990 — India produces 80% of the world's hand-stitched cricket balls, mostly from Meerut and Jalandhar."
+    },
+    {
+      "id": "in_t2_003",
+      "name": "Paperback Novel (English)",
+      "emoji": "📚",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 45,
+        "2000": 75,
+        "2005": 100,
+        "2010": 150,
+        "2015": 200,
+        "2020": 250,
+        "2025": 350
+      },
+      "fact": "A Penguin paperback cost ₹30 in 1990 — Chetan Bhagat broke the ₹95 price ceiling in the 2000s to deliberately reach mass Indian readers, revolutionising publishing economics."
+    },
+    {
+      "id": "in_t2_004",
+      "name": "Chicken Biryani (restaurant, single)",
+      "emoji": "🍛",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 35,
+        "2000": 60,
+        "2005": 90,
+        "2010": 130,
+        "2015": 180,
+        "2020": 220,
+        "2025": 320
+      },
+      "fact": "Biryani is now India's most-ordered food on Swiggy and Zomato — Hyderabadi biryani restaurants that charged ₹20 in 1990 now charge ₹320, yet always have a queue out the door."
+    },
+    {
+      "id": "in_t2_005",
+      "name": "Basic Cotton T-Shirt",
+      "emoji": "👕",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 50,
+        "2000": 80,
+        "2005": 110,
+        "2010": 160,
+        "2015": 220,
+        "2020": 270,
+        "2025": 380
+      },
+      "fact": "India is the world's second-largest textile producer, yet a basic branded cotton tee costs ₹380 today — domestic cotton inflation and GST have pushed fast-fashion prices steadily upward."
+    },
+    {
+      "id": "in_t2_006",
+      "name": "Lifebuoy Soap (125g)",
+      "emoji": "🧼",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 8,
+        "1995": 12,
+        "2000": 18,
+        "2005": 24,
+        "2010": 34,
+        "2015": 45,
+        "2020": 80,
+        "2025": 110
+      },
+      "fact": "Lifebuoy has been sold in India since 1895 and remains the country's most-used soap — it famously ran a 'wash hands' campaign in villages decades before COVID made the concept global."
+    },
+    {
+      "id": "in_t2_007",
+      "name": "Railway Platform Ticket",
+      "emoji": "🚉",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 1,
+        "1995": 2,
+        "2000": 5,
+        "2005": 5,
+        "2010": 10,
+        "2015": 10,
+        "2020": 50,
+        "2025": 100
+      },
+      "fact": "Indian Railways hiked platform ticket prices 10x to ₹50 during COVID to discourage crowding — they've never come back down, a rare pandemic-era price hike that stuck permanently."
+    },
+    {
+      "id": "in_t2_008",
+      "name": "Haldiram's Bhujia (200g pack)",
+      "emoji": "🫘",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 12,
+        "1995": 18,
+        "2000": 28,
+        "2005": 40,
+        "2010": 60,
+        "2015": 80,
+        "2020": 100,
+        "2025": 140
+      },
+      "fact": "Haldiram's started as a small Bikaner sweet shop in 1937 — today it's a ₹10,000 crore empire, and its bhujia has become India's most gifted snack during festival season."
+    },
+    {
+      "id": "in_t2_009",
+      "name": "Dettol Antiseptic (100ml)",
+      "emoji": "🩹",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 12,
+        "1995": 18,
+        "2000": 28,
+        "2005": 38,
+        "2010": 55,
+        "2015": 75,
+        "2020": 95,
+        "2025": 130
+      },
+      "fact": "Dettol has been synonymous with 'antiseptic' in India since the 1950s — its distinctive pine smell is so trusted that counterfeit Dettol has been a recurring scam in rural pharmacies."
+    },
+    {
+      "id": "in_t2_010",
+      "name": "Auto Rickshaw (5km, city)",
+      "emoji": "🛺",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 12,
+        "1995": 18,
+        "2000": 28,
+        "2005": 40,
+        "2010": 60,
+        "2015": 80,
+        "2020": 100,
+        "2025": 140
+      },
+      "fact": "A 5km auto ride cost ₹12 in 1990 — app-based autos now often cost more than the metered fare, while Ola and Uber have effectively privatised India's most democratic transport mode."
+    },
+    {
+      "id": "in_t2_011",
+      "name": "School Geometry Box",
+      "emoji": "📐",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 15,
+        "1995": 22,
+        "2000": 35,
+        "2005": 50,
+        "2010": 75,
+        "2015": 100,
+        "2020": 130,
+        "2025": 180
+      },
+      "fact": "The metal Camlin geometry box was every Indian student's prized possession in the 1990s — it now faces competition from cheap Chinese imports that look identical but snap within a week."
+    },
+    {
+      "id": "in_t2_012",
+      "name": "Badminton Shuttlecock (single feather)",
+      "emoji": "🏸",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 8,
+        "1995": 12,
+        "2000": 20,
+        "2005": 35,
+        "2010": 60,
+        "2015": 90,
+        "2020": 120,
+        "2025": 180
+      },
+      "fact": "A feather shuttlecock cost ₹8 in 1990 — after P.V. Sindhu's Olympic medals, badminton demand surged 40% in India, pushing premium shuttlecock prices to ₹180 per piece."
+    },
+    {
+      "id": "in_t2_013",
+      "name": "Gold Facial at Parlour",
+      "emoji": "✨",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 20,
+        "1995": 35,
+        "2000": 70,
+        "2005": 120,
+        "2010": 200,
+        "2015": 300,
+        "2020": 400,
+        "2025": 600
+      },
+      "fact": "A 'gold facial' at a neighbourhood parlour cost ₹20 in 1990 — beauty service inflation has outpaced even gold prices themselves, with premium salon facials now touching ₹5,000 in metros."
+    },
+    {
+      "id": "in_t2_014",
+      "name": "Thali Meal (dhaba, full)",
+      "emoji": "🍽️",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 10,
+        "1995": 18,
+        "2000": 30,
+        "2005": 50,
+        "2010": 80,
+        "2015": 120,
+        "2020": 150,
+        "2025": 200
+      },
+      "fact": "A full dhaba thali was ₹10 in 1990 — CRISIL's 'Roti Kapda aur Makaan' index tracks thali costs monthly, and dal-based thalis spiked 25% in 2023 due to pulses inflation."
+    },
+    {
+      "id": "in_t2_015",
+      "name": "Colgate Toothpaste (200g)",
+      "emoji": "🪥",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 12,
+        "1995": 18,
+        "2000": 28,
+        "2005": 40,
+        "2010": 60,
+        "2015": 85,
+        "2020": 115,
+        "2025": 165
+      },
+      "fact": "Colgate holds 55% of India's toothpaste market — it fought off Patanjali's herbal disruption in the 2010s by launching its own herbal range, a masterclass in defensive brand strategy."
+    },
+    {
+      "id": "in_t2_016",
+      "name": "Cotton Saree (simple, mill-made)",
+      "emoji": "👘",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 80,
+        "1995": 120,
+        "2000": 180,
+        "2005": 240,
+        "2010": 340,
+        "2015": 440,
+        "2020": 520,
+        "2025": 700
+      },
+      "fact": "A simple cotton saree cost ₹80 in 1990 — handloom weavers still earn less than minimum wage, while the same saree sold in a mall with a designer label fetches ₹7,000."
+    },
+    {
+      "id": "in_t2_017",
+      "name": "IPL Match Ticket (general stand)",
+      "emoji": "🏟️",
+      "category": "Entertainment",
+      "tier": 2,
+      "prices": {
+        "1990": 10,
+        "1995": 15,
+        "2000": 30,
+        "2005": 60,
+        "2010": 150,
+        "2015": 300,
+        "2020": 400,
+        "2025": 600
+      },
+      "fact": "IPL didn't exist before 2008 — prices here reflect equivalent cricket match tickets. IPL general stand tickets at ₹600 are considered cheap, while premium boxes sell for ₹50,000+ per seat."
+    },
+    {
+      "id": "in_t2_018",
+      "name": "Cooking Gas Cylinder (subsidised)",
+      "emoji": "🔵",
+      "category": "Home",
+      "tier": 2,
+      "prices": {
+        "1990": 40,
+        "1995": 60,
+        "2000": 90,
+        "2005": 140,
+        "2010": 200,
+        "2015": 480,
+        "2020": 650,
+        "2025": 900
+      },
+      "fact": "LPG cylinder prices rose 22x in 35 years — the ₹200 cylinders of 2010 hit ₹900 by 2025, sparking protests and becoming a key issue in every state election."
+    },
+    {
+      "id": "in_t2_019",
+      "name": "AC Sleeper Bus Ticket (100km)",
+      "emoji": "🚍",
+      "category": "Transport",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 50,
+        "2000": 80,
+        "2005": 130,
+        "2010": 200,
+        "2015": 280,
+        "2020": 350,
+        "2025": 500
+      },
+      "fact": "A 100km AC sleeper bus journey was ₹30 in 1990 — private operators like RedBus have transformed inter-city travel, but prices fluctuate wildly with dynamic pricing during festivals."
+    },
+    {
+      "id": "in_t2_020",
+      "name": "Sunscreen SPF 50 (50ml)",
+      "emoji": "🧴",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 25,
+        "1995": 40,
+        "2000": 65,
+        "2005": 100,
+        "2010": 150,
+        "2015": 210,
+        "2020": 260,
+        "2025": 380
+      },
+      "fact": "Sunscreen was a niche product in India until the 2010s — dermatologists' social media campaigns pushed SPF 50 into everyday skincare, creating a ₹3,000 crore sun care market by 2023."
+    },
+    {
+      "id": "in_t2_021",
+      "name": "Cadbury Dairy Milk (large bar, 160g)",
+      "emoji": "🍫",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 18,
+        "1995": 28,
+        "2000": 45,
+        "2005": 65,
+        "2010": 100,
+        "2015": 140,
+        "2020": 180,
+        "2025": 250
+      },
+      "fact": "Cadbury's famous 'Kuch Meetha Ho Jaaye' campaign shifted chocolate from a children's snack to an adult gifting category — and the bar itself shrank 20% in weight as prices doubled."
+    },
+    {
+      "id": "in_t2_022",
+      "name": "Reebok/Nike Basic Flip Flops",
+      "emoji": "🩴",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 30,
+        "1995": 50,
+        "2000": 90,
+        "2005": 140,
+        "2010": 210,
+        "2015": 280,
+        "2020": 350,
+        "2025": 499
+      },
+      "fact": "Branded flip flops at ₹499 compete with Bata's ₹99 Hawai chappals — yet Nike and Reebok sell millions in India by positioning basic rubber soles as 'athleisure' lifestyle products."
+    },
+    {
+      "id": "in_t2_023",
+      "name": "Domino's Pizza (medium, Margherita)",
+      "emoji": "🍕",
+      "category": "Food",
+      "tier": 2,
+      "prices": {
+        "1990": 0,
+        "1995": 60,
+        "2000": 100,
+        "2005": 150,
+        "2010": 215,
+        "2015": 295,
+        "2020": 365,
+        "2025": 499
+      },
+      "fact": "Domino's entered India in 1996 — its '30 minutes or free' guarantee was scrapped in 2012 after courts ruled it encouraged rash driving, but it still dominates the ₹20,000 crore pizza market."
+    },
+    {
+      "id": "in_t2_024",
+      "name": "Wool Sweater (machine-made)",
+      "emoji": "🧥",
+      "category": "Fashion",
+      "tier": 2,
+      "prices": {
+        "1990": 80,
+        "1995": 120,
+        "2000": 180,
+        "2005": 250,
+        "2010": 360,
+        "2015": 480,
+        "2020": 580,
+        "2025": 799
+      },
+      "fact": "A basic woollen sweater from Ludhiana cost ₹80 in 1990 — Punjab's knitwear industry supplies 95% of India's domestic sweater market but faces existential threat from cheaper Chinese imports."
+    },
+    {
+      "id": "in_t2_025",
+      "name": "Paracetamol Strip (10 tablets)",
+      "emoji": "💊",
+      "category": "Health",
+      "tier": 2,
+      "prices": {
+        "1990": 5,
+        "1995": 7,
+        "2000": 10,
+        "2005": 30,
+        "2010": 45,
+        "2015": 65,
+        "2020": 90,
+        "2025": 120
+      },
+      "fact": "Branded paracetamol like Crocin cost ₹5 for a strip in 1990 — today at ₹120, pharma companies offset NPPA price controls on generics by launching \"branded\" variants at a premium."
+    },
+    {
+      "id": "in_t3_001",
+      "name": "Branded Running Shoes (Nike/Adidas entry)",
+      "emoji": "👟",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 250,
+        "1995": 450,
+        "2000": 800,
+        "2005": 1200,
+        "2010": 2000,
+        "2015": 2800,
+        "2020": 3500,
+        "2025": 5000
+      },
+      "fact": "Nike entered India in 1995 — entry-level running shoes at ₹5,000 are now considered budget for the brand, while limited-edition Air Jordans resell for ₹50,000+ on StockX India."
+    },
+    {
+      "id": "in_t3_002",
+      "name": "Monthly Gym Membership (mid-range)",
+      "emoji": "🏋️",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 100,
+        "1995": 200,
+        "2000": 400,
+        "2005": 700,
+        "2010": 1200,
+        "2015": 1800,
+        "2020": 2200,
+        "2025": 3000
+      },
+      "fact": "A gym membership was a ₹100 luxury in 1990 — Cult.fit's ₹2,000/month disrupted traditional gyms in the 2010s, while Anytime Fitness brought 24/7 global gym culture to Indian metros."
+    },
+    {
+      "id": "in_t3_003",
+      "name": "Gold Earrings (22K, 2g)",
+      "emoji": "💛",
+      "category": "Luxury",
+      "tier": 3,
+      "prices": {
+        "1990": 800,
+        "1995": 1100,
+        "2000": 1400,
+        "2005": 2200,
+        "2010": 5500,
+        "2015": 5000,
+        "2020": 9000,
+        "2025": 15000
+      },
+      "fact": "Gold at ₹15,000 for 2g earrings reflects a 19x price rise since 1990 — Indian households hold an estimated 25,000 tonnes of gold, more than the RBI's official reserves."
+    },
+    {
+      "id": "in_t3_004",
+      "name": "Economy Flight Ticket (Delhi–Mumbai)",
+      "emoji": "✈️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 1500,
+        "1995": 2500,
+        "2000": 4000,
+        "2005": 3500,
+        "2010": 4500,
+        "2015": 4000,
+        "2020": 3500,
+        "2025": 5500
+      },
+      "fact": "Air Deccan's 2003 launch brought ₹500 'no-frills' fares to India — but budget airlines are often more expensive than trains on last-minute bookings, especially on festival weekends."
+    },
+    {
+      "id": "in_t3_005",
+      "name": "Pressure Cooker (Hawkins, 5L)",
+      "emoji": "🍲",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 400,
+        "1995": 600,
+        "2000": 900,
+        "2005": 1200,
+        "2010": 1700,
+        "2015": 2200,
+        "2020": 2700,
+        "2025": 3800
+      },
+      "fact": "Hawkins and Prestige have dominated Indian kitchens since the 1970s — the pressure cooker whistle is so iconic that it's been used in film scores and is considered a quintessential sound of Indian home life."
+    },
+    {
+      "id": "in_t3_006",
+      "name": "Cricket Bat (SS/SG, Kashmir willow)",
+      "emoji": "🏏",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 200,
+        "1995": 350,
+        "2000": 600,
+        "2005": 900,
+        "2010": 1400,
+        "2015": 1900,
+        "2020": 2400,
+        "2025": 3500
+      },
+      "fact": "Kashmir willow bats were the affordable alternative to expensive English willow — but 30 years of conflict in Kashmir devastated the willow orchards, pushing even basic bat prices sharply upward."
+    },
+    {
+      "id": "in_t3_007",
+      "name": "DSLR Camera Lens Cap (original, 58mm)",
+      "emoji": "📷",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 300,
+        "1995": 400,
+        "2000": 500,
+        "2005": 600,
+        "2010": 700,
+        "2015": 800,
+        "2020": 900,
+        "2025": 1200
+      },
+      "fact": "Camera accessories barely inflated because import duties and competition kept prices in check — but counterfeit Canon and Nikon accessories flooded Indian e-commerce, making buyers wary of cheap listings."
+    },
+    {
+      "id": "in_t3_008",
+      "name": "Washing Machine (semi-auto, 7kg)",
+      "emoji": "🫧",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 3500,
+        "1995": 5000,
+        "2000": 6000,
+        "2005": 7000,
+        "2010": 8500,
+        "2015": 9000,
+        "2020": 9500,
+        "2025": 11000
+      },
+      "fact": "Semi-automatic washing machines barely inflated for 20 years as competition from Whirlpool, LG and Samsung forced manufacturers to absorb costs — it's one of the rare home appliances that defied inflation."
+    },
+    {
+      "id": "in_t3_009",
+      "name": "Silk Saree (Mysore/Kanchipuram basic)",
+      "emoji": "🎎",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 600,
+        "1995": 1000,
+        "2000": 1500,
+        "2005": 2500,
+        "2010": 4000,
+        "2015": 5500,
+        "2020": 7000,
+        "2025": 10000
+      },
+      "fact": "A basic Kanchipuram silk saree costs ₹10,000 today — master weavers who make them often earn less than ₹500/day, while the same sarees are resold at 300% markup in Delhi boutiques."
+    },
+    {
+      "id": "in_t3_010",
+      "name": "Annual School Fees (private, Class 5)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 700,
+        "1995": 1200,
+        "2000": 2000,
+        "2005": 3000,
+        "2010": 5000,
+        "2015": 8000,
+        "2020": 12000,
+        "2025": 18000
+      },
+      "fact": "Private school fees have risen 25x since 1990 — unregulated fee hikes remain the biggest financial anxiety for India's middle class, and several states have passed but failed to enforce fee-cap laws."
+    },
+    {
+      "id": "in_t3_011",
+      "name": "Royal Enfield Bullet Service (full)",
+      "emoji": "🏍️",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 300,
+        "1995": 600,
+        "2000": 1000,
+        "2005": 1500,
+        "2010": 2500,
+        "2015": 3500,
+        "2020": 4500,
+        "2025": 6500
+      },
+      "fact": "Royal Enfield's full service cost ₹300 in 1990 — the 'Bullet' is the world's longest-produced motorcycle model, and its owners form one of India's most loyal and tribal consumer communities."
+    },
+    {
+      "id": "in_t3_012",
+      "name": "LED TV (32-inch, HD)",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 8000,
+        "1995": 9000,
+        "2000": 10000,
+        "2005": 12000,
+        "2010": 14000,
+        "2015": 12000,
+        "2020": 10000,
+        "2025": 8500
+      },
+      "fact": "A 32-inch TV cost ₹14,000 in 2010 — Chinese brands like Xiaomi and TCL crashed prices by 40% after 2017, making a full HD 32-inch TV cheaper in 2025 than it was in 2010."
+    },
+    {
+      "id": "in_t3_013",
+      "name": "Yoga Mat (branded, 6mm)",
+      "emoji": "🧘",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 80,
+        "1995": 150,
+        "2000": 300,
+        "2005": 500,
+        "2010": 800,
+        "2015": 1200,
+        "2020": 1600,
+        "2025": 2200
+      },
+      "fact": "Yoga mats cost ₹80 in 1990 and were found only in ashrams — after the UN declared International Yoga Day in 2015, India's yoga product market exploded to ₹2,500 crore within five years."
+    },
+    {
+      "id": "in_t3_014",
+      "name": "Mixer Grinder (Preethi/Sujata, 750W)",
+      "emoji": "🥤",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 800,
+        "1995": 1200,
+        "2000": 1600,
+        "2005": 2000,
+        "2010": 2800,
+        "2015": 3200,
+        "2020": 3600,
+        "2025": 4500
+      },
+      "fact": "The mixer grinder replaced the traditional sil-batta grinding stone in Indian kitchens within a single generation — Preethi, founded in Chennai in 1978, now exports to 40 countries."
+    },
+    {
+      "id": "in_t3_015",
+      "name": "Steel Almirah (single door)",
+      "emoji": "🗄️",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 1500,
+        "1995": 2200,
+        "2000": 3000,
+        "2005": 3800,
+        "2010": 5000,
+        "2015": 6200,
+        "2020": 7500,
+        "2025": 10000
+      },
+      "fact": "The steel almirah has been the cornerstone of Indian household storage since the 1960s — passed down through generations, a good almirah outlasts the family's first three TVs combined."
+    },
+    {
+      "id": "in_t3_016",
+      "name": "Branded Sunglasses (Ray-Ban Wayfarer)",
+      "emoji": "🕶️",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 400,
+        "1995": 700,
+        "2000": 1200,
+        "2005": 2000,
+        "2010": 3500,
+        "2015": 5000,
+        "2020": 6000,
+        "2025": 8000
+      },
+      "fact": "Ray-Ban Wayfarers were aspirational status symbols in 1990s India at ₹700 — today at ₹8,000, they compete with domestic brands like Fastrack that sell near-identical styles for ₹800."
+    },
+    {
+      "id": "in_t3_017",
+      "name": "Bluetooth Speaker (JBL Go, compact)",
+      "emoji": "🔊",
+      "category": "Tech",
+      "tier": 3,
+      "prices": {
+        "1990": 2000,
+        "1995": 2200,
+        "2000": 2500,
+        "2005": 2800,
+        "2010": 3500,
+        "2015": 3000,
+        "2020": 2500,
+        "2025": 2200
+      },
+      "fact": "Portable speakers have actually gotten cheaper due to tech commoditisation — the JBL Go now costs less in real terms than a basic cassette player did in 1990, and sounds exponentially better."
+    },
+    {
+      "id": "in_t3_018",
+      "name": "Medical Insurance (basic, individual, annual)",
+      "emoji": "🏥",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 500,
+        "1995": 800,
+        "2000": 1500,
+        "2005": 3000,
+        "2010": 5000,
+        "2015": 7500,
+        "2020": 10000,
+        "2025": 15000
+      },
+      "fact": "Basic health insurance was just ₹500 in 1990 — post-COVID premiums jumped 30–40% in two years as insurers recalibrated risk, making affordable coverage the biggest financial challenge for India's middle class."
+    },
+    {
+      "id": "in_t3_019",
+      "name": "Monthly Metro Pass (Delhi, all zones)",
+      "emoji": "🚇",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 400,
+        "2010": 700,
+        "2015": 1000,
+        "2020": 1600,
+        "2025": 2200
+      },
+      "fact": "Delhi Metro opened in 2002 — the 2017 fare hike doubled some fares overnight, sparking massive protests, proof that metro pricing is as politically charged as petrol prices in India."
+    },
+    {
+      "id": "in_t3_020",
+      "name": "Tailored Suit (men's, fabric + stitching)",
+      "emoji": "🤵",
+      "category": "Fashion",
+      "tier": 3,
+      "prices": {
+        "1990": 600,
+        "1995": 1000,
+        "2000": 1800,
+        "2005": 3000,
+        "2010": 5000,
+        "2015": 7000,
+        "2020": 9000,
+        "2025": 13000
+      },
+      "fact": "A tailored suit cost ₹600 in 1990 — the 'Nehru jacket' remains an Indian power suit alternative, but a proper bespoke suit from a Mumbai or Kolkata tailor now costs 22x what it did in 1990."
+    },
+    {
+      "id": "in_t3_021",
+      "name": "OTT Annual Subscription (Netflix Basic)",
+      "emoji": "📱",
+      "category": "Entertainment",
+      "tier": 3,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 500,
+        "2020": 1999,
+        "2025": 2388
+      },
+      "fact": "Netflix launched in India in 2016 at ₹499/month — it later introduced a ₹149 mobile-only plan exclusively for India, the first country where it offered such deep localised pricing."
+    },
+    {
+      "id": "in_t3_022",
+      "name": "Bicycle (Atlas/Hero, adult basic)",
+      "emoji": "🚲",
+      "category": "Transport",
+      "tier": 3,
+      "prices": {
+        "1990": 800,
+        "1995": 1200,
+        "2000": 1800,
+        "2005": 2500,
+        "2010": 3500,
+        "2015": 4500,
+        "2020": 5500,
+        "2025": 7500
+      },
+      "fact": "India was once the world's largest bicycle market — today it's overtaken by e-bikes and motorcycles, and a basic Hero bicycle at ₹7,500 costs more than a cheap two-wheeler EMI in some schemes."
+    },
+    {
+      "id": "in_t3_023",
+      "name": "Trekking Backpack (60L, domestic brand)",
+      "emoji": "🎒",
+      "category": "Experience",
+      "tier": 3,
+      "prices": {
+        "1990": 300,
+        "1995": 500,
+        "2000": 900,
+        "2005": 1500,
+        "2010": 2500,
+        "2015": 3500,
+        "2020": 4500,
+        "2025": 6500
+      },
+      "fact": "Trekking was a niche activity in 1990 — India's adventure tourism market crossed ₹1,000 crore by 2023, with Himachal Pradesh and Uttarakhand trails now hosting more Instagram reels than serious mountaineers."
+    },
+    {
+      "id": "in_t3_024",
+      "name": "Inverter Battery (Exide, 150Ah)",
+      "emoji": "🔋",
+      "category": "Home",
+      "tier": 3,
+      "prices": {
+        "1990": 1200,
+        "1995": 2000,
+        "2000": 3000,
+        "2005": 4000,
+        "2010": 6000,
+        "2015": 8500,
+        "2020": 10000,
+        "2025": 14000
+      },
+      "fact": "Invertors became a middle-class necessity in the 1990s power crisis — Exide and Amaron batteries are sold in nearly every Indian town, making India the world's third-largest lead-acid battery market."
+    },
+    {
+      "id": "in_t3_025",
+      "name": "Hair Transplant (per 1000 grafts)",
+      "emoji": "💇",
+      "category": "Health",
+      "tier": 3,
+      "prices": {
+        "1990": 2000,
+        "1995": 4000,
+        "2000": 7000,
+        "2005": 10000,
+        "2010": 14000,
+        "2015": 16000,
+        "2020": 17000,
+        "2025": 18000
+      },
+      "fact": "Hair transplants have barely risen in price since 2010 as competition among clinics exploded — India now performs over 200,000 procedures annually, becoming one of the world's top medical tourism destinations for hair restoration."
+    },
+    {
+      "id": "in_t4_001",
+      "name": "Smartphone (iPhone 16, base model)",
+      "emoji": "📱",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 35000,
+        "2010": 45000,
+        "2015": 62000,
+        "2020": 70000,
+        "2025": 80000
+      },
+      "fact": "The first iPhone launched globally in 2007 — in India, high import duties mean an iPhone costs 20–30% more than in the US, prompting thousands of NRI 'gift' phone requests every year."
+    },
+    {
+      "id": "in_t4_002",
+      "name": "Honda Activa Scooter (base model)",
+      "emoji": "🛵",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 12000,
+        "1995": 18000,
+        "2000": 35000,
+        "2005": 38000,
+        "2010": 42000,
+        "2015": 52000,
+        "2020": 62000,
+        "2025": 80000
+      },
+      "fact": "The Honda Activa has been India's best-selling vehicle for over a decade — more Activas are sold each year than all cars combined, making it the defining machine of Indian middle-class mobility."
+    },
+    {
+      "id": "in_t4_003",
+      "name": "Mid-range Android Smartphone (Samsung M-series)",
+      "emoji": "📲",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 15000,
+        "2010": 20000,
+        "2015": 15000,
+        "2020": 15000,
+        "2025": 20000
+      },
+      "fact": "Mid-range smartphones have barely changed in nominal price since 2015 due to Chinese competition — Xiaomi's 2014 India entry crashed the ₹10,000-₹20,000 segment, giving Indians flagship features at budget prices."
+    },
+    {
+      "id": "in_t4_004",
+      "name": "Gold (24K, 10 grams)",
+      "emoji": "🥇",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 3300,
+        "1995": 4680,
+        "2000": 4400,
+        "2005": 7000,
+        "2010": 18500,
+        "2015": 26000,
+        "2020": 48000,
+        "2025": 90000
+      },
+      "fact": "Gold at ₹90,000 per 10g represents a 27x rise since 1990 — India consumes 800–900 tonnes of gold annually, second only to China, and smuggling still accounts for an estimated 200 tonnes per year."
+    },
+    {
+      "id": "in_t4_005",
+      "name": "Entry-Level Laptop (HP/Dell, 8GB RAM)",
+      "emoji": "💻",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 80000,
+        "1995": 70000,
+        "2000": 60000,
+        "2005": 45000,
+        "2010": 35000,
+        "2015": 30000,
+        "2020": 35000,
+        "2025": 40000
+      },
+      "fact": "A basic laptop cost ₹80,000 in 1990 — the price fell 50% in real terms over 20 years, making laptops accessible to crores of first-generation computer users, transforming India's IT workforce."
+    },
+    {
+      "id": "in_t4_006",
+      "name": "55-inch 4K Smart TV",
+      "emoji": "📺",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 120000,
+        "2010": 100000,
+        "2015": 70000,
+        "2020": 45000,
+        "2025": 35000
+      },
+      "fact": "A 55-inch 4K TV cost over ₹1 lakh in 2010 — Chinese brands like Xiaomi, TCL and Hisense halved prices by 2020, democratising large-screen viewing and accelerating the death of the cable TV box."
+    },
+    {
+      "id": "in_t4_007",
+      "name": "Tata Tiago (entry car, on-road Delhi)",
+      "emoji": "🚗",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 150000,
+        "1995": 250000,
+        "2000": 320000,
+        "2005": 380000,
+        "2010": 420000,
+        "2015": 450000,
+        "2020": 550000,
+        "2025": 750000
+      },
+      "fact": "The cheapest new Tata car cost ₹1.5 lakh in 1990 — Maruti 800 at ₹47,500 was the dream in 1983, but its successor models inflated 10x, while road taxes and insurance added 20% on top."
+    },
+    {
+      "id": "in_t4_008",
+      "name": "Refrigerator (double door, 340L)",
+      "emoji": "🧊",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 12000,
+        "1995": 16000,
+        "2000": 18000,
+        "2005": 20000,
+        "2010": 22000,
+        "2015": 24000,
+        "2020": 27000,
+        "2025": 35000
+      },
+      "fact": "A double-door refrigerator cost ₹12,000 in 1990 and barely tripled in 35 years — appliance inflation has been remarkably subdued due to fierce brand competition from LG, Samsung and Godrej."
+    },
+    {
+      "id": "in_t4_009",
+      "name": "Air Conditioner (1.5 Ton, Split, 5-star)",
+      "emoji": "❄️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 25000,
+        "1995": 32000,
+        "2000": 35000,
+        "2005": 30000,
+        "2010": 28000,
+        "2015": 30000,
+        "2020": 35000,
+        "2025": 45000
+      },
+      "fact": "ACs were an upper-class luxury in 1990 at ₹25,000 — India's AC market grew 20% in 2023 alone as extreme heat events pushed even lower-middle-class households to buy on EMI for the first time."
+    },
+    {
+      "id": "in_t4_010",
+      "name": "Royal Enfield Classic 350 (base)",
+      "emoji": "🏍️",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 25000,
+        "1995": 40000,
+        "2000": 55000,
+        "2005": 65000,
+        "2010": 100000,
+        "2015": 130000,
+        "2020": 165000,
+        "2025": 220000
+      },
+      "fact": "The Royal Enfield Classic 350 was just ₹25,000 in 1990 — today at ₹2.2 lakh it's become a status symbol that young urban professionals buy not for commuting but for weekend identity."
+    },
+    {
+      "id": "in_t4_011",
+      "name": "Diamond Solitaire Ring (0.25 carat)",
+      "emoji": "💍",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000,
+        "1995": 12000,
+        "2000": 18000,
+        "2005": 25000,
+        "2010": 40000,
+        "2015": 55000,
+        "2020": 65000,
+        "2025": 90000
+      },
+      "fact": "Surat cuts and polishes 90% of the world's diamonds — yet an Indian buying a diamond ring in India pays import duty markup on diamonds that may have originated in India itself."
+    },
+    {
+      "id": "in_t4_012",
+      "name": "UPSC Coaching (1-year classroom program)",
+      "emoji": "📖",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 3000,
+        "1995": 8000,
+        "2000": 20000,
+        "2005": 40000,
+        "2010": 80000,
+        "2015": 130000,
+        "2020": 180000,
+        "2025": 250000
+      },
+      "fact": "UPSC coaching fees have risen 83x since 1990 — Mukherjee Nagar in Delhi is Asia's largest coaching cluster, and families take loans to pay for courses to crack an exam where the selection rate is 0.1%."
+    },
+    {
+      "id": "in_t4_013",
+      "name": "Tata SafariNEXT/MG Hector (mid SUV)",
+      "emoji": "🚙",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 650000,
+        "2000": 800000,
+        "2005": 850000,
+        "2010": 950000,
+        "2015": 1100000,
+        "2020": 1400000,
+        "2025": 2000000
+      },
+      "fact": "Mid-size SUVs have replaced sedans as India's aspirational family car — the segment grew 35% in 2023 as buyers rejected hatchbacks in favour of ground clearance, the ultimate status signal on Indian roads."
+    },
+    {
+      "id": "in_t4_014",
+      "name": "Smart Watch (Apple Watch SE)",
+      "emoji": "⌚",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 32000,
+        "2020": 30000,
+        "2025": 29000
+      },
+      "fact": "Smartwatches didn't exist until 2015 — Apple Watch launched in India that year at ₹30,000, while competing Noise and boAt brands now offer smartwatches for ₹1,500, collapsing the category's price floor."
+    },
+    {
+      "id": "in_t4_015",
+      "name": "Solar Panel System (1kW, rooftop)",
+      "emoji": "☀️",
+      "category": "Home",
+      "tier": 4,
+      "prices": {
+        "1990": 150000,
+        "1995": 130000,
+        "2000": 100000,
+        "2005": 80000,
+        "2010": 60000,
+        "2015": 50000,
+        "2020": 35000,
+        "2025": 25000
+      },
+      "fact": "A 1kW solar system cost ₹1.5 lakh in 1990 — prices have fallen 83% in 35 years, and India's PM Surya Ghar Yojana offers ₹78,000 subsidy per household, making rooftop solar finally viable for the middle class."
+    },
+    {
+      "id": "in_t4_016",
+      "name": "Wedding Photography (full day, DSLR)",
+      "emoji": "📸",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 2000,
+        "1995": 5000,
+        "2000": 12000,
+        "2005": 25000,
+        "2010": 50000,
+        "2015": 80000,
+        "2020": 100000,
+        "2025": 150000
+      },
+      "fact": "Wedding photography was ₹2,000 in 1990 — drone footage, cinematic reels and 'pre-wedding shoots' have inflated the category 75x, making a South Indian wedding photographer's package pricier than most honeymoon flights."
+    },
+    {
+      "id": "in_t4_017",
+      "name": "Electric Scooter (Ola S1 Pro)",
+      "emoji": "⚡",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 55000,
+        "2020": 70000,
+        "2025": 130000
+      },
+      "fact": "Ola Electric's 2021 launch triggered India's EV scooter war — after government FAME subsidies were cut in 2023, prices jumped ₹25,000 overnight, leading to a viral consumer backlash on social media."
+    },
+    {
+      "id": "in_t4_018",
+      "name": "MBA Fee (IIM-A, 2-year program)",
+      "emoji": "🎓",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 20000,
+        "1995": 50000,
+        "2000": 150000,
+        "2005": 500000,
+        "2010": 1400000,
+        "2015": 1900000,
+        "2020": 2300000,
+        "2025": 2800000
+      },
+      "fact": "IIM Ahmedabad's MBA cost ₹20,000 in 1990 — it's now ₹28 lakh, a 1,400x rise, though IIM-A graduates average ₹34 lakh starting salary, making it perhaps India's highest-ROI educational investment."
+    },
+    {
+      "id": "in_t4_019",
+      "name": "Tata Nexon EV (base variant)",
+      "emoji": "🚘",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 0,
+        "2015": 0,
+        "2020": 1400000,
+        "2025": 1500000
+      },
+      "fact": "The Nexon EV launched in 2020 and immediately became India's best-selling electric car — it has a 60% market share in EVs, proof that 'Made in India' can dominate a new technology category from day one."
+    },
+    {
+      "id": "in_t4_020",
+      "name": "OLED TV (55-inch, LG/Sony)",
+      "emoji": "🖥️",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 0,
+        "2000": 0,
+        "2005": 0,
+        "2010": 350000,
+        "2015": 250000,
+        "2020": 120000,
+        "2025": 80000
+      },
+      "fact": "OLED TVs cost ₹3.5 lakh in 2010 — the 78% price drop by 2025 mirrors Moore's Law applied to display tech, and India's premium TV segment grew 45% in 2023 as post-COVID 'homebody luxury' spending surged."
+    },
+    {
+      "id": "in_t4_021",
+      "name": "Gaming Console (PlayStation 5)",
+      "emoji": "🎮",
+      "category": "Tech",
+      "tier": 4,
+      "prices": {
+        "1990": 0,
+        "1995": 12000,
+        "2000": 15000,
+        "2005": 18000,
+        "2010": 22000,
+        "2015": 28000,
+        "2020": 50000,
+        "2025": 55000
+      },
+      "fact": "The PS5 launched in India at ₹50,000 — Sony charges one of the world's highest prices in India due to import duties, while Indian gamers increasingly switch to PC gaming to avoid the console premium."
+    },
+    {
+      "id": "in_t4_022",
+      "name": "Mumbai–London Economy Flight",
+      "emoji": "🌍",
+      "category": "Transport",
+      "tier": 4,
+      "prices": {
+        "1990": 25000,
+        "1995": 35000,
+        "2000": 45000,
+        "2005": 40000,
+        "2010": 50000,
+        "2015": 45000,
+        "2020": 30000,
+        "2025": 55000
+      },
+      "fact": "A Mumbai–London economy ticket cost ₹25,000 in 1990 — adjusted for inflation, international air travel has actually become cheaper in real terms, democratising what was once an elite luxury."
+    },
+    {
+      "id": "in_t4_023",
+      "name": "Gold Biscuit (100 grams, 24K)",
+      "emoji": "🏅",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 33000,
+        "1995": 46800,
+        "2000": 44000,
+        "2005": 70000,
+        "2010": 185000,
+        "2015": 260000,
+        "2020": 480000,
+        "2025": 900000
+      },
+      "fact": "100g of gold cost ₹33,000 in 1990 — it's now ₹9 lakh, a 27x rise that has made gold the single best-performing asset class in India over 35 years, outperforming FDs, real estate and most equity funds."
+    },
+    {
+      "id": "in_t4_024",
+      "name": "Home Loan (₹50L, total interest paid, 20yr)",
+      "emoji": "🏠",
+      "category": "Experience",
+      "tier": 4,
+      "prices": {
+        "1990": 60000,
+        "1995": 80000,
+        "2000": 120000,
+        "2005": 150000,
+        "2010": 200000,
+        "2015": 250000,
+        "2020": 280000,
+        "2025": 500000
+      },
+      "fact": "Home loan rates peaked at 18% in the early 1990s — by 2021 they hit historic lows of 6.5%, before RBI hikes pushed them back to 9%, showing how interest rate cycles determine middle-class dreams."
+    },
+    {
+      "id": "in_t4_025",
+      "name": "Luxury Wristwatch (Titan Nebula, gold)",
+      "emoji": "⌚",
+      "category": "Luxury",
+      "tier": 4,
+      "prices": {
+        "1990": 8000,
+        "1995": 15000,
+        "2000": 25000,
+        "2005": 40000,
+        "2010": 65000,
+        "2015": 90000,
+        "2020": 110000,
+        "2025": 150000
+      },
+      "fact": "Titan's Nebula collection uses solid gold and precious stones — it was India's first 'luxury for Indians' watch brand, launched in 1994 to compete with Swiss imports without the import duty markup."
+    }
+  ]
+}
