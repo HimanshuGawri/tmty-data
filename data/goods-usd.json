@@ -20,7 +20,7 @@
         "2020": 2.0,
         "2025": 2.5
       },
-      "fact": "A diner drip coffee cost 50 cents in 1990 and has risen to $2.50 today, a 5x increase, yet it remains one of the last cheap rituals in American daily life."
+      "fact": "A diner drip coffee cost 50 cents in 1990 and rose to $2.50 by 2025, a 5x increase but still one of the last cheap daily rituals in American life."
     },
     {
       "id": "us_t1_002",
@@ -38,7 +38,7 @@
         "2020": 0.55,
         "2025": 0.73
       },
-      "fact": "The US first-class stamp cost 25 cents in 1990. USPS raised it 14 times since then, and each hike triggers a rush to stockpile 'Forever Stamps' before the new price kicks in."
+      "fact": "USPS raised the first-class stamp 14 times since 1990. Each hike triggers a rush to stockpile Forever Stamps before the new price kicks in."
     },
     {
       "id": "us_t1_003",
@@ -56,7 +56,7 @@
         "2020": 1.29,
         "2025": 1.79
       },
-      "fact": "A 5-stick pack of Wrigley's cost 25 cents in 1990. Gum sales have fallen nearly 40% since smartphones took over idle hand and mouth habits while waiting in lines."
+      "fact": "A 5-stick pack of Wrigley's cost 25 cents in 1990. Gum sales have fallen nearly 40% since smartphones took over idle hand and mouth habits in checkout lines."
     },
     {
       "id": "us_t1_004",
@@ -74,7 +74,7 @@
         "2020": 0.24,
         "2025": 0.3
       },
-      "fact": "The banana has been called the world's most consistently cheap food. Walmart once used bananas as a loss leader, selling them below cost to drive foot traffic into stores."
+      "fact": "The banana has been called the world's most consistently cheap food. Walmart once used bananas as a loss leader, selling them below cost to drive store traffic."
     },
     {
       "id": "us_t1_005",
@@ -92,7 +92,7 @@
         "2020": 1.75,
         "2025": 2.25
       },
-      "fact": "Coca-Cola held its vending machine price at 5 cents for 70 years until 1959 partly because the founder signed contracts guaranteeing that price in perpetuity."
+      "fact": "Coca-Cola held its vending machine price at 5 cents for 70 years until 1959, partly because the founder signed contracts guaranteeing that price in perpetuity."
     },
     {
       "id": "us_t1_006",
@@ -110,7 +110,7 @@
         "2020": 1.59,
         "2025": 2.29
       },
-      "fact": "A Snickers cost 45 cents in 1990. Mars famously shrinks the bar weight while holding the price point, a tactic economists call 'shrinkflation' that consumers rarely notice at checkout."
+      "fact": "Mars shrinks the Snickers bar while holding the price point, a tactic economists call shrinkflation. A Snickers cost 45 cents in 1990 and $2.50 in 2025."
     },
     {
       "id": "us_t1_007",
@@ -128,7 +128,7 @@
         "2020": 2.25,
         "2025": 2.75
       },
-      "fact": "Many US cities actually reduced or eliminated bus fares after 2020 to boost ridership. Kansas City became the first major American city to make public transit fully free in 2020."
+      "fact": "Kansas City became the first major US city to make public transit fully free in 2020. Several cities have since reduced fares to boost ridership."
     },
     {
       "id": "us_t1_008",
@@ -146,7 +146,7 @@
         "2020": 2.0,
         "2025": 3.0
       },
-      "fact": "Daily newspaper circulation fell from 62 million in 1990 to under 20 million by 2025, yet the cover price rose 12x. Publishers charge more precisely because fewer people are buying."
+      "fact": "Daily newspaper circulation fell from 62 million in 1990 to under 20 million by 2025, yet the cover price rose 12x. Publishers charge more because fewer"
     },
     {
       "id": "us_t1_009",
@@ -164,7 +164,7 @@
         "2020": 1.79,
         "2025": 2.99
       },
-      "fact": "McDonald's small fries cost 55 cents in 1990 and ballooned to $2.99 by 2025. McDonald's blamed higher wages after minimum wage hikes, sparking a major debate about fast food affordability."
+      "fact": "McDonald's small fries cost 55 cents in 1990 and $2.99 by 2025. McDonald's cited higher minimum wages, sparking a national debate about fast food affordability."
     },
     {
       "id": "us_t1_010",
@@ -182,7 +182,7 @@
         "2020": 0.4,
         "2025": 0.5
       },
-      "fact": "The Dixon Ticonderoga No. 2 pencil is so iconic it has been called the 'perfect object.' America once made most of the world's pencils but today nearly all are manufactured in China."
+      "fact": "The Dixon Ticonderoga No. 2 pencil is called the perfect object. America once made most of the world's pencils but today nearly all are manufactured in China."
     },
     {
       "id": "us_t1_011",
@@ -200,7 +200,7 @@
         "2020": 3.4,
         "2025": 4.2
       },
-      "fact": "Milk is one of the most price-watched groceries in the US. The federal milk marketing order system means prices are set by government formula, not entirely by the market."
+      "fact": "The federal milk marketing order sets prices by government formula, not purely by market forces, making milk one of the most regulated grocery items in the US."
     },
     {
       "id": "us_t1_012",
@@ -236,7 +236,7 @@
         "2020": 7.49,
         "2025": 9.99
       },
-      "fact": "Crayola introduced the 64-crayon box in 1958 with a built-in sharpener. The company retires about 3 colors per year and names replacements by public vote, making discontinued shades like Dandelion into collector items."
+      "fact": "Crayola retires about 3 colours per year, named by public vote. Discontinued shades like Dandelion have become collector items worth multiples of their"
     },
     {
       "id": "us_t1_014",
@@ -254,7 +254,7 @@
         "2020": 0.12,
         "2025": 0.6
       },
-      "fact": "Egg prices hit record highs in 2023 and 2025 due to repeated avian flu outbreaks that wiped out hundreds of millions of laying hens. At 60 cents per egg, eggs briefly cost more than steak per calorie."
+      "fact": "Egg prices hit record highs in 2023 and 2025 due to avian flu outbreaks. At 60 cents per egg, eggs briefly cost more than steak per calorie."
     },
     {
       "id": "us_t1_015",
@@ -272,7 +272,7 @@
         "2020": 2.5,
         "2025": 3.5
       },
-      "fact": "Chicago sold its entire parking meter system to a private company for 75 years in 2008, widely considered one of the worst municipal deals in US history as meter revenue far exceeded the sale price."
+      "fact": "Chicago sold its entire parking meter system to a private company for 75 years in 2008, widely considered one of the worst municipal deals in US history."
     },
     {
       "id": "us_t1_016",
@@ -290,7 +290,7 @@
         "2020": 4.49,
         "2025": 5.99
       },
-      "fact": "Aspirin is one of the oldest mass-market drugs in the world. The Bayer patent expired in 1917 following WWI, forcing them to give up the trademark and turning aspirin into a generic word."
+      "fact": "The Bayer aspirin patent expired in 1917 following WWI, forcing them to give up the trademark and turning aspirin into a generic word in the English language."
     },
     {
       "id": "us_t1_017",
@@ -308,7 +308,7 @@
         "2020": 2.17,
         "2025": 3.25
       },
-      "fact": "Gas hit $5 a gallon nationally for the first time in June 2022, creating a political crisis for the Biden administration. Prices are tracked daily by AAA and treated as a real-time economic mood indicator."
+      "fact": "Gas hit $5 a gallon nationally for the first time in June 2022, creating a political crisis. AAA tracks prices daily as a real-time economic mood indicator."
     },
     {
       "id": "us_t1_018",
@@ -326,7 +326,7 @@
         "2020": 1.99,
         "2025": 3.19
       },
-      "fact": "The McDouble was the cornerstone of McDonald's Dollar Menu, which McDonald's quietly killed in 2013 by renaming it the 'Dollar Menu and More' as costs made the $1 price untenable."
+      "fact": "McDonald's quietly killed its Dollar Menu in 2013 by renaming it the Dollar Menu and More as costs made the $1 price untenable for franchisees."
     },
     {
       "id": "us_t1_019",
@@ -344,7 +344,7 @@
         "2020": 0.75,
         "2025": 0.99
       },
-      "fact": "Washington State produces 70% of all apples grown in the US. The Cosmic Crisp variety, developed at Washington State University over 20 years, launched in 2019 and became the fastest-selling new apple variety in history."
+      "fact": "Washington State produces 70% of US apples. The Cosmic Crisp, developed over 20 years, launched in 2019 as the fastest-selling new apple variety in US history."
     },
     {
       "id": "us_t1_020",
@@ -362,7 +362,7 @@
         "2020": 2.0,
         "2025": 2.0
       },
-      "fact": "Powerball doubled its ticket price to $2 in 2012 and simultaneously increased jackpot sizes. The strategy worked: the $1.58 billion jackpot in 2022 became the largest lottery prize in world history."
+      "fact": "Powerball doubled its ticket price to $2 in 2012 while increasing jackpot sizes. The $1.58 billion jackpot in 2022 became the largest lottery prize in world"
     },
     {
       "id": "us_t1_021",
@@ -380,7 +380,7 @@
         "2020": 1.75,
         "2025": 2.5
       },
-      "fact": "The souvenir postcard industry peaked in the early 1900s. Today, despite almost nobody mailing postcards anymore, they remain a fixture in tourist shops as physical proof you visited somewhere."
+      "fact": "Despite almost nobody mailing postcards anymore, they remain a fixture in tourist shops as physical proof you visited somewhere, a ritual too stubborn to die."
     },
     {
       "id": "us_t1_022",
@@ -398,7 +398,7 @@
         "2020": 1.29,
         "2025": 1.89
       },
-      "fact": "Andy Warhol painted Campbell's Soup cans in 1962 when they cost 29 cents. He reportedly ate the soup every day for 20 years and said he painted it because he loved it, making it the most famous brand in art history."
+      "fact": "Warhol painted Campbell's Soup cans in 1962 when they cost 29 cents. He reportedly ate the soup daily for 20 years, making it the most famous brand in art"
     },
     {
       "id": "us_t1_023",
@@ -416,7 +416,7 @@
         "2020": 1.59,
         "2025": 2.19
       },
-      "fact": "Ivory Soap has marketed itself as '99 and 44/100% pure' since 1882. The claim was originally a chemistry test result that Procter and Gamble turned into one of the longest-running advertising slogans in history."
+      "fact": "Ivory Soap has marketed itself as 99 and 44/100% pure since 1882, a claim from a chemistry test that P&G turned into one of advertising's longest-running"
     },
     {
       "id": "us_t1_024",
@@ -434,7 +434,7 @@
         "2020": 3.99,
         "2025": 5.99
       },
-      "fact": "The 1989-1991 baseball card bubble saw kids and parents buy millions of cards as investments. Almost all of them are worth nothing today because the overproduction was so extreme it's called the 'junk wax era.'"
+      "fact": "The 1989-1991 baseball card bubble saw millions of cards bought as investments. Almost all are worth nothing due to massive overproduction, called the junk"
     },
     {
       "id": "us_t1_025",
@@ -452,7 +452,7 @@
         "2020": 5.49,
         "2025": 7.99
       },
-      "fact": "Movie theater popcorn margins are estimated at over 900%. Theaters make little profit on tickets since studios take the majority, so the entire business model depends on selling $8 popcorn that costs 20 cents to make."
+      "fact": "Movie theater popcorn margins exceed 900%. Theaters make little on tickets since studios take most revenue, so the whole business model depends on $8 popcorn."
     },
     {
       "id": "us_t2_001",
@@ -470,7 +470,7 @@
         "2020": 9.16,
         "2025": 13.0
       },
-      "fact": "Average US movie ticket prices tripled from 1990 to 2025, while admissions fell by half. Theater chains are surviving by charging $25 for IMAX and $30 for 'recliner premium' experiences to keep revenue stable."
+      "fact": "US movie ticket prices tripled from 1990 to 2025 while admissions fell by half. Chains survive by charging $25 for IMAX and $30 for premium recliner"
     },
     {
       "id": "us_t2_002",
@@ -488,7 +488,7 @@
         "2020": 17.99,
         "2025": 19.99
       },
-      "fact": "The Kindle launched in 2007 at $9.99 for bestselling ebooks, directly threatening the paperback's price point. Publishers eventually won an antitrust battle to set their own ebook prices, pushing them above $12."
+      "fact": "The Kindle launched in 2007 at $9.99 for bestselling ebooks. Publishers won an antitrust case to set their own prices, pushing most ebooks above $12."
     },
     {
       "id": "us_t2_003",
@@ -506,7 +506,7 @@
         "2020": 20.0,
         "2025": 28.0
       },
-      "fact": "Barbershop prices have outpaced inflation because haircuts cannot be automated or offshored. Economists use haircuts as a classic example of the 'Baumol cost disease' in service industries."
+      "fact": "Barbershop prices outpace inflation because haircuts cannot be automated or offshored. Economists use haircuts as the textbook example of Baumol cost disease."
     },
     {
       "id": "us_t2_004",
@@ -524,7 +524,7 @@
         "2020": 16.99,
         "2025": 22.99
       },
-      "fact": "Domino's stock was worth $3 in 2008 when the company was near bankruptcy. By 2021 it hit $540, making Domino's one of the greatest stock comeback stories by simply improving its pizza recipe and investing in tech."
+      "fact": "Domino's stock was worth $3 in 2008 near bankruptcy. By 2021 it hit $540 after simply improving its pizza recipe and investing in technology."
     },
     {
       "id": "us_t2_005",
@@ -542,7 +542,7 @@
         "2020": 11.99,
         "2025": 15.99
       },
-      "fact": "Basic cotton tees barely inflated for 20 years because manufacturing shifted to Bangladesh and Vietnam where wages were extremely low. Bangladesh now makes over $20 billion worth of garments annually for US brands."
+      "fact": "Basic cotton tees barely inflated for 20 years as manufacturing moved to Bangladesh and Vietnam. Bangladesh now makes over $20 billion of garments for US"
     },
     {
       "id": "us_t2_006",
@@ -560,7 +560,7 @@
         "2020": 22.0,
         "2025": 30.0
       },
-      "fact": "The Metropolitan Museum of Art charged a 'suggested' admission for decades that visitors could legally pay $1. It switched to mandatory admission for non-NYC residents in 2018 after the city threatened to cut funding."
+      "fact": "The Met Museum charged a legally optional admission for decades where visitors could pay $1. It switched to mandatory admission for non-NYC residents in 2018."
     },
     {
       "id": "us_t2_007",
@@ -578,7 +578,7 @@
         "2020": 40.0,
         "2025": 55.0
       },
-      "fact": "Planet Fitness disrupted the gym industry in the 1990s by offering $10/month memberships and deliberately designing clubs to feel non-intimidating. It calls traditional gyms 'lunks' and has a 'Lunk Alarm' to shame them."
+      "fact": "Planet Fitness disrupted gyms with $10 monthly memberships and a Lunk Alarm that shames members considered too intimidatingly serious about fitness."
     },
     {
       "id": "us_t2_008",
@@ -596,7 +596,7 @@
         "2020": 11.99,
         "2025": 14.99
       },
-      "fact": "Krispy Kreme went public in 2000 at $5 a share and shot to $40 within months as investors treated it like a tech company. It crashed back to $5 within two years as people noticed it just sold donuts."
+      "fact": "Krispy Kreme went public in 2000 at $5 and shot to $40 within months as investors treated it like a tech company. It crashed back to $5 within two years."
     },
     {
       "id": "us_t2_009",
@@ -614,7 +614,7 @@
         "2020": 6.99,
         "2025": 10.49
       },
-      "fact": "A premium Hallmark card now costs $10, leading to a cultural backlash where people buy cheap Dollar Tree cards ironically. Hallmark's revenue has dropped 30% since 2015 as younger generations switch to digital greetings."
+      "fact": "A premium Hallmark card costs $10 today. Revenue dropped 30% since 2015 as younger buyers switched to digital greetings or bought Dollar Tree cards ironically."
     },
     {
       "id": "us_t2_010",
@@ -632,7 +632,7 @@
         "2020": 8.65,
         "2025": 10.45
       },
-      "fact": "Starbucks expanded from 84 stores in 1990 to over 16,000 US locations by 2025. The term 'latte factor' was coined by financial advisors to describe how daily $5 coffee purchases can cost $150,000 over a career."
+      "fact": "Starbucks grew from 84 stores in 1990 to over 16,000 US locations by 2025. Financial advisors coined the latte factor: a daily $5 coffee costs $150,000 over a"
     },
     {
       "id": "us_t2_011",
@@ -650,7 +650,7 @@
         "2020": 8.0,
         "2025": 11.99
       },
-      "fact": "The $5 Footlong launched in 2008 and became Subway's most successful promotion ever, nearly doubling sales. Subway held the price for years until rising costs made it unsustainable, killing the promotion in 2012."
+      "fact": "Subway's $5 Footlong launched in 2008 and nearly doubled sales. Rising costs made the price untenable and Subway killed the promotion in 2012."
     },
     {
       "id": "us_t2_012",
@@ -668,7 +668,7 @@
         "2020": 13.99,
         "2025": 22.99
       },
-      "fact": "Netflix launched as a DVD mail service in 1998 at $15.95 per month. The 2011 price split that separated streaming from DVDs caused 800,000 subscribers to cancel in one quarter, wiping out 75% of the stock price."
+      "fact": "Netflix launched as a DVD mail service in 1998. Its 2011 price split caused 800,000 cancellations in one quarter, wiping 75% off the stock price overnight."
     },
     {
       "id": "us_t2_013",
@@ -686,7 +686,7 @@
         "2020": 7.8,
         "2025": 10.5
       },
-      "fact": "Marlboro prices more than doubled after the 1998 Tobacco Master Settlement Agreement, which required companies to pay $206 billion to states for healthcare costs. Smokers effectively paid the entire settlement themselves."
+      "fact": "Marlboro prices more than doubled after the 1998 Tobacco Settlement requiring $206 billion in state payments. Smokers effectively paid the entire settlement"
     },
     {
       "id": "us_t2_014",
@@ -704,7 +704,7 @@
         "2020": 12.99,
         "2025": 14.99
       },
-      "fact": "There were fewer than 300 craft breweries in the US in 1990. By 2025, there were over 9,500, making American craft beer one of the greatest consumer entrepreneurship booms in modern food history."
+      "fact": "Fewer than 300 craft breweries existed in the US in 1990. By 2025 there were over 9,500, one of the greatest food entrepreneurship booms in modern history."
     },
     {
       "id": "us_t2_015",
@@ -722,7 +722,7 @@
         "2020": 18.0,
         "2025": 28.0
       },
-      "fact": "Yoga studios proliferated so fast in US cities that market saturation was blamed for a wave of closures after 2018. Lululemon built a $50 billion company largely by selling yoga pants to people who never set foot in a class."
+      "fact": "Lululemon built a $50 billion company selling yoga pants to people who never stepped in a yoga class, while actual yoga studios faced mass closures from"
     },
     {
       "id": "us_t2_016",
@@ -740,7 +740,7 @@
         "2020": 59.99,
         "2025": 79.99
       },
-      "fact": "Levi's moved the majority of its manufacturing out of the US by 2003, closing its last American factory after 150 years. The irony of American-iconic jeans being made in Mexico and Bangladesh fueled a 'Made in USA' revival movement."
+      "fact": "Levi's closed its last American factory in 2003 after 150 years. American-iconic jeans being made in Bangladesh fuelled a Made-in-USA revival movement."
     },
     {
       "id": "us_t2_017",
@@ -758,7 +758,7 @@
         "2020": 10.99,
         "2025": 14.99
       },
-      "fact": "The Chinese takeout lunch special was the original 'affordable meal deal' in American cities, offering rice plus two items for under $5 for decades. Price increases post-2020 ended an era of food affordability."
+      "fact": "The Chinese takeout lunch special was the original affordable meal deal: rice plus two items for under $5 for decades. Post-2020 price increases ended that era."
     },
     {
       "id": "us_t2_018",
@@ -776,7 +776,7 @@
         "2020": 9.99,
         "2025": 11.99
       },
-      "fact": "Spotify held its $9.99 price for over a decade before raising it in 2023. That price was the same as a single music CD in 1990, meaning a monthly subscription now gives unlimited access to 100 million songs for the price of one album."
+      "fact": "Spotify held its $9.99 price for over a decade, the same as a single CD in 1990. One subscription now gives access to 100 million songs for the price of one"
     },
     {
       "id": "us_t2_019",
@@ -794,7 +794,7 @@
         "2020": 7.5,
         "2025": 11.5
       },
-      "fact": "Chipotle's chicken burrito cost $3.50 at launch in 1995 and hit $11.50 by 2025. CEO Brian Niccol was paid $138 million in his first year, making Chipotle's executive pay the most criticized in the fast food industry."
+      "fact": "Chipotle's chicken burrito cost $3.50 at launch in 1995 and hit $11.50 by 2025. CEO Brian Niccol was paid $138 million in his first year."
     },
     {
       "id": "us_t2_020",
@@ -812,7 +812,7 @@
         "2020": 12.99,
         "2025": 14.99
       },
-      "fact": "Gillette's 'razor and blades' business model, where the handle is cheap and refills are expensive, is taught in every business school as the origin of the subscription and lock-in strategy that Apple and Amazon later perfected."
+      "fact": "Gillette's razor-and-blades model, where the handle is cheap and refills expensive, is the origin of subscription lock-in strategy, taught in every business"
     },
     {
       "id": "us_t2_021",
@@ -830,7 +830,7 @@
         "2020": 7.49,
         "2025": 10.49
       },
-      "fact": "Generic ibuprofen is one of the few healthcare products in America that has barely outpaced general inflation. The patent expired in the 1980s and generic competition has kept prices remarkably stable for 40 years."
+      "fact": "Generic ibuprofen has barely outpaced general inflation. The patent expired in the 1980s and competition kept prices remarkably stable for over 40 years."
     },
     {
       "id": "us_t2_022",
@@ -848,7 +848,7 @@
         "2020": 34.0,
         "2025": 45.0
       },
-      "fact": "Average MLB ticket prices rose 5x in 35 years, yet stadium attendance has declined since a peak in 2007. Teams compensate through TV rights deals, now worth billions, meaning in-person fans are no longer essential to revenue."
+      "fact": "Average MLB ticket prices rose 5x in 35 years, yet stadium attendance has declined since 2007. Teams compensate through TV rights deals worth billions annually."
     },
     {
       "id": "us_t2_023",
@@ -866,7 +866,7 @@
         "2020": 3.89,
         "2025": 10.49
       },
-      "fact": "Warren Buffett bought Heinz in 2013 for $28 billion. The acquisition was criticized for aggressively cutting costs and hollowing out brands, contributing to the underperformance of Kraft Heinz stock in subsequent years."
+      "fact": "Warren Buffett bought Heinz in 2013 for $28 billion. Aggressive cost-cutting and brand hollowing contributed to chronic underperformance of Kraft Heinz stock."
     },
     {
       "id": "us_t2_024",
@@ -884,7 +884,7 @@
         "2020": 15.0,
         "2025": 22.0
       },
-      "fact": "Uber subsidized rides heavily with venture capital money for years, making fares artificially cheap. As Uber cut subsidies after its IPO, prices rose 40% between 2019 and 2023, revealing the true cost of the service."
+      "fact": "Uber subsidised rides with venture capital, keeping fares artificially cheap. Prices rose 40% between 2019 and 2023 as subsidies were cut following the IPO."
     },
     {
       "id": "us_t2_025",
@@ -902,7 +902,7 @@
         "2020": 10.99,
         "2025": 14.99
       },
-      "fact": "The US FDA still classifies sunscreen as an over-the-counter drug requiring approval, while Europe classifies it as a cosmetic. This regulatory gap means many newer UV-filter technologies available in Europe are unavailable in the US."
+      "fact": "The US FDA classifies sunscreen as a drug while Europe calls it a cosmetic. Many UV-filter technologies available in Europe are still not approved in the US."
     },
     {
       "id": "us_t3_001",
@@ -920,7 +920,7 @@
         "2020": 129.0,
         "2025": 129.0
       },
-      "fact": "AirPods launched in 2016 at $159 and created the entire truly-wireless earbuds category. Apple sold an estimated 90 million pairs in 2023, making AirPods alone a business larger than Nike's entire footwear division."
+      "fact": "AirPods launched in 2016 at $159 and created the wireless earbuds category. Apple sold 90 million pairs in 2023, making AirPods bigger than Nike's entire"
     },
     {
       "id": "us_t3_002",
@@ -938,7 +938,7 @@
         "2020": 130.0,
         "2025": 150.0
       },
-      "fact": "The Air Max 90 launched in 1990 at $70 and became one of the most enduring sneaker designs in history. Limited colorways now sell for $1,000+ on StockX, creating a resale economy larger than the primary sneaker market."
+      "fact": "The Air Max 90 launched in 1990 at $70 and became one of the most enduring sneaker designs ever. Limited colourways now sell for over $1,000 on StockX."
     },
     {
       "id": "us_t3_003",
@@ -956,7 +956,7 @@
         "2020": 80.0,
         "2025": 100.0
       },
-      "fact": "The America the Beautiful pass gives access to all 400+ federal recreation sites for $80 per year. Park economists have calculated it offers over $1,000 in entry fees saved, making it arguably the best value deal the US government sells."
+      "fact": "The America the Beautiful pass covers all 400+ federal recreation sites for $80 per year. Park economists estimate it saves over $1,000 in entry fees annually."
     },
     {
       "id": "us_t3_004",
@@ -974,7 +974,7 @@
         "2020": 60.0,
         "2025": 130.0
       },
-      "fact": "Costco makes virtually all of its profit from membership fees, not merchandise. The company sells its famous $1.50 hot dog combo at a loss on purpose, and CEO warned they would 'raise prices over my dead body' if pushed."
+      "fact": "Costco makes virtually all its profit from membership fees, not merchandise. The CEO once warned they would raise the $1.50 hot dog price over my dead body."
     },
     {
       "id": "us_t3_005",
@@ -992,7 +992,7 @@
         "2020": 150.0,
         "2025": 250.0
       },
-      "fact": "Airline deregulation in 1978 made flying accessible to ordinary Americans. Adjusted for inflation, flying today is actually cheaper than in 1990, but basic services that were free then (bags, seat selection) now cost extra."
+      "fact": "Adjusted for inflation, flying is cheaper than in 1990. But bags, seat selection and meals that were once free now cost extra, masking the true price rise."
     },
     {
       "id": "us_t3_006",
@@ -1010,7 +1010,7 @@
         "2020": 499.0,
         "2025": 499.0
       },
-      "fact": "Gaming console launch prices held near $300 for decades while hardware power increased exponentially. The PS5 broke this trend at $499 in 2020, and Sony lost money on every unit sold, subsidizing hardware to sell games."
+      "fact": "The PS5 launched at $499 in 2020 and Sony reportedly lost money on every unit sold, subsidising hardware to sell games and subscriptions at higher margins."
     },
     {
       "id": "us_t3_007",
@@ -1028,7 +1028,7 @@
         "2020": 700.0,
         "2025": 900.0
       },
-      "fact": "Bicycle prices surged 40% during COVID as supply chains broke down and demand exploded. Bike shops had two-year waiting lists in 2021, the longest since the 1970s oil crisis when bicycles were last treated as transport essentials."
+      "fact": "Bicycle prices surged 40% during COVID as supply chains broke and demand exploded. Bike shops had two-year waiting lists in 2021, not seen since the 1970s oil"
     },
     {
       "id": "us_t3_008",
@@ -1046,7 +1046,7 @@
         "2020": 89.0,
         "2025": 109.0
       },
-      "fact": "The first Kindle launched in 2007 at $399 and sold out in 5.5 hours. Amazon has consistently priced Kindles near cost to make money on ebooks instead, pioneering the 'give away the razor to sell blades' model in consumer electronics."
+      "fact": "The first Kindle launched at $399 in 2007 and sold out in 5.5 hours. Amazon prices Kindles near cost to earn money on ebooks, pioneering the blades-model in"
     },
     {
       "id": "us_t3_009",
@@ -1064,7 +1064,7 @@
         "2020": 95.0,
         "2025": 180.0
       },
-      "fact": "Airbnb launched in 2008 and was expected to collapse hotel pricing. Instead, hotel rates hit record highs in 2023 as both options filled up simultaneously, proving that travel demand simply expanded to fill all available supply."
+      "fact": "Airbnb was expected to collapse hotel prices after its 2008 launch. Instead, hotel rates hit record highs in 2023 as both options filled up simultaneously."
     },
     {
       "id": "us_t3_010",
@@ -1082,7 +1082,7 @@
         "2020": 1250,
         "2025": 1950
       },
-      "fact": "Car insurance premiums rose 26% in 2023 alone, the largest single-year increase in US history. Insurers cited rising repair costs from expensive EV batteries and advanced sensor systems that cost $30,000 to replace after minor fender benders."
+      "fact": "Car insurance rose 26% in 2023, the largest single-year increase in US history. Replacing EV sensor systems after a minor fender bender can now cost up to"
     },
     {
       "id": "us_t3_011",
@@ -1100,7 +1100,7 @@
         "2020": 59.0,
         "2025": 149.0
       },
-      "fact": "Apple's MagSafe charger dropped in price as the EU forced Apple to adopt USB-C across devices, eliminating proprietary charger lock-in. The EU ruling saved European consumers an estimated $250 million per year in replacement cables."
+      "fact": "The EU forced Apple to adopt USB-C, eliminating proprietary charger lock-in. The ruling saved European consumers an estimated $250 million per year in cable"
     },
     {
       "id": "us_t3_012",
@@ -1118,7 +1118,7 @@
         "2020": 500.0,
         "2025": 700.0
       },
-      "fact": "Gold's Gym filed for bankruptcy in 2020 after COVID shutdowns. The chain had survived 55 years and was synonymous with bodybuilding culture since Arnold Schwarzenegger trained there, making its closure a symbolic end of an era."
+      "fact": "Gold's Gym filed for bankruptcy in 2020 after 55 years. It was synonymous with bodybuilding culture since Arnold Schwarzenegger trained there in the 1970s."
     },
     {
       "id": "us_t3_013",
@@ -1136,7 +1136,7 @@
         "2020": 600.0,
         "2025": 800.0
       },
-      "fact": "Dental care is one of the most inflation-prone healthcare categories in the US because it is largely excluded from standard health insurance. Americans skip dental visits at higher rates than any other rich country due to cost."
+      "fact": "Dental care is largely excluded from US health insurance. Americans skip dentist visits at higher rates than any other rich country purely due to"
     },
     {
       "id": "us_t3_014",
@@ -1154,7 +1154,7 @@
         "2020": 90.0,
         "2025": 200.0
       },
-      "fact": "Concert prices exploded post-COVID as artists leaned on touring after streaming revenue destroyed album sales. Taylor Swift's Eras Tour grossed over $2 billion in 2023, making it the highest-grossing music tour in history by a wide margin."
+      "fact": "Taylor Swift's Eras Tour grossed over $2 billion in 2023, the highest-grossing tour ever. The Federal Reserve's Beige Book formally cited it as a regional"
     },
     {
       "id": "us_t3_015",
@@ -1172,7 +1172,7 @@
         "2020": 1400.0,
         "2025": 1800.0
       },
-      "fact": "The tradition of diamond engagement rings was almost entirely invented by De Beers' 1947 'A Diamond is Forever' campaign. Lab-grown diamonds are now 80% cheaper than mined stones, threatening to collapse the industry's price premium."
+      "fact": "De Beers' 1947 A Diamond is Forever campaign created the engagement ring tradition. Lab-grown diamonds are now 80% cheaper than mined stones."
     },
     {
       "id": "us_t3_016",
@@ -1190,7 +1190,7 @@
         "2020": 1500.0,
         "2025": 1200.0
       },
-      "fact": "E-bike prices fell 30% between 2015 and 2025 as Chinese manufacturing scaled up. The IRS now offers a 30% tax credit for e-bike purchases in the US, part of a broader federal push to reduce car dependency in cities."
+      "fact": "E-bike prices fell 30% between 2015 and 2025 as Chinese manufacturing scaled. The IRS offers a 30% tax credit for e-bike purchases to reduce car dependency."
     },
     {
       "id": "us_t3_017",
@@ -1208,7 +1208,7 @@
         "2020": 199.0,
         "2025": 149.0
       },
-      "fact": "Google bought Nest for $3.2 billion in 2014, the largest smart home acquisition at the time. The Nest thermostat price has fallen 40% since launch as competition from Amazon Alexa-compatible devices flooded the market."
+      "fact": "The Nest thermostat price has fallen 40% since launch as Amazon Alexa-compatible devices flooded the market after Google acquired Nest for $3.2 billion in 2014."
     },
     {
       "id": "us_t3_018",
@@ -1226,7 +1226,7 @@
         "2020": 75.0,
         "2025": 120.0
       },
-      "fact": "Pet spending in the US crossed $150 billion in 2023, fueled by millennials treating pets as child substitutes. 'Pet humanization' has made grooming a luxury service, and some NYC groomers charge $400 for designer dog cuts."
+      "fact": "Pet spending crossed $150 billion in 2023 as millennials treat pets as child substitutes. Some NYC groomers charge $400 for designer dog cuts."
     },
     {
       "id": "us_t3_019",
@@ -1244,7 +1244,7 @@
         "2020": 130.0,
         "2025": 299.0
       },
-      "fact": "Vail Resorts began consolidating ski mountains in the 1990s and by 2025 owned 41 resorts. Their Epic Pass sells all-resort access for $900 annually, and window single-day tickets hit $299 as a deliberate strategy to push subscriptions."
+      "fact": "Vail Resorts owns 41 ski mountains. Its Epic Pass sells all-resort access for $900 per year, while window single-day tickets hit $299 to push customers toward"
     },
     {
       "id": "us_t3_020",
@@ -1262,7 +1262,7 @@
         "2020": 110.0,
         "2025": 299.0
       },
-      "fact": "Kirkland Signature Blended Scotch is widely believed to be sourced from Macallan, one of the world's most expensive distilleries. The theory has never been confirmed but Costco has never denied it, fueling a cult following."
+      "fact": "Kirkland Signature Blended Scotch is widely believed to come from Macallan. Costco has never confirmed or denied it, fuelling a cult following among bargain"
     },
     {
       "id": "us_t3_021",
@@ -1280,7 +1280,7 @@
         "2020": 390.0,
         "2025": 528.0
       },
-      "fact": "Peloton's stock rose 500% in 2020 as locked-down Americans bought exercise bikes. It fell 90% in 2022 as gyms reopened and the company nearly went bankrupt, becoming a case study in pandemic-era speculative excess."
+      "fact": "Peloton's stock rose 500% in 2020 as locked-down Americans bought exercise bikes. It fell 90% in 2022 when gyms reopened, the textbook pandemic-era excess"
     },
     {
       "id": "us_t3_022",
@@ -1298,7 +1298,7 @@
         "2020": 0,
         "2025": 1000.0
       },
-      "fact": "Eras Tour tickets resold for an average of $1,000 in 2023. The concert had such economic impact that the Federal Reserve's Beige Book formally cited 'a popular music tour' as a driver of regional hotel and restaurant revenue."
+      "fact": "Taylor Swift Eras Tour tickets resold for an average of $1,000 in 2023. The Federal Reserve's Beige Book cited the tour as a driver of regional economic"
     },
     {
       "id": "us_t3_023",
@@ -1316,7 +1316,7 @@
         "2020": 2000.0,
         "2025": 1800.0
       },
-      "fact": "Invisalign launched in 1999 as a premium alternative to braces. Align Technology patents blocked competition until 2017, after which SmileDirectClub offered mail-order aligners for $2,000, creating a race-to-the-bottom that ended in SmileDirect's bankruptcy."
+      "fact": "Invisalign patents blocked competition until 2017, after which SmileDirectClub offered mail-order aligners for $2,000. SmileDirect later went bankrupt."
     },
     {
       "id": "us_t3_024",
@@ -1334,7 +1334,7 @@
         "2020": 329.0,
         "2025": 349.0
       },
-      "fact": "The original iPad launched at $499 in 2010. Despite a decade of inflation, the base iPad is now cheaper in nominal dollars, one of the rare consumer electronics products that got both more powerful and less expensive at the same time."
+      "fact": "The base iPad is now cheaper in nominal dollars than its $499 launch price in 2010, one of the rare products that got both more powerful and less expensive."
     },
     {
       "id": "us_t3_025",
@@ -1352,7 +1352,7 @@
         "2020": 109.0,
         "2025": 199.0
       },
-      "fact": "Disney World's single-day ticket rose from $33 in 1990 to $199 in 2025, a 6x increase. Disney switched to 'date-based pricing' in 2018, meaning the cheapest days are now $109 and the most expensive can hit $249."
+      "fact": "Disney World's single-day ticket rose from $33 in 1990 to $199 in 2025. Date-based pricing means the cheapest day is $109 and the busiest days can hit $249."
     },
     {
       "id": "us_t4_001",
@@ -1370,7 +1370,7 @@
         "2020": 5999.0,
         "2025": 8999.0
       },
-      "fact": "A high-end gaming PC cost $3,000 in 2010 and still costs roughly the same today in nominal terms, while being exponentially more powerful. GPU prices spiked 300% during the 2020-2022 crypto mining craze, creating shortages worldwide."
+      "fact": "A high-end gaming PC cost $3,000 in 2010 and roughly the same today while being far more powerful. GPU prices spiked 300% during the 2020-2022 crypto mining"
     },
     {
       "id": "us_t4_002",
@@ -1388,7 +1388,7 @@
         "2020": 2200.0,
         "2025": 2500.0
       },
-      "fact": "The MacBook Pro has stayed near $2,000 for 15 years while computing power increased 100-fold. Apple's switch to its own M-series chips in 2020 broke its Intel dependency and gave it margins competitors couldn't match."
+      "fact": "The MacBook Pro has stayed near $2,000 for 15 years while computing power grew 100-fold. Apple's M-series chips gave it margins competitors cannot match."
     },
     {
       "id": "us_t4_003",
@@ -1406,7 +1406,7 @@
         "2020": 24425.0,
         "2025": 30950.0
       },
-      "fact": "The Toyota Camry has been America's best-selling car for 22 of the last 30 years. Its base price more than doubled since 1990, but adjusted for inflation it costs about the same in real terms, while being dramatically safer and more efficient."
+      "fact": "The Toyota Camry has been America's best-selling car for 22 of the last 30 years. Its price more than doubled since 1990 but in real terms costs about the same."
     },
     {
       "id": "us_t4_004",
@@ -1424,7 +1424,7 @@
         "2020": 37990.0,
         "2025": 38990.0
       },
-      "fact": "Tesla cut Model 3 prices 10 times between 2022 and 2024, triggering an industry-wide EV price war. The cuts infuriated early buyers who paid $10,000 more, leading to class-action lawsuits and a congressional inquiry."
+      "fact": "Tesla cut Model 3 prices 10 times between 2022 and 2024, triggering an EV price war. Early buyers who paid $10,000 more responded with class-action lawsuits."
     },
     {
       "id": "us_t4_005",
@@ -1442,7 +1442,7 @@
         "2020": 3500.0,
         "2025": 2200.0
       },
-      "fact": "A 65-inch OLED TV cost $8,000 in 2010 and fell to $1,299 by 2025. This 83% price drop in 15 years is among the steepest sustained price declines of any consumer product in modern history."
+      "fact": "A 65-inch OLED TV cost $8,000 in 2010 and fell to $1,299 by 2025. This 83% drop is among the steepest sustained price declines of any consumer product in"
     },
     {
       "id": "us_t4_006",
@@ -1460,7 +1460,7 @@
         "2020": 15000.0,
         "2025": 11000.0
       },
-      "fact": "Solar panel costs fell 99% between 1977 and 2023. A 5kW system that cost $50,000 in 1990 now costs $11,000 before the 30% federal tax credit, making it one of the greatest industrial cost-reduction stories in economic history."
+      "fact": "Solar panel costs fell 99% between 1977 and 2023. A 5kW system that cost $50,000 in 1990 now costs $11,000 before the 30% federal tax credit."
     },
     {
       "id": "us_t4_007",
@@ -1478,7 +1478,7 @@
         "2020": 10560.0,
         "2025": 12000.0
       },
-      "fact": "Public college tuition rose 455% between 1990 and 2025, compared to 175% general inflation. Total US student loan debt crossed $1.75 trillion in 2023, more than all credit card debt combined, making education costs a defining financial crisis of the era."
+      "fact": "Public college tuition rose 455% between 1990 and 2025, versus 175% general inflation. Total US student loan debt crossed $1.75 trillion in 2023."
     },
     {
       "id": "us_t4_008",
@@ -1496,7 +1496,7 @@
         "2020": 8000.0,
         "2025": 9000.0
       },
-      "fact": "US health insurance premiums rose 6x in 35 years, while wages doubled. The Affordable Care Act of 2010 expanded coverage to 20 million people but did not control underlying cost growth, leaving the US spending twice what other rich nations spend per person."
+      "fact": "US health insurance premiums rose 6x in 35 years while wages doubled. The US spends twice what other rich nations spend per person yet covers fewer people."
     },
     {
       "id": "us_t4_009",
@@ -1514,7 +1514,7 @@
         "2020": 850.0,
         "2025": 2200.0
       },
-      "fact": "Video game prices held at $60 per title for 15 years despite inflation. Publishers finally raised prices to $70 in 2021, representing the first real price hike since the PS3 era, and consumers pushed back harder than any previous gaming controversy."
+      "fact": "Video game prices held at $60 for 15 years. Publishers raised them to $70 in 2021, the first real hike since the PS3 era, and consumers pushed back unusually"
     },
     {
       "id": "us_t4_010",
@@ -1532,7 +1532,7 @@
         "2020": 22000.0,
         "2025": 35000.0
       },
-      "fact": "The average US wedding cost $35,000 in 2025, yet wedding industry insiders admit the idea of an 'average wedding' is fiction. Wedding price inflation is driven by social media comparison, with brides citing Pinterest and Instagram as their biggest cost inflators."
+      "fact": "The average US wedding cost $35,000 in 2025. Price inflation is driven by social media, with couples citing Pinterest and Instagram as their biggest cost"
     },
     {
       "id": "us_t4_011",
@@ -1550,7 +1550,7 @@
         "2020": 9100.0,
         "2025": 10100.0
       },
-      "fact": "The Rolex Submariner's retail price went from $2,800 to $10,100 in 35 years. Yet on the resale market it sells for $15,000 to $20,000 because Rolex artificially limits production, turning watches into inflation-beating alternative assets."
+      "fact": "The Rolex Submariner's retail price went from $2,800 to $10,100 in 35 years. It resells for $15,000 to $20,000 because Rolex deliberately limits production."
     },
     {
       "id": "us_t4_012",
@@ -1568,7 +1568,7 @@
         "2020": 30000.0,
         "2025": 37000.0
       },
-      "fact": "The Ford F-150 has been America's best-selling vehicle for 47 consecutive years. Ford makes roughly $15,000 profit on each F-150, making the truck the most profitable single vehicle model sold by any automaker in the world."
+      "fact": "The Ford F-150 has been America's best-selling vehicle for 47 consecutive years. Ford earns roughly $15,000 profit per truck, the most profitable single model"
     },
     {
       "id": "us_t4_013",
@@ -1586,7 +1586,7 @@
         "2020": 50000.0,
         "2025": 80000.0
       },
-      "fact": "Kitchen renovation costs rose 60% between 2019 and 2025. A labor shortage in construction trades, combined with supply chain disruptions, made renovations a luxury item rather than a routine home investment."
+      "fact": "Kitchen renovation costs rose 60% between 2019 and 2025. A construction labour shortage of over 300,000 workers pushed timelines and costs to record levels."
     },
     {
       "id": "us_t4_014",
@@ -1604,7 +1604,7 @@
         "2020": 2800.0,
         "2025": 3500.0
       },
-      "fact": "The Louis Vuitton Neverfull rose from under $500 to $3,500 in 35 years. Luxury brands deliberately raise prices annually to maintain exclusivity regardless of production costs, and the Neverfull has a multi-year waitlist in some markets."
+      "fact": "The Louis Vuitton Neverfull rose from under $500 to $3,500 in 35 years. Luxury brands raise prices annually to maintain exclusivity regardless of actual"
     },
     {
       "id": "us_t4_015",
@@ -1622,7 +1622,7 @@
         "2020": 3000.0,
         "2025": 4500.0
       },
-      "fact": "NYC average 1-bedroom rent crossed $4,500 in 2023, the highest ever recorded. The gap between rent and median income in New York is now the widest of any major city in the developed world."
+      "fact": "NYC average 1-bedroom rent crossed $4,500 in 2023. The rent-to-income gap in New York is now the widest of any major city in the developed world."
     },
     {
       "id": "us_t4_016",
@@ -1640,7 +1640,7 @@
         "2020": 2500.0,
         "2025": 2999.0
       },
-      "fact": "Peloton slashed the bike price from $2,495 to $1,445 as demand collapsed after COVID. The company also had to recall 125,000 treadmills after a child died, resulting in the largest consumer product safety penalty in FTC history."
+      "fact": "Peloton slashed its bike price from $2,495 to $1,445 as demand collapsed after COVID. A recalled treadmill resulted in the largest FTC consumer safety penalty"
     },
     {
       "id": "us_t4_017",
@@ -1658,7 +1658,7 @@
         "2020": 150000.0,
         "2025": 180000.0
       },
-      "fact": "A US heart bypass costs $180,000 on average while the same procedure costs $8,000 in India and $12,000 in Thailand. Medical tourism grew into a $100 billion industry specifically because US healthcare prices are 10 to 20 times higher than comparable countries."
+      "fact": "A US heart bypass costs $180,000 on average versus $8,000 in India. Medical tourism grew into a $100 billion industry specifically because of the US price gap."
     },
     {
       "id": "us_t4_018",
@@ -1676,7 +1676,7 @@
         "2020": 30000.0,
         "2025": 50000.0
       },
-      "fact": "Gold hit an all-time high of $3,100 per troy ounce in 2025. Central banks, led by China, have been buying gold at the fastest rate in 55 years as countries diversify reserves away from US dollar-denominated assets."
+      "fact": "Gold hit $3,100 per troy ounce in 2025. Central banks led by China have been buying gold at the fastest rate in 55 years to diversify away from dollar reserves."
     },
     {
       "id": "us_t4_019",
@@ -1694,7 +1694,7 @@
         "2020": 9000.0,
         "2025": 10000.0
       },
-      "fact": "Super Bowl resale ticket prices rose 50x since 1990. The NFL deliberately limits the secondary market by threatening to void tickets resold above face value, yet the rule is almost never enforced, creating a legal gray zone worth billions."
+      "fact": "Super Bowl resale ticket prices rose 50x since 1990. The NFL threatens to void tickets resold above face value, yet the rule is almost never enforced."
     },
     {
       "id": "us_t4_020",
@@ -1712,7 +1712,7 @@
         "2020": 24000.0,
         "2025": 5000.0
       },
-      "fact": "Annual insulin costs for a Type 1 diabetic hit $24,000 in 2020 while the formula barely changed from 1990. Congress capped insulin at $35 per month for Medicare patients in 2022 after a wave of widely reported deaths from patients rationing doses."
+      "fact": "Annual insulin costs for a Type 1 diabetic hit $24,000 in 2020 despite the formula barely changing. Congress capped it at $35 monthly for Medicare patients in"
     },
     {
       "id": "us_t4_021",
@@ -1730,7 +1730,7 @@
         "2020": 60000.0,
         "2025": 70000.0
       },
-      "fact": "The BMW X5 launched in 1999 and helped create the luxury SUV category. Luxury SUV sales surpassed luxury sedan sales for the first time in 2014 and have dominated the segment ever since, effectively killing the luxury sedan as a mainstream aspiration."
+      "fact": "The BMW X5 helped create the luxury SUV category in 1999. Luxury SUV sales surpassed luxury sedans for the first time in 2014, effectively killing the sedan."
     },
     {
       "id": "us_t4_022",
@@ -1748,7 +1748,7 @@
         "2020": 56000.0,
         "2025": 66000.0
       },
-      "fact": "Ivy League tuition has risen 4.7x since 1990. Harvard's endowment surpassed $50 billion in 2021, meaning the university earns more from investments than it collects in tuition, yet full-price tuition keeps rising every year."
+      "fact": "Harvard's endowment surpassed $50 billion in 2021, earning more from investments than it collects in tuition, yet full-price tuition keeps rising every year."
     },
     {
       "id": "us_t4_023",
@@ -1766,7 +1766,7 @@
         "2020": 280000.0,
         "2025": 500000.0
       },
-      "fact": "Building a home cost 80% more per square foot in 2025 than in 2019. Lumber prices hit 400% of their historical average in 2021, and a construction labor shortage of over 300,000 workers pushed timelines and costs to record levels."
+      "fact": "Building a home cost 80% more per square foot in 2025 than in 2019. Lumber prices hit 400% of their historical average in 2021 as supply chains collapsed."
     },
     {
       "id": "us_t4_024",
@@ -1784,7 +1784,7 @@
         "2020": 28000.0,
         "2025": 38000.0
       },
-      "fact": "Top Manhattan private schools now charge $60,000 per year, more than Harvard. The admissions process has spawned a consulting industry where families pay $40,000 to coaches just to help a 4-year-old pass the kindergarten interview."
+      "fact": "Top Manhattan private schools charge $60,000 per year, more than Harvard. Families pay $40,000 to consultants to help a 4-year-old pass the kindergarten"
     },
     {
       "id": "us_t4_025",
@@ -1802,7 +1802,7 @@
         "2020": 9400.0,
         "2025": 12000.0
       },
-      "fact": "The US funeral industry is one of the most inflation-prone in the country, with prices rising 155% since 1990. The FTC's Funeral Rule requires itemized pricing but industry consolidation under companies like SCI has reduced competition and kept prices elevated."
+      "fact": "The US funeral industry raised prices 155% since 1990. The FTC requires itemised pricing but consolidation under companies like SCI has kept prices elevated."
     }
   ]
 }
